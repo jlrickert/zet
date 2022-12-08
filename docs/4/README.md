@@ -13,4 +13,6 @@ List of Dungeons for the dragon flight expansion.
 
 All dungeons are unlocked at the start of the expansion.
 
-    tags: [wow]
+Tags:
+
+    #wow
