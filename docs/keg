@@ -1,0 +1,18 @@
+updated: 2022-12-08 04:09:08Z
+kegv:    2023-01
+
+title:   A Sample Keg
+url:     git@github.com:jlrickert/zet.git
+creator: git@github.com:jlrickert/jlrickert.git
+state:   living
+
+summary:
+  Hi I'm Jared. This is my personal **zettelkasten** KEG site.  It contains
+  mostly a brain dump for my personal reference.  Things here may not represent
+  my current standing on something, and/or just be plain inaccurate.
+
+indexes:
+  - file: dex/changes.md
+    summary: latest changes
+  - file: dex/nodes.tsv
+    summary: all nodes by id
