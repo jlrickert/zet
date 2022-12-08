@@ -49,4 +49,4 @@ gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-10 "['<Super><S
 
 Tags:
 
-    #popOs
+    #pop-os
