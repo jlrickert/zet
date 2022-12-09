@@ -1,3 +1,4 @@
+* 2022-12-09 13:17:09Z [Nginx clear cache hack with echo ""](../13)
 * 2022-12-09 15:53:36Z [How I manage my secret dot files using a usb stick](../10)
 * 2022-12-09 15:52:53Z [How to view and edit pdfs and the command line](../12)
 * 2022-12-09 15:49:29Z [Unix help pages with color](../11)
