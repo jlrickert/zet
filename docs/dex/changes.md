@@ -1,3 +1,4 @@
+* 2022-12-08 21:45:09Z [Unix help pages with color](../11)
 * 2022-12-08 22:16:34Z [How I manage my secret dot files using a usb stick](../10)
 * 2022-12-08 22:04:31Z [How to setup a usb stick to manage secrets with git worktrees](../12)
 * 2022-12-08 04:50:42Z [World of warcraft dragonflight dungeons](../4)
