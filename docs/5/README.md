@@ -1,18 +1,19 @@
-# December 2022 week 2 2022 world of warcraft check list
+# December 2022 week 2 2022 world of warcraft checklist
 
 Weekly check list for December 6 through 12 2022.
 
-- [x] [Algeth'ar Academy](../89)
-- [ ] [Brackenhide Hollow](../90)
-- [ ] [Halls of Infusion](../91)
-- [ ] [Neltharus](../92)
-- [x] [Ruby Life Pools](../93)
-- [x] [The Azure Vault](../94)
-- [ ] [The Nokhud Offensive](../95)
-- [x] [Uldaman: Legacy of Tyr](../96)
+- [x] [Algeth'ar Academy](../0)
+- [ ] [Brackenhide Hollow](../0)
+- [x] [Halls of Infusion](../0)
+- [ ] [Neltharus](../0)
+- [x] [Ruby Life Pools](../0)
+- [x] [The Azure Vault](../0)
+- [ ] [The Nokhud Offensive](../0)
+- [x] [Uldaman: Legacy of Tyr](../0)
 
 - [ ] Weekly rep
-- [ ] World quests
+- [x] World quests
+- [ ] 20 High-Fiber Leaf handin at Ohn'iri Springs
 
 Tags:
 
