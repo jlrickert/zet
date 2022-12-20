@@ -1,4 +1,4 @@
-# Setting up the language server for neovim lua
+# Quick start on settup lsp for neovim lua hacking
 
 Having a working language server while working with neovim lua is a massive
 productivity boost. To setup the `lua-language-server` needs to be installed. I
@@ -33,3 +33,12 @@ require("lspconfig")["sumneko_lua"].setup({
 	},
 })
 ```
+
+I have also found [lsp-zero].  This aims to be a zero config for people who
+don't want to fuck around configuring shit.
+
+[lsp-zero]: https://github.com/VonHeikemen/lsp-zero.nvim
+
+Tags:
+
+    #neovim
