@@ -1,7 +1,5 @@
 # December 2022 week 2 2022 world of warcraft checklist
 
-Weekly check list for December 6 through 12 2022.
-
 - [x] [Algeth'ar Academy](../0)
 - [ ] [Brackenhide Hollow](../0)
 - [x] [Halls of Infusion](../0)

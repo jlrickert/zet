@@ -2,3 +2,4 @@
 
 - https://github.com/Sanix-Darker/dotfiles
 - https://github.com/strager/dotfiles
+- https://github.com/bashbunni/dotfiles

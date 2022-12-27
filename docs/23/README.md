@@ -1,8 +1,7 @@
 # Node version managment with nvm
 
-[nvm] is a version manager for node. I personally don't use the installer as
-it trashes my dotfiles. Make sure `NVM_DIR` is
-set. I do this in my `bashrc`.
+[nvm] is a version manager for node. I personally don't use the installer as it
+trashes my dotfiles. Make sure `NVM_DIR` is set. I do this in my `bashrc`.
 
 Have this somewhere in your `bashrc`:
 
