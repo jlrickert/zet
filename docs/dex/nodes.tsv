@@ -1,56 +1,60 @@
-0	2022-12-08 16:08:49Z	Sorry, planned but not yet available
-1	2022-12-08 16:08:49Z	World of warcraft evoker game play
-2	2022-12-08 16:08:49Z	World of warcraft evoker devastation gameplay
-3	2022-12-08 16:08:49Z	World of warcraft evoker preservation gameplay
-4	2022-12-07 22:58:27Z	World of warcraft dragonflight dungeons
-5	2022-12-08 16:08:49Z	December 2022 week 2 2022 world of warcraft check list
-6	2022-12-08 16:08:49Z	Pop_OS! window management setup
-7	2022-12-08 16:08:49Z	A Linux distribution called Pop_OS!
-8	2022-12-08 16:08:49Z	Pop_OS! unable to run jest
-9	2022-12-08 16:08:49Z	The processes of migrating my private zets to my public zets
-10	2022-12-09 04:16:34Z	How I manage my secret dot files using a usb stick
-11	2022-12-09 03:45:09Z	Unix help pages with color
-12	2022-12-09 19:42:04Z	How to view and edit pdfs and the command line
-13	2022-12-09 19:42:04Z	Nginx clear cache hack with echo ""
-14	2022-12-11 05:41:02Z	
-15	2022-12-11 18:02:56Z	How to quickly test out space vim
-16	2022-12-11 18:02:52Z	How to quickly spin up a dev enviornment for testing with docker
-17	2022-12-11 22:35:52Z	How to manage files in vanilla vim with netrw
-18	2022-12-18 15:54:28Z	Quick start on settup lsp for neovim lua hacking
-19	2022-12-11 23:44:47Z	Package managment in neovim with mason
-20	2022-12-11 23:44:52Z	Pattern for managing keybindings in neovim
-21	2022-12-16 10:44:00Z	Quick fix list in neovim
-22	2022-12-12 00:31:52Z	Rust installation process annoyances
-23	2022-12-12 17:06:53Z	Node version managment with nvm
-24	2022-12-12 20:50:08Z	Example of a vm with out a garbage collect
-25	2022-12-16 10:44:00Z	Schema google thing
-26	2022-12-16 00:51:50Z	How to export postman files
-27	2022-12-17 14:30:52Z	Thanksgiving bread bowl 2022
-28	2022-12-16 22:52:57Z	Configuration of IntelliJ IDEA and friends
-29	2022-12-17 12:26:56Z	Sat 17 Dec 2022 farrel's kick boxing party
-30	2022-12-20 13:44:02Z	World of warcraft dragonflight season 1
-31	2022-12-19 21:52:34Z	Halls of Valor dungeon
-32	2022-12-17 21:47:06Z	World of warcraft court of stars dungen
-33	2022-12-18 14:11:24Z	Bash scripting tricks
-34	2022-12-18 17:50:46Z	Recommend language sever to use for golang development
-37	2022-12-18 17:51:55Z	Filetype specific settings in neovim
-38	2022-12-19 20:46:01Z	Shadow moon burial grounds dungeon
-39	2022-12-19 20:45:22Z	Halls of valor dungeon
-40	2022-12-21 09:25:27Z	How to get a portal mailbox in world of warcraft
-41	2022-12-21 13:51:50Z	References to other peoples dotfiles that I find interesting
-43	2022-12-21 13:53:09Z	How to do complex filtering with mongosh
-45	2022-12-21 14:05:09Z	Cool streaming setup that I should look into
-46	2022-12-26 18:10:13Z	Mon 26 Dec 2022 world of warcraft checklist
-47	2022-12-26 19:00:15Z	Transmogs for Cliffside Wylderdrake
-48	2022-12-26 22:28:36Z	World of warcraft weekly checklist 
-49	2022-12-26 22:50:04Z	Formatting in neovim
-50	2022-12-26 23:46:51Z	Neovim workspaces
-51	2022-12-27 09:38:32Z	Alacrity configuration notes
-52	2022-12-28 19:41:59Z	Obsidian Dracthyr Battlegear
-53	2022-12-28 20:20:15Z	Gold and black armor for dragon riding mounts
-54	2022-12-29 00:19:59Z	Broodkeeper diurna boss fight
-56	2022-12-29 00:29:15Z	Interesting things that I ran into when researching neovim as an ide
-57	2022-12-29 14:38:44Z	Top typing program out there
-59	2022-12-29 23:06:16Z	Foony's developer acorn1010
-61	2023-01-01 18:06:50Z	How to setup fira code fonts on windows
-62	2023-05-18 22:30:10Z	this is a test
+0	2023-05-18 22:28:45Z	Sorry, planned but not yet available
+1	2023-05-18 22:28:45Z	World of warcraft evoker game play
+2	2023-05-18 22:28:45Z	World of warcraft evoker devastation gameplay
+3	2023-05-18 22:28:45Z	World of warcraft evoker preservation gameplay
+4	2023-05-18 22:28:45Z	World of warcraft dragonflight dungeons
+5	2023-05-18 22:28:45Z	December 2022 week 2 2022 world of warcraft checklist
+6	2023-05-18 22:28:45Z	Pop_OS! window management setup
+7	2023-05-18 22:28:45Z	A Linux distribution called Pop_OS!
+8	2023-05-18 22:28:45Z	Pop_OS! unable to run jest
+9	2023-05-18 22:28:45Z	The processes of migrating my private zets to my public zets
+10	2023-05-18 22:28:45Z	How I manage my secret dot files using a usb stick
+11	2023-05-18 22:28:45Z	Unix help pages with color
+12	2023-05-18 22:28:45Z	How to view and edit pdfs and the command line
+13	2023-05-18 22:28:45Z	Nginx clear cache hack with echo ""
+14	2023-05-18 22:28:45Z	
+15	2023-05-18 22:28:45Z	How to quickly test out space vim
+16	2023-05-18 22:28:45Z	How to quickly spin up a dev enviornment for testing with docker
+17	2023-05-18 22:28:45Z	How to manage files in vanilla vim with netrw
+18	2023-05-18 22:28:45Z	Quick start on settup lsp for neovim lua hacking
+19	2023-05-18 22:28:45Z	Package managment in neovim with mason
+20	2023-05-18 22:28:45Z	Pattern for managing keybindings in neovim
+21	2023-05-18 22:28:45Z	Quick fix list in neovim
+22	2023-05-18 22:28:45Z	Rust installation process annoyances
+23	2023-05-18 22:28:45Z	Node version managment with nvm
+24	2023-05-18 22:28:45Z	Example of a vm with out a garbage collect
+25	2023-05-18 22:28:45Z	Schema google thing
+26	2023-05-18 22:28:45Z	How to export postman files
+27	2023-05-18 22:28:45Z	Thanksgiving bread bowl 2022
+28	2023-05-18 22:28:45Z	Configuration of IntelliJ IDEA and friends
+29	2023-05-18 22:28:45Z	Sat 17 Dec 2022 farrel's kick boxing party
+30	2023-05-18 22:28:45Z	World of warcraft dragonflight season 1
+31	2023-05-18 22:28:45Z	Halls of Valor dungeon
+32	2023-05-18 22:28:45Z	World of warcraft court of stars dungen
+33	2023-05-18 22:28:45Z	Bash scripting tricks
+34	2023-05-18 22:28:45Z	Recommend language sever to use for golang development
+35	2023-05-18 22:28:45Z	Key things that make neovim as an ide
+37	2023-05-18 22:28:45Z	File type specific settings in neovim
+38	2023-05-18 22:28:45Z	Shadow moon burial grounds dungeon
+39	2023-05-18 22:28:45Z	Halls of valor dungeon
+40	2023-05-18 22:28:45Z	How to get a portal mailbox in world of warcraft
+41	2023-05-18 22:28:45Z	References to other peoples dotfiles that I find interesting
+42	2023-05-18 22:28:45Z	How to update fields using mongosh
+43	2023-05-18 22:28:45Z	How to do complex filtering with mongosh
+44	2023-05-18 22:28:45Z	Example neovim setups that other people use
+45	2023-05-18 22:28:45Z	Cool streaming setup that I should look into
+46	2023-05-18 22:28:45Z	Mon 26 Dec 2022 world of warcraft weekly checklist
+47	2023-05-18 22:28:45Z	Transmogs for windborne velocidrake
+48	2023-05-18 22:28:45Z	World of warcraft weekly checklist 
+49	2023-05-18 22:28:45Z	Formatting in neovim
+50	2023-05-18 22:28:45Z	Neovim workspaces
+51	2023-05-18 22:28:45Z	Alacrity configuration notes
+52	2023-05-18 22:28:45Z	Obsidian Dracthyr Battlegear
+53	2023-05-18 22:28:45Z	Gold and black armor for dragon riding mounts
+54	2023-05-18 22:28:45Z	Broodkeeper diurna boss fight
+56	2023-05-18 22:28:45Z	Interesting things that I ran into when researching neovim as an ide
+57	2023-05-18 22:28:45Z	Top typing program out there
+58	2023-05-18 22:28:45Z	Skeuomorphism website design
+59	2023-05-18 22:28:45Z	Foony's developer acorn1010
+60	2023-05-18 22:28:45Z	Dragonflight leather working recipes
+61	2023-05-18 22:28:45Z	How to setup fira code fonts on windows
