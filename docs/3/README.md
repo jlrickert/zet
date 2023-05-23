@@ -26,7 +26,4 @@ Mythic+
 
 [preservation]: https://www.wowhead.com/guide/classes/evoker/preservation/overview-pve-healer
 
-
-Tags:
-
     #wow

@@ -1,3 +1,5 @@
+* 2023-05-23 23:43:53Z [Zettelkasten search engine](../62)
+* 2023-05-22 21:06:09Z [World of warcraft evoker devastation gameplay](../2)
 * 2023-05-18 22:28:45Z [Neovim workspaces](../50)
 * 2023-05-18 22:28:45Z [Formatting in neovim](../49)
 * 2023-05-18 22:28:45Z [The processes of migrating my private zets to my public zets](../9)
@@ -46,7 +48,6 @@
 * 2023-05-18 22:28:45Z [World of warcraft evoker game play](../1)
 * 2023-05-18 22:28:45Z [Quick fix list in neovim](../21)
 * 2023-05-18 22:28:45Z [Pattern for managing keybindings in neovim](../20)
-* 2023-05-18 22:28:45Z [World of warcraft evoker devastation gameplay](../2)
 * 2023-05-18 22:28:45Z [Package managment in neovim with mason](../19)
 * 2023-05-18 22:28:45Z [Quick start on settup lsp for neovim lua hacking](../18)
 * 2023-05-18 22:28:45Z [How to manage files in vanilla vim with netrw](../17)

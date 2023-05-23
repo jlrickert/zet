@@ -18,7 +18,5 @@ State priority is Mastery > Haste >= Critical Strike > Versatility
 
 [devestation]: https://www.wowhead.com/guide/classes/evoker/devastation/overview-pve-dps
 
-Tags:
-
-    #wow
+    #wow #gaming
 
