@@ -1,3 +1,4 @@
+* 2023-05-24 02:15:51Z [Top gear for warlock](../64)
 * 2023-05-23 23:43:53Z [Zettelkasten search engine](../62)
 * 2023-05-22 21:06:09Z [World of warcraft evoker devastation gameplay](../2)
 * 2023-05-18 22:28:45Z [Neovim workspaces](../50)
