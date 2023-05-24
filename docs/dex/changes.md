@@ -1,3 +1,4 @@
+* 2023-05-24 16:22:04Z [Git techniques and cheat sheet](../74)
 * 2023-05-24 16:18:53Z [Example of keyword searching with awk](../73)
 * 2023-05-24 16:13:47Z [Pop_OS! setup](../72)
 * 2023-05-24 16:12:12Z [The processes of migrating my private zets to my public zets](../9)
