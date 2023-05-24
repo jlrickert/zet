@@ -1,4 +1,4 @@
-# World of warcraft dragonflight dungeons
+# World of warcraft dragonflight season 1 dungeons
 
 List of Dungeons for the dragon flight expansion.
 
@@ -15,4 +15,4 @@ All dungeons are unlocked at the start of the expansion.
 
 Tags:
 
-    #wow
+    #wow #gaming
