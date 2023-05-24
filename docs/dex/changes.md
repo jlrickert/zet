@@ -1,3 +1,4 @@
+* 2023-05-24 18:21:12Z [How to handle conditionals in bash scripting](../71)
 * 2023-05-24 18:16:47Z [How to give credit to the original script owner](../82)
 * 2023-05-24 18:00:42Z [Quick fix menus in vim](../78)
 * 2023-05-24 17:53:46Z [Rob Muhlestein](../80)
@@ -11,7 +12,6 @@
 * 2023-05-24 16:18:53Z [Example of keyword searching with awk](../73)
 * 2023-05-24 16:13:47Z [Pop_OS! setup](../72)
 * 2023-05-24 16:12:12Z [The processes of migrating my private zets to my public zets](../9)
-* 2023-05-24 16:11:16Z [How to handle conditionals in bash scripting](../71)
 * 2023-05-24 16:10:20Z [Useful oh my zsh plugins list](../70)
 * 2023-05-24 16:09:46Z [Config files for zsh environment](../69)
 * 2023-05-24 16:02:13Z [Fierce armor kit construction cost calculation](../14)

@@ -23,6 +23,12 @@ test -d build && rm -r build/
 
 # Run if directory is found
 test -d build || rm -r build/
+
+# Using regex to test if it is a text file
+FILE="$(which "$1")"
+if ! [[ "$(file "${FILE}")" =~ ASCII ]]; then
+    exit
+fi
 ```
 
     #cli #bash
