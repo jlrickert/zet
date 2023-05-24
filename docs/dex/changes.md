@@ -1,3 +1,4 @@
+* 2023-05-24 16:13:47Z [Pop_OS! setup](../72)
 * 2023-05-24 16:12:12Z [The processes of migrating my private zets to my public zets](../9)
 * 2023-05-24 16:11:16Z [How to handle conditionals in bash scripting](../71)
 * 2023-05-24 16:10:20Z [Useful oh my zsh plugins list](../70)
