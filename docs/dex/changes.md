@@ -1,3 +1,4 @@
+* 2023-05-24 16:10:20Z [Useful oh my zsh plugins list](../70)
 * 2023-05-24 16:09:46Z [Config files for zsh environment](../69)
 * 2023-05-24 16:02:13Z [Fierce armor kit construction cost calculation](../14)
 * 2023-05-24 15:59:35Z [My first user experience with keg](../67)
