@@ -1,3 +1,4 @@
+* 2023-05-24 18:16:47Z [How to give credit to the original script owner](../82)
 * 2023-05-24 18:00:42Z [Quick fix menus in vim](../78)
 * 2023-05-24 17:53:46Z [Rob Muhlestein](../80)
 * 2023-05-24 17:37:15Z [How does a generic search engine work for the web](../63)
