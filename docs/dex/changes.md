@@ -1,3 +1,4 @@
+* 2023-05-24 19:35:45Z [rwxrob's list of go packages](../81)
 * 2023-05-24 19:35:17Z [Git techniques and cheat sheet](../74)
 * 2023-05-24 19:32:52Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-05-24 18:21:12Z [How to handle conditionals in bash scripting](../71)
