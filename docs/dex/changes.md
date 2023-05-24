@@ -1,3 +1,4 @@
+* 2023-05-24 16:23:35Z [Harpoon keybindings in vscode](../76)
 * 2023-05-24 16:22:40Z [Tiling window management in windows with komorebi](../75)
 * 2023-05-24 16:22:04Z [Git techniques and cheat sheet](../74)
 * 2023-05-24 16:18:53Z [Example of keyword searching with awk](../73)
