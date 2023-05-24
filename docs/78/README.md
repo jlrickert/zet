@@ -1,26 +1,28 @@
 # Quick fix menus in vim
 
-Quick fix is a windows for showing a list of all things of interest
+Quick fix is a windows for showing a list of all things of interest. It takes
+a input according to 'errorfmt'.
 
-vim [docs]
+Example usage:
 
-[docs]: https://vimdoc.sourceforge.net/htmldoc/quickfix.html#quickfix-window
-[guide]: https://freshman.tech/vim-quickfix-and-location-list/
+This provides a list of python errors in modified files
 
 ```
 vim -q <(git status -s | awk '$1 == "M" {print $2}' | xargs flake8)
 ```
 
-References:
+Example available formats:
 
-- [^78.1]: https://freshman.tech/vim-quickfix-and-location-list/
-- [^78.2]: https://til.codeinthehole.com/posts/how-to-use-stdin-to-populate-vims-quickfix-list/
+```text
+{filename}:{linenumber}:{optional_message}
+```
 
-See also
+See also:
 
-- [docs]: https://vimdoc.sourceforge.net/htmldoc/quickfix.html#quickfix-window
-- [guide]: https://freshman.tech/vim-quickfix-and-location-list/
-- [cool technique]: https://til.codeinthehole.com/posts/how-to-use-stdin-to-populate-vims-quickfix-list/
+- [docs](https://vimdoc.sourceforge.net/htmldoc/quickfix.html#quickfix-window)
+- [guide](https://freshman.tech/vim-quickfix-and-location-list/)
+- [cool technique](https://til.codeinthehole.com/posts/how-to-use-stdin-to-populate-vims-quickfix-list/)
+- [error formats](https://vim.fandom.com/wiki/Errorformats)
 
 Meta:
 

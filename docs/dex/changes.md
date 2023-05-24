@@ -1,3 +1,4 @@
+* 2023-05-24 19:32:52Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-05-24 18:21:12Z [How to handle conditionals in bash scripting](../71)
 * 2023-05-24 18:16:47Z [How to give credit to the original script owner](../82)
 * 2023-05-24 18:00:42Z [Quick fix menus in vim](../78)
