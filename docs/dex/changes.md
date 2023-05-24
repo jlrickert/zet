@@ -1,3 +1,4 @@
+* 2023-05-24 16:12:12Z [The processes of migrating my private zets to my public zets](../9)
 * 2023-05-24 16:11:16Z [How to handle conditionals in bash scripting](../71)
 * 2023-05-24 16:10:20Z [Useful oh my zsh plugins list](../70)
 * 2023-05-24 16:09:46Z [Config files for zsh environment](../69)
@@ -10,7 +11,6 @@
 * 2023-05-18 22:28:45Z [How I manage my secret dot files using a usb stick](../10)
 * 2023-05-18 22:28:45Z [Neovim workspaces](../50)
 * 2023-05-18 22:28:45Z [Formatting in neovim](../49)
-* 2023-05-18 22:28:45Z [The processes of migrating my private zets to my public zets](../9)
 * 2023-05-18 22:28:45Z [Pop_OS! unable to run jest](../8)
 * 2023-05-18 22:28:45Z [How to setup fira code fonts on windows](../61)
 * 2023-05-18 22:28:45Z [Dragonflight leather working recipes](../60)
