@@ -37,3 +37,7 @@ When using interactive, login shell sessions:
 8. ~/.zlogin
 9. ~/.zlgout
 10. /etc/zlogout
+
+Meta:
+
+    #unix #cli #linux
