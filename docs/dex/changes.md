@@ -1,3 +1,4 @@
+* 2023-05-24 19:35:17Z [Git techniques and cheat sheet](../74)
 * 2023-05-24 19:32:52Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-05-24 18:21:12Z [How to handle conditionals in bash scripting](../71)
 * 2023-05-24 18:16:47Z [How to give credit to the original script owner](../82)
@@ -9,7 +10,6 @@
 * 2023-05-24 16:35:42Z [Really good article about software engineering principles](../77)
 * 2023-05-24 16:23:35Z [Harpoon keybindings in vscode](../76)
 * 2023-05-24 16:22:40Z [Tiling window management in windows with komorebi](../75)
-* 2023-05-24 16:22:04Z [Git techniques and cheat sheet](../74)
 * 2023-05-24 16:18:53Z [Example of keyword searching with awk](../73)
 * 2023-05-24 16:13:47Z [Pop_OS! setup](../72)
 * 2023-05-24 16:12:12Z [The processes of migrating my private zets to my public zets](../9)
