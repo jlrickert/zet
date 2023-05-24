@@ -5,10 +5,12 @@ a input according to 'errorfmt'.
 
 Example usage:
 
-This provides a list of python errors in modified files
-
 ```
+#This provides a list of python errors in modified files
 vim -q <(git status -s | awk '$1 == "M" {print $2}' | xargs flake8)
+
+# show grepped items
+vim -q <(rg --line-number --no-heading --column YOUR_REGEX)
 ```
 
 Example available formats:
@@ -16,6 +18,8 @@ Example available formats:
 ```text
 {filename}:{linenumber}:{optional_message}
 ```
+
+*`linenumber`* needs to be 1 or more.
 
 See also:
 
