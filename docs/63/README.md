@@ -22,4 +22,4 @@ For example, a page's rank could be determined by TF\*IDF for each query term.
 
 Meta:
 
-    #architecture
+    #architecture #swe #csci
