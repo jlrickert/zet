@@ -1,6 +1,10 @@
-# Fierce armor kit construction cost calculatation for leveling leather working
+# Fierce armor kit construction cost calculation
 
-These calcualtions have been caclualted on Fri 09 Dec 2022 07:50:30 PM CST.
+This is for crafting a bunch of fierce armor kits to level up leveling leather
+working on my evoker ravaire.
+
+These calculations have been calculated on Fri 09 Dec 2022 07:50:30 PM CST
+during season 1 of Dragonflight.
 
 | item                  | cost  | amount | cost  | cost for 5 |
 | --------------------- | ----- | ------ | ----- | ---------- |
@@ -16,3 +20,5 @@ These calcualtions have been caclualted on Fri 09 Dec 2022 07:50:30 PM CST.
 
 Despite seemly looking like it is high profit a high skill is required.  I am
 only able to create level 1 at the time.
+
+    #wow
