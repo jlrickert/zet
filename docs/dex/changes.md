@@ -1,4 +1,4 @@
-* 2023-05-30 20:58:49Z [MacOS workstation setup](../88)
+* 2023-05-30 20:59:14Z [MacOS workstation setup](../88)
 * 2023-05-30 20:49:23Z [Must have plugins for google chrome](../92)
 * 2023-05-30 20:16:02Z [Logitech G604 issues on macOS](../87)
 * 2023-05-30 20:15:55Z [Sanity content management system](../90)
