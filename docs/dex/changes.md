@@ -1,3 +1,4 @@
+* 2023-05-31 17:17:55Z [Using a temporary directory that require installing transient scripts](../102)
 * 2023-05-31 17:04:37Z [MacOS workstation setup](../88)
 * 2023-05-31 16:53:25Z [Fedora workstation setup](../99)
 * 2023-05-31 16:52:30Z [How to install rust properly to prevent mucking with dotfiles](../85)
