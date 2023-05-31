@@ -1,3 +1,4 @@
+* 2023-05-31 16:52:30Z [How to install rust properly to prevent mucking with dotfiles](../85)
 * 2023-05-31 16:02:14Z [Rust installation process annoyances](../22)
 * 2023-05-31 16:02:02Z [December 2022 week 2 2022 world of warcraft checklist](../5)
 * 2023-05-31 15:25:27Z [How to give credit to the original script owner](../82)
@@ -16,7 +17,6 @@
 * 2023-05-30 20:15:55Z [Sanity content management system](../90)
 * 2023-05-30 19:40:39Z [How to swap caps lock on MacOS](../91)
 * 2023-05-30 17:51:51Z [Logitech G604 issues on macOS](../89)
-* 2023-05-30 01:20:54Z [How to install rust properly to prevent mucking with dotfiles](../85)
 * 2023-05-30 01:19:44Z [Top gear for warlock](../64)
 * 2023-05-25 18:19:26Z [Formatting in neovim](../49)
 * 2023-05-25 18:10:56Z [Managing personal secrets with an external USB drive](../83)
