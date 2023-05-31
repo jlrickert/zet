@@ -10,15 +10,18 @@ curl -fsSL -O https://example.com/releases/package_macos_arm64_3.10.2-stable.zip
 ```
 
 This script will create a temporary directory and place the downloaded
-file in it.  To unpack here a couple patterns that may be run.
+file in it. To unpack here a couple patterns that may be run.
 
 ```bash
 # unzip if it is a zip folder
-unzip package_macos_arm64_3.10.2-stable.zip
+unzip package_macos_arm64_3.10.2-stable.zip -d /some/path
 
 # tar
 tar xf package_macos_arm64_3.10.2-stable.tar.xz
 ```
 
+- [ ] TODO: figure out the tar equivalent of `unzip -d`
 
-    tags: #programming
+Meta:
+
+    tags: #programming #todo
