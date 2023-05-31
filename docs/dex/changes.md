@@ -1,3 +1,4 @@
+* 2023-05-31 16:53:25Z [Fedora workstation setup](../99)
 * 2023-05-31 16:52:30Z [How to install rust properly to prevent mucking with dotfiles](../85)
 * 2023-05-31 16:02:14Z [Rust installation process annoyances](../22)
 * 2023-05-31 16:02:02Z [December 2022 week 2 2022 world of warcraft checklist](../5)
