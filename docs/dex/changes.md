@@ -1,3 +1,4 @@
+* 2023-05-31 17:58:57Z [Ergonomic mouse research](../97)
 * 2023-05-31 17:36:27Z [Installing software with curl](../101)
 * 2023-05-31 17:17:55Z [Using a temporary directory that require installing transient scripts](../102)
 * 2023-05-31 17:04:37Z [MacOS workstation setup](../88)
