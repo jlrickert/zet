@@ -1,3 +1,4 @@
+* 2023-05-31 16:02:14Z [Rust installation process annoyances](../22)
 * 2023-05-31 16:02:02Z [December 2022 week 2 2022 world of warcraft checklist](../5)
 * 2023-05-31 15:25:27Z [How to give credit to the original script owner](../82)
 * 2023-05-31 12:56:33Z [Installing patched power line fonts for MacOS](../93)
@@ -80,7 +81,6 @@
 * 2023-05-18 22:28:45Z [Example of a vm with out a garbage collect](../24)
 * 2023-05-18 22:28:45Z [Node version managment with nvm](../23)
 * 2023-05-18 22:28:45Z [Bash scripting tricks](../33)
-* 2023-05-18 22:28:45Z [Rust installation process annoyances](../22)
 * 2023-05-18 22:28:45Z [Pattern for managing keybindings in neovim](../20)
 * 2023-05-18 22:28:45Z [Package managment in neovim with mason](../19)
 * 2023-05-18 22:28:45Z [Quick start on settup lsp for neovim lua hacking](../18)
