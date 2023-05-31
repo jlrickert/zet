@@ -44,16 +44,21 @@
     sh rustup.sh --no-modify-path
   fi
   ```
-- Install fdfind
+
+- Install utilities with cargo
 
   ```bash
   cargo install fd-find stylua
+  ln -s "$(which fd)" ~/.local/bin/fdfind
   ```
 
-- Install flutter
+  `fdfind` is used by `fzf` for finding files and directories
+
+- Install [flutter]
 
 [dotfiles]: https://github.com/jlrickert/dotfiles
 [website]: https://code.visualstudio.com/
+[flutter]: ../100
 
 Meta:
 

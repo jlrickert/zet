@@ -1,3 +1,4 @@
+* 2023-05-31 17:04:37Z [MacOS workstation setup](../88)
 * 2023-05-31 16:53:25Z [Fedora workstation setup](../99)
 * 2023-05-31 16:52:30Z [How to install rust properly to prevent mucking with dotfiles](../85)
 * 2023-05-31 16:02:14Z [Rust installation process annoyances](../22)
@@ -7,7 +8,6 @@
 * 2023-05-31 10:49:40Z [keg create git issue](../96)
 * 2023-05-31 10:39:14Z [My first user experience with keg](../67)
 * 2023-05-31 10:25:52Z [How to set path variables on MacOS](../95)
-* 2023-05-31 10:05:59Z [MacOS workstation setup](../88)
 * 2023-05-31 09:51:43Z [fzf setup and usage](../94)
 * 2023-05-31 08:35:24Z [Pop_OS! window management setup](../6)
 * 2023-05-31 08:35:24Z [World of warcraft evoker devastation gameplay](../2)
