@@ -1,5 +1,6 @@
-* 2023-05-31 10:05:59Z [MacOS workstation setup](../88)
+* 2023-05-31 10:25:52Z [How to set path variables on MacOS](../95)
 * 2023-05-31 12:56:33Z [Installing patched power line fonts for MacOS](../93)
+* 2023-05-31 10:05:59Z [MacOS workstation setup](../88)
 * 2023-05-31 09:52:10Z [My first user experience with keg](../67)
 * 2023-05-31 09:51:43Z [fzf setup and usage](../94)
 * 2023-05-30 20:49:23Z [Must have plugins for google chrome](../92)
