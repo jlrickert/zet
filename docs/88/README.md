@@ -11,7 +11,13 @@
 - [ ] Install vs code
 
   Installing vs code is done by installing from the website. To be able
-  to use `code` on the command line run ```Shell Command: Install `code`` command in PATH```
+  to use `code` on the command line run `` Shell Command: Install `code` command in PATH ``
+
+- [ ] Install [dotfiles]
+
+- [ ] Setup github client
+
+[dotfiles]: https://github.com/jlrickert/dotfiles
 
 Meta:
 
