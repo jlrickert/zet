@@ -79,7 +79,7 @@
 82	2023-05-24 18:16:47Z	How to give credit to the original script owner
 83	2023-05-25 18:10:56Z	Managing personal secrets with an external USB drive
 84	2023-05-25 16:42:10Z	My preferred way of handling text width in documents
-85	2023-05-25 18:19:52Z	How to install rust properly to prevent mucking with dotfiles
+85	2023-05-30 01:20:54Z	How to install rust properly to prevent mucking with dotfiles
 86	2023-05-25 17:03:02Z	How to verify file integrity on the cli
 87	2023-05-30 20:16:02Z	Logitech G604 issues on macOS
 88	2023-05-30 21:01:44Z	MacOS workstation setup
@@ -87,3 +87,4 @@
 90	2023-05-30 20:15:55Z	Sanity content management system
 91	2023-05-30 19:40:39Z	How to swap caps lock on MacOS
 92	2023-05-30 20:49:23Z	Must have plugins for google chrome
+93	2023-05-31 12:56:33Z	Installing patched power line fonts for MacOS
