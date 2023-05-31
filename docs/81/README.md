@@ -5,4 +5,4 @@
 | auth-go | rwxrob/auth-go | authentication cli. Needs better documentation |
 | cmdtab  | rwxrob/cmdtab  |                                                |
 
-    #golang #programming
+    tags: #golang #programming

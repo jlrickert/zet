@@ -49,4 +49,4 @@ VScode
 }
 ```
 
-    #workstation #vscode #programming
+    tags: #workstation #vscode coding
