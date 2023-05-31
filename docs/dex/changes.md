@@ -1,3 +1,4 @@
+* 2023-05-31 09:51:43Z [fzf setup and usage](../94)
 * 2023-05-31 12:56:33Z [Installing patched power line fonts for MacOS](../93)
 * 2023-05-30 21:01:44Z [MacOS workstation setup](../88)
 * 2023-05-30 20:49:23Z [Must have plugins for google chrome](../92)

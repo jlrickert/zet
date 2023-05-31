@@ -12,5 +12,9 @@ error: please commit or stash them.
 No remote repo has been setup. First create it and git push to it.
 ```
 
+After some digging it turns out that in `.git/config` there is an option
+`rebase = true`
+
 The question that I have how and why is git involved in this? This is something
 that I need to answer.
+
