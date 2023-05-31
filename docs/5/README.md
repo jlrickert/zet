@@ -6,7 +6,7 @@
 - [ ] [Neltharus](../0)
 - [x] [Ruby Life Pools](../0)
 - [x] [The Azure Vault](../0)
-- [ ] [The Nokhud Offensive](../0)
+- [x] [The Nokhud Offensive](../0)
 - [x] [Uldaman: Legacy of Tyr](../0)
 
 - [ ] Weekly rep
