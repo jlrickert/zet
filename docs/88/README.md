@@ -6,6 +6,12 @@
   sudo softwareupdate --install-rosetta --agree-to-license
   ```
 
+- Swap escape and caps lock in settings.
+
+  See also
+
+  - [How to swap caps lock](../91)
+
 - Xcode
 
   This is done by running `xcode-select --install`
@@ -55,6 +61,8 @@
   `fdfind` is used by `fzf` for finding files and directories
 
 - Install [flutter]
+
+- Install [yabai] for tiling window manager
 
 [dotfiles]: https://github.com/jlrickert/dotfiles
 [website]: https://code.visualstudio.com/
