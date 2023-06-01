@@ -4,5 +4,8 @@
 | --------------- | ------ | ---------------------------------------------- |
 | Mission Control | Apple  | Shows all open apps                            |
 | Spotlight       | Apple  | Focus or open an app. By default Command space |
-| Yabai           |        | tiling window manager                          |
 | Alfred          |        |                                                |
+| Yabai           |        | tiling window manager                          |
+| xkhd            |        | keyboard shortcuts                             |
+
+    tags: #macOS #workstation
