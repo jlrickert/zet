@@ -64,6 +64,8 @@
 
 - Install [yabai] for tiling window manager
 
+- Install Lando
+
 [dotfiles]: https://github.com/jlrickert/dotfiles
 [website]: https://code.visualstudio.com/
 [flutter]: ../100
