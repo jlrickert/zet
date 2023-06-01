@@ -1,4 +1,4 @@
-* 2023-06-01 10:25:21Z [Tiling window management on macOS with Yabai](../103)
+* 2023-06-01 10:33:24Z [Tiling window management on macOS with Yabai](../103)
 * 2023-05-31 17:58:57Z [Ergonomic mouse research](../97)
 * 2023-05-31 17:36:27Z [Installing software with curl](../101)
 * 2023-05-31 17:17:55Z [Using a temporary directory that require installing transient scripts](../102)
