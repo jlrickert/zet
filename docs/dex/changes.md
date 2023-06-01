@@ -1,4 +1,4 @@
-* 2023-06-01 16:19:26Z [Date standards](../107)
+* 2023-06-01 16:19:36Z [Date standards](../107)
 * 2023-06-01 13:37:29Z [Overview of macOS tools and software](../104)
 * 2023-06-01 13:31:29Z [Install lando on MacOS](../106)
 * 2023-06-01 13:25:36Z [MacOS workstation setup](../88)
