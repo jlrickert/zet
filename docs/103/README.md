@@ -1,5 +1,9 @@
 # Tiling window management on macOS with Yabai
 
+See [docs] for how to install
+
+[docs]: https://github.com/koekeishiya/yabai/wiki
+
 ## Dump
 
 ```bash
@@ -28,6 +32,13 @@ yabai --start-service
 yabai --stop-service
 # restart
 yabai --stop-service && yabai --start-service
+```
+
+For hacking on configs
+
+```bash
+ls .skhdrc  | entr -s 'skhd --stop-service && skhd --start-service'
+ls .yabirc  | entr -s 'yabai --stop-service && yabai --start-service'
 ```
 
 References:
