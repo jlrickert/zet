@@ -1,6 +1,6 @@
 # Tiling window management on macOS with Yabai
 
-Dump
+## Dump
 
 ```bash
 brew install koekeishiya/formulae/yabai
@@ -9,11 +9,25 @@ brew install koekeishiya/formulae/skhd
 
 ```bash
 cp /opt/homebrew/opt/skhd/share/skhd/examples/skhdrc ~/.skhdrc
+cp /opt/homebrew/opt/yabai/share/yabai/examples/yabairc ~/.yabairc
 ```
 
 ```bash
+# start service
 skhd --start-service
+# stop service
 skhd --stop-service
+# restart
+skhd --stop-service && skhd --start-service
+```
+
+```bash
+# start service
+yabai --start-service
+# stop service
+yabai --stop-service
+# restart
+yabai --stop-service && yabai --start-service
 ```
 
 References:
@@ -24,4 +38,4 @@ References:
 
 Meta:
 
-    #macOS #workstation
+    tags: #macOS #workstation
