@@ -7,6 +7,6 @@
 | Alfred           |        |                                                |
 | Yabai            |        | tiling window manager                          |
 | xkhd             |        | keyboard shortcuts                             |
-| Activity Monitor | Apple  |                                                |
+| Activity Monitor | Apple  | system monitor like the tui btop               |
 
     tags: #macOS #workstation
