@@ -1,3 +1,4 @@
+* 2023-06-01 13:31:29Z [Install lando on MacOS](../106)
 * 2023-06-01 13:25:36Z [MacOS workstation setup](../88)
 * 2023-06-01 13:24:08Z [Tiling window management on macOS with Yabai](../103)
 * 2023-06-01 10:40:58Z [Overview of macOS tools](../104)
