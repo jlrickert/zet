@@ -1,3 +1,4 @@
+* 2023-06-02 05:12:52Z [Wowhead diablo 4 class ranking comparison](../108)
 * 2023-06-01 16:31:56Z [Tiling window management on macOS with Yabai](../103)
 * 2023-06-01 16:19:36Z [Date standards](../107)
 * 2023-06-01 13:37:29Z [Overview of macOS tools and software](../104)
