@@ -1,3 +1,4 @@
+* 2023-06-02 12:17:15Z [Managing contexts with bash](../113)
 * 2023-06-02 11:52:09Z [How to set path variables on MacOS](../95)
 * 2023-06-02 11:50:35Z [My personal PHP style guide](../110)
 * 2023-06-02 11:46:58Z [My personal typescript style guide](../112)
