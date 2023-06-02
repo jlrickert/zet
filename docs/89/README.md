@@ -2,7 +2,12 @@
 
 Installed [Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html)
 
-Hitting the side buttons asks for permission
+Hitting the side buttons asks for permission.  I think this has to do
+with G Hub.  It is also interesting to note that some mice the side
+buttons may not work without additional software.
+
+At work the mouse was struggling to stay connected.  This doesn't occur
+at home when attached to my Razer thunderbolt hub.
 
 See also:
 
@@ -10,4 +15,4 @@ See also:
 
 Meta:
 
-    #macOS #workstation #hardware
+    tags: #macOS #workstation #hardware

@@ -1,9 +1,13 @@
 # Install lando on MacOS
 
-Prior to installing lando docker should be uninstalled.  This is to
+Prior to installing lando docker should be uninstalled. This is to
 prevent a couple of issues.
 
 - [ ] TODO: research the issue
+
+```bash
+  sudo softwareupdate --install-rosetta --agree-to-license
+```
 
 See also
 

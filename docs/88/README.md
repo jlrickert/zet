@@ -30,7 +30,7 @@
 - Install all the things with brew
 
   ```bash
-  brew install go tmux bat fzf ripgrep stow awk tig gh shfmt exa coreutils
+  brew install go tmux bat fzf ripgrep stow awk tig gh shfmt shellcheck exa coreutils
   ```
 
 - Install fzf utilitites
