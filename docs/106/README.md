@@ -5,6 +5,8 @@ prevent a couple of issues.
 
 - [ ] TODO: research the issue
 
+Docker recommends running the following to prevent a few know issues. 
+
 ```bash
   sudo softwareupdate --install-rosetta --agree-to-license
 ```
