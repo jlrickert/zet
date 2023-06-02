@@ -1,4 +1,4 @@
-* 2023-06-02 14:29:46Z [Recommended android SDK target for new android apps](../115)
+* 2023-06-02 14:35:27Z [Samsung S22+ device specification](../114)
 * 2023-06-02 17:17:15Z [Managing contexts with bash](../113)
 * 2023-06-02 16:52:09Z [How to set path variables on MacOS](../95)
 * 2023-06-02 16:50:35Z [My personal PHP style guide](../110)
@@ -9,6 +9,7 @@
 * 2023-06-02 15:19:13Z [MacOS workstation setup](../88)
 * 2023-06-02 14:33:52Z [Logitech G604 issues on macOS](../89)
 * 2023-06-02 14:33:49Z [Wowhead diablo 4 class ranking comparison](../108)
+* 2023-06-02 14:29:46Z [Recommended android SDK target for new android apps](../115)
 * 2023-06-02 14:25:36Z [Install flutter on macOS with apple silicon](../100)
 * 2023-06-02 14:03:10Z [Install lando on MacOS](../106)
 * 2023-06-01 21:31:56Z [Tiling window management on macOS with Yabai](../103)
