@@ -16,6 +16,14 @@ Run this script
 ```bash
 cd "$(mktemp -d)" || exit 1
 curl -fsSL -O https://github.com/lando/lando/releases/download/v3.18.0/lando-arm64-v3.18.0.dmg
+sudo hdiutil attach lando-arm64-v3.18.0.dmg
+# this needs to be fixed
+sudo /Volumes/Lando/app/install
+sudo hdiutil detach /Volumes/Lando
+```
+
+```bash
+brew install lando
 ```
 
 See also
