@@ -1,37 +1,37 @@
 # Install lando on MacOS
 
-Prior to installing lando docker should be uninstalled. This is to
-prevent a couple of issues.
+Prior to installing [lando] docker should be uninstalled. This is to
+prevent a couple of issues. Something to note is that Docker should be
+uninstalled before [lando] is installed. This allows [lando] to install
+the latest version that it supports. Follow the [installation docs] for
+a more detailed explanation of how to install.
 
-- [ ] TODO: research the issue
-
-Docker recommends running the following to prevent a few know issues.
-
-```bash
-  sudo softwareupdate --install-rosetta --agree-to-license
-```
-
-Run this script
+Here is a quick script to get to get started. It should do most of the
+work.
 
 ```bash
+# only if you haven't ran this before
+sudo softwareupdate --install-rosetta --agree-to-license
 cd "$(mktemp -d)" || exit 1
-curl -fsSL -O https://github.com/lando/lando/releases/download/v3.18.0/lando-arm64-v3.18.0.dmg
-sudo hdiutil attach lando-arm64-v3.18.0.dmg
+VERSION=3.18.0
+ARCH=arm64
+curl -fsSL -O "https://github.com/lando/lando/releases/download/v${VERSION}/lando-${ARCH}-v${VERSION}.dmg"
+sudo hdiutil attach "lando-${ARCH}-${VERSION}".dmg
 # this needs to be fixed
-open /Volumes/Lando\ 3.18.0/LandoInstaller.pkg
-sudo hdiutil detach /Volumes/Lando
+open /Volumes/Lando\ ${VERSION}/LandoInstaller.pkg
+sudo hdiutil detach "/Volumes/Lando ${VERSION}"
 ```
 
-Do not install from brew. This will install a newer version of docker
-desktop that will break docker desktop. This is here for reference.
+An alternative installation is with brew. This is initially what I tried
+but it installed a newer version of docker desktop that didn't work.
+This is here for future reference.
 
 ```bash
 brew install lando
 ```
 
-See also
-
-- [docs](https://docs.lando.dev/getting-started/installation.html)
+[installation docs]: https://docs.lando.dev/getting-started/installation.html
+[lando]: https://docs.lando.dev/php/
 
 Meta
 

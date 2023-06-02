@@ -1,6 +1,6 @@
 # Concrete 5
 
-Like wordpress but more
+Concrete 5 is a CMS platform similar to WordPress.
 
 Setup
 
@@ -18,4 +18,4 @@ lambo start
 # do edits; reload browser
 ```
 
-
+    tags: #php #cms
