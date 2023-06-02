@@ -1,3 +1,4 @@
+* 2023-06-02 10:30:12Z [Installing software with curl](../101)
 * 2023-06-02 10:23:28Z [MacOS vs Linux difference](../109)
 * 2023-06-02 10:19:13Z [MacOS workstation setup](../88)
 * 2023-06-02 05:12:52Z [Wowhead diablo 4 class ranking comparison](../108)
@@ -6,7 +7,6 @@
 * 2023-06-01 13:37:29Z [Overview of macOS tools and software](../104)
 * 2023-06-01 13:31:29Z [Install lando on MacOS](../106)
 * 2023-05-31 17:58:57Z [Ergonomic mouse research](../97)
-* 2023-05-31 17:36:27Z [Installing software with curl](../101)
 * 2023-05-31 17:17:55Z [Using a temporary directory that require installing transient scripts](../102)
 * 2023-05-31 16:53:25Z [Fedora workstation setup](../99)
 * 2023-05-31 16:52:30Z [How to install rust properly to prevent mucking with dotfiles](../85)
