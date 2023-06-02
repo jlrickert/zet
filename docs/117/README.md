@@ -1,5 +1,18 @@
 # Mailhog
 
-Mailhog is an outgoing SMTP server
+[Mailhog] is an outgoing SMTP server.
 
-    tags: #golang #devops #mail
+Some use cases include:
+
+- intercept outgoing mail while development
+
+Some alternatives include:
+
+- [Mailpit]
+
+[Mailhog]: https://github.com/mailhog/MailHog
+[Mailpit]: https://github.com/axllent/mailpit
+
+Meta:
+
+    tags: #operations #email

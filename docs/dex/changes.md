@@ -1,4 +1,4 @@
-* 2023-06-02 15:22:09Z [Lando concepts](../116)
+* 2023-06-02 15:26:20Z [Mailhog](../117)
 * 2023-06-02 17:17:15Z [Managing contexts with bash](../113)
 * 2023-06-02 16:52:09Z [How to set path variables on MacOS](../95)
 * 2023-06-02 16:50:35Z [My personal PHP style guide](../110)
@@ -6,6 +6,7 @@
 * 2023-06-02 16:46:11Z [My personal Bash style guide](../111)
 * 2023-06-02 15:30:12Z [Installing software with curl](../101)
 * 2023-06-02 15:23:28Z [MacOS vs Linux difference](../109)
+* 2023-06-02 15:22:09Z [Lando concepts](../116)
 * 2023-06-02 15:19:13Z [MacOS workstation setup](../88)
 * 2023-06-02 14:58:16Z [Install lando on MacOS](../106)
 * 2023-06-02 14:35:27Z [Samsung S22+ device specification](../114)
