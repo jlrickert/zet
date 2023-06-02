@@ -14,4 +14,4 @@ path+=(
 
 Meta
 
-    tags: #macOS #linux
+    tags: #macOS #linux #cli
