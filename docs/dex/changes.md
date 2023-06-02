@@ -1,3 +1,4 @@
+* 2023-06-02 11:52:09Z [How to set path variables on MacOS](../95)
 * 2023-06-02 11:50:35Z [My personal PHP style guide](../110)
 * 2023-06-02 11:46:58Z [My personal typescript style guide](../112)
 * 2023-06-02 11:46:11Z [My personal Bash style guide](../111)
@@ -19,7 +20,6 @@
 * 2023-05-31 12:56:33Z [Installing patched power line fonts for MacOS](../93)
 * 2023-05-31 10:49:40Z [keg create git issue](../96)
 * 2023-05-31 10:39:14Z [My first user experience with keg](../67)
-* 2023-05-31 10:25:52Z [How to set path variables on MacOS](../95)
 * 2023-05-31 09:51:43Z [fzf setup and usage](../94)
 * 2023-05-31 08:35:24Z [How to swap caps lock on MacOS](../91)
 * 2023-05-31 08:35:24Z [Pop_OS! window management setup](../6)
