@@ -13,7 +13,7 @@ The android toolchain needs to be setup. The easiest way to do this is
 to install [android studio] and let it handle installation. Download it
 from there website. Once android studio is installed run it and use
 android studio setup wizard. See flutters [docs] for trouble shooting if
-running `flutter doctor` doesn't see the android tool chain
+running `flutter doctor` doesn't see the android tool chain.
 
 To allow development on apple xcode and CocoaPods needs to be setup. Go
 to apples website to [download] xcode. This requires some apple account
