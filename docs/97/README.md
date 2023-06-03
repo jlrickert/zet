@@ -11,4 +11,4 @@ My hand size is roughly 3.5 inches.
 | Evoluent VM4R        |       | No side buttons because of apple bullshit | Possibly more comfortable than MX Vertical |
 | Anker                | 25    | No side buttons                           |                                            |
 
-    #hardware #workstation
+    tags: #hardware #workstation
