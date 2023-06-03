@@ -1,3 +1,4 @@
+* 2023-06-03 16:04:10Z [Tiling window management on macOS with Yabai](../103)
 * 2023-06-03 15:56:26Z [Tmux integration with iTerm 2](../119)
 * 2023-06-03 15:22:42Z [Reason why some things will not work on apple](../118)
 * 2023-06-02 17:17:15Z [Managing contexts with bash](../113)
@@ -17,7 +18,6 @@
 * 2023-06-02 14:33:49Z [Wowhead diablo 4 class ranking comparison](../108)
 * 2023-06-02 14:29:46Z [Recommended android SDK target for new android apps](../115)
 * 2023-06-02 14:25:36Z [Install flutter on macOS with apple silicon](../100)
-* 2023-06-01 21:31:56Z [Tiling window management on macOS with Yabai](../103)
 * 2023-06-01 21:19:36Z [Date standards](../107)
 * 2023-06-01 18:37:29Z [Overview of macOS tools and software](../104)
 * 2023-05-31 22:58:57Z [Ergonomic mouse research](../97)

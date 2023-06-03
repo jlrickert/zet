@@ -46,6 +46,7 @@ References:
 - [official docs](https://github.com/koekeishiya/yabai/wiki)
 - [josean blog post](https://www.josean.com/posts/yabai-setup)
 - [josean's dotfiles](https://github.com/josean-dev/dev-environment-files)
+- [anuj-chandra](https://anuj-chandra.medium.com/using-i3-like-tiling-window-managers-in-macos-with-yabai-ebf0e002b992)
 
 Meta:
 
