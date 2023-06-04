@@ -1,3 +1,4 @@
+* 2023-06-04 17:40:39Z [Necromancer leveling build on Diablo 4](../121)
 * 2023-06-04 17:36:23Z [Diablo 4 completions](../120)
 * 2023-06-03 16:04:10Z [Tiling window management on macOS with Yabai](../103)
 * 2023-06-03 15:56:26Z [Tmux integration with iTerm 2](../119)

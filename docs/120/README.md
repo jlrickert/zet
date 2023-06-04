@@ -7,3 +7,6 @@
 - [ ]: Menestad Coffers
 - [X]: Raising Spirits
 
+Meta:
+
+    tags: #diablo #gaming
