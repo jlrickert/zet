@@ -19,14 +19,14 @@
 - homebrew
 
   This is installed by running `/bin/bash -c "$(curl -fsSL
-  https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 - Install vs code
 
   Installing vs code is done by installing from the [website]. To be
   able to use `code` on the command line run `` Shell Command: Install
-  `code` command in PATH ``. If this fails you may need to run `` Shell
-  Command: Uninstall `code` command in PATH ``
+`code` command in PATH ``. If this fails you may need to run `` Shell
+Command: Uninstall `code` command in PATH ``
 
 - Install [dotfiles]
 
@@ -72,6 +72,10 @@
 [dotfiles]: https://github.com/jlrickert/dotfiles
 [website]: https://code.visualstudio.com/
 [flutter]: ../100
+
+- Setup notifications
+
+  Use spotlight to search for _notifications_
 
 Meta:
 
