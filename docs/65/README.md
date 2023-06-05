@@ -6,6 +6,7 @@
 | The Amalgamation Chamber |                 |
 |                          |                 |
 | Zskarn                   | destro - single |
-| Neltharion               | destro - multi  |
+| Assault of the Zaqali    | destro - multi  |
+| Echo of Neltharion       | destro - multi  |
 
     #wow #warlock #gaming
