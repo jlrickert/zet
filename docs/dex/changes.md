@@ -1,3 +1,4 @@
+* 2023-06-05 10:20:45Z [My vim setup](../122)
 * 2023-06-05 14:19:30Z [fzf setup and usage](../94)
 * 2023-06-05 14:19:15Z [Ergonomic mouse research](../97)
 * 2023-06-05 14:18:56Z [Top gear for warlock](../64)
