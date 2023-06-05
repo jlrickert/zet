@@ -1,3 +1,4 @@
+* 2023-06-05 14:19:30Z [fzf setup and usage](../94)
 * 2023-06-05 14:19:15Z [Ergonomic mouse research](../97)
 * 2023-06-05 14:18:56Z [Top gear for warlock](../64)
 * 2023-06-05 03:01:45Z [Recommended warlock spec for Aberrus bosses](../65)
@@ -35,7 +36,6 @@
 * 2023-05-31 20:24:13Z [Harpoon keybindings in vscode](../76)
 * 2023-05-31 15:49:40Z [keg create git issue](../96)
 * 2023-05-31 15:39:14Z [My first user experience with keg](../67)
-* 2023-05-31 14:51:43Z [fzf setup and usage](../94)
 * 2023-05-31 13:35:24Z [Mon 26 Dec 2022 world of warcraft weekly checklist](../46)
 * 2023-05-31 13:35:24Z [How to swap caps lock on MacOS](../91)
 * 2023-05-31 13:35:24Z [Sanity content management system](../90)
