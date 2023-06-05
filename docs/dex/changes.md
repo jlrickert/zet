@@ -1,3 +1,4 @@
+* 2023-06-05 14:19:15Z [Ergonomic mouse research](../97)
 * 2023-06-05 14:18:56Z [Top gear for warlock](../64)
 * 2023-06-05 03:01:45Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-06-05 00:51:56Z [Necromancer leveling build on Diablo 4](../121)
@@ -24,7 +25,6 @@
 * 2023-06-02 14:25:36Z [Install flutter on macOS with apple silicon](../100)
 * 2023-06-01 21:19:36Z [Date standards](../107)
 * 2023-06-01 18:37:29Z [Overview of macOS tools and software](../104)
-* 2023-05-31 22:58:57Z [Ergonomic mouse research](../97)
 * 2023-05-31 22:17:55Z [Using a temporary directory that require installing transient scripts](../102)
 * 2023-05-31 21:53:25Z [Fedora workstation setup](../99)
 * 2023-05-31 21:52:30Z [How to install rust properly to prevent mucking with dotfiles](../85)
