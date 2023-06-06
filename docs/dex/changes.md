@@ -1,3 +1,4 @@
+* 2023-06-06 10:31:05Z [Install flutter on macOS with apple silicon](../100)
 * 2023-06-05 18:44:18Z [Programmatic bash completions](../125)
 * 2023-06-05 15:31:46Z [Sync a directory with rsync](../124)
 * 2023-06-05 14:19:30Z [fzf setup and usage](../94)
@@ -27,7 +28,6 @@
 * 2023-06-02 14:33:52Z [Logitech G604 issues on macOS](../89)
 * 2023-06-02 14:33:49Z [Wowhead diablo 4 class ranking comparison](../108)
 * 2023-06-02 14:29:46Z [Recommended android SDK target for new android apps](../115)
-* 2023-06-02 14:25:36Z [Install flutter on macOS with apple silicon](../100)
 * 2023-06-01 21:19:36Z [Date standards](../107)
 * 2023-06-01 18:37:29Z [Overview of macOS tools and software](../104)
 * 2023-05-31 22:17:55Z [Using a temporary directory that require installing transient scripts](../102)
