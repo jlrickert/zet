@@ -22,6 +22,11 @@ open /Volumes/Lando\ ${VERSION}/LandoInstaller.pkg
 sudo hdiutil detach "/Volumes/Lando ${VERSION}"
 ```
 
+Once everything is installed x86 emutation may need to be enabled if
+using apple silicon. To enable go into the settings in docker and enable
+*Use Rosetta for x86/amd64 emulation on Apple Silicon*. This is found in
+features in development.
+
 An alternative installation is with brew. This is initially what I tried
 but it installed a newer version of docker desktop that didn't work.
 This is here for future reference.
