@@ -1,3 +1,4 @@
+* 2023-06-05 18:44:18Z [Programmatic bash completions](../125)
 * 2023-06-05 15:31:46Z [Sync a directory with rsync](../124)
 * 2023-06-05 14:19:30Z [fzf setup and usage](../94)
 * 2023-06-05 14:19:15Z [Ergonomic mouse research](../97)
