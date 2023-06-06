@@ -20,4 +20,9 @@ The `-a` is an alias for `--archive`. This is the same as `-rlptgoD`.
 
 The `-v` just adds more verbosity.
 
+The ending `/` in for the source directory keeps `rsync` from from
+creating nested directories.  For example, it is not desirable to have
+`file/file` when we want `file`.  This is a common error that I find
+myself making often.
+
     tags: #cli
