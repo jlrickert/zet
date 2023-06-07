@@ -1,3 +1,4 @@
+* 2023-06-07 13:47:34Z [MacOS workstation setup](../88)
 * 2023-06-07 12:54:23Z [How to configure bash scripting behavior](../130)
 * 2023-06-07 11:29:57Z [My personal PHP style guide](../110)
 * 2023-06-07 11:20:50Z [How to use arrays in bash](../129)
@@ -10,7 +11,6 @@
 * 2023-06-05 14:19:15Z [Ergonomic mouse research](../97)
 * 2023-06-05 14:18:56Z [Top gear for warlock](../64)
 * 2023-06-05 11:09:52Z [Problems with Linux as a workstation](../123)
-* 2023-06-05 10:46:29Z [MacOS workstation setup](../88)
 * 2023-06-05 10:20:45Z [My vim setup](../122)
 * 2023-06-05 03:01:45Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-06-05 00:51:56Z [Necromancer leveling build on Diablo 4](../121)
