@@ -1,3 +1,4 @@
+* 2023-06-07 12:54:23Z [How to configure bash scripting behavior](../130)
 * 2023-06-07 11:29:57Z [My personal PHP style guide](../110)
 * 2023-06-07 11:20:50Z [How to use arrays in bash](../129)
 * 2023-06-06 16:01:15Z [Sync a directory with rsync](../124)
