@@ -1,3 +1,4 @@
+* 2023-06-07 11:29:57Z [My personal PHP style guide](../110)
 * 2023-06-07 11:20:50Z [How to use arrays in bash](../129)
 * 2023-06-06 16:01:15Z [Sync a directory with rsync](../124)
 * 2023-06-06 15:58:54Z [Install lando on MacOS](../106)
@@ -18,7 +19,6 @@
 * 2023-06-03 15:22:42Z [Reason why some things will not work on apple](../118)
 * 2023-06-02 17:17:15Z [Managing contexts with bash](../113)
 * 2023-06-02 16:52:09Z [How to set path variables on MacOS](../95)
-* 2023-06-02 16:50:35Z [My personal PHP style guide](../110)
 * 2023-06-02 16:46:58Z [My personal typescript style guide](../112)
 * 2023-06-02 16:46:11Z [My personal Bash style guide](../111)
 * 2023-06-02 15:37:51Z [Concrete 5](../105)
