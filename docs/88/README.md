@@ -33,7 +33,7 @@ Command: Uninstall `code` command in PATH ``
 - Install all the things with brew
 
   ```bash
-  brew install go tmux bat fzf ripgrep stow awk tig gh shfmt shellcheck exa coreutils
+  brew install go tmux bat fzf ripgrep stow awk tig gh shfmt shellcheck exa coreutils httpie
   ```
 
 - Install fzf utilitites

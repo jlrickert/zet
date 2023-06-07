@@ -1,3 +1,4 @@
+* 2023-06-07 11:20:50Z [How to use arrays in bash](../129)
 * 2023-06-06 16:01:15Z [Sync a directory with rsync](../124)
 * 2023-06-06 15:58:54Z [Install lando on MacOS](../106)
 * 2023-06-06 15:36:03Z [WordPress plugin Gravity forms](../128)
