@@ -1,3 +1,4 @@
+* 2023-06-07 14:32:44Z [Zettelkasten search engine](../62)
 * 2023-06-07 14:32:41Z [A quick to making a module in golang](../127)
 * 2023-06-07 14:32:39Z [Developing multiple modules at a time in go](../126)
 * 2023-06-07 13:47:34Z [MacOS workstation setup](../88)
@@ -69,7 +70,6 @@
 * 2023-05-31 13:35:24Z [World of warcraft evoker game play](../1)
 * 2023-05-31 13:35:24Z [Installing patched power line fonts for MacOS](../93)
 * 2023-05-31 13:35:24Z [How does a generic search engine work for the web](../63)
-* 2023-05-31 13:35:24Z [Zettelkasten search engine](../62)
 * 2023-05-31 13:35:24Z [How to setup fira code fonts on windows](../61)
 * 2023-05-31 13:35:24Z [Dragonflight leather working recipes](../60)
 * 2023-05-31 13:35:24Z [Pop_OS! window management setup](../6)
