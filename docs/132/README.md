@@ -22,7 +22,7 @@ services:
       WORDPRESS_DB_PASSWORD: examplepass
       WORDPRESS_DB_NAME: exampledb
     volumes:
-      - .:/var/www/html/wp-content/themes/
+      - .:/var/www/html/wp-content
 
   db:
     image: mysql:5.7
@@ -38,6 +38,14 @@ services:
 
 volumes:
   db:
+```
+
+Running `docker-compose up` with docker compose file will spin up a new
+WordPress site.  It will create a themes and plugins directory.  It
+gives you a few starter plugins and themes to use.
+
+```bash
+docker-compose up
 ```
 
     tags: #wordpress #php #javascript
