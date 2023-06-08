@@ -48,4 +48,10 @@ gives you a few starter plugins and themes to use.
 docker-compose up
 ```
 
+See also:
+
+- VSCode setup for php and WordPress development
+
+Meta:
+
     tags: #wordpress #php #javascript

@@ -2,13 +2,21 @@
 
 The 3 choices of language servers for PHP are as follows:
 [intelephense], [phpactor], [psalm], and [devsense]. Neovim has the
-option of running all but [devsense].  VSCode really only has 2 choices,
+option of running all but [devsense]. VSCode really only has 2 choices,
 [intelephense] and [devsense].
 
-Intelephense is not open source.  The o
+Intelephense is not open source. The o
+
+| LSP            | Open source | Comments                                    |
+| -------------- | ----------- | ------------------------------------------- |
+| [intelephense] | no          |                                             |
+| [phpactor]     | yes         |                                             |
+| [psalm]        | yes         | is this old?                                |
+| [devsense]     | no          |                                             |
+|                |             | Deprecated. Can't remember name. Don't care |
 
 I found the available php servers from the mason [lspconfig] extension's
-list of available servers. 
+list of available servers.
 
 Visual studio has another popular plugin simply named _PHP_ from [devsense]
 
