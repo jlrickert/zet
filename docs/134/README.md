@@ -1,9 +1,14 @@
 # Recommended php language server to use
 
-PHP has 3 language servers: [intelephense], [phpactor], and [psalm].
+The 3 choices of language servers for PHP are as follows:
+[intelephense], [phpactor], [psalm], and [devsense]. Neovim has the
+option of running all but [devsense].  VSCode really only has 2 choices,
+[intelephense] and [devsense].
+
+Intelephense is not open source.  The o
 
 I found the available php servers from the mason [lspconfig] extension's
-list of available servers.
+list of available servers. 
 
 Visual studio has another popular plugin simply named _PHP_ from [devsense]
 
@@ -17,17 +22,20 @@ Recommended Visual studio plugins
 
 Comparison
 
-| Feature               | psalm | phpactor | intelephense |
-| --------------------- | ----- | -------- | ------------ |
-| Code completion       |       |          |              |
-| search symbol         |       |          |              |
-| signature help        |       |          |              |
-| find all by reference |       |          |              |
-| diagnostics
-| formatting
-| rename
-| highlighting
-| html/css/js integration |
+| Feature                 | psalm | phpactor | intelephense |
+| ----------------------- | ----- | -------- | ------------ |
+| Code completion         |       | x        | x            |
+| search symbol           |       |          | x            |
+| signature help          |       | x        | x            |
+| diagnostics             |       |          | x            |
+| formatting              |       |          | x            |
+| rename                  |       | x        | x            |
+| highlighting            |       |          | x            |
+| html/css/js integration |       |          | x            |
+| code folding            |       |          | paid         |
+| go to type def          |       |          | paid         |
+| go to declaration       |       |          | paid         |
+| code actions            |       |          | paid         |
 
 For WordPress stuff use WordPress snippet
 PHP Debug
