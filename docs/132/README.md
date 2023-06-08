@@ -3,4 +3,41 @@
 WordPress can be hosted and developed locally on you machine.  It
 consists of 4 things: content, themes, plugins, and the core.
 
+
+Use this docker compose file
+
+```
+bash
+version: "3.1"
+
+services:
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: exampleuser
+      WORDPRESS_DB_PASSWORD: examplepass
+      WORDPRESS_DB_NAME: exampledb
+    volumes:
+      - .:/var/www/html/wp-content/themes/
+
+  db:
+    image: mysql:5.7
+    platform: linux/x86_64
+    restart: always
+    environment:
+      MYSQL_DATABASE: exampledb
+      MYSQL_USER: exampleuser
+      MYSQL_PASSWORD: examplepass
+      MYSQL_RANDOM_ROOT_PASSWORD: "1"
+    volumes:
+      - db:/var/lib/mysql
+
+volumes:
+  db:
+```
+
     tags: #wordpress #php #javascript
