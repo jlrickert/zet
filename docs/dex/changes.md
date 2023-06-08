@@ -1,3 +1,4 @@
+* 2023-06-08 15:12:07Z [How to get started developing themes and plugins with WordPress](../132)
 * 2023-06-08 15:12:03Z [Recommended php language server to use](../134)
 * 2023-06-08 15:11:58Z [How to setup VSCode for PHP and WordPress development](../136)
 * 2023-06-08 14:26:05Z [Installing software with curl](../101)
