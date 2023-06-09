@@ -1,3 +1,4 @@
+* 2023-06-09 14:13:29Z [Minneapolis 20s 30s something social meetup group](../144)
 * 2023-06-09 13:10:16Z [M23SS brewery event at Blackstack Brewing](../143)
 * 2023-06-09 11:04:06Z [How to effectively use cp](../142)
 * 2023-06-09 10:15:20Z [Task to fix keybinding issues between MacOS and ranger](../141)
