@@ -1,3 +1,4 @@
+* 2023-06-09 09:54:25Z [Cuzzy's Grill and bar in downtown Minneapolis](../138)
 * 2023-06-09 09:12:13Z [Como Park Zoo and Conservatory in St Paul Minnesota](../137)
 * 2023-06-09 07:29:50Z [Task to figure out how to make scrolling faster on MacOS](../135)
 * 2023-06-08 15:12:07Z [How to get started developing themes and plugins with WordPress](../132)
