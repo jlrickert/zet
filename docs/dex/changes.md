@@ -1,3 +1,4 @@
+* 2023-06-09 11:04:06Z [How to effectively use cp](../142)
 * 2023-06-09 10:15:20Z [Task to fix keybinding issues between MacOS and ranger](../141)
 * 2023-06-09 09:54:25Z [Cuzzy's Grill and bar in downtown Minneapolis](../138)
 * 2023-06-09 09:12:13Z [Como Park Zoo and Conservatory in St Paul Minnesota](../137)
