@@ -1,3 +1,4 @@
+* 2023-06-09 10:15:20Z [Task to fix keybinding issues between MacOS and ranger](../141)
 * 2023-06-09 09:54:25Z [Cuzzy's Grill and bar in downtown Minneapolis](../138)
 * 2023-06-09 09:12:13Z [Como Park Zoo and Conservatory in St Paul Minnesota](../137)
 * 2023-06-09 07:29:50Z [Task to figure out how to make scrolling faster on MacOS](../135)
