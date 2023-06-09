@@ -4,12 +4,44 @@ On a fresh WordPress install there will be a few example themes to get
 you started. They are `twentytwentyone`, `twentytwentythree`, and
 `twentytwentytwo`.
 
-```bash
-cp plugins/bbpress/templates/default/bbpress themes/YOUR_THEME/bbpress
-cp plugins/bbpress/templates/default/css/ themes/YOUR_THEME/css
-cp plugins/bbpress/templates/default/extras/ themes/YOUR_THEME/
-cp plugins/bbpress/templates/default/js
-cp plugins/bbpress/templates/default/bbpress-functions.php
+Minimum required files
+
+- `templates/index.html`
+- `style.css`
+- `theme.json`
+
+Basic directory structure of `twentytwentyone`
+
+```
+.
+├── assets (dir)/
+│   ├── css (dir)
+│   ├── images (dir)
+│   └── js (dir)
+├── inc (dir)
+├── template-parts (dir)/
+│   ├── footer (dir)
+│   ├── header (dir)
+│   ├── navigation (dir)
+│   ├── page (dir)
+│   └── post (dir)
+├── 404.php
+├── archive.php
+├── comments.php
+├── footer.php
+├── front-page.php
+├── functions.php
+├── header.php
+├── index.php
+├── page.php
+├── README.txt
+├── rtl.css
+├── screenshot.png
+├── search.php
+├── searchform.php
+├── sidebar.php
+├── single.php
+└── style.css
 ```
 
     tags: #wordpress #php #development
