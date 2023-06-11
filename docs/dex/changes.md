@@ -1,3 +1,4 @@
+* 2023-06-11 12:03:12Z [Where to get started when design a system](../147)
 * 2023-06-11 11:19:59Z [Cool streaming setup that I should look into](../45)
 * 2023-06-09 14:13:29Z [Minneapolis 20s 30s something social meetup group](../144)
 * 2023-06-09 13:10:16Z [M23SS brewery event at Blackstack Brewing](../143)
