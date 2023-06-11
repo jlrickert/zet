@@ -1,3 +1,4 @@
+* 2023-06-11 11:19:59Z [Cool streaming setup that I should look into](../45)
 * 2023-06-09 14:13:29Z [Minneapolis 20s 30s something social meetup group](../144)
 * 2023-06-09 13:10:16Z [M23SS brewery event at Blackstack Brewing](../143)
 * 2023-06-09 11:04:06Z [How to effectively use cp](../142)
@@ -98,7 +99,6 @@
 * 2023-05-31 13:35:24Z [World of warcraft weekly checklist ](../48)
 * 2023-05-31 13:35:24Z [Transmogs for windborne velocidrake](../47)
 * 2023-05-31 13:35:24Z [How to swap caps lock on MacOS](../91)
-* 2023-05-31 13:35:24Z [Cool streaming setup that I should look into](../45)
 * 2023-05-31 13:35:24Z [Example neovim setups that other people use](../44)
 * 2023-05-31 13:35:24Z [How to do complex filtering with mongosh](../43)
 * 2023-05-31 13:35:24Z [How to update fields using mongosh](../42)
