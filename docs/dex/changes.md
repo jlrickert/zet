@@ -1,3 +1,4 @@
+* 2023-06-12 11:19:31Z [How to setup VSCode for PHP and WordPress development](../136)
 * 2023-06-12 08:59:45Z [How to get started developing themes and plugins with WordPress](../132)
 * 2023-06-12 08:59:03Z [Recommended php language server to use](../134)
 * 2023-06-12 08:55:42Z [How to setup bbPress forums in WordPress](../139)
@@ -11,7 +12,6 @@
 * 2023-06-09 09:54:25Z [Cuzzy's Grill and bar in downtown Minneapolis](../138)
 * 2023-06-09 09:12:13Z [Como Park Zoo and Conservatory in St Paul Minnesota](../137)
 * 2023-06-09 07:29:50Z [Task to figure out how to make scrolling faster on MacOS](../135)
-* 2023-06-08 15:11:58Z [How to setup VSCode for PHP and WordPress development](../136)
 * 2023-06-08 14:26:05Z [Installing software with curl](../101)
 * 2023-06-08 12:18:43Z [WordPress overview](../131)
 * 2023-06-08 12:02:24Z [How do you fingerprint the OS with bash](../133)
