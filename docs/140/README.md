@@ -2,7 +2,9 @@
 
 On a fresh WordPress install there will be a few example themes to get
 you started. They are `twentytwentyone`, `twentytwentythree`, and
-`twentytwentytwo`.
+`twentytwentytwo`. There are 2 different types of themes. One is block
+and the other is classic. `twentytwentyone` is an example of a classic
+theme while the other 2 are block themes.
 
 Minimum required files
 
