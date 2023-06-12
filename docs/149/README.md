@@ -1,9 +1,12 @@
 # Useful WordPress development plugins
 
 There are a few plugins that help during development. Here are a few
-that I found from the developer [wordpress] website.
+that I found from the official developer [wordpress] website.  Here is
+the plugins that it suggests: Debug Bar, Query Monitor, Log Deprecated
+Notices, Monster Widget, and Theme-Check.
 
-Debug bar
+- Debug bar
+
 
 [wordpress]: https://developer.wordpress.org/themes/getting-started/setting-up-a-development-environment/
 

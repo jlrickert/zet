@@ -1,3 +1,4 @@
+* 2023-06-12 11:32:45Z [Basics of skip links in web development](../150)
 * 2023-06-12 11:19:39Z [How to create your own theme in WordPress](../140)
 * 2023-06-12 11:19:31Z [How to setup VSCode for PHP and WordPress development](../136)
 * 2023-06-12 08:59:45Z [How to get started developing themes and plugins with WordPress](../132)
