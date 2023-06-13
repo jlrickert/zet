@@ -1,3 +1,4 @@
+* 2023-06-13 12:13:11Z [WordPress development overview](../131)
 * 2023-06-13 12:13:07Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-13 12:07:06Z [Official WordPress theme review process](../151)
 * 2023-06-13 11:05:36Z [MacOS workstation setup](../88)
@@ -21,7 +22,6 @@
 * 2023-06-09 09:12:13Z [Como Park Zoo and Conservatory in St Paul Minnesota](../137)
 * 2023-06-09 07:29:50Z [Task to figure out how to make scrolling faster on MacOS](../135)
 * 2023-06-08 14:26:05Z [Installing software with curl](../101)
-* 2023-06-08 12:18:43Z [WordPress overview](../131)
 * 2023-06-08 12:02:24Z [How do you fingerprint the OS with bash](../133)
 * 2023-06-07 14:32:44Z [Zettelkasten search engine](../62)
 * 2023-06-07 14:32:41Z [A quick to making a module in golang](../127)
