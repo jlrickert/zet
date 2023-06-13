@@ -8,4 +8,4 @@ use for reference: `twentytwentytwo`, and `twentytwentythree`
 
 [docs]: https://developer.wordpress.org/themes/
 
-    #wordpress #programming #webdev
+    tags: #wordpress #programming #webdev

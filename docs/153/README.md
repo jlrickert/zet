@@ -23,4 +23,4 @@ Template hierarchy
 
 Please note that this is still a work in progress.
 
-    #wordpress #programming #webdev
+    tags: #wordpress #programming #webdev
