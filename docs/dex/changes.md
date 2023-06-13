@@ -1,3 +1,4 @@
+* 2023-06-13 10:28:57Z [Query strings are thought to imped indexing of dynamic pages](../154)
 * 2023-06-13 10:18:36Z [How to setup tailwind for WordPress](../152)
 * 2023-06-12 14:38:50Z [How to create your own theme in WordPress](../140)
 * 2023-06-12 12:04:07Z [Useful WordPress development plugins](../149)
