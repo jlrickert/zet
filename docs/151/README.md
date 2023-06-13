@@ -1,4 +1,4 @@
-# WordPress theme review process
+# Official WordPress theme review process
 
 In order to be able to submit a theme to WordPress there are guidelines
 that are required to be met. They are documented in the official
