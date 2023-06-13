@@ -1,3 +1,4 @@
+* 2023-06-13 14:47:45Z [Thinking about a Zettelkasten organization as a form a taxonomy](../158)
 * 2023-06-13 12:46:35Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-13 12:32:31Z [How to setup tailwind for WordPress](../152)
 * 2023-06-13 12:28:30Z [Overview of the block editor in WordPress](../156)

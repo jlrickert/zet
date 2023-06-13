@@ -9,7 +9,6 @@ Important files
 | --------------- | -------------------------- |
 | [functions.php] | Hooks related to the theme |
 
-
 [functions.php]: https://developer.wordpress.org/themes/basics/theme-functions/
 
     tags: #wordpress #programming #webdev
