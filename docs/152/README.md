@@ -23,6 +23,8 @@ Create `tailwind.css` with the following content
 Add a script in `package.json` to have the value `tailwindcss -i
 ./tailwind.css -o ./style.css --watch`.
 
+- [ ] TODO: Programmatically add script `package.json` with `jq`
+
 [css tricks]: https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/
 
     tags: #wordpress #php #css #programming

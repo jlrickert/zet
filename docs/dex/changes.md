@@ -1,3 +1,4 @@
+* 2023-06-13 10:18:36Z [How to setup tailwind for WordPress](../152)
 * 2023-06-12 14:38:50Z [How to create your own theme in WordPress](../140)
 * 2023-06-12 12:04:07Z [Useful WordPress development plugins](../149)
 * 2023-06-12 12:03:10Z [WordPress theme review process](../151)
