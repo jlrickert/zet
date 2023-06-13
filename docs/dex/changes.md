@@ -1,3 +1,4 @@
+* 2023-06-13 11:05:36Z [MacOS workstation setup](../88)
 * 2023-06-13 10:28:57Z [Query strings are thought to imped indexing of dynamic pages](../154)
 * 2023-06-13 10:18:36Z [How to setup tailwind for WordPress](../152)
 * 2023-06-12 14:38:50Z [How to create your own theme in WordPress](../140)
@@ -24,7 +25,6 @@
 * 2023-06-07 14:32:44Z [Zettelkasten search engine](../62)
 * 2023-06-07 14:32:41Z [A quick to making a module in golang](../127)
 * 2023-06-07 14:32:39Z [Developing multiple modules at a time in go](../126)
-* 2023-06-07 13:47:34Z [MacOS workstation setup](../88)
 * 2023-06-07 12:54:23Z [How to configure bash scripting behavior](../130)
 * 2023-06-07 11:29:57Z [My personal PHP style guide](../110)
 * 2023-06-07 11:20:50Z [How to use arrays in bash](../129)

@@ -9,11 +9,16 @@ The only 2 required files are `index.php` and `style.css`.
 When the client or user sends a request to the site for an html page it
 uses the query string to determine what template to use.
 
+```
+http://example.com/$THING1/$CATEGORY/$SLUG
+```
+
 Template hierarchy
 
-| File        | Required | Description                                    |
-| ----------- | -------- | ---------------------------------------------- |
-| `index.php` | [x]      | Required file. Default if no template is found |
-| `404.php`   |          |                                                |
+| File           | Description                                    |
+| -------------- | ---------------------------------------------- | --- |
+| `index.php`    | Required file. Default if no template is found |
+| `404.php`      |                                                |     |
+| `category.php` |
 
     #wordpress #programming #webdev
