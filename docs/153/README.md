@@ -21,4 +21,6 @@ Template hierarchy
 | `404.php`      |                                                |     |
 | `category.php` |
 
+Please note that this is still a work in progress.
+
     #wordpress #programming #webdev

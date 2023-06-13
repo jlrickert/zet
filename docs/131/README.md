@@ -1,4 +1,10 @@
-# WordPress overview
+# WordPress development overview
+
+WordPress is a platform originally built to be a blogging platform.
+Currently, it has expanded to be a generic website builder with a
+traditional CMS.
+
+Here are the key concepts to learn.
 
 - Core concepts: CMS, Multisite network, plugin, theme.
 - Data: database, database table, loop, metadata, query.
@@ -8,6 +14,10 @@
 - Code: action hook, API, class, filter hook, function, object, Object Oriented Programming, property, method, template tag.
 - Permissions: capability, role.
 - Security: NONCE keys, SALT keys, sanitization, validation.
+
+See the developer [documention] for a deep dive.
+
+[documention]: https://developer.wordpress.org/
 
 meta:
 

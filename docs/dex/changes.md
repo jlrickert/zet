@@ -1,3 +1,4 @@
+* 2023-06-13 12:13:07Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-13 12:07:06Z [Official WordPress theme review process](../151)
 * 2023-06-13 11:05:36Z [MacOS workstation setup](../88)
 * 2023-06-13 10:28:57Z [Query strings are thought to imped indexing of dynamic pages](../154)
