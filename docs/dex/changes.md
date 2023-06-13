@@ -1,7 +1,7 @@
+* 2023-06-13 12:46:35Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-13 12:32:31Z [How to setup tailwind for WordPress](../152)
 * 2023-06-13 12:28:30Z [Overview of the block editor in WordPress](../156)
 * 2023-06-13 12:13:11Z [WordPress development overview](../131)
-* 2023-06-13 12:13:07Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-13 12:07:06Z [Official WordPress theme review process](../151)
 * 2023-06-13 11:05:36Z [MacOS workstation setup](../88)
 * 2023-06-13 10:28:57Z [Query strings are thought to imped indexing of dynamic pages](../154)
