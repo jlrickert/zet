@@ -24,13 +24,15 @@ Key types:
 ssh-keygen -t ed25519 -f "$HOME/id_ed25519_name" -C "your comment"
 ```
 
-Constant password prompts are annoying.  Here is how to get rid of them
-on MacOSX
+Constant password prompts are annoying. Here is how to get rid of them
+on MacOSX.
 
 ```bash
 ssh-add --apple-use-keychain
+ssh-add --apple-use-keychain ~/.ssh/id_ed25519_your_key
+# shortcut if sshkey is setup
+for i in $(sshkey list); do ssh-add --apple-use-keychain "$HOME/.ssh/$i"; done
 ```
-
 
 Meta:
 
