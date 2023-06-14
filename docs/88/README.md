@@ -65,7 +65,7 @@ Command: Uninstall `code` command in PATH ``
 
 - Install [flutter]
 
-- Install [yabai] for tiling window manager
+- Install [yabai](../103) for tiling window manager
 
 - Install Lando
 
