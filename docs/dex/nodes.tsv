@@ -82,7 +82,7 @@
 85	2023-05-31 21:52:30Z	How to install rust properly to prevent mucking with dotfiles
 86	2023-05-31 13:35:24Z	How to verify file integrity on the cli
 87	2023-05-31 13:35:24Z	Logitech G604 issues on macOS
-88	2023-06-13 11:05:36Z	MacOS workstation setup
+88	2023-06-14 09:38:06Z	MacOS workstation setup
 89	2023-06-02 14:33:52Z	Logitech G604 issues on macOS
 90	2023-05-31 13:35:24Z	Sanity content management system
 91	2023-05-31 13:35:24Z	How to swap caps lock on MacOS
@@ -106,7 +106,7 @@
 110	2023-06-07 11:29:57Z	My personal PHP style guide
 111	2023-06-02 16:46:11Z	My personal Bash style guide
 112	2023-06-02 16:46:58Z	My personal typescript style guide
-113	2023-06-02 17:17:15Z	Managing contexts with bash
+113	2023-06-14 09:38:06Z	Managing contexts with bash
 114	2023-06-02 14:35:27Z	Samsung S22+ device specification
 115	2023-06-02 14:29:46Z	Recommended android SDK target for new android apps
 116	2023-06-02 15:22:09Z	Lando concepts
@@ -150,3 +150,4 @@
 158	2023-06-13 14:47:45Z	Thinking about a Zettelkasten organization as a form a taxonomy
 159	2023-06-13 16:16:31Z	Full list of operating systems that ansible is able to detect
 160	2023-06-13 16:54:43Z	How to install homebrew on a MacOS
+161	2023-06-14 11:07:30Z	How to benchmark zsh
