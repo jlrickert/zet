@@ -1,4 +1,4 @@
-# Install lando on MacOS
+# How to install lando on MacOS
 
 Prior to installing [lando] docker should be uninstalled. This is to
 prevent a couple of issues. Something to note is that Docker should be
@@ -22,9 +22,9 @@ open /Volumes/Lando\ ${VERSION}/LandoInstaller.pkg
 sudo hdiutil detach "/Volumes/Lando ${VERSION}"
 ```
 
-Once everything is installed x86 emutation may need to be enabled if
+Once everything is installed x86 emulation may need to be enabled if
 using apple silicon. To enable go into the settings in docker and enable
-*Use Rosetta for x86/amd64 emulation on Apple Silicon*. This is found in
+_Use Rosetta for x86/amd64 emulation on Apple Silicon_. This is found in
 features in development.
 
 An alternative installation is with brew. This is initially what I tried
@@ -37,7 +37,5 @@ brew install lando
 
 [installation docs]: https://docs.lando.dev/getting-started/installation.html
 [lando]: https://docs.lando.dev/php/
-
-Meta
 
     tags: #programming #macOS #php

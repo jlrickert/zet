@@ -1,4 +1,4 @@
-# MacOS workstation setup
+# My MacOS workstation setup
 
 - Install Rosetta
 
