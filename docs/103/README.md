@@ -34,7 +34,9 @@ yabai --stop-service
 yabai --stop-service && yabai --start-service
 ```
 
-For hacking on configs
+For hacking on configs.  This is actually unnecessary for skhd as
+restarting is build right into the service.  I am keeping it here for
+reference.
 
 ```bash
 ls .skhdrc  | entr -s 'skhd --stop-service && skhd --start-service'
@@ -47,6 +49,7 @@ References:
 - [josean blog post](https://www.josean.com/posts/yabai-setup)
 - [josean's dotfiles](https://github.com/josean-dev/dev-environment-files)
 - [anuj-chandra](https://anuj-chandra.medium.com/using-i3-like-tiling-window-managers-in-macos-with-yabai-ebf0e002b992)
+- [sgoodluck](https://github.com/sgoodluck/mac-dotfiles)
 
 Meta:
 

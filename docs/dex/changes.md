@@ -1,3 +1,4 @@
+* 2023-06-14 12:40:57Z [Tiling window management on macOS with Yabai](../103)
 * 2023-06-14 11:28:48Z [Look into the fidget rewrite issue](../162)
 * 2023-06-14 11:07:30Z [How to benchmark zsh](../161)
 * 2023-06-14 09:38:06Z [Task to fix keybinding issues between MacOS and ranger](../141)
@@ -49,7 +50,6 @@
 * 2023-06-05 03:01:45Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-06-05 00:51:56Z [Necromancer leveling build on Diablo 4](../121)
 * 2023-06-05 00:51:51Z [Diablo 4 completions](../120)
-* 2023-06-03 16:04:10Z [Tiling window management on macOS with Yabai](../103)
 * 2023-06-03 15:56:26Z [Tmux integration with iTerm 2](../119)
 * 2023-06-03 15:22:42Z [Reason why some things will not work on apple](../118)
 * 2023-06-02 16:52:09Z [How to set path variables on MacOS](../95)

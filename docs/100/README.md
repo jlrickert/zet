@@ -16,7 +16,7 @@ android studio setup wizard. See flutters [docs] for trouble shooting if
 running `flutter doctor` doesn't see the android tool chain.
 
 To allow development on apple xcode and CocoaPods needs to be setup. Go
-to apples website to [download] xcode. This requires some apple account
+to apples website to [download xcode]. This requires some apple account
 shenanigans (haven't done this step). Once installed run the following:
 
 ```bash
@@ -24,7 +24,7 @@ sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
 sudo xcodebuild -runFirstLaunch
 ```
 
-[download]: https://developer.apple.com/xcode/download/
+[download xcode]: https://developer.apple.com/xcode/download/
 [android studio]: https://developer.android.com/studio/index.html
 [docs]: https://docs.flutter.dev/get-started/install/macos#android-setup
 
