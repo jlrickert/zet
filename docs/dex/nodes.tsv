@@ -1,158 +1,161 @@
-0	2023-05-18 22:28:45Z	Sorry, planned but not yet available
-1	2023-05-31 13:35:24Z	World of warcraft evoker game play
-2	2023-05-31 13:35:24Z	World of warcraft evoker devastation gameplay
-3	2023-05-31 13:35:24Z	World of warcraft evoker preservation gameplay
-4	2023-06-14 09:38:06Z	World of warcraft dragonflight season 1 dungeons
-5	2023-05-31 21:02:02Z	December 2022 week 2 2022 world of warcraft checklist
-6	2023-05-31 13:35:24Z	Pop_OS! window management setup
-7	2023-05-31 13:35:24Z	A Linux distribution called Pop_OS!
-8	2023-05-31 13:35:24Z	Pop_OS! unable to run jest
-9	2023-05-31 13:35:24Z	The processes of migrating my private zets to my public zets
-10	2023-05-31 13:35:24Z	How I manage my secret dot files using a usb stick
-11	2023-05-31 13:35:24Z	Unix help pages with color
-12	2023-05-31 13:35:24Z	How to view and edit pdfs and the command line
-13	2023-05-31 13:35:24Z	Nginx clear cache hack with echo ""
-14	2023-05-31 13:35:24Z	Fierce armor kit construction cost calculation
-15	2023-05-31 13:35:24Z	How to quickly test out space vim
-16	2023-05-31 13:35:24Z	How to quickly spin up a dev enviornment for testing with docker
-17	2023-05-31 13:35:24Z	How to manage files in vanilla vim with netrw
-18	2023-05-31 13:35:24Z	Quick start on settup lsp for neovim lua hacking
-19	2023-05-31 13:35:24Z	Package managment in neovim with mason
-20	2023-05-31 13:35:24Z	Pattern for managing keybindings in neovim
-21	2023-05-31 13:35:24Z	Quick fix list in neovim
-22	2023-05-31 21:02:14Z	Rust installation process annoyances
-23	2023-05-31 08:35:24Z	Node version managment with nvm
-24	2023-05-31 13:35:24Z	Example of a vm with out a garbage collect
-25	2023-05-31 13:35:24Z	Schema google thing
-26	2023-05-31 13:35:24Z	How to export postman files
-27	2023-05-31 13:35:24Z	Thanksgiving bread bowl 2022
-28	2023-05-31 13:35:24Z	Configuration of IntelliJ IDEA and friends
-29	2023-05-31 13:35:24Z	Sat 17 Dec 2022 farrel's kick boxing party
-30	2023-05-31 13:35:24Z	World of warcraft dragonflight season 1
-31	2023-05-31 13:35:24Z	Halls of Valor dungeon
-32	2023-05-31 13:35:24Z	World of warcraft court of stars dungen
-33	2023-05-31 13:35:24Z	Bash scripting tricks
-34	2023-05-31 13:35:24Z	Recommend language sever to use for golang development
-35	2023-05-31 13:35:24Z	Key things that make neovim as an ide
-37	2023-05-31 13:35:24Z	File type specific settings in neovim
-38	2023-05-31 13:35:24Z	Shadow moon burial grounds dungeon
-39	2023-05-31 13:35:24Z	Halls of valor dungeon
-40	2023-05-31 13:35:24Z	How to get a portal mailbox in world of warcraft
-41	2023-05-31 13:35:24Z	References to other peoples dotfiles that I find interesting
-42	2023-05-31 13:35:24Z	How to update fields using mongosh
-43	2023-05-31 13:35:24Z	How to do complex filtering with mongosh
-44	2023-05-31 13:35:24Z	Example neovim setups that other people use
-45	2023-06-11 11:19:59Z	Cool streaming setup that I should look into
-46	2023-05-31 13:35:24Z	Mon 26 Dec 2022 world of warcraft weekly checklist
-47	2023-05-31 13:35:24Z	Transmogs for windborne velocidrake
-48	2023-05-31 13:35:24Z	World of warcraft weekly checklist 
-49	2023-05-31 13:35:24Z	Formatting in neovim
-50	2023-05-31 13:35:24Z	Neovim workspaces
-51	2023-05-31 13:35:24Z	Alacrity configuration notes
-52	2023-05-31 13:35:24Z	Obsidian Dracthyr Battlegear
-53	2023-05-31 13:35:24Z	Gold and black armor for dragon riding mounts
-54	2023-05-31 13:35:24Z	Broodkeeper diurna boss fight
-56	2023-05-31 13:35:24Z	Interesting things that I ran into when researching neovim as an ide
-57	2023-05-31 13:35:24Z	Top typing program out there
-58	2023-05-31 13:35:24Z	Skeuomorphism website design
-59	2023-05-31 13:35:24Z	Foony's developer acorn1010
-60	2023-05-31 13:35:24Z	Dragonflight leather working recipes
-61	2023-05-31 13:35:24Z	How to setup fira code fonts on windows
-62	2023-06-07 14:32:44Z	Zettelkasten search engine
-63	2023-05-31 13:35:24Z	How does a generic search engine work for the web
-64	2023-06-05 14:18:56Z	Top gear for warlock
-65	2023-06-05 03:01:45Z	Recommended warlock spec for Aberrus bosses
-67	2023-05-31 15:39:14Z	My first user experience with keg
-69	2023-05-31 08:35:24Z	Config files for zsh environment
-70	2023-05-31 13:35:24Z	Useful oh my zsh plugins list
-71	2023-05-31 13:35:24Z	How to handle conditionals in bash scripting
-72	2023-05-31 13:35:24Z	Pop_OS! setup
-73	2023-05-31 13:35:24Z	Example of keyword searching with awk
-74	2023-05-31 13:35:24Z	Git techniques and cheat sheet
-75	2023-05-31 13:35:24Z	Tiling window management in windows with komorebi
-76	2023-05-31 20:24:13Z	Harpoon keybindings in vscode
-77	2023-05-31 13:35:24Z	Really good article about software engineering principles
-78	2023-05-31 13:35:24Z	Quick fix menus in vim
-79	2023-05-31 13:35:24Z	An example of a bash script that has tab completion
-80	2023-05-31 13:35:24Z	Rob Muhlestein
-81	2023-05-31 20:24:26Z	rwxrob's list of go packages
-82	2023-05-31 20:25:27Z	How to give credit to the original script owner
-83	2023-05-31 13:35:24Z	Managing personal secrets with an external USB drive
-84	2023-05-31 13:35:24Z	My preferred way of handling text width in documents
-85	2023-05-31 21:52:30Z	How to install rust properly to prevent mucking with dotfiles
-86	2023-05-31 13:35:24Z	How to verify file integrity on the cli
-87	2023-05-31 13:35:24Z	Logitech G604 issues on macOS
-88	2023-06-14 13:45:01Z	My MacOS workstation setup
-89	2023-06-02 14:33:52Z	Logitech G604 issues on macOS
-90	2023-05-31 13:35:24Z	Sanity content management system
-91	2023-05-31 13:35:24Z	How to swap caps lock on MacOS
-92	2023-05-31 13:35:24Z	Must have plugins for google chrome
-93	2023-05-31 13:35:24Z	Installing patched power line fonts for MacOS
-94	2023-06-05 14:19:30Z	fzf setup and usage
-95	2023-06-02 16:52:09Z	How to set path variables on MacOS
-96	2023-05-31 15:49:40Z	keg create git issue
-97	2023-06-05 14:19:15Z	Ergonomic mouse research
-99	2023-05-31 21:53:25Z	Fedora workstation setup
-100	2023-06-14 12:41:01Z	Install flutter on macOS with apple silicon
-101	2023-06-08 14:26:05Z	Installing software with curl
-102	2023-05-31 22:17:55Z	Using a temporary directory that require installing transient scripts
-103	2023-06-14 12:40:57Z	Tiling window management on macOS with Yabai
-104	2023-06-01 18:37:29Z	Overview of macOS tools and software
-105	2023-06-02 15:37:51Z	Concrete 5
-106	2023-06-14 12:54:03Z	How to install lando on MacOS
-107	2023-06-01 21:19:36Z	Date standards
-108	2023-06-02 14:33:49Z	Wowhead diablo 4 class ranking comparison
-109	2023-06-02 15:23:28Z	MacOS vs Linux difference
-110	2023-06-07 11:29:57Z	My personal PHP style guide
-111	2023-06-02 16:46:11Z	My personal Bash style guide
-112	2023-06-02 16:46:58Z	My personal typescript style guide
-113	2023-06-14 09:38:06Z	Managing contexts with bash
-114	2023-06-02 14:35:27Z	Samsung S22+ device specification
-115	2023-06-02 14:29:46Z	Recommended android SDK target for new android apps
-116	2023-06-02 15:22:09Z	Lando concepts
-117	2023-06-02 15:26:20Z	Mailhog
-118	2023-06-03 15:22:42Z	Reason why some things will not work on apple
-119	2023-06-03 15:56:26Z	Tmux integration with iTerm 2
-120	2023-06-05 00:51:51Z	Diablo 4 completions
-121	2023-06-05 00:51:56Z	Necromancer leveling build on Diablo 4
-122	2023-06-05 10:20:45Z	My vim setup
-123	2023-06-05 11:09:52Z	Problems with Linux as a workstation
-124	2023-06-06 16:01:15Z	Sync a directory with rsync
-125	2023-06-05 18:44:18Z	Programmatic bash completions
-126	2023-06-07 14:32:39Z	Developing multiple modules at a time in go
-127	2023-06-07 14:32:41Z	A quick to making a module in golang
-128	2023-06-06 15:36:03Z	WordPress plugin Gravity forms
-129	2023-06-07 11:20:50Z	How to use arrays in bash
-130	2023-06-07 12:54:23Z	How to configure bash scripting behavior
-131	2023-06-13 12:13:11Z	WordPress development overview
-132	2023-06-12 08:59:45Z	How to get started developing themes and plugins with WordPress
-133	2023-06-08 12:02:24Z	How do you fingerprint the OS with bash
-134	2023-06-12 08:59:03Z	Recommended php language server to use
-135	2023-06-09 07:29:50Z	Task to figure out how to make scrolling faster on MacOS
-136	2023-06-12 11:19:31Z	How to setup VSCode for PHP and WordPress development
-137	2023-06-09 09:12:13Z	Como Park Zoo and Conservatory in St Paul Minnesota
-138	2023-06-09 09:54:25Z	Cuzzy's Grill and bar in downtown Minneapolis
-139	2023-06-12 08:55:42Z	How to setup bbPress forums in WordPress
-140	2023-06-12 14:38:50Z	How to create your own theme in WordPress
-141	2023-06-14 09:38:06Z	Task to fix keybinding issues between MacOS and ranger
-142	2023-06-09 11:04:06Z	How to effectively use cp
-143	2023-06-09 13:10:16Z	M23SS brewery event at Blackstack Brewing
-144	2023-06-09 14:13:29Z	Minneapolis 20s 30s something social meetup group
-147	2023-06-11 12:03:12Z	Where to get started when design a system
-148	2023-06-11 15:20:35Z	Domain model for yabai
-149	2023-06-12 12:04:07Z	Useful WordPress development plugins
-150	2023-06-12 11:32:45Z	Basics of skip links in web development
-151	2023-06-13 12:07:06Z	Official WordPress theme review process
-152	2023-06-13 12:32:31Z	How to setup tailwind for WordPress
-153	2023-06-13 12:46:35Z	Overview of a classic theme in WordPress
-154	2023-06-13 10:28:57Z	Query strings are thought to imped indexing of dynamic pages
-156	2023-06-13 12:28:30Z	Overview of the block editor in WordPress
-158	2023-06-13 14:47:45Z	Thinking about a Zettelkasten organization as a form a taxonomy
-159	2023-06-13 16:16:31Z	Full list of operating systems that ansible is able to detect
-160	2023-06-13 16:54:43Z	How to install homebrew on a MacOS
-161	2023-06-14 11:07:30Z	How to benchmark zsh
-162	2023-06-14 11:28:48Z	Look into the fidget rewrite issue
-163	2023-06-14 15:54:44Z	How to manage ssh keys
-164	2023-06-14 16:47:19Z	How to get started with the redfin api
-166	2023-06-14 17:06:29Z	The service userzoom for doing UX research
-167	2023-06-14 17:28:22Z	Overview of the sales CMS Zendesk
+0	2023-06-14 14:38:06Z	Sorry, planned but not yet available
+1	2023-06-14 14:38:06Z	World of warcraft evoker game play
+2	2023-06-14 14:38:06Z	World of warcraft evoker devastation gameplay
+3	2023-06-14 14:38:06Z	World of warcraft evoker preservation gameplay
+4	2023-06-14 14:38:06Z	World of warcraft dragonflight season 1 dungeons
+5	2023-06-14 14:38:06Z	December 2022 week 2 2022 world of warcraft checklist
+6	2023-06-14 14:38:06Z	Pop_OS! window management setup
+7	2023-06-14 14:38:06Z	A Linux distribution called Pop_OS!
+8	2023-06-14 14:38:06Z	Pop_OS! unable to run jest
+9	2023-06-14 14:38:06Z	The processes of migrating my private zets to my public zets
+10	2023-06-14 14:38:06Z	How I manage my secret dot files using a usb stick
+11	2023-06-14 14:38:06Z	Unix help pages with color
+12	2023-06-14 14:38:06Z	How to view and edit pdfs and the command line
+13	2023-06-14 14:38:06Z	Nginx clear cache hack with echo ""
+14	2023-06-14 14:38:06Z	Fierce armor kit construction cost calculation
+15	2023-06-14 14:38:06Z	How to quickly test out space vim
+16	2023-06-14 14:38:06Z	How to quickly spin up a dev enviornment for testing with docker
+17	2023-06-14 14:38:06Z	How to manage files in vanilla vim with netrw
+18	2023-06-14 14:38:06Z	Quick start on settup lsp for neovim lua hacking
+19	2023-06-14 14:38:06Z	Package managment in neovim with mason
+20	2023-06-14 14:38:06Z	Pattern for managing keybindings in neovim
+21	2023-06-14 14:38:06Z	Quick fix list in neovim
+22	2023-06-14 14:38:06Z	Rust installation process annoyances
+23	2023-06-14 14:38:06Z	Node version managment with nvm
+24	2023-06-14 14:38:06Z	Example of a vm with out a garbage collect
+25	2023-06-14 14:38:06Z	Schema google thing
+26	2023-06-14 14:38:06Z	How to export postman files
+27	2023-06-14 14:38:06Z	Thanksgiving bread bowl 2022
+28	2023-06-14 14:38:06Z	Configuration of IntelliJ IDEA and friends
+29	2023-06-14 14:38:06Z	Sat 17 Dec 2022 farrel's kick boxing party
+30	2023-06-14 14:38:06Z	World of warcraft dragonflight season 1
+31	2023-06-14 14:38:06Z	Halls of Valor dungeon
+32	2023-06-14 14:38:06Z	World of warcraft court of stars dungen
+33	2023-06-14 14:38:06Z	Bash scripting tricks
+34	2023-06-14 14:38:06Z	Recommend language sever to use for golang development
+35	2023-06-14 14:38:06Z	Key things that make neovim as an ide
+37	2023-06-14 14:38:06Z	File type specific settings in neovim
+38	2023-06-14 14:38:06Z	Shadow moon burial grounds dungeon
+39	2023-06-14 14:38:06Z	Halls of valor dungeon
+40	2023-06-14 14:38:06Z	How to get a portal mailbox in world of warcraft
+41	2023-06-14 14:38:06Z	References to other peoples dotfiles that I find interesting
+42	2023-06-14 14:38:06Z	How to update fields using mongosh
+43	2023-06-14 14:38:06Z	How to do complex filtering with mongosh
+44	2023-06-14 14:38:06Z	Example neovim setups that other people use
+45	2023-06-14 14:38:06Z	Cool streaming setup that I should look into
+46	2023-06-14 14:38:06Z	Mon 26 Dec 2022 world of warcraft weekly checklist
+47	2023-06-14 14:38:06Z	Transmogs for windborne velocidrake
+48	2023-06-14 14:38:06Z	World of warcraft weekly checklist 
+49	2023-06-14 14:38:06Z	Formatting in neovim
+50	2023-06-14 14:38:06Z	Neovim workspaces
+51	2023-06-14 14:38:06Z	Alacrity configuration notes
+52	2023-06-14 14:38:06Z	Obsidian Dracthyr Battlegear
+53	2023-06-14 14:38:06Z	Gold and black armor for dragon riding mounts
+54	2023-06-14 14:38:06Z	Broodkeeper diurna boss fight
+56	2023-06-14 14:38:06Z	Interesting things that I ran into when researching neovim as an ide
+57	2023-06-14 14:38:06Z	Top typing program out there
+58	2023-06-14 14:38:06Z	Skeuomorphism website design
+59	2023-06-14 14:38:06Z	Foony's developer acorn1010
+60	2023-06-14 14:38:06Z	Dragonflight leather working recipes
+61	2023-06-14 14:38:06Z	How to setup fira code fonts on windows
+62	2023-06-14 14:38:06Z	Zettelkasten search engine
+63	2023-06-14 14:38:06Z	How does a generic search engine work for the web
+64	2023-06-14 14:38:06Z	Top gear for warlock
+65	2023-06-14 14:38:06Z	Recommended warlock spec for Aberrus bosses
+67	2023-06-14 14:38:06Z	My first user experience with keg
+69	2023-06-14 14:38:06Z	Config files for zsh environment
+70	2023-06-14 14:38:06Z	Useful oh my zsh plugins list
+71	2023-06-14 14:38:06Z	How to handle conditionals in bash scripting
+72	2023-06-14 14:38:06Z	Pop_OS! setup
+73	2023-06-14 14:38:06Z	Example of keyword searching with awk
+74	2023-06-14 14:38:06Z	Git techniques and cheat sheet
+75	2023-06-14 14:38:06Z	Tiling window management in windows with komorebi
+76	2023-06-14 14:38:06Z	Harpoon keybindings in vscode
+77	2023-06-14 14:38:06Z	Really good article about software engineering principles
+78	2023-06-14 14:38:06Z	Quick fix menus in vim
+79	2023-06-14 14:38:06Z	An example of a bash script that has tab completion
+80	2023-06-14 14:38:06Z	Rob Muhlestein
+81	2023-06-14 14:38:06Z	rwxrob's list of go packages
+82	2023-06-14 14:38:06Z	How to give credit to the original script owner
+83	2023-06-14 14:38:06Z	Managing personal secrets with an external USB drive
+84	2023-06-14 14:38:06Z	My preferred way of handling text width in documents
+85	2023-06-14 14:38:06Z	How to install rust properly to prevent mucking with dotfiles
+86	2023-06-14 14:38:06Z	How to verify file integrity on the cli
+87	2023-06-14 14:38:06Z	Logitech G604 issues on macOS
+88	2023-06-14 18:45:01Z	My MacOS workstation setup
+89	2023-06-14 14:38:06Z	Logitech G604 issues on macOS
+90	2023-06-14 14:38:06Z	Sanity content management system
+91	2023-06-14 14:38:06Z	How to swap caps lock on MacOS
+92	2023-06-14 14:38:06Z	Must have plugins for google chrome
+93	2023-06-14 14:38:06Z	Installing patched power line fonts for MacOS
+94	2023-06-14 14:38:06Z	fzf setup and usage
+95	2023-06-14 14:38:06Z	How to set path variables on MacOS
+96	2023-06-14 14:38:06Z	keg create git issue
+97	2023-06-14 14:38:06Z	Ergonomic mouse research
+99	2023-06-14 14:38:06Z	Fedora workstation setup
+100	2023-06-14 17:41:01Z	Install flutter on macOS with apple silicon
+101	2023-06-14 14:38:06Z	Installing software with curl
+102	2023-06-14 14:38:06Z	Using a temporary directory that require installing transient scripts
+103	2023-06-14 17:40:57Z	Tiling window management on macOS with Yabai
+104	2023-06-14 14:38:06Z	Overview of macOS tools and software
+105	2023-06-14 14:38:06Z	Concrete 5
+106	2023-06-14 17:54:03Z	How to install lando on MacOS
+107	2023-06-14 14:38:06Z	Date standards
+108	2023-06-14 14:38:06Z	Wowhead diablo 4 class ranking comparison
+109	2023-06-14 14:38:06Z	MacOS vs Linux difference
+110	2023-06-14 14:38:06Z	My personal PHP style guide
+111	2023-06-14 14:38:06Z	My personal Bash style guide
+112	2023-06-14 14:38:06Z	My personal typescript style guide
+113	2023-06-14 14:38:06Z	Managing contexts with bash
+114	2023-06-14 14:38:06Z	Samsung S22+ device specification
+115	2023-06-14 14:38:06Z	Recommended android SDK target for new android apps
+116	2023-06-14 14:38:06Z	Lando concepts
+117	2023-06-14 14:38:06Z	Mailhog
+118	2023-06-14 14:38:06Z	Reason why some things will not work on apple
+119	2023-06-14 14:38:06Z	Tmux integration with iTerm 2
+120	2023-06-14 14:38:06Z	Diablo 4 completions
+121	2023-06-14 14:38:06Z	Necromancer leveling build on Diablo 4
+122	2023-06-14 14:38:06Z	My vim setup
+123	2023-06-14 14:38:06Z	Problems with Linux as a workstation
+124	2023-06-14 14:38:06Z	Sync a directory with rsync
+125	2023-06-14 14:38:06Z	Programmatic bash completions
+126	2023-06-14 14:38:06Z	Developing multiple modules at a time in go
+127	2023-06-14 14:38:06Z	A quick to making a module in golang
+128	2023-06-14 14:38:06Z	WordPress plugin Gravity forms
+129	2023-06-14 14:38:06Z	How to use arrays in bash
+130	2023-06-14 14:38:06Z	How to configure bash scripting behavior
+131	2023-06-14 14:38:06Z	WordPress development overview
+132	2023-06-14 14:38:06Z	How to get started developing themes and plugins with WordPress
+133	2023-06-14 14:38:06Z	How do you fingerprint the OS with bash
+134	2023-06-14 14:38:06Z	Recommended php language server to use
+135	2023-06-14 14:38:06Z	Task to figure out how to make scrolling faster on MacOS
+136	2023-06-14 14:38:06Z	How to setup VSCode for PHP and WordPress development
+137	2023-06-14 14:38:06Z	Como Park Zoo and Conservatory in St Paul Minnesota
+138	2023-06-14 14:38:06Z	Cuzzy's Grill and bar in downtown Minneapolis
+139	2023-06-14 14:38:06Z	How to setup bbPress forums in WordPress
+140	2023-06-14 14:38:06Z	How to create your own theme in WordPress
+141	2023-06-14 14:38:06Z	Task to fix keybinding issues between MacOS and ranger
+142	2023-06-14 14:38:06Z	How to effectively use cp
+143	2023-06-14 14:38:06Z	M23SS brewery event at Blackstack Brewing
+144	2023-06-14 14:38:06Z	Minneapolis 20s 30s something social meetup group
+147	2023-06-14 14:38:06Z	Where to get started when design a system
+148	2023-06-14 14:38:06Z	Domain model for yabai
+149	2023-06-14 14:38:06Z	Useful WordPress development plugins
+150	2023-06-14 14:38:06Z	Basics of skip links in web development
+151	2023-06-14 14:38:06Z	Official WordPress theme review process
+152	2023-06-14 14:38:06Z	How to setup tailwind for WordPress
+153	2023-06-14 14:38:06Z	Overview of a classic theme in WordPress
+154	2023-06-14 14:38:06Z	Query strings are thought to imped indexing of dynamic pages
+155	2023-06-14 14:38:06Z	Overview of a block theme in WordPress
+156	2023-06-14 14:38:06Z	Overview of the block editor in WordPress
+157	2023-06-14 14:38:06Z	Overview of themes in WordPress
+158	2023-06-14 14:38:06Z	Thinking about a Zettelkasten organization as a form a taxonomy
+159	2023-06-14 14:38:06Z	Full list of operating systems that ansible is able to detect
+160	2023-06-14 14:38:06Z	How to install homebrew on a MacOS
+161	2023-06-14 16:07:30Z	How to benchmark zsh
+162	2023-06-14 16:28:48Z	Look into the fidget rewrite issue
+163	2023-06-14 20:54:44Z	How to manage ssh keys
+164	2023-06-14 21:47:19Z	How to get started with the redfin api
+166	2023-06-14 22:06:29Z	The service userzoom for doing UX research
+167	2023-06-14 22:28:22Z	Overview of the sales CMS Zendesk
+168	2023-06-15 09:29:10Z	How to work with gradients with tailwind
