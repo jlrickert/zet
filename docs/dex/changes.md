@@ -1,3 +1,4 @@
+* 2023-06-15 10:20:43Z [Overview of a block theme in WordPress](../155)
 * 2023-06-15 09:29:10Z [How to work with gradients with tailwind](../168)
 * 2023-06-14 22:28:22Z [Overview of the sales CMS Zendesk](../167)
 * 2023-06-14 22:06:29Z [The service userzoom for doing UX research](../166)
@@ -100,7 +101,6 @@
 * 2023-06-14 14:38:06Z [Thinking about a Zettelkasten organization as a form a taxonomy](../158)
 * 2023-06-14 14:38:06Z [Overview of themes in WordPress](../157)
 * 2023-06-14 14:38:06Z [Overview of the block editor in WordPress](../156)
-* 2023-06-14 14:38:06Z [Overview of a block theme in WordPress](../155)
 * 2023-06-14 14:38:06Z [Query strings are thought to imped indexing of dynamic pages](../154)
 * 2023-06-14 14:38:06Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-14 14:38:06Z [How to setup tailwind for WordPress](../152)
