@@ -1,3 +1,4 @@
+* 2023-06-16 14:33:11Z [Overview of themes in WordPress](../157)
 * 2023-06-16 13:16:07Z [MLSGrid](../172)
 * 2023-06-16 10:26:50Z [E-commerce headless CMS domain model](../171)
 * 2023-06-15 13:38:49Z [Headless CMS options for managing content](../169)
@@ -102,7 +103,6 @@
 * 2023-06-14 14:38:06Z [How to quickly spin up a dev enviornment for testing with docker](../16)
 * 2023-06-14 14:38:06Z [Full list of operating systems that ansible is able to detect](../159)
 * 2023-06-14 14:38:06Z [Thinking about a Zettelkasten organization as a form a taxonomy](../158)
-* 2023-06-14 14:38:06Z [Overview of themes in WordPress](../157)
 * 2023-06-14 14:38:06Z [Overview of the block editor in WordPress](../156)
 * 2023-06-14 14:38:06Z [Query strings are thought to imped indexing of dynamic pages](../154)
 * 2023-06-14 14:38:06Z [Overview of a classic theme in WordPress](../153)
