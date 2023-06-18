@@ -1,3 +1,4 @@
+* 2023-06-17 22:03:22Z [My MacOS workstation setup](../88)
 * 2023-06-16 17:02:10Z [Overview of a block theme in WordPress](../155)
 * 2023-06-16 14:33:11Z [Overview of themes in WordPress](../157)
 * 2023-06-16 13:16:07Z [MLSGrid](../172)
@@ -8,7 +9,6 @@
 * 2023-06-14 22:06:29Z [The service userzoom for doing UX research](../166)
 * 2023-06-14 21:47:19Z [How to get started with the redfin api](../164)
 * 2023-06-14 20:54:44Z [How to manage ssh keys](../163)
-* 2023-06-14 18:45:01Z [My MacOS workstation setup](../88)
 * 2023-06-14 17:54:03Z [How to install lando on MacOS](../106)
 * 2023-06-14 17:41:01Z [Install flutter on macOS with apple silicon](../100)
 * 2023-06-14 17:40:57Z [Tiling window management on macOS with Yabai](../103)

@@ -12,6 +12,11 @@
 
   - [How to swap caps lock](../91)
 
+- Disable keyboard accents
+
+  Run `defaults write -g ApplePressAndHoldEnabled -bool false` in the
+  terminal.  This allows VSCode to work as expected.
+
 - Xcode
 
   This is done by running `xcode-select --install`
