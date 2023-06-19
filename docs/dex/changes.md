@@ -1,3 +1,4 @@
+* 2023-06-19 11:33:13Z [How to setup tailwind for WordPress](../152)
 * 2023-06-17 22:03:22Z [My MacOS workstation setup](../88)
 * 2023-06-16 17:02:10Z [Overview of a block theme in WordPress](../155)
 * 2023-06-16 14:33:11Z [Overview of themes in WordPress](../157)
@@ -106,7 +107,6 @@
 * 2023-06-14 14:38:06Z [Overview of the block editor in WordPress](../156)
 * 2023-06-14 14:38:06Z [Query strings are thought to imped indexing of dynamic pages](../154)
 * 2023-06-14 14:38:06Z [Overview of a classic theme in WordPress](../153)
-* 2023-06-14 14:38:06Z [How to setup tailwind for WordPress](../152)
 * 2023-06-14 14:38:06Z [Official WordPress theme review process](../151)
 * 2023-06-14 14:38:06Z [Basics of skip links in web development](../150)
 * 2023-06-14 14:38:06Z [How to quickly test out space vim](../15)
