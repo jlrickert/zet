@@ -1,3 +1,4 @@
+* 2023-06-21 16:35:00Z [Overview of a block theme in WordPress](../155)
 * 2023-06-21 16:30:10Z [How to create your own theme in WordPress](../140)
 * 2023-06-21 16:29:17Z [WordPress development overview](../177)
 * 2023-06-21 16:10:03Z [What is an electrical component distributor](../178)
@@ -7,7 +8,6 @@
 * 2023-06-19 11:51:47Z [Example scan line effect with tailwind](../173)
 * 2023-06-19 11:33:13Z [How to setup tailwind for WordPress](../152)
 * 2023-06-17 22:03:22Z [My MacOS workstation setup](../88)
-* 2023-06-16 17:02:10Z [Overview of a block theme in WordPress](../155)
 * 2023-06-16 14:33:11Z [Overview of themes in WordPress](../157)
 * 2023-06-16 13:16:07Z [MLSGrid](../172)
 * 2023-06-16 10:26:50Z [E-commerce headless CMS domain model](../171)
