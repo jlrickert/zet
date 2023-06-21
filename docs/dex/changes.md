@@ -1,3 +1,4 @@
+* 2023-06-21 17:58:58Z [Official WordPress theme review process](../151)
 * 2023-06-21 17:45:50Z [WordPress email integrations](../181)
 * 2023-06-21 16:35:00Z [Overview of a block theme in WordPress](../155)
 * 2023-06-21 16:30:10Z [How to create your own theme in WordPress](../140)
@@ -113,7 +114,6 @@
 * 2023-06-14 14:38:06Z [Thinking about a Zettelkasten organization as a form a taxonomy](../158)
 * 2023-06-14 14:38:06Z [Overview of the block editor in WordPress](../156)
 * 2023-06-14 14:38:06Z [Overview of a classic theme in WordPress](../153)
-* 2023-06-14 14:38:06Z [Official WordPress theme review process](../151)
 * 2023-06-14 14:38:06Z [Basics of skip links in web development](../150)
 * 2023-06-14 14:38:06Z [How to quickly test out space vim](../15)
 * 2023-06-14 14:38:06Z [Useful WordPress development plugins](../149)
