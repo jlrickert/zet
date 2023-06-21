@@ -1,4 +1,4 @@
-# Query strings are thought to imped indexing of dynamic pages
+# Query strings are thought to impede indexing of dynamic pages
 
 I ran into an interesting [quote] about the use of query strings in
 regards to the use of query strings and indexing of dynamic pages.

@@ -1,3 +1,4 @@
+* 2023-06-21 09:20:32Z [Query strings are thought to impede indexing of dynamic pages](../154)
 * 2023-06-20 08:56:30Z [My personal website design](../174)
 * 2023-06-19 12:51:23Z [How to work with gradients with tailwind](../168)
 * 2023-06-19 11:51:47Z [Example scan line effect with tailwind](../173)
@@ -107,7 +108,6 @@
 * 2023-06-14 14:38:06Z [Full list of operating systems that ansible is able to detect](../159)
 * 2023-06-14 14:38:06Z [Thinking about a Zettelkasten organization as a form a taxonomy](../158)
 * 2023-06-14 14:38:06Z [Overview of the block editor in WordPress](../156)
-* 2023-06-14 14:38:06Z [Query strings are thought to imped indexing of dynamic pages](../154)
 * 2023-06-14 14:38:06Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-14 14:38:06Z [Official WordPress theme review process](../151)
 * 2023-06-14 14:38:06Z [Basics of skip links in web development](../150)
