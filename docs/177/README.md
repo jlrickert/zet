@@ -8,6 +8,7 @@ Things that I need to learn
 
 - Deployment strategies
 - Development loop
+- How to do responsive design
 
 See also
 

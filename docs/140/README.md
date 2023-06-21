@@ -6,6 +6,12 @@ you started. They are `twentytwentyone`, `twentytwentythree`, and
 and the other is classic. `twentytwentyone` is an example of a classic
 theme while the other 2 are block themes.
 
+Key concepts
+
+- template
+- template-part
+- block patterns
+
 Minimum required files
 
 - `templates/index.html`
@@ -45,5 +51,7 @@ Basic directory structure of `twentytwentyone`
 ├── single.php
 └── style.css
 ```
+
+`theme.json` includes CSS variables.
 
     tags: #wordpress #php #development
