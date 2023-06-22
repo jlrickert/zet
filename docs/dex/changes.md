@@ -1,3 +1,4 @@
+* 2023-06-22 11:20:57Z [WordPress block theme development prompt for chatGPT](../180)
 * 2023-06-22 10:24:47Z [WordPress hosting on WP Engine](../184)
 * 2023-06-22 10:07:24Z [What is platform requirements](../182)
 * 2023-06-21 17:58:58Z [Official WordPress theme review process](../151)
