@@ -1,3 +1,4 @@
+* 2023-06-22 11:20:00Z [WordPress development overview](../131)
 * 2023-06-22 11:20:57Z [WordPress block theme development prompt for chatGPT](../180)
 * 2023-06-22 10:24:47Z [WordPress hosting on WP Engine](../184)
 * 2023-06-22 10:07:24Z [What is platform requirements](../182)
@@ -135,7 +136,6 @@
 * 2023-06-14 14:38:06Z [Recommended php language server to use](../134)
 * 2023-06-14 14:38:06Z [How do you fingerprint the OS with bash](../133)
 * 2023-06-14 14:38:06Z [How to get started developing themes and plugins with WordPress](../132)
-* 2023-06-14 14:38:06Z [WordPress development overview](../131)
 * 2023-06-14 14:38:06Z [How to configure bash scripting behavior](../130)
 * 2023-06-14 14:38:06Z [Nginx clear cache hack with echo ""](../13)
 * 2023-06-14 14:38:06Z [How to use arrays in bash](../129)
