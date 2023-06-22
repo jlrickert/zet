@@ -25,4 +25,4 @@ GoDaddy specific plugins
 
 [hosting]: https://www.godaddy.com/hosting/wordpress-hosting
 
-    #wordpress
+    tags: #wordpress #webdev
