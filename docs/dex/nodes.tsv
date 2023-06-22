@@ -82,7 +82,7 @@
 85	2023-06-14 14:38:06Z	How to install rust properly to prevent mucking with dotfiles
 86	2023-06-14 14:38:06Z	How to verify file integrity on the cli
 87	2023-06-14 14:38:06Z	Logitech G604 issues on macOS
-88	2023-06-17 22:03:22Z	My MacOS workstation setup
+88	2023-06-18 03:03:22Z	My MacOS workstation setup
 89	2023-06-14 14:38:06Z	Logitech G604 issues on macOS
 90	2023-06-14 14:38:06Z	Sanity content management system
 91	2023-06-14 14:38:06Z	How to swap caps lock on MacOS
@@ -124,7 +124,7 @@
 128	2023-06-14 14:38:06Z	WordPress plugin Gravity forms
 129	2023-06-14 14:38:06Z	How to use arrays in bash
 130	2023-06-14 14:38:06Z	How to configure bash scripting behavior
-131	2023-06-22 11:20:00Z	WordPress development overview
+131	2023-06-22 16:20:00Z	WordPress development overview
 132	2023-06-14 14:38:06Z	How to get started developing themes and plugins with WordPress
 133	2023-06-14 14:38:06Z	How do you fingerprint the OS with bash
 134	2023-06-14 14:38:06Z	Recommended php language server to use
@@ -133,7 +133,7 @@
 137	2023-06-14 14:38:06Z	Como Park Zoo and Conservatory in St Paul Minnesota
 138	2023-06-14 14:38:06Z	Cuzzy's Grill and bar in downtown Minneapolis
 139	2023-06-14 14:38:06Z	How to setup bbPress forums in WordPress
-140	2023-06-21 16:30:10Z	How to create your own theme in WordPress
+140	2023-06-21 21:30:10Z	How to create your own theme in WordPress
 141	2023-06-14 14:38:06Z	Task to fix keybinding issues between MacOS and ranger
 142	2023-06-14 14:38:06Z	How to effectively use cp
 143	2023-06-14 14:38:06Z	M23SS brewery event at Blackstack Brewing
@@ -142,13 +142,13 @@
 148	2023-06-14 14:38:06Z	Domain model for yabai
 149	2023-06-14 14:38:06Z	Useful WordPress development plugins
 150	2023-06-14 14:38:06Z	Basics of skip links in web development
-151	2023-06-21 17:58:58Z	Official WordPress theme review process
-152	2023-06-19 11:33:13Z	How to setup tailwind for WordPress
+151	2023-06-21 22:58:58Z	Official WordPress theme review process
+152	2023-06-19 16:33:13Z	How to setup tailwind for WordPress
 153	2023-06-14 14:38:06Z	Overview of a classic theme in WordPress
-154	2023-06-21 09:20:32Z	Query strings are thought to impede indexing of dynamic pages
-155	2023-06-21 16:35:00Z	Overview of a block theme in WordPress
+154	2023-06-21 14:20:32Z	Query strings are thought to impede indexing of dynamic pages
+155	2023-06-21 21:35:00Z	Overview of a block theme in WordPress
 156	2023-06-14 14:38:06Z	Overview of the block editor in WordPress
-157	2023-06-16 14:33:11Z	Overview of themes in WordPress
+157	2023-06-16 19:33:11Z	Overview of themes in WordPress
 158	2023-06-14 14:38:06Z	Thinking about a Zettelkasten organization as a form a taxonomy
 159	2023-06-14 14:38:06Z	Full list of operating systems that ansible is able to detect
 160	2023-06-14 14:38:06Z	How to install homebrew on a MacOS
@@ -158,15 +158,18 @@
 164	2023-06-14 21:47:19Z	How to get started with the redfin api
 166	2023-06-14 22:06:29Z	The service userzoom for doing UX research
 167	2023-06-14 22:28:22Z	Overview of the sales CMS Zendesk
-168	2023-06-19 12:51:23Z	How to work with gradients with tailwind
-169	2023-06-15 13:38:49Z	Headless CMS options for managing content
-171	2023-06-16 10:26:50Z	E-commerce headless CMS domain model
-172	2023-06-16 13:16:07Z	MLSGrid
-173	2023-06-19 11:51:47Z	Example scan line effect with tailwind
-174	2023-06-20 08:56:30Z	My personal website design
-177	2023-06-21 16:29:17Z	WordPress development overview
-178	2023-06-21 16:10:03Z	What is an electrical component distributor
-180	2023-06-22 11:20:57Z	WordPress block theme development prompt for chatGPT
-181	2023-06-21 17:45:50Z	WordPress email integrations
-182	2023-06-22 10:07:24Z	What is platform requirements
-184	2023-06-22 10:24:47Z	WordPress hosting on WP Engine
+168	2023-06-19 17:51:23Z	How to work with gradients with tailwind
+169	2023-06-15 18:38:49Z	Headless CMS options for managing content
+171	2023-06-16 15:26:50Z	E-commerce headless CMS domain model
+172	2023-06-16 18:16:07Z	MLSGrid
+173	2023-06-19 16:51:47Z	Example scan line effect with tailwind
+174	2023-06-20 13:56:30Z	My personal website design
+175	2023-06-20 17:11:59Z	jq cheat sheet
+177	2023-06-21 21:29:17Z	WordPress development overview
+178	2023-06-21 21:10:03Z	What is an electrical component distributor
+179	2023-06-21 21:15:55Z	What is a custom wire cutting service
+180	2023-06-22 16:20:57Z	WordPress block theme development prompt for chatGPT
+181	2023-06-21 22:45:50Z	WordPress email integrations
+182	2023-06-22 15:07:24Z	What is platform requirements
+183	2023-06-22 12:59:19Z	WordPress hosting on GoDaddy
+184	2023-06-22 15:24:47Z	WordPress hosting on WP Engine
