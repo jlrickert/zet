@@ -7,15 +7,15 @@ parts that we care about, [styles], and [settings].
 
 [settings] is what the end user is allows to do in the editor.
 
+The complete list of blocks may be found in the block editor [reference]
+guide.
+
 [sytles]: https://developer.wordpress.org/themes/advanced-topics/theme-json/#settings
 [settings]: https://developer.wordpress.org/themes/advanced-topics/theme-json/#styles
+[reference]: https://developer.wordpress.org/block-editor/reference-guides/core-blocks/
 
 ## theme.json
 
 [theme-json]: https://developer.wordpress.org/themes/advanced-topics/theme-json/
-
-### Blocks
-
-Meta
 
     tags: #wordpress #webdev
