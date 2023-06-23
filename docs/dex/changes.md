@@ -1,3 +1,4 @@
+* 2023-06-23 14:16:04Z [Common patterns that I use for headers for my Zettelkasten](../191)
 * 2023-06-23 14:04:00Z [What is a custom wire cutting service](../179)
 * 2023-06-23 13:55:23Z [What is an electrical component distributor](../178)
 * 2023-06-23 12:58:16Z [WordPress hosting on GoDaddy](../183)
