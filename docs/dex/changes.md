@@ -1,3 +1,4 @@
+* 2023-06-23 14:39:08Z [jq cheat sheet](../175)
 * 2023-06-23 14:26:50Z [Common patterns that I use for headers for my Zettelkasten](../191)
 * 2023-06-23 14:04:00Z [What is a custom wire cutting service](../179)
 * 2023-06-23 13:55:23Z [What is an electrical component distributor](../178)
@@ -16,7 +17,6 @@
 * 2023-06-21 21:29:17Z [WordPress development overview](../177)
 * 2023-06-21 16:30:10Z [How to create your own theme in WordPress](../140)
 * 2023-06-21 14:20:32Z [Query strings are thought to impede indexing of dynamic pages](../154)
-* 2023-06-20 17:11:59Z [jq cheat sheet](../175)
 * 2023-06-20 13:56:30Z [My personal website design](../174)
 * 2023-06-19 17:51:23Z [How to work with gradients with tailwind](../168)
 * 2023-06-19 16:51:47Z [Example scan line effect with tailwind](../173)
