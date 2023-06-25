@@ -1,3 +1,4 @@
+* 2023-06-25 13:40:25Z [What is `mim`](../192)
 * 2023-06-23 15:07:46Z [How to implement a contact form with MailChimp](../189)
 * 2023-06-23 15:06:02Z [Overview of the service Mailchimp](../190)
 * 2023-06-23 14:39:08Z [jq cheat sheet](../175)
