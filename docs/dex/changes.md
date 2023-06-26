@@ -1,3 +1,4 @@
+* 2023-06-26 08:51:29Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-25 20:33:10Z [MX Vertical mouse](../193)
 * 2023-06-25 20:30:47Z [Opinionated go repo naming conventions](../194)
 * 2023-06-25 13:40:35Z [What is `mim`](../192)
@@ -130,7 +131,6 @@
 * 2023-06-14 14:38:06Z [Full list of operating systems that ansible is able to detect](../159)
 * 2023-06-14 14:38:06Z [Thinking about a Zettelkasten organization as a form a taxonomy](../158)
 * 2023-06-14 14:38:06Z [Overview of the block editor in WordPress](../156)
-* 2023-06-14 14:38:06Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-14 14:38:06Z [Basics of skip links in web development](../150)
 * 2023-06-14 14:38:06Z [How to quickly test out space vim](../15)
 * 2023-06-14 14:38:06Z [Useful WordPress development plugins](../149)
