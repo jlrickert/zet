@@ -79,7 +79,7 @@
 82	2023-06-26 04:52:32Z	How to give credit to the original script owner
 83	2023-06-26 04:52:32Z	Managing personal secrets with an external USB drive
 84	2023-06-26 04:52:32Z	My preferred way of handling text width in documents
-85	2023-06-26 04:52:32Z	How to install rust properly to prevent mucking with dotfiles
+85	2023-06-25 23:52:32Z	How to install rust properly to prevent mucking with dotfiles
 86	2023-06-26 04:52:32Z	How to verify file integrity on the cli
 87	2023-06-26 04:52:32Z	Logitech G604 issues on macOS
 88	2023-06-25 23:52:32Z	My MacOS workstation setup
@@ -185,3 +185,4 @@
 194	2023-06-26 04:52:32Z	Opinionated go repo naming conventions
 195	2023-06-27 02:27:54Z	WordPress hosting
 196	2023-06-27 02:27:54Z	WordPress hosting with WPEngine
+197	2023-06-27 00:15:08Z	A nifty way to compare versions
