@@ -1,4 +1,4 @@
-* 2023-06-26 21:46:36Z [Common patterns that I use for headers for my Zettelkasten](../191)
+* 2023-06-26 21:57:55Z [Common patterns that I use for headers for my Zettelkasten](../191)
 * 2023-06-27 02:27:54Z [WordPress hosting with WPEngine](../196)
 * 2023-06-27 02:27:54Z [WordPress hosting](../195)
 * 2023-06-27 02:01:20Z [Node version managment with nvm](../23)
