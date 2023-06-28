@@ -1,3 +1,4 @@
+* 2023-06-28 15:22:57Z [WordPress development overview](../131)
 * 2023-06-28 13:28:59Z [Diablo 4 completions](../120)
 * 2023-06-28 10:25:08Z [How to utilize these notes](../200)
 * 2023-06-28 03:24:45Z [Managing styles for block theme in WordPress](../185)
@@ -14,7 +15,6 @@
 * 2023-06-25 18:33:06Z [How to use `PostCSS` and `autoprefixer` in WordPress](../187)
 * 2023-06-25 18:33:06Z [WordPress email integrations](../181)
 * 2023-06-25 18:33:06Z [Mental health disability anomia](../188)
-* 2023-06-25 18:33:06Z [WordPress development overview](../131)
 * 2023-06-25 18:33:06Z [How to include CSS in a block theme for WordPress](../186)
 * 2023-06-25 18:33:06Z [Overview of the service Mailchimp](../190)
 * 2023-06-25 18:33:06Z [WordPress hosting on WP Engine](../184)
