@@ -37,3 +37,5 @@ flaws that you may encounter when developing a website.
 | FPD                       | Full Path Disclosure vulnerabilities may expose the full paths to the potentially sensitive files, which may then be attacked.                                                                                                                                                                                     |
 
 [article]: https://wpengine.com/support/sites-page/#Plugin_and_Theme_Vulnerabilities
+
+    tags: #security #secops #webdev
