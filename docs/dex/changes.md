@@ -1,4 +1,4 @@
-* 2023-06-28 10:09:44Z [How to utilize this notes](../200)
+* 2023-06-28 10:25:08Z [How to utilize these notes](../200)
 * 2023-06-28 03:24:45Z [Managing styles for block theme in WordPress](../185)
 * 2023-06-28 03:24:45Z [Fedora workstation setup](../99)
 * 2023-06-28 03:24:45Z [How to manage dependencies with git submodules](../198)
