@@ -1,7 +1,7 @@
+* 2023-06-28 15:27:33Z [Managing styles for block theme in WordPress](../185)
 * 2023-06-28 15:22:57Z [WordPress development overview](../131)
 * 2023-06-28 13:28:59Z [Diablo 4 completions](../120)
 * 2023-06-28 10:25:08Z [How to utilize these notes](../200)
-* 2023-06-28 03:24:45Z [Managing styles for block theme in WordPress](../185)
 * 2023-06-28 03:24:45Z [Fedora workstation setup](../99)
 * 2023-06-28 03:24:45Z [How to manage dependencies with git submodules](../198)
 * 2023-06-28 03:24:45Z [A nifty way to compare versions](../197)
