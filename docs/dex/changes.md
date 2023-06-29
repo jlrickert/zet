@@ -1,3 +1,4 @@
+* 2023-06-29 16:45:12Z [Common breakpoints between browsers on web devices](../207)
 * 2023-06-29 15:03:30Z [Managing styles for block theme in WordPress](../185)
 * 2023-06-29 09:45:13Z [Optimal rice to water ratio](../202)
 * 2023-06-29 09:25:02Z [What is the benefit of paid for SSL](../205)
