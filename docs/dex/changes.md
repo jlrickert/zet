@@ -1,4 +1,4 @@
-* 2023-06-30 15:26:25Z [Blackstack Brewing](../212)
+* 2023-06-30 15:26:47Z [Blackstack Brewing](../212)
 * 2023-06-30 18:36:38Z [Brewery Bahaus Brew Labs](../214)
 * 2023-06-30 18:11:34Z [The brewery Clutch Brewing](../213)
 * 2023-06-30 18:07:48Z [M23SS brewery event at Blackstack Brewing](../143)
