@@ -1,4 +1,4 @@
-# Common breakpoints between browsers on web devices
+# Common breakpoints between browsers on different devices
 
 Devices have their screen sizes measured in pixels.
 
