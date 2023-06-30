@@ -1,10 +1,11 @@
-updated: 2023-06-30 13:36:38Z
-kegv:    2023-01
+updated: 2023-06-30 15:25:56Z
+kegv: 2023-01
 
-title:   A Sample Keg
-url:     git@github.com:jlrickert/zet.git
+title: KEG Zettelkasten for Jared Rickert (jlrickert)
+url: git@github.com:jlrickert/zet.git
+linkfmt: https://github.com/jlrickert/zet/blob/main/docs/{id}
 creator: git@github.com:jlrickert/jlrickert.git
-state:   living
+state: living
 
 summary:
   Hi I'm Jared. This is my personal **zettelkasten** KEG site.  It contains
