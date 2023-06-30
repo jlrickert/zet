@@ -1,4 +1,4 @@
-* 2023-06-30 15:25:56Z [Blackstack Brewing](../212)
+* 2023-06-30 15:26:25Z [Blackstack Brewing](../212)
 * 2023-06-30 18:36:38Z [Brewery Bahaus Brew Labs](../214)
 * 2023-06-30 18:11:34Z [The brewery Clutch Brewing](../213)
 * 2023-06-30 18:07:48Z [M23SS brewery event at Blackstack Brewing](../143)
@@ -140,7 +140,6 @@
 * 2023-06-14 14:38:06Z [Schema google thing](../25)
 * 2023-06-14 14:38:06Z [Example of a vm with out a garbage collect](../24)
 * 2023-06-14 14:38:06Z [Node version managment with nvm](../23)
-* 2023-06-14 14:38:06Z [Rust installation process annoyances](../22)
 * 2023-06-14 14:38:06Z [Quick fix list in neovim](../21)
 * 2023-06-14 14:38:06Z [Pattern for managing keybindings in neovim](../20)
 * 2023-06-14 14:38:06Z [World of warcraft evoker devastation gameplay](../2)
@@ -202,3 +201,4 @@
 * 2023-06-14 14:38:06Z [How I manage my secret dot files using a usb stick](../10)
 * 2023-06-14 14:38:06Z [World of warcraft evoker game play](../1)
 * 2023-06-14 14:38:06Z [Sorry, planned but not yet available](../0)
+* 2023-06-14 09:38:06Z [Rust installation process annoyances](../22)
