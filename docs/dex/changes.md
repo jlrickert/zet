@@ -1,3 +1,4 @@
+* 2023-06-30 19:03:53Z [SEO concepts](../206)
 * 2023-06-30 19:03:21Z [What is the idea width for readable text](../209)
 * 2023-06-30 19:03:18Z [My typical pattern of devices to target](../208)
 * 2023-06-30 19:03:16Z [Common breakpoints between browsers on different devices](../207)
@@ -8,7 +9,6 @@
 * 2023-06-30 18:36:38Z [Brewery Bahaus Brew Labs](../214)
 * 2023-06-30 18:11:34Z [The brewery Clutch Brewing](../213)
 * 2023-06-29 20:03:30Z [Managing styles for block theme in WordPress](../185)
-* 2023-06-29 17:39:28Z [SEO concepts](../206)
 * 2023-06-29 14:45:13Z [Optimal rice to water ratio](../202)
 * 2023-06-29 14:25:02Z [What is the benefit of paid for SSL](../205)
 * 2023-06-28 22:29:20Z [Web development security risk types](../204)
