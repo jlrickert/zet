@@ -34,7 +34,7 @@ Hosting platforms
 [wordpressify]: https://www.wordpressify.co/
 [documention]: https://developer.wordpress.org/
 
-## Domain model
+## Key concepts
 
 The domain is as follows
 
@@ -45,14 +45,23 @@ The domain is as follows
 
 - block
 
-  A block is a atomic piece that can be used to build up pages, posts,
-  and reusable blocks. This is the items that you use to build things in
-  the FSE. For example, a Group block with a child paragraph block can
-  be used to create a page with colored background and a paragraph in
-  the center of the group. A block has attributes. See the core block
-  [reference] on the documentation for what blocks are available.
+  A block is an atomic piece that is designed to be composed with other
+  blocks to build up pages, posts, and reusable blocks.
+
+  Some blocks may allow nesting of other blocks, also called
+  InnerBlocks. This allows compositions of blocks create to build up
+  pages, posts, and reusable blocks. This is the items that you use to
+  build things in the FSE. For example, a Group block with a child
+  paragraph block can be used to create a page with colored background
+  and a paragraph in the center of the group. A block has attributes.
+  See the core block [reference] on the documentation for what blocks
+  are available.
 
   [reference]: https://developer.wordpress.org/block-editor/reference-guides/core-blocks/
+
+- block variant
+
+  A block variant is a predefined set of attributes for a block
 
 - pattern
 
@@ -77,7 +86,7 @@ The domain is as follows
   A theme is how the contents are generated. The data built out for a
   site utilizing the FSE creates and manages data in the database. This
   is then fed into a theme that then decides how the content is
-  displayed for the user.  A theme is managed through code.  This means
+  displayed for the user. A theme is managed through code. This means
   that it may be managed with version control.
 
 - site
@@ -85,6 +94,8 @@ The domain is as follows
   A site is the website that is being built. Typically this is stateful
   data and is placed in a database. Site data may managed via database
   migrations and backups.
+
+[key conepts]: https://developer.wordpress.org/block-editor/explanations/architecture/key-concepts/
 
 Meta:
 
