@@ -1,3 +1,4 @@
+* 2023-07-06 10:09:35Z [WordPress hosting on GoDaddy](../183)
 * 2023-07-05 21:17:04Z [Flexbox CSS attributes](../215)
 * 2023-07-05 09:35:41Z [How to manage ssh keys](../163)
 * 2023-07-03 08:20:01Z [Brewery Bahaus Brew Labs](../214)
@@ -25,7 +26,6 @@
 * 2023-06-27 15:09:38Z [Fedora workstation setup](../99)
 * 2023-06-27 15:09:38Z [A nifty way to compare versions](../197)
 * 2023-06-27 15:09:38Z [Common patterns that I use for headers for my Zettelkasten](../191)
-* 2023-06-26 16:38:11Z [WordPress hosting on GoDaddy](../183)
 * 2023-06-26 13:51:29Z [Overview of a classic theme in WordPress](../153)
 * 2023-06-26 13:47:56Z [Opinionated go repo naming conventions](../194)
 * 2023-06-26 13:47:56Z [MX Vertical mouse](../193)
