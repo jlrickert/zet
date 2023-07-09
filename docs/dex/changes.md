@@ -1,3 +1,4 @@
+* 2023-07-09 12:03:04Z [WordPress development overview](../177)
 * 2023-07-09 12:02:59Z [How to configure the editor in WordPress](../219)
 * 2023-07-09 12:02:47Z [How to load custom CSS for a WordPress block](../216)
 * 2023-07-09 12:02:37Z [How to build a generic accordion in WordPress](../217)
@@ -49,7 +50,6 @@
 * 2023-06-21 22:45:50Z [WordPress email integrations](../181)
 * 2023-06-21 21:35:00Z [Overview of a block theme in WordPress](../155)
 * 2023-06-21 21:30:10Z [How to create your own theme in WordPress](../140)
-* 2023-06-21 21:29:17Z [WordPress development overview](../177)
 * 2023-06-21 14:20:32Z [Query strings are thought to impede indexing of dynamic pages](../154)
 * 2023-06-20 13:56:30Z [My personal website design](../174)
 * 2023-06-19 17:51:23Z [How to work with gradients with tailwind](../168)
