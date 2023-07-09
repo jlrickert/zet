@@ -6,6 +6,7 @@ Details on how to build an accessible accordion may be found on
 Here is what a WordPress
 
 ```js
+
 ```
 
 Accordion item block
@@ -13,10 +14,9 @@ Accordion item block
 ```html
 <--! wp:header {"level":3} -->
 <h3>
-    <button>{{ title }}</button>
+  <button>{{ title }}</button>
 </h3>
-<section>
-</section>
+<section></section>
 <--! /wp:header -->
 ```
 
