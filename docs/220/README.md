@@ -29,5 +29,4 @@ tar -xz -C tmp --strip-components 1 -f bat-v0.23.0-x86_64-apple-darwin.tar.gz
 This will create a `tmp` directory filled with the previous dump of
 contents.
 
-
     tags: #bash
