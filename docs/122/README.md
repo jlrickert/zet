@@ -12,9 +12,19 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-This is automated for me using [chezmoi].
+This is automated for me using [chezmoi]. See how I use chezmoi to manage my
+[dotfiles](../221) for more information.
 
 See my [vimrc] in my [dotfiles] repo
+
+Here are my requirements:
+
+- VSCode like tab completion
+- Help docs
+- LSP
+- Formatting
+- Linting
+- Snippets
 
 [vimrc]: https://github.com/search?q=repo%3Ajlrickert%2Fdotfiles%20.vimrc&type=code
 [dotfiles]: https://github.com/jlrickert/dotfiles
