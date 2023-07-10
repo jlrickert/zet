@@ -12,7 +12,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-This is automated for me using [chezmoi]. See how I use chezmoi to manage my
+This is automated for me using [chezmoi]. See how I use [chezmoi] to manage my
 [dotfiles](../221) for more information.
 
 See my [vimrc] in my [dotfiles] repo
