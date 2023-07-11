@@ -24,8 +24,8 @@ Things that I need to learn
 
 See also
 
-- [development plugins](../149)
-- [plugin development overview](../149)
+- [useful development plugins](../149)
+- [plugin development overview](../226)
 - [theme development](../140)
 
 Meta
