@@ -6,7 +6,8 @@
 git submodule add $GIT_URL $DEP_PATH
 ```
 
-This will add an entry in `.gitmodules`, `.git/config`, and `.git/modules`.
+This will add an entry in `.gitmodules`, `.git/config`, and `.git/modules`. This
+then needs to be committed in git.
 
 ## How to install
 
@@ -17,7 +18,7 @@ git submodule init
 git submodule update
 ```
 
-Alternativaly this can be done when first cloning.
+Alternatively this can be done when first cloning.
 
 ```bash
 git clone $PROJECT_URL --recursive
