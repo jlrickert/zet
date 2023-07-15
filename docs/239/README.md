@@ -20,3 +20,5 @@
 - weakauras
 
 For the weakauras I use Luxthos and Ultimate mouse cursor.
+
+    tags: #wow
