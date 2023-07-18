@@ -12,5 +12,4 @@
 
 ## Lightweight Accordion
 
-Uses the details and summary tag. This is know as the details disclosure
-element.
+Uses the details and summary tag. This is know as the details disclosure element.
