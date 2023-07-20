@@ -1,5 +1,7 @@
 # Chezmoi cheatsheet
 
+## Externals
+
 ## Golang templates
 
 Order and equality
