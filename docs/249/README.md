@@ -7,12 +7,13 @@ import { writeFileSync} from 'fs';
 import { compile, compileFromFile } from 'json-schema-to-typescript';
 
 // compile from file
-compileFromFile('.json')
-  .then(ts => fs.writeFileSync('foo.d.ts', ts))
+compileFromFile('block.json')
+  .then(ts => writeFileSync('blockSchema.d.ts', ts))
 ```
 
 ```bash
-curl -O git diff src/blocks/accordion/block.json blockSchema.json
+npm install --save-dev json-schema-to-typescript
+curl -fsSL -O https://raw.githubusercontent.com/WordPress/gutenberg/trunk/schemas/json/block.json
 node script.mjs
 ```
 
