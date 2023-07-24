@@ -46,7 +46,7 @@ Add the following semantic release configuration to `.releaserc.json`
 }
 ```
 
-Github action. Add the following contents to the file `.github/workflows.yml`
+Github action. Add the following contents to the file `.github/workflows/release.yml`
 
 ```yaml
 name: Release
