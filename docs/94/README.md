@@ -1,13 +1,12 @@
 # fzf setup and usage
 
-fzf is an interactive unix filter.
+`fzf` is an interactive unix filter.
 
 - [github](https://github.com/junegunn/fzf)
 
 ## Use cases
 
-Use to find an item based on a keyword. To make this smooth a preview should
-show if the item found.
+Use to find an item based on a keyword. To make this smooth a preview should show if the item found.
 
 ## Setup
 
@@ -22,12 +21,9 @@ Key pieces
 
 ### fzf binary
 
-The binary is a program written go. As such, it may be installed with `go get
--u github.com/junegunn/fzf`. Running the
+The binary is a program written go. As such, it may be installed with `go get -u github.com/junegunn/fzf`. Running the
 
-Running the installer with `install --bin` will install the binary in the
-source directory. This needs needs to be further setup by the user. Basic bin
-binary stuff. I use stow for that.
+Running the installer with `install --bin` will install the binary in the source directory. This needs needs to be further setup by the user. Basic bin binary stuff. I use stow for that.
 
 ### Shell config
 
