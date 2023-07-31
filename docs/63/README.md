@@ -1,7 +1,6 @@
 # How does a generic search engine work for the web
 
-A search engine gives a sorted list of page results based on a query. The order
-is determined by a rank. This rank is determined by a set of parameters.
+A search engine gives a sorted list of page results based on a query. The order is determined by a rank. This rank is determined by a set of parameters.
 
 For example, a page's rank could be determined by TF\*IDF for each query term.
 
@@ -22,4 +21,4 @@ For example, a page's rank could be determined by TF\*IDF for each query term.
 
 Meta:
 
-    #architecture #swe #csci
+    tags: #architecture #swe #csci
