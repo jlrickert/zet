@@ -1,9 +1,9 @@
 # Flexbox CSS attributes
 
-There are a few CSS keywords that interacts with an element that has its display element set to `flex` or `inline-flex`.
+There are a few CSS keywords that interacts with an element that has its display set to either `flex` or `inline-flex`.
 
-- The main axis is left to right when `flex-direction` is `row`
-- The main axis is up and down when `flex-direction` is `column`
+- The main axis is horizontal (left to right) when `flex-direction` is `row`
+- The main axis is vertical (up and down) when `flex-direction` is `column`
 
 The following interacts across the main axis:
 
