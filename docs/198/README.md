@@ -6,8 +6,7 @@
 git submodule add $GIT_URL $DEP_PATH
 ```
 
-This will add an entry in `.gitmodules`, `.git/config`, and `.git/modules`. This
-then needs to be committed in git.
+This will add an entry in `.gitmodules`, `.git/config`, and `.git/modules`. This then needs to be committed in git.
 
 ## How to install
 
