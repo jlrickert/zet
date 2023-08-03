@@ -1,5 +1,5 @@
-* 2023-08-02 09:45:37Z [How to manage dependencies with git submodules](../198)
 * 2023-08-02 10:56:49Z [Introductory material for statistics](../255)
+* 2023-08-02 09:45:37Z [How to manage dependencies with git submodules](../198)
 * 2023-08-01 16:42:10Z [Flexbox CSS attributes](../215)
 * 2023-07-31 15:04:37Z [How does a generic search engine work for the web](../63)
 * 2023-07-31 09:55:31Z [Types of sourdough preferments](../250)
