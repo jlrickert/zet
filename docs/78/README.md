@@ -1,7 +1,6 @@
 # Quick fix menus in vim
 
-Quick fix is a windows for showing a list of all things of interest. It takes
-a input according to 'errorfmt'.
+Quick fix is a windows for showing a list of all things of interest. It takes a input according to 'errorfmt'.
 
 Example usage:
 
@@ -13,13 +12,15 @@ vim -q <(git status -s | awk '$1 == "M" {print $2}' | xargs flake8)
 vim -q <(rg --line-number --no-heading --column YOUR_REGEX)
 ```
 
-Example available formats:
+Once the quickfix menu is loaded it may be viewed by running `:copen`.
+
+Example of available formats:
 
 ```text
 {filename}:{linenumber}:{optional_message}
 ```
 
-*`linenumber`* needs to be 1 or more.
+_`linenumber`_ needs to be 1 or more.
 
 See also:
 
