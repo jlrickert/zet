@@ -17,6 +17,7 @@ There are a few plugins that help during development. Here are a few that I foun
 - Log Deprecated Notices
 - Monster Widget
 - Theme-Check
+- FakerPress
 
 Some of the plugins require modification of the `wp-config.php` file.
 
