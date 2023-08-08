@@ -1,8 +1,6 @@
-# WordPress development overview
+# WordPress development key concepts
 
-WordPress is a platform originally built to be a blogging platform.
-Currently, it has expanded to be a generic website builder with a
-traditional CMS.
+WordPress is a platform originally built to be a blogging platform. Currently, it has expanded to be a generic website builder with a traditional CMS.
 
 Here are the key concepts to learn.
 
@@ -34,7 +32,9 @@ Hosting platforms
 [wordpressify]: https://www.wordpressify.co/
 [documention]: https://developer.wordpress.org/
 
-## Key concepts
+### Key concepts for plugin development
+
+### Key concepts for theme development
 
 The domain is as follows
 
@@ -96,6 +96,10 @@ The domain is as follows
   migrations and backups.
 
 [key conepts]: https://developer.wordpress.org/block-editor/explanations/architecture/key-concepts/
+
+See also:
+
+- https://dev.to/ingosteinke/classic-themes-with-block-patterns-in-wordpress-1ncp
 
 Meta:
 
