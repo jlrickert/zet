@@ -97,6 +97,10 @@ The domain is as follows
 
 [key conepts]: https://developer.wordpress.org/block-editor/explanations/architecture/key-concepts/
 
+### Opinionated development setup
+
+
+
 See also:
 
 - https://dev.to/ingosteinke/classic-themes-with-block-patterns-in-wordpress-1ncp
