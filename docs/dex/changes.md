@@ -1,4 +1,4 @@
-* 2023-08-10 16:47:35Z [Git techniques and cheat sheet](../74)
+* 2023-08-10 16:51:42Z [Git techniques and cheat sheet](../74)
 * 2023-08-10 15:24:03Z [Automatically rerunning commands with `entr`](../259)
 * 2023-08-10 14:47:00Z [Managing encrypted data with ssh keys](../258)
 * 2023-08-09 22:03:26Z [Rob Muhlestein](../80)
