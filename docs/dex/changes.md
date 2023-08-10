@@ -1,3 +1,4 @@
+* 2023-08-10 16:47:35Z [Git techniques and cheat sheet](../74)
 * 2023-08-10 15:24:03Z [Automatically rerunning commands with `entr`](../259)
 * 2023-08-10 14:47:00Z [Managing encrypted data with ssh keys](../258)
 * 2023-08-09 22:03:26Z [Rob Muhlestein](../80)
@@ -25,7 +26,6 @@
 * 2023-08-09 22:03:26Z [Really good article about software engineering principles](../77)
 * 2023-08-09 22:03:26Z [Harpoon keybindings in vscode](../76)
 * 2023-08-09 22:03:26Z [Tiling window management in windows with komorebi](../75)
-* 2023-08-09 22:03:26Z [Git techniques and cheat sheet](../74)
 * 2023-08-09 22:03:26Z [Example of keyword searching with awk](../73)
 * 2023-08-09 22:03:26Z [Pop_OS! setup](../72)
 * 2023-08-09 22:03:26Z [How to handle conditionals in bash scripting](../71)
