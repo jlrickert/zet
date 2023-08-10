@@ -1,5 +1,5 @@
+* 2023-08-10 15:24:03Z [Automatically rerunning commands with `entr`](../259)
 * 2023-08-10 14:47:00Z [Managing encrypted data with ssh keys](../258)
-* 2023-08-10 19:45:57Z [Automatically rerunning commands with entr](../259)
 * 2023-08-09 22:03:26Z [Rob Muhlestein](../80)
 * 2023-08-09 22:03:26Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-08-09 22:03:26Z [How to set path variables on MacOS](../95)
