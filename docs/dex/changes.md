@@ -1,3 +1,4 @@
+* 2023-08-10 18:49:35Z [Types of pizza](../260)
 * 2023-08-10 16:51:42Z [Git techniques and cheat sheet](../74)
 * 2023-08-10 15:24:03Z [Automatically rerunning commands with `entr`](../259)
 * 2023-08-10 14:47:00Z [Managing encrypted data with ssh keys](../258)
