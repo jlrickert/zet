@@ -1,7 +1,7 @@
+* 2023-08-10 22:30:44Z [Managing encrypted data with ssh keys](../258)
 * 2023-08-10 18:49:35Z [Types of pizza](../260)
 * 2023-08-10 16:51:42Z [Git techniques and cheat sheet](../74)
 * 2023-08-10 15:24:03Z [Automatically rerunning commands with `entr`](../259)
-* 2023-08-10 14:47:00Z [Managing encrypted data with ssh keys](../258)
 * 2023-08-09 22:03:26Z [Rob Muhlestein](../80)
 * 2023-08-09 22:03:26Z [Recommended warlock spec for Aberrus bosses](../65)
 * 2023-08-09 22:03:26Z [How to set path variables on MacOS](../95)
