@@ -1,3 +1,4 @@
+* 2023-08-11 02:29:12Z [Hugo theme development loop for share able themes](../261)
 * 2023-08-10 22:30:44Z [Managing encrypted data with ssh keys](../258)
 * 2023-08-10 18:49:35Z [Types of pizza](../260)
 * 2023-08-10 16:51:42Z [Git techniques and cheat sheet](../74)
