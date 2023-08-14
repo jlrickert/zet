@@ -1,15 +1,18 @@
 # My personal website design
 
-This is my personal website that will be at https://jlrickert.me.
+This is my personal website that will be at https://jlrickert.me or https://jlrickert.github.io.
+
+The design of it is to be a retro terminal
 
 ## Sitemap
 
-- home
-- zet
-- blog
-- about
-- portfolio
-- contact me
+- Home
+- Zettelkasten
+- Blog
+- About
+- Resume
+- Portfolio
+- Contact me
 
 ## References
 
