@@ -1,6 +1,6 @@
 # Steps to host a keg with github pages
 
-A keg repo on GitHub may be hosted on github pages with a little bit of work. This involes configuring git pages, creating a few files files, setting up dns, adding a jekyll theme, and setting up google for having the site index.
+A keg repo on GitHub may be hosted on github pages with a little bit of work. This involves configuring git pages, creating a few files files, setting up DNS, adding a Jekyll theme, and setting up google for having the site index.
 
 ## GitHub pages setup
 
@@ -57,6 +57,4 @@ Google analytics is as simple as coping over your GA4 tag over to your `_config.
 google_analytics: G-WXQ3PHET4N
 ```
 
-A problem that I ran into for some themes (including hacker)
-
-Create the file `_includes/head-custom-google-analytics`
+A problem that I ran into for some themes (including hacker) is that it may still be using now deprecated google analytics. See [hacker theme google analytics issue](../267?T) for an example of a potential fix.
