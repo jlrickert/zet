@@ -1,3 +1,4 @@
+* 2023-08-14 23:09:42Z [Really good article about software engineering principles](../77)
 * 2023-08-14 13:48:27Z [Seamless navigation between tmux and vim](../262)
 * 2023-08-14 13:10:02Z [An interesting article about LINQ in JavaScript](../263)
 * 2023-08-11 02:29:12Z [Hugo theme development loop for share able themes](../261)
@@ -27,7 +28,6 @@
 * 2023-08-09 22:03:26Z [keg create git issue](../96)
 * 2023-08-09 22:03:26Z [How to install rust properly to prevent mucking with dotfiles](../85)
 * 2023-08-09 22:03:26Z [Quick fix menus in vim](../78)
-* 2023-08-09 22:03:26Z [Really good article about software engineering principles](../77)
 * 2023-08-09 22:03:26Z [Harpoon keybindings in vscode](../76)
 * 2023-08-09 22:03:26Z [Tiling window management in windows with komorebi](../75)
 * 2023-08-09 22:03:26Z [Example of keyword searching with awk](../73)

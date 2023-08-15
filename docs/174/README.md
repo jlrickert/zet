@@ -14,6 +14,12 @@ The design of it is to be a retro terminal
 - Portfolio
 - Contact me
 
+## SEO
+
+## Monitization
+
+- [ ] TODO: Research adsterra.com
+
 ## References
 
 - https://github.com/ashleydavis/pnpm-workspace-examples/tree/main/fullstack/packages/validation
