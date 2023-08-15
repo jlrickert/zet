@@ -4,4 +4,6 @@ Hi I'm Jared. This is my personal **zettelkasten** KEG site. It contains stuff o
 
 A word of caution is that these are raw notes. They may be inaccurate, messy, and/or plain misleading. Please don't quote me here as I may not still hold the same opinion on the subject. That is what my [blog] is for.
 
-[blog]: jlrickert.me/blog
+The reason that I make these notes available is that they may be helpful to some one out there.
+
+[blog]: https://jlrickert.me/blog
