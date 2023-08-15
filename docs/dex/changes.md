@@ -1,3 +1,4 @@
+* 2023-08-15 04:46:45Z [Research on type of mic for my streaming](../264)
 * 2023-08-14 23:09:45Z [The idea of cognitive distance](../266)
 * 2023-08-14 23:09:42Z [Really good article about software engineering principles](../77)
 * 2023-08-14 13:48:27Z [Seamless navigation between tmux and vim](../262)
