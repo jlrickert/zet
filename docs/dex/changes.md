@@ -1,3 +1,4 @@
+* 2023-08-16 02:39:33Z [Wowhead diablo 4 class ranking comparison](../108)
 * 2023-08-16 02:39:23Z [Installing software with curl](../101)
 * 2023-08-16 01:11:32Z [My personal website design](../174)
 * 2023-08-15 05:35:02Z [When to use CGO_ENABLED](../269)
@@ -241,7 +242,6 @@
 * 2023-08-09 22:03:26Z [My personal PHP style guide](../110)
 * 2023-08-09 22:03:26Z [Unix help pages with color](../11)
 * 2023-08-09 22:03:26Z [MacOS vs Linux difference](../109)
-* 2023-08-09 22:03:26Z [Wowhead diablo 4 class ranking comparison](../108)
 * 2023-08-09 22:03:26Z [Date standards](../107)
 * 2023-08-09 22:03:26Z [How to install lando on MacOS](../106)
 * 2023-08-09 22:03:26Z [Concrete 5](../105)
