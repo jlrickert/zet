@@ -1,3 +1,4 @@
+* 2023-08-16 02:39:23Z [Installing software with curl](../101)
 * 2023-08-16 01:11:32Z [My personal website design](../174)
 * 2023-08-15 05:35:02Z [When to use CGO_ENABLED](../269)
 * 2023-08-15 05:23:01Z [Keg introduction](../268)
@@ -247,7 +248,6 @@
 * 2023-08-09 22:03:26Z [Overview of macOS tools and software](../104)
 * 2023-08-09 22:03:26Z [Tiling window management on macOS with Yabai](../103)
 * 2023-08-09 22:03:26Z [Using a temporary directory that require installing transient scripts](../102)
-* 2023-08-09 22:03:26Z [Installing software with curl](../101)
 * 2023-08-09 22:03:26Z [Install flutter on macOS with apple silicon](../100)
 * 2023-08-09 22:03:26Z [How I manage my secret dot files using a usb stick](../10)
 * 2023-08-09 17:03:26Z [Basics of skip links in web development](../150)
