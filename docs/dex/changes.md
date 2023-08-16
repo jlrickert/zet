@@ -1,3 +1,4 @@
+* 2023-08-16 02:40:04Z [The idea of cognitive distance](../266)
 * 2023-08-16 02:39:33Z [Wowhead diablo 4 class ranking comparison](../108)
 * 2023-08-16 02:39:23Z [Installing software with curl](../101)
 * 2023-08-16 01:11:32Z [My personal website design](../174)
@@ -6,7 +7,6 @@
 * 2023-08-15 04:55:42Z [Jekyll theme **hacker** google analytics issue](../267)
 * 2023-08-15 04:55:32Z [Steps to host a keg with github pages](../265)
 * 2023-08-15 04:46:45Z [Research on type of mic for my streaming](../264)
-* 2023-08-14 23:09:45Z [The idea of cognitive distance](../266)
 * 2023-08-14 23:09:42Z [Really good article about software engineering principles](../77)
 * 2023-08-14 13:48:27Z [Seamless navigation between tmux and vim](../262)
 * 2023-08-14 13:10:02Z [An interesting article about LINQ in JavaScript](../263)
