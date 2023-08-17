@@ -1,3 +1,4 @@
+* 2023-08-17 04:53:54Z [Portable pizza oven buying checklist](../241)
 * 2023-08-16 02:40:04Z [The idea of cognitive distance](../266)
 * 2023-08-16 02:39:33Z [Wowhead diablo 4 class ranking comparison](../108)
 * 2023-08-16 02:39:23Z [Installing software with curl](../101)
@@ -106,7 +107,6 @@
 * 2023-08-09 22:03:26Z [WordPress block editor domain model](../244)
 * 2023-08-09 22:03:26Z [How to create a new category for blocks](../243)
 * 2023-08-09 22:03:26Z [Bertello portable 12" pizza oven](../242)
-* 2023-08-09 22:03:26Z [Portable pizza oven buying checklist](../241)
 * 2023-08-09 22:03:26Z [Package managment in neovim with mason](../19)
 * 2023-08-09 22:03:26Z [Overview of the service Mailchimp](../190)
 * 2023-08-09 22:03:26Z [Common patterns that I use for headers for my Zettelkasten](../191)
