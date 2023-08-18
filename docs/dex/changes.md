@@ -1,3 +1,4 @@
+* 2023-08-18 13:44:58Z [Arch linux setup on terra](../272)
 * 2023-08-18 10:04:34Z [Setting up refind as a boot loader](../274)
 * 2023-08-18 09:40:20Z [Pacman cheatsheet and usage patterns](../273)
 * 2023-08-17 04:53:54Z [Portable pizza oven buying checklist](../241)

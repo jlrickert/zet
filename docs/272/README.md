@@ -9,28 +9,45 @@ Terra is my old desktop that I use for development.
    - Install `linux-zen` and `linux-zen-headers`
 
    ```bash
-   pacstrap -K /mnt base linux-zen linux-zen-headers linux-firmware vim
+   pacstrap -K /mnt base linux-zen linux-zen-headers linux-firmware vim intel-ucode
    ```
 
-   - Edit `/boot/loader/entries/arch.conf` to use the zen kernel
    - For bootloader use systemd-boot.
+   - Edit `/boot/loader/entries/arch-zen.conf` to use the zen kernel. It should look like the following:
 
-     Make the following edit to `/boot/EFI/refind/refind.conf`
+     ```bash
+     title ARch Linux Zen
+     linux /vmlinuz-linux-zen
+     initrd /intel-ucode.img
+     initrd /initramfs-linux-zen.img
+     options root=PARTUUID=XXXX add_efi_memmap rw
+     ```
+
+     PARTUUID can be looked up using `lsblk`
+
+     Make the following edit to `/boot/loader/loader.conf`
+
+     ```bash
+     default arch-zen.conf
+     timeoute 3
+     console-mode max
+     editor no
+     ```
+
+     ```bash
+     extra_kernel_version_strings linux-zen,linux-lts,linux
+     ```
+
+2. Configure network
+
+   Add the following to `/etc/systemd/network/20-wired.network`. You can lookup your lan device by running `ip link | grep enp | awk '{print $2}'`
 
    ```bash
-   extra_kernel_version_strings linux-zen,linux-lts,linux
-   ```
+   [Match]
+   Name=enp0s31f6
 
-   Install the microcode
-
-   ```bash
-
-   ```
-
-3. Configure network
-
-   ```bash
-
+   [Network]
+   DHCP=yes
    ```
 
    ```bash
@@ -40,15 +57,16 @@ Terra is my old desktop that I use for development.
    systemctl enable systemd-resolved
    ```
 
-4. Setup man pages
+3. Setup man pages
 
    ```bash
-   pacman -Syu man-db  man-pages
+   pacman -Syu man-db man-pages
    ```
 
-5. Create a user
+4. Create a user
 
    ```bash
+   pacman -Syu sudo zsh
    ```
 
 `iwctl` for wifi.
