@@ -1,3 +1,4 @@
+* 2023-08-18 09:40:20Z [Pacman cheatsheet and usage patterns](../273)
 * 2023-08-17 04:53:54Z [Portable pizza oven buying checklist](../241)
 * 2023-08-16 02:40:04Z [The idea of cognitive distance](../266)
 * 2023-08-16 02:39:33Z [Wowhead diablo 4 class ranking comparison](../108)
