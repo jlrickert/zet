@@ -13,7 +13,7 @@ Terra is my old desktop that I use for development.
    ```
 
    - Edit `/boot/loader/entries/arch.conf` to use the zen kernel
-   - For bootloader use refind.
+   - For bootloader use systemd-boot.
 
      Make the following edit to `/boot/EFI/refind/refind.conf`
 
@@ -27,17 +27,29 @@ Terra is my old desktop that I use for development.
 
    ```
 
-2. Configure network
+3. Configure network
+
+   ```bash
+
+   ```
+
+   ```bash
+   systemctl start systemd-networkd
+   systemctl enable systemd-networkd
+   systemctl start systemd-resolved
+   systemctl enable systemd-resolved
+   ```
+
+4. Setup man pages
+
+   ```bash
+   pacman -Syu man-db  man-pages
+   ```
+
+5. Create a user
 
    ```bash
    ```
-
-	```bash
-	systemctl start systemd-networkd
-	systemctl enable systemd-networkd
-	systemctl start systemd-resolved
-	systemctl enable systemd-resolved
-	```
 
 `iwctl` for wifi.
 
