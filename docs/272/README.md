@@ -132,6 +132,14 @@ systemctl enable thermald
 systemctl start thermald
 ```
 
+## Install graphics drivers
+
+I have a Pascall (NV130) series GTX 1060 card. Follow the [nvidia](https://wiki.archlinux.org/title/NVIDIA) guide on the arch wiki.
+
+```bash
+pacman -Syu nvidia-dkms
+```
+
 ## Security
 
 - [ ] TODO: Figure out if meltdown is safe to disable
@@ -140,5 +148,17 @@ systemctl start thermald
 
 - [ ] TODO: `source /usr/share/doc/pkgfile/command-not-found.zsh` automation on arch linux
 - `iwctl` for wifi.
+
+### Desktop
+
+- hyprland
+
+  - waybar/hyprland
+  - wayland
+
+- sway
+  - is a wayland version of i3
+
+- awesomewm
 
 [ubuntu recomendations]: https://itsfoss.com/swap-size/
