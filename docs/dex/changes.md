@@ -1,5 +1,5 @@
+* 2023-08-23 08:54:26Z [Github CLI tips and tricks](../282)
 * 2023-08-23 08:50:00Z [Vim, tmux and ssh copy and paste madness](../279)
-* 2023-08-23 08:36:06Z [Github CLI tips and tricks](../282)
 * 2023-08-23 07:56:47Z [Personal dotfiles](../281)
 * 2023-08-22 22:32:28Z [Arch linux setup on terra](../272)
 * 2023-08-22 11:00:44Z [How to replace a missing MN license plate](../278)
