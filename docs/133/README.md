@@ -10,9 +10,13 @@ Ubuntu, Arch, Windows, WSL 1, WSL 2, and different CI/CD environments.
   ```bash
   if [[ "$(uname -r)" =~ Microsoft ]]; then
   fi
+
+  # Untested
+  if grep -q -i microsoft /proc/version; then
+  fi
   ```
 
-- Detect if running in Darwin
+- Detect if running in MacOSX
 
   ```bash
   if [[ "$(uname -r)" =~ Darwin ]]; then

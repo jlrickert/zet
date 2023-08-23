@@ -45,7 +45,7 @@ pacstrap -K /mnt base linux-zen linux-zen-headers linux-firmware vim intel-ucode
 Install the dependencies:
 
 ```bash
-pacman -Syu avahi nss-mdns
+pacman -Syu networkmonitor nss-mdns
 ```
 
 Edit the following in `/etc/nsswitch.conf`
@@ -56,14 +56,6 @@ hosts: mymachines mdns_minimal [NOTFOUND=return] resolve [!UNAVAIL=return] files
 
 Create the following to `/etc/systemd/network/20-wired.network`.
 
-```config
-[Match]
-Name=enp0s31f6
-
-[Network]
-DHCP=yes
-```
-
 You can lookup your lan device by running `ip link | grep enp | awk '{print $2}'`
 
 Start all the services
@@ -73,7 +65,7 @@ systemctl start systemd-networkd
 systemctl enable systemd-networkd
 systemctl start systemd-resolved
 systemctl enable systemd-resolved
-systemctl start avahi-daemon.service
+systemctl start
 systemctl enable avahi-daemon.service
 ```
 
@@ -134,13 +126,24 @@ systemctl start thermald
 
 ## Install graphics drivers
 
-I have a Pascall (NV130) series GTX 1060 card. Follow the [nvidia](https://wiki.archlinux.org/title/NVIDIA) guide on the arch wiki.
+I have a Pascall (NV130) series GTX 1060 card [NV136 (GP106)]. Follow the [nvidia](https://wiki.archlinux.org/title/NVIDIA) guide on the arch wiki. I need to figure out if I should be using the noveou drivers as there are some things that are not compatible.
 
 ```bash
 pacman -Syu nvidia-dkms
+pacman -Syu mesa
 ```
 
 ## Security
+
+- Setup haveged (Might be deprecated)
+
+  `haveged` is an entry service to use to increase the amount of randomness of a system.
+
+  ```bash
+  pacman -Syu haveged
+  systemctl start haveged.service
+  systemctl enable haveged.service
+  ```
 
 - [ ] TODO: Figure out if meltdown is safe to disable
 
@@ -157,8 +160,16 @@ pacman -Syu nvidia-dkms
   - wayland
 
 - sway
+
   - is a wayland version of i3
+  - not compatible with proprietary drivers
 
 - awesomewm
+
+  - config spaghetti. Something to work on later
+
+- i3
+
+- Weather location for forest lake: 5027117
 
 [ubuntu recomendations]: https://itsfoss.com/swap-size/
