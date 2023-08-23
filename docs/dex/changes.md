@@ -1,3 +1,4 @@
+* 2023-08-23 17:30:53Z [Meetup.com alternative idea](../284)
 * 2023-08-23 08:54:52Z [Git techniques and cheatsheet](../280)
 * 2023-08-23 08:54:26Z [Github CLI tips and tricks](../282)
 * 2023-08-23 08:50:00Z [Vim, tmux and ssh copy and paste madness](../279)
