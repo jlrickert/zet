@@ -1,7 +1,7 @@
+* 2023-08-24 14:37:55Z [Github CLI tips and tricks](../282)
 * 2023-08-23 17:30:53Z [Meetup.com alternative idea](../284)
 * 2023-08-23 09:33:26Z [PGP cheatsheet](../283)
 * 2023-08-23 08:54:52Z [Git techniques and cheatsheet](../280)
-* 2023-08-23 08:54:26Z [Github CLI tips and tricks](../282)
 * 2023-08-23 08:50:00Z [Vim, tmux and ssh copy and paste madness](../279)
 * 2023-08-23 07:56:47Z [Personal dotfiles](../281)
 * 2023-08-22 22:32:28Z [Arch linux setup on terra](../272)
