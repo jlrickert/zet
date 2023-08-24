@@ -255,16 +255,17 @@
 269	2023-08-15 10:35:02Z	When to use CGO_ENABLED
 270	2023-08-17 17:32:57Z	Streaming setup research
 271	2023-08-17 17:32:32Z	Digital ocean resource support
-272	2023-08-22 22:32:28Z	Arch linux setup on terra
+272	2023-08-23 03:32:28Z	Arch linux setup on terra
 273	2023-08-18 19:09:32Z	Pacman cheatsheet and usage patterns
 274	2023-08-18 15:04:34Z	Setting up refind as a boot loader
 275	2023-08-19 14:11:54Z	EDID emulator
 276	2023-08-19 17:49:22Z	Ranger alternatives
 277	2023-08-21 22:58:17Z	AwesomeWM Terminology
-278	2023-08-22 11:00:44Z	How to replace a missing MN license plate
-279	2023-08-23 08:50:00Z	Vim, tmux and ssh copy and paste madness
-280	2023-08-23 08:54:52Z	Git techniques and cheatsheet
-281	2023-08-23 07:56:47Z	Personal dotfiles
-282	2023-08-24 14:37:55Z	Github CLI tips and tricks
-283	2023-08-23 09:33:26Z	PGP cheatsheet
-284	2023-08-23 17:30:53Z	Meetup.com alternative idea
+278	2023-08-24 13:29:23Z	How to replace a missing MN license plate
+279	2023-08-23 13:50:00Z	Vim, tmux and ssh copy and paste madness
+280	2023-08-23 13:54:52Z	Git techniques and cheatsheet
+281	2023-08-23 12:56:47Z	Personal dotfiles
+282	2023-08-24 13:29:39Z	Github CLI tips and tricks
+283	2023-08-23 14:33:26Z	PGP cheatsheet
+284	2023-08-23 22:30:53Z	Meetup.com alternative idea
+285	2023-08-24 12:30:25Z	How to setup HP Officejet j4680 for printing
