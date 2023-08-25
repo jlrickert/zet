@@ -1,5 +1,9 @@
 # Mythic plus progress on Ravalock for season 2
 
+Current progress for season 2 on Ravalock.
+
+Current rating is 1943
+
 | Dungeon                | Initials | Fortified | Tyranical |
 | ---------------------- | -------- | --------- | --------- |
 | Brackenhide Hollow     | BH       | 15+       | 16-       |
