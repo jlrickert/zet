@@ -1,3 +1,4 @@
+* 2023-08-24 23:33:26Z [Pacman cheatsheet and usage patterns](../273)
 * 2023-08-24 22:56:33Z [Mythic plus progress on Ravalock for season 2](../286)
 * 2023-08-24 22:55:15Z [World of warcraft dragonflight season 1 dungeons](../4)
 * 2023-08-24 13:29:39Z [Github CLI tips and tricks](../282)
@@ -14,7 +15,6 @@
 * 2023-08-19 17:49:22Z [Ranger alternatives](../276)
 * 2023-08-19 17:04:29Z [How to manage ssh keys](../163)
 * 2023-08-19 14:11:54Z [EDID emulator](../275)
-* 2023-08-18 19:09:32Z [Pacman cheatsheet and usage patterns](../273)
 * 2023-08-18 15:04:34Z [Setting up refind as a boot loader](../274)
 * 2023-08-17 17:32:57Z [Streaming setup research](../270)
 * 2023-08-17 17:32:32Z [Digital ocean resource support](../271)

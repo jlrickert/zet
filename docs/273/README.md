@@ -15,6 +15,8 @@
 | `pacman -Qo file`              | find package a file a package belongs too                               |
 | `pactree ??`                   | list dependencies of a package                                          |
 | `pacman -U [package]`          | install a local package                                                 |
+| `pacman -Qe`                   | List all explicitly installed packages (includes aur)                   |
+| `pacman -Qm`                   | List all explicitly installed aur packages                              |
 
 ## See also
 
