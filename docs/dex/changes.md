@@ -1,3 +1,4 @@
+* 2023-08-25 15:30:17Z [Solution to being locked out of arch linux](../288)
 * 2023-08-24 23:33:26Z [Pacman cheatsheet and usage patterns](../273)
 * 2023-08-24 22:56:33Z [Mythic plus progress on Ravalock for season 2](../286)
 * 2023-08-24 22:55:15Z [World of warcraft dragonflight season 1 dungeons](../4)

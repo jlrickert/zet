@@ -45,7 +45,7 @@ pacstrap -K /mnt base linux-zen linux-zen-headers linux-firmware vim intel-ucode
 Install the dependencies:
 
 ```bash
-pacman -Syu networkmonitor nss-mdns
+pacman -Syu networkmanager nss-mdns
 ```
 
 Edit the following in `/etc/nsswitch.conf`
@@ -54,25 +54,16 @@ Edit the following in `/etc/nsswitch.conf`
 hosts: mymachines mdns_minimal [NOTFOUND=return] resolve [!UNAVAIL=return] files myhostname dns
 ```
 
-Create the following to `/etc/systemd/network/20-wired.network`.
-
-You can lookup your lan device by running `ip link | grep enp | awk '{print $2}'`
-
-Start all the services
-
 ```bash
-systemctl start systemd-networkd
-systemctl enable systemd-networkd
-systemctl start systemd-resolved
-systemctl enable systemd-resolved
-systemctl start
-systemctl enable avahi-daemon.service
+systemctl enable --now NetworkManager.service
+systemctl enable --now systemd-resolved.service
 ```
 
 ## Setup man pages
 
 ```bash
 pacman -Syu man-db man-pages
+systemctl enable --now man-db.service
 ```
 
 ## Create a user
@@ -116,13 +107,7 @@ systemctl start pkgfile-update.timer
 pacman -Syu man-db man-pages
 ```
 
-## Performance
-
-```bash
-pacman -Syu thermald btop i7z
-systemctl enable thermald
-systemctl start thermald
-```
+- [ ] TODO: `source /usr/share/doc/pkgfile/command-not-found.zsh` automation on arch linux
 
 ## Install graphics drivers
 
@@ -133,24 +118,61 @@ pacman -Syu nvidia-dkms
 pacman -Syu mesa
 ```
 
-## Security
+## Performance
 
-- Setup haveged (Might be deprecated)
+```bash
+pacman -Syu thermald btop i7z power-profiles-daemon.service
+systemctl enable --now thermald
+systemctl enable --now power-profiles-daemon.service
+```
 
-  `haveged` is an entry service to use to increase the amount of randomness of a system.
+## System password manager
 
-  ```bash
-  pacman -Syu haveged
-  systemctl start haveged.service
-  systemctl enable haveged.service
-  ```
+```bash
+pacman -Sy gnome-keyring seahorse
+```
 
-- [ ] TODO: Figure out if meltdown is safe to disable
+Update `/etc/pam.d/login` so it has the following content:
+
+```bash
+#%PAM-1.0
+
+auth       required     pam_securetty.so
+auth       requisite    pam_nologin.so
+auth       include      system-local-login
+auth       optional     pam_gnome_keyring.so
+account    include      system-local-login
+session    include      system-local-login
+session    optional     pam_gnome_keyring.so auto_start
+password   include      system-local-login
+```
+
+The lines where `pam_gnome_keyring.so` has been add is what needs to be added
+
+Create the file `~/.config/systemd/user/ssh-agent.service` with the following contents:
+
+```
+[Unit]
+Description=SSH key agent
+
+[Service]
+Type=simple
+Environment=SSH_AUTH_SOCK=%t/ssh-agent.socket
+# DISPLAY required for ssh-askpass to work
+Environment=DISPLAY=:0
+ExecStart=/usr/bin/ssh-agent -D -a $SSH_AUTH_SOCK
+
+[Install]
+WantedBy=default.target
+```
+
+Then activate the file with `systemctl --user enable --now ssh-agent.service`
 
 ## Dump
 
 - [ ] TODO: `source /usr/share/doc/pkgfile/command-not-found.zsh` automation on arch linux
 - `iwctl` for wifi.
+- Sets keyboard speed `xset r 200 40`
 
 ### Desktop
 

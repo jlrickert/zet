@@ -20,4 +20,6 @@ Here is a working example that I have found
 - Alacritty works out of the box
 - Windows terminal also works
 
+## Meta
+
     tags: #wsl #bash #ops
