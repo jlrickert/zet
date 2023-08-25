@@ -20,6 +20,8 @@ Here is a working example that I have found
 - Alacritty works out of the box
 - Windows terminal also works
 
+ssh config may be added
+
 ## Meta
 
     tags: #wsl #bash #ops
