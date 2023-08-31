@@ -69,13 +69,22 @@ systemctl enable --now man-db.service
 ## Create a user
 
 ```bash
-pacman -Syu sudo git zsh pipewire pipewire-docs wireplumb helvum pipewire-audio pipewire-alsa pipewire-pulse
+pacman -Syu sudo git zsh pipewire pipewire-docs wireplumber helvum pipewire-audio pipewire-alsa pipewire-pulse
 useradd -m -G users,wheel -s /bin/zsh jlrickert
 ```
 
 Enable wheel group to use sudo using `EDITOR=vim visudo`. wheel is used over sudo as other programs use it. Redhat and systemd prefer wheel and is preinstalled on arch. Ubuntu uses sudo group. `polkit` is something that uses wheel out of the box. Other than that It is mainly preference.
 
 Also add `Defaults insults` just cause.
+
+## Setup sound
+
+For sound I find the newer pipewire seems to be mature enough for daily use.
+
+```bash
+pacman -Syu pipewire pipewire-docs wireplumber helvum pipewire-audio pipewire-alsa pipewire-pulse
+systemctl --user enable --now pipewire-pulse.service
+```
 
 ## Setup ssh
 
@@ -121,7 +130,7 @@ pacman -Syu mesa
 ## Performance
 
 ```bash
-pacman -Syu thermald btop i7z power-profiles-daemon.service
+pacman -Syu thermald btop i7z power-profiles-daemon
 systemctl enable --now thermald
 systemctl enable --now power-profiles-daemon.service
 ```
@@ -172,7 +181,7 @@ Then activate the file with `systemctl --user enable --now ssh-agent.service`
 
 - [ ] TODO: `source /usr/share/doc/pkgfile/command-not-found.zsh` automation on arch linux
 - `iwctl` for wifi.
-- Sets keyboard speed `xset r 200 40`
+- Sets keyboard speed `xset r rate 200 40`
 
 ### Desktop
 
