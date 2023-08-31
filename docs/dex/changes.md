@@ -1,5 +1,5 @@
+* 2023-08-31 18:10:59Z [Research for tendonitis issue](../289)
 * 2023-08-31 18:10:39Z [Arch linux setup on terra](../272)
-* 2023-08-31 18:09:13Z [Research for tendonitis issue](../289)
 * 2023-08-26 03:51:37Z [Fedora workstation setup](../99)
 * 2023-08-26 03:51:37Z [Ergonomic mouse research](../97)
 * 2023-08-26 03:51:37Z [keg create git issue](../96)

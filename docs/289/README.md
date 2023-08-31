@@ -2,7 +2,7 @@
 
 I have slight discomfort in my right wrist. This is especially true after using the computer all day. Some agrivators that I find is using the mouse and constantly switching between my ergonomic keyboard and regular keyboard. It is more of a dull pain low grade pain, even at rest.
 
-See also:
+## See also:
 
 - [de quervain tenosynovitis](https://www.mayoclinic.org/diseases-conditions/de-quervain-tenosynovitis/symptoms-causes/syc-20371332)
 
