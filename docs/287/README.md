@@ -19,6 +19,10 @@ Currenlty s2idle is supported. No S3 support
 - Add `resume` to HOOK in `/etc/mkinitcpio.conf`
 - Add `resume=PARTUUID=XXXX` to boot entries
 
+## Keyboard
+
+Since I general don't have my nice [keyboard](../290) connected when using my labtop I need to swap caps lock and escape.
+
 ## Notes
 
 - `edk2-shell` might insight into how to add windows to the list of boot entries.
