@@ -1,3 +1,4 @@
+* 2023-09-01 10:14:24Z [Arch linux setup on blaze](../287)
 * 2023-09-01 10:14:16Z [Arch linux setup on terra](../272)
 * 2023-09-01 10:14:08Z [Kineses Advantage360](../290)
 * 2023-08-31 18:10:59Z [Research for tendonitis issue](../289)
@@ -75,7 +76,6 @@
 * 2023-08-26 03:51:37Z [World of warcraft evoker preservation gameplay](../3)
 * 2023-08-26 03:51:37Z [Sat 17 Dec 2022 farrel's kick boxing party](../29)
 * 2023-08-26 03:51:37Z [Solution to being locked out of arch linux](../288)
-* 2023-08-26 03:51:37Z [Arch linux setup on blaze](../287)
 * 2023-08-26 03:51:37Z [Mythic plus progress on Ravalock for season 2](../286)
 * 2023-08-26 03:51:37Z [How to setup HP Officejet j4680 for printing](../285)
 * 2023-08-26 03:51:37Z [Meetup.com alternative idea](../284)
