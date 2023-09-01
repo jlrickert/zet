@@ -1,4 +1,4 @@
-# Arch linux setup on terra
+# Arch linux setup on Terra
 
 Terra is my old desktop that I use for development. The main reason that I develop on my desktop instead of on my newer faster labtop is that the labtop has a newer NVIDIA gpu that can run NVIDIA broadcast that I use for streaming.
 
@@ -123,8 +123,7 @@ pacman -Syu man-db man-pages
 I have a Pascall (NV130) series GTX 1060 card [NV136 (GP106)]. Follow the [nvidia](https://wiki.archlinux.org/title/NVIDIA) guide on the arch wiki. I need to figure out if I should be using the noveou drivers as there are some things that are not compatible.
 
 ```bash
-pacman -Syu nvidia-dkms
-pacman -Syu mesa
+pacman -Syu --needed nvidia-dkms mesa
 ```
 
 ## Performance
@@ -138,7 +137,9 @@ systemctl enable --now power-profiles-daemon.service
 ## System password manager
 
 ```bash
-pacman -Sy gnome-keyring seahorse
+pacman -Sy gnome-keyring seahorse libsecret
+systemctl --user enable --now gcr-ssh-agent.service
+systemctl --user enable --now gnome-keyring-daemon.service
 ```
 
 Update `/etc/pam.d/login` so it has the following content:
@@ -177,30 +178,25 @@ WantedBy=default.target
 
 Then activate the file with `systemctl --user enable --now ssh-agent.service`
 
+VScode doesn't know how to use it. Add `"password-store": "gnome"` into `.vscode/argv.json`.
+
+## Instaling aur packages
+
+```bash
+mkdir -p ~/repos/aur.archlinux.org
+cd ~/repos/aur.archlinux.org
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+yay --sync --refresh --needed google-chrome visual-studio-code-bin zoom
+```
+
 ## Dump
 
 - [ ] TODO: `source /usr/share/doc/pkgfile/command-not-found.zsh` automation on arch linux
 - `iwctl` for wifi.
 - Sets keyboard speed `xset r rate 200 40`
 - `setxkbmap -option caps:swapescape`
-
-### Desktop
-
-- hyprland
-
-  - waybar/hyprland
-  - wayland
-
-- sway
-
-  - is a wayland version of i3
-  - not compatible with proprietary drivers
-
-- awesomewm
-
-  - config spaghetti. Something to work on later
-
-- i3
 
 - Weather location for forest lake: 5027117
 
