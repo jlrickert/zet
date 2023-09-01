@@ -8,6 +8,7 @@
 - 2023-08-06 [Sourdough somewhat whole wheat pizza for the Ooni](../294)
 - 2023-08-02 [Whole wheat tortilla recipe](../296)
 - 2023-07-26 [First bigga sourdough pizza batch for the Ooni](../297)
+- 2023-07-22 [Bigga sourdough pizza experiment](../298)
 
 ## Meta:
 
