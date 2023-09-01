@@ -1,6 +1,6 @@
 # Arch linux setup on terra
 
-Terra is my old desktop that I use for development.
+Terra is my old desktop that I use for development. The main reason that I develop on my desktop instead of on my newer faster labtop is that the labtop has a newer NVIDIA gpu that can run NVIDIA broadcast that I use for streaming.
 
 ## Bootrap the system
 
@@ -205,3 +205,11 @@ Then activate the file with `systemctl --user enable --now ssh-agent.service`
 - Weather location for forest lake: 5027117
 
 [ubuntu recomendations]: https://itsfoss.com/swap-size/
+
+## See also
+
+- [Labtop blaze](../287)
+
+## Meta
+
+    tags: #hardware #linux #workstation

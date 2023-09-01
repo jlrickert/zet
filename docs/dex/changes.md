@@ -1,3 +1,4 @@
+* 2023-09-01 11:18:17Z [Labor day weekend breadbowl](../293)
 * 2023-09-01 10:14:24Z [Arch linux setup on blaze](../287)
 * 2023-09-01 10:14:16Z [Arch linux setup on terra](../272)
 * 2023-09-01 10:14:08Z [Kineses Advantage360](../290)

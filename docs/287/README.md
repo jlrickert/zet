@@ -1,6 +1,6 @@
 # Arch linux setup on blaze
 
-Blaze is my dell xps 9710. It is setup similar to [Terra](../272).
+Blaze is my dell xps 9710. It is setup similar to [Terra](../272). This is what I use to develop on when I want to be mobile.
 
 ## Harddrive setup
 
@@ -18,6 +18,18 @@ Currenlty s2idle is supported. No S3 support
 
 - Add `resume` to HOOK in `/etc/mkinitcpio.conf`
 - Add `resume=PARTUUID=XXXX` to boot entries
+
+## HiDPI setup
+
+Copy the following into `~/.Xresource`.
+
+```bash
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.hintstyle: hintfull
+Xft.dpi:       220
+```
 
 ## Keyboard
 
