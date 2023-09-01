@@ -14,6 +14,7 @@
 - 2023-06-23 [Large sourdough pizza batch for BYOT pizza event](../302)
 - 2023-06-16 [Father's day whole wheat sourdoubh batard](../306)
 - 2023-05-26 [Memorial day sourdough bread bowl](../304)
+- 2023-05-08 [Whole wheat sourdough loaf](../307)
 - 2023-04-20 [Big batch sourdough pizza](../303)
 - 2022-11-24 [Thingsgiving bread bowl 2022](../305)
 
