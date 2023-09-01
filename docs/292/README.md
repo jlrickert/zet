@@ -1,5 +1,7 @@
 # Baking index
 
+Index of the things that I have baked in the past.
+
 ## Index
 
 - 2023-09-01 [Labor day weekend breakdbowl](../293)
