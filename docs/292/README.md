@@ -1,6 +1,5 @@
 # Baking index
 
-
 ## Index
 
 - 2023-09-01 [Labor day weekend breakdbowl](../293)
@@ -16,7 +15,8 @@
 - 2023-05-26 [Memorial day sourdough bread bowl](../304)
 - 2023-05-08 [Whole wheat sourdough loaf](../307)
 - 2023-04-20 [Big batch sourdough pizza](../303)
-- 2023-04-16 [](../308)
+- 2023-04-18 [Sourdough pizza experiment](../309)
+- 2023-04-16 [Experimental whole wheat sourdough pizza small batch](../308)
 - 2022-11-24 [Thingsgiving bread bowl 2022](../305)
 
 ## Meta:
