@@ -1,6 +1,6 @@
 # Memorial day sourdough bread bowl
 
-This is the recipe that I used for making the bread bowl for memorial day 2023. It is based off of the [Thanksgiving bread bowl](../549).
+This is the recipe that I used for making the bread bowl for memorial day 2023. It is based off of the [Thanksgiving bread bowl](../305).
 
 | Ingredient | Amount | Bakers Percentage | Comment                       |
 | ---------- | ------ | ----------------- | ----------------------------- |
