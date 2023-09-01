@@ -18,7 +18,7 @@ pacstrap -K /mnt base linux-zen linux-zen-headers linux-firmware vim intel-ucode
 - Edit `/boot/loader/entries/arch-zen.conf` to use the zen kernel. It should look like the following:
 
   ```bash
-  title ARch Linux Zen
+  title Arch Linux Zen
   linux /vmlinuz-linux-zen
   initrd /intel-ucode.img
   initrd /initramfs-linux-zen.img
@@ -182,6 +182,7 @@ Then activate the file with `systemctl --user enable --now ssh-agent.service`
 - [ ] TODO: `source /usr/share/doc/pkgfile/command-not-found.zsh` automation on arch linux
 - `iwctl` for wifi.
 - Sets keyboard speed `xset r rate 200 40`
+- `setxkbmap -option caps:swapescape`
 
 ### Desktop
 

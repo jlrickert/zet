@@ -2,7 +2,7 @@
 
 Blaze is my dell xps 9710. It is setup similar to [Terra](../272).
 
-## Notes
+## Harddrive setup
 
 - hard drive is on `/dev/nvme1n1`
 
@@ -21,7 +21,7 @@ Currenlty s2idle is supported. No S3 support
 
 ## Notes
 
-- edk2-shell
+- `edk2-shell` might insight into how to add windows to the list of boot entries.
 
 ## See also
 
