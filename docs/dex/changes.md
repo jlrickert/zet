@@ -1,3 +1,4 @@
+* 2023-09-01 15:57:07Z [Arch linux setup on Terra](../272)
 * 2023-09-01 15:44:06Z [How to manually install a package from the AUR](../315)
 * 2023-09-01 13:45:11Z [Linux desktop comparison](../291)
 * 2023-09-01 13:17:40Z [July fourth weekend 2023 sourdough bread bowl](../299)
@@ -20,7 +21,6 @@
 * 2023-09-01 11:24:14Z [Sourdough somewhat whole wheat pizza for the ooni](../294)
 * 2023-09-01 11:18:17Z [Labor day weekend breadbowl](../293)
 * 2023-09-01 10:14:24Z [Arch linux setup on blaze](../287)
-* 2023-09-01 10:14:16Z [Arch linux setup on terra](../272)
 * 2023-09-01 10:14:08Z [Kineses Advantage360](../290)
 * 2023-08-31 18:10:59Z [Research for tendonitis issue](../289)
 * 2023-08-26 03:51:37Z [Fedora workstation setup](../99)
