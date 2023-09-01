@@ -12,7 +12,8 @@
 - 2023-06-30 [July fourth weekend 2023 sourdough bread bowl](../299)
 - 2023-06-30 [July fourth weekend 2023 sourdough pizza](../301)
 - 2023-06-23 [Large sourdough pizza batch for BYOT pizza event](../302)
-- 2023-04-20 [Sourdough pizza](../303)
+- 2023-04-20 [Big batch sourdough pizza](../303)
+- 2023-05-26 [Memorial day sourdough bread bowl](../304)
 
 ## Meta:
 
