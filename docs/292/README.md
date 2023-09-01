@@ -9,11 +9,13 @@
 - 2023-08-02 [Whole wheat tortilla recipe](../296)
 - 2023-07-26 [First bigga sourdough pizza batch for the Ooni](../297)
 - 2023-07-22 [Bigga sourdough pizza experiment](../298)
-- 2023-06-30 [July fourth weekend 2023 sourdough bread bowl](../299)
 - 2023-06-30 [July fourth weekend 2023 sourdough pizza](../301)
+- 2023-06-30 [July fourth weekend 2023 sourdough bread bowl](../299)
 - 2023-06-23 [Large sourdough pizza batch for BYOT pizza event](../302)
-- 2023-04-20 [Big batch sourdough pizza](../303)
+- 2023-06-16 [Father's day whole wheat sourdoubh batard](../306)
 - 2023-05-26 [Memorial day sourdough bread bowl](../304)
+- 2023-04-20 [Big batch sourdough pizza](../303)
+- 2022-11-24 [Thingsgiving bread bowl 2022](../305)
 
 ## Meta:
 
