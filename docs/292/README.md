@@ -18,6 +18,8 @@
 - 2023-04-18 [Sourdough pizza experiment](../309)
 - 2023-04-16 [Experimental whole wheat sourdough pizza small batch](../308)
 - 2023-03-31 [Experimental rye and barley pullman load](../310)
+- 2023-01-01 [Einkorn sourdough breadbowl](../311)
+- 2023-01-01 [Sourdough pizza](../312)
 - 2022-11-24 [Thingsgiving bread bowl 2022](../305)
 
 ## Meta:
