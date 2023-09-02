@@ -1,3 +1,4 @@
+* 2023-09-02 11:16:35Z [Labor day weekend bread bowl](../293)
 * 2023-09-01 16:39:37Z [Baking index](../292)
 * 2023-09-01 15:57:10Z [Arch linux setup on blaze](../287)
 * 2023-09-01 15:57:07Z [Arch linux setup on Terra](../272)
@@ -21,7 +22,6 @@
 * 2023-09-01 12:15:50Z [Whole wheat tortilla recipe](../296)
 * 2023-09-01 12:13:47Z [Pizza night at the cabin pizza dough](../295)
 * 2023-09-01 11:24:14Z [Sourdough somewhat whole wheat pizza for the ooni](../294)
-* 2023-09-01 11:18:17Z [Labor day weekend breadbowl](../293)
 * 2023-09-01 10:14:08Z [Kineses Advantage360](../290)
 * 2023-08-31 18:10:59Z [Research for tendonitis issue](../289)
 * 2023-08-26 03:51:37Z [Fedora workstation setup](../99)
