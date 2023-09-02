@@ -28,7 +28,9 @@ Total weight is around 1900g
 
 - 11:15am Baking
 
-  Baked for 25m at 450f and another 15m at 410f without the lid. I preheaded the oven without the dutch ovens, a large sheet of parchment paper with 3 folds, and spritzed with water before being placed inside the oven.
+  Baked for 25m at 450f and another 20m at 410f without the lid. I preheaded the oven without the dutch ovens, a large sheet of parchment paper with 2 folds, and spritzed with water before being placed inside the oven.
+
+![Baked loaf of bread](20230902_124442.jpg)
 
 ## See also
 
