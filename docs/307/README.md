@@ -15,6 +15,10 @@ Whole wheat sourdough loaf that I made on Mon May 8 PM UTC 2023.
 
 Overall turned out good.
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking #sourdough #bread

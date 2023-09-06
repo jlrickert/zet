@@ -1,3 +1,5 @@
+* 2023-09-06 13:24:09Z [Sourdough pizza dough batch request](../317)
+* 2023-09-06 12:11:52Z [July fourth weekend 2023 sourdough pizza](../301)
 * 2023-09-06 12:07:09Z [Researching a Rofi like experience on MacOSX](../316)
 * 2023-09-05 09:32:01Z [Labor day weekend bread bowl](../293)
 * 2023-09-02 12:50:56Z [July fourth weekend 2023 sourdough bread bowl](../299)
@@ -17,7 +19,6 @@
 * 2023-09-01 12:51:05Z [Thanksgiving bread bowl 2022](../305)
 * 2023-09-01 12:49:22Z [Thu Apr 20 2023 sourdough pizza](../303)
 * 2023-09-01 12:42:36Z [Large sourdough pizza batch for BYOT pizza event](../302)
-* 2023-09-01 12:26:28Z [July fourth weekend 2023 sourdough pizza](../301)
 * 2023-09-01 12:21:20Z [Bigga sourdough pizza dough Saturday July 22 2023](../298)
 * 2023-09-01 12:17:54Z [First bigga sourdough pizza batch for the Ooni](../297)
 * 2023-09-01 12:15:50Z [Whole wheat tortilla recipe](../296)

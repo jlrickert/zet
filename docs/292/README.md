@@ -4,6 +4,7 @@ Index of the things that I have baked in the past.
 
 ## Index
 
+- 2023-09-06 [Sourdough pizza dough batch request](../317)
 - 2023-09-01 [Labor day weekend breakdbowl](../293)
 - 2023-08-25 [Pizza night at the cabin large batch](../295)
 - 2023-08-06 [Sourdough somewhat whole wheat pizza for the Ooni](../294)

@@ -13,6 +13,10 @@ Total weight is 1085g
 
 Baked for 38 minutes. Preheated oven for like 10. The last 8 minutes or so I pulled the lid off.
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking

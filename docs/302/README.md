@@ -1,6 +1,6 @@
 # Large sourdough pizza batch for BYOT pizza event
 
-This is a big batch of pizza dough for the bring your own toppings (BYOT) pizza event at Josh's place on Saturday June 24 2023. I plan to base the [recipe](../303) that I had for last time I tried to get a pizza night going.
+This is a big batch of pizza dough for the bring your own toppings (BYOT) pizza event at a [friends place](https://zettel.jlrickert.me/422) on Saturday June 24 2023. I plan to base the [recipe](../303) that I had for last time I tried to get a pizza night going.
 
 The temperature today is suppose to get to around 85.
 
@@ -12,7 +12,7 @@ The temperature today is suppose to get to around 85.
 | rye starter | 200g   | 10%               | 100% rye; 1 to 1 ratio |
 | Salt        | 20g    | 1%                |                        |
 
-The total weight is 3470. This should be enough for 20 people. I have to work around my schedule so I have to do a few things earlier than I would otherwise. 
+The total weight is 3470. This should be enough for 20 people. I have to work around my schedule so I have to do a few things earlier than I would otherwise.
 
 Here is the planned schedule for the dough:
 
@@ -23,11 +23,15 @@ Here is the planned schedule for the dough:
 
 The timings are based off of a recipe at the [perfectloaf] recipe but modified.
 
-The dough came out relatively easy to work with.  Was a huge hit with every one.
+The dough came out relatively easy to work with. Was a huge hit with every one.
 
 ![fermenting](fermenting.jpg)
 
 [perfectloaf]: https://www.theperfectloaf.com/whole-wheat-sourdough-pizza-dough/
+
+## See also
+
+- [Baking index](../292)
 
 ## Meta
 

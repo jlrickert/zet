@@ -28,6 +28,10 @@ The picture that I took was the last 2 pizzas. The oven got to roughly 950f for 
 
 ![2 pizza's](20230729-pizza.jpg)
 
-Meta:
+## See also
+
+- [Baking index](../292)
+
+## Meta
 
     tags: #baking #pizza

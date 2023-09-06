@@ -20,6 +20,10 @@ Here is the timings
 
 Turned out rather sticky. Still came out good.
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking #sourdough #pizza

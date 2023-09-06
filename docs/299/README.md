@@ -26,6 +26,10 @@ The temperature was roughly 80f.
 
 ![baked sourdough loaf](20230701_124014.jpg)
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking #holiday #sourdough

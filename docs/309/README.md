@@ -12,6 +12,10 @@ Sourdough pizza experimental batch made on Tue Apr 18 2023. I made this pizza sp
 
 Total weight is 202g
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking #pizza

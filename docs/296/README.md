@@ -12,6 +12,10 @@ This is a recipe based off of the recipe on a random recipe I found on [google].
 | salt              | 7g     |                   |         |
 | baking powder     | 5g     |                   |         |
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking

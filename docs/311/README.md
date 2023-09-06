@@ -9,6 +9,10 @@
 
 Total weight is 1086.
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta:
 
     tags: #baking

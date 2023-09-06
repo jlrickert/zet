@@ -14,6 +14,10 @@ minutes without.
 
 It was a total hit and almost gone. The smokey bacon dip that I bought at cub was a hit as well.
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta:
 
     tags: #baking #bread #sourdough

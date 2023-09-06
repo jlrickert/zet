@@ -12,6 +12,10 @@ Mixed the ingredients at around 2pm on Friday. Shaped and placed in the fridge a
 
 Total weight is 800g
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking #sourdough #bread

@@ -9,9 +9,13 @@
 
 Total weight is 1250 plus caraway and fennel
 
-Made evening of Fri Mar 31 2023. Baked Mid day the next day at 350f for 1.75h.  House temperature was less than 60 for bulk fermenting.
+Made evening of Fri Mar 31 2023. Baked Mid day the next day at 350f for 1.75h. House temperature was less than 60 for bulk fermenting.
 
 ![barly and rye loaf](barly_and_rye_loaf.jpg)
+
+## See also
+
+- [Baking index](../292)
 
 ## Meta
 

@@ -16,4 +16,10 @@ Mixed the bigga at around 4pm. At around 10pm I mixed all the ingredients togeth
 ![cheeseburger and bacon](20230723_171750.jpg)
 ![the everythring pizza](20230723_171754.jpg)
 
+## See also
+
+- [Baking index](../292)
+
+## Meta
+
     tags: #baking

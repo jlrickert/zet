@@ -11,6 +11,10 @@ Experimental batch made on Tue Apr 16 2023
 
 Total weight is 400g
 
+## See also
+
+- [Baking index](../292)
+
 ## Meta
 
     tags: #baking #pizza #sourdough

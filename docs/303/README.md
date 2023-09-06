@@ -15,10 +15,11 @@ Mixed everything before going to bed. Overnight proof in the fridge.
 
 Total weight is 2000g
 
-See also:
+## See also
 
 - [thursday](keg://jlrickert/356)
 - [sunday](keg://jlrickert/348)
+- [Baking index](../292)
 
 ## Meta
 
