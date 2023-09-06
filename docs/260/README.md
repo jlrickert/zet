@@ -2,7 +2,7 @@
 
 - New york style
 
-  Typically gas cooked neopolitan pizza. Typically mozzarella cheese is used.
+  Typically gas cooked neopolitan pizza. Typically mozzarella cheese is used. Typically this is made in a high heat pizza oven. Often around 900f. This is similary to a neopolitan pizza.
 
 - Sicilian
 
@@ -26,7 +26,7 @@
 
 - Neapolitan
 
-  Fluffy crust on the outside
+  Neopolitan is the holy grain of pizza. It is a thinner pizza crust that is still still has a rather fluffy texture. It is typically baked for around 90 seconds in temperatures around 900f.
 
 - St Louis
 
@@ -44,6 +44,10 @@
 
   Lots untraditional toppings
 
-Meta:
+## See also
+
+- https://www.thespruceeats.com/a-definitive-guide-to-pizza-styles-4796699
+
+## Meta
 
     tags: #baking

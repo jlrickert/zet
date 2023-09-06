@@ -11,14 +11,14 @@ The tempature is cooler this week. Around 75f.
 | AP Flour    | 1141g  | 80%               | Walmart organic AP flour |
 | Whole wheat | 285g   | 20%               | Einkorn                  |
 | Water       | 941g   | 66%               |                          |
-| rye starter | 143    | 10%               | 100% rye; 1 to 1 ratio   |
+| rye starter | 143g   | 10%               | 100% rye; 1 to 1 ratio   |
 | Salt        | 14g    | 1%                |                          |
 
 Total weight is 2525g in total.
 
 ## Key events (Thursday target)
 
-Making the batch of dough by Thursday is duable. However, there are a few hurdles. Different timing that I haven't tried, not having enough rye flour for my starter, and missing einkorn flour that I have. This changes the recipe from the one that I know works well. One advantage is that there is an extra day to ferment in the fridge.
+Making the batch of dough by Thursday is duable. However, there are a few hurdles. Different timing that I haven't tried, not having enough rye flour for my starter, and missing einkorn flour that I have used previously. This changes the recipe from the one that I know works well. One advantage is that there is an extra day to ferment in the fridge.
 
 - 12:00pm Wednesday - Mix starter
 
@@ -28,11 +28,11 @@ Making the batch of dough by Thursday is duable. However, there are a few hurdle
 
   I am up north currently and don't have enough rye. I could use whole wheat sourdough instead though.
 
-- 08:00am Thursday - (planned) Autolyse pizza dough
+- 09:00am Thursday - (planned) Autolyse pizza dough
 
   Mix all bit the starter. By this type the starter will be a bit ripe making for a more sour taste to the dough.
 
-- 09:00am (Thursday) - Mix all ingredients together.
+- 10:00am (Thursday) - Mix all ingredients together.
 
 - 01:00pm (Thursday) - Knead dough
 
@@ -40,24 +40,30 @@ Making the batch of dough by Thursday is duable. However, there are a few hurdle
 
 - 3:30pm (Thursday) - (Optional) Shape dough
 
-  Shaping the dough this early may be challenging. The dough at the point tends to still be a shaggy mess. I typically like to shape, oil with olive oil, and place into plastic bags. This makes it easier to shape and work with when baking. This step may be skiped and done prior to baking.
+  Shaping the dough this early may be challenging. The dough at the point tends to still be a shaggy mess. I typically like to shape, grease with olive oil, and place into plastic bags. This makes it easier to shape and work with when baking. This step may be skiped and done prior to baking. One thing that I need to explore is how this campares to shaping just prior to using. When pulled out of the bag it tends to loose its ball shape and usually reshape prior. I just know this methods makes nice round looking pizzas.
 
 - 08:00pm (Thursday) - Bulk ferment
 
-  This is the tricky part is knowing when to put the dough in the fridge. Generally, I put in the fridge before I go to bed and pull it out 6 hours prior to using. This may sit in the fridge until maybe like.
+  This is the tricky part is knowing when to put the dough in the fridge. Generally, I put in the fridge before I go to bed and pull it out 6 hours prior to using (guesstimate). The goal is to get the dough to the right temperature to work with. Too warm and it is sticky and likes to rip. Too cold and it is hard to get thin.
 
 ## Key events (Friday target)
 
 This is a time frame to consider if I am making the dough on Friday. Friday is an easier target because there is less unknowns and have all the available ingredients. It also gives more time to preshape all the dough balls.
 
-- 12:00pm Wednesday - Mixstarter
-- 10:00pm Wednesday - Mix starter again
+- 12:00pm Wednesday - Mix starter
+- 10:30pm Wednesday - Mix starter again
+
+  Mix before going to bed
+
 - 10:00am Thursday - Mix starter again
+
+  Stop by the store on the way way home to buy flour.
+
 - 03:00pm Thursday - Autolyse
 - 04:00pm Thursday - Mix ingredients
 - 06:30pm Thursday - Cold bulk ferment
-- 09:00am Friday - Shape
-- 12:30pm driday Ready to bake
+- 09:00am Friday - Shape dough
+- 12:30pm Friday Ready to bake
 
   This is the earliest that it may be ready. I generally liked the dough better when it was left in the fridge for another day. Another thing to consider is that warm dough may be stickier and more prone to ripping. This isn't always the case.
 

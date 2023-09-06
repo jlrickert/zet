@@ -188,7 +188,7 @@
 197	2023-08-26 03:51:37Z	A nifty way to compare versions
 198	2023-08-26 03:51:37Z	How to manage dependencies with git submodules
 199	2023-08-26 03:51:37Z	Top stats for warlock in dragon flight season 2
-200	2023-08-25 22:51:37Z	How to utilize these notes
+200	2023-08-26 03:51:37Z	How to utilize these notes
 202	2023-08-26 03:51:37Z	Optimal rice to water ratio
 203	2023-08-26 03:51:37Z	A possible thing to look out for if you see a spike in traffic
 204	2023-08-26 03:51:37Z	Web development security risk types
@@ -243,7 +243,7 @@
 257	2023-08-26 03:51:37Z	Article about how PostCSS is an alternatie to SCSS
 258	2023-08-26 03:51:37Z	Managing encrypted data with ssh keys
 259	2023-08-26 03:51:37Z	Automatically rerunning commands with `entr`
-260	2023-08-26 03:51:37Z	Types of pizza
+260	2023-09-06 18:13:42Z	Types of pizza
 261	2023-08-26 03:51:37Z	Hugo theme development loop for share able themes
 262	2023-08-26 03:51:37Z	Seamless navigation between tmux and vim
 263	2023-08-26 03:51:37Z	An interesting article about LINQ in JavaScript
@@ -255,7 +255,7 @@
 269	2023-08-26 03:51:37Z	When to use CGO_ENABLED
 270	2023-08-26 03:51:37Z	Streaming setup research
 271	2023-08-26 03:51:37Z	Digital ocean resource support
-272	2023-09-01 15:57:07Z	Arch linux setup on Terra
+272	2023-09-01 20:57:07Z	Arch linux setup on Terra
 273	2023-08-26 03:51:37Z	Pacman cheatsheet and usage patterns
 274	2023-08-26 03:51:37Z	Setting up refind as a boot loader
 275	2023-08-26 03:51:37Z	EDID emulator
@@ -268,33 +268,33 @@
 282	2023-08-26 03:51:37Z	Github CLI tips and tricks
 283	2023-08-26 03:51:37Z	PGP cheatsheet
 284	2023-08-26 03:51:37Z	Meetup.com alternative idea
-285	2023-08-25 22:51:37Z	How to setup HP Officejet j4680 for printing
+285	2023-08-26 03:51:37Z	How to setup HP Officejet j4680 for printing
 286	2023-08-26 03:51:37Z	Mythic plus progress on Ravalock for season 2
-287	2023-09-01 15:57:10Z	Arch linux setup on blaze
+287	2023-09-01 20:57:10Z	Arch linux setup on blaze
 288	2023-08-26 03:51:37Z	Solution to being locked out of arch linux
-289	2023-08-31 18:10:59Z	Research for tendonitis issue
-290	2023-09-01 10:14:08Z	Kineses Advantage360
-291	2023-09-01 13:45:11Z	Linux desktop comparison
-292	2023-09-01 16:39:37Z	Baking index
-293	2023-09-05 09:32:01Z	Labor day weekend bread bowl
-294	2023-09-01 11:24:14Z	Sourdough somewhat whole wheat pizza for the ooni
-295	2023-09-01 12:13:47Z	Pizza night at the cabin pizza dough
-296	2023-09-01 12:15:50Z	Whole wheat tortilla recipe
-297	2023-09-01 12:17:54Z	First bigga sourdough pizza batch for the Ooni
-298	2023-09-01 12:21:20Z	Bigga sourdough pizza dough Saturday July 22 2023
-299	2023-09-02 12:50:56Z	July fourth weekend 2023 sourdough bread bowl
-301	2023-09-06 12:11:52Z	July fourth weekend 2023 sourdough pizza
-302	2023-09-01 12:42:36Z	Large sourdough pizza batch for BYOT pizza event
-303	2023-09-01 12:49:22Z	Thu Apr 20 2023 sourdough pizza
-304	2023-09-01 12:51:14Z	Memorial day sourdough bread bowl
-305	2023-09-01 12:51:05Z	Thanksgiving bread bowl 2022
-306	2023-09-01 12:55:12Z	Father's day whole wheat sourdough batard
-307	2023-09-01 12:56:21Z	Whole wheat sourdough loaf
-308	2023-09-01 12:58:52Z	Experimental whole wheat pizza sourdough small batch
-309	2023-09-01 13:04:51Z	Sourdough Pizza experiment
-310	2023-09-01 13:06:12Z	Experimental rye and barley pullman loaf
-311	2023-09-01 13:07:14Z	Einkorn sourdough bread bowl
-312	2023-09-01 13:08:36Z	Sourdough pizza
-315	2023-09-01 15:44:06Z	How to manually install a package from the AUR
-316	2023-09-06 12:07:09Z	Researching a Rofi like experience on MacOSX
-317	2023-09-06 13:24:09Z	Sourdough pizza dough batch request
+289	2023-08-31 23:10:59Z	Research for tendonitis issue
+290	2023-09-01 15:14:08Z	Kineses Advantage360
+291	2023-09-01 18:45:11Z	Linux desktop comparison
+292	2023-09-06 18:24:36Z	Baking index
+293	2023-09-05 14:32:01Z	Labor day weekend bread bowl
+294	2023-09-01 16:24:14Z	Sourdough somewhat whole wheat pizza for the ooni
+295	2023-09-06 18:56:56Z	Pizza night at the cabin pizza dough
+296	2023-09-06 17:12:37Z	Whole wheat tortilla recipe
+297	2023-09-06 17:12:22Z	First bigga sourdough pizza batch for the Ooni
+298	2023-09-06 17:12:07Z	Bigga sourdough pizza dough Saturday July 22 2023
+299	2023-09-06 17:11:46Z	July fourth weekend 2023 sourdough bread bowl
+301	2023-09-06 17:11:52Z	July fourth weekend 2023 sourdough pizza
+302	2023-09-06 18:25:16Z	Large sourdough pizza batch for BYOT pizza event
+303	2023-09-06 17:10:59Z	Thu Apr 20 2023 sourdough pizza
+304	2023-09-06 17:11:17Z	Memorial day sourdough bread bowl
+305	2023-09-06 17:09:45Z	Thanksgiving bread bowl 2022
+306	2023-09-06 17:11:25Z	Father's day whole wheat sourdough batard
+307	2023-09-06 17:11:08Z	Whole wheat sourdough loaf
+308	2023-09-06 17:10:24Z	Experimental whole wheat pizza sourdough small batch
+309	2023-09-06 17:10:34Z	Sourdough Pizza experiment
+310	2023-09-06 17:10:12Z	Experimental rye and barley pullman loaf
+311	2023-09-06 17:10:02Z	Einkorn sourdough bread bowl
+312	2023-09-06 17:09:54Z	Sourdough pizza
+315	2023-09-01 20:44:06Z	How to manually install a package from the AUR
+316	2023-09-06 17:07:09Z	Researching a Rofi like experience on MacOSX
+317	2023-09-06 18:56:51Z	Sourdough pizza dough batch request
