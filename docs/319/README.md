@@ -29,14 +29,14 @@ Key facts about flour strength
 - Medium good for neopolitan
 - Strong above 260. Long rising pizza doughs. Up to 75% absorbtion
 
-| Flour             | Brand       | Comment                                          | Link                                                                                                                                                     |
-| ----------------- | ----------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Organic AP flour  | Walmart     | Medium strength, Good for pizza's in home oven   | https://www.walmart.com/ip/Great-Value-Organic-All-Purpose-Flour-5LB-Bag/771215827                                                                       |
-| AP flour          | King Authur | Medium strength, food for pizza's in a home oven | https://shop.kingarthurbaking.com/items/unbleached-all-purpose-flour                                                                                     |
-| 00 classic (Blue) | Polselli    | Medium strength, Good for use in a pizza oven    | https://www.amazon.com/CLASSICA-Unbleached-Unbromated-Additives-Formulated/dp/B01ERE2YNK/ref=sr_1_9?keywords=00%2Bflour&qid=1694042996&rdc=1&sr=8-9&th=1 |
-| 00 Super (Red)    | Polselli    | Medium strength, Good for use in a pizza oven    | https://www.amazon.com/CLASSICA-Unbleached-Unbromated-Additives-Formulated/dp/B01ERE2YNK/ref=sr_1_9?keywords=00%2Bflour&qid=1694042996&rdc=1&sr=8-9&th=1 |
+| Flour             | Brand       | Comment                                          | Link                                                                                                                                                       |
+| ----------------- | ----------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Organic AP flour  | Walmart     | Medium strength, Good for pizza's in home oven   | <https://www.walmart.com/ip/Great-Value-Organic-All-Purpose-Flour-5LB-Bag/771215827>                                                                       |
+| AP flour          | King Authur | Medium strength, food for pizza's in a home oven | <https://shop.kingarthurbaking.com/items/unbleached-all-purpose-flour>                                                                                     |
+| 00 classic (Blue) | Polselli    | Medium strength, Good for use in a pizza oven    | <https://www.amazon.com/CLASSICA-Unbleached-Unbromated-Additives-Formulated/dp/B01ERE2YNK/ref=sr_1_9?keywords=00%2Bflour&qid=1694042996&rdc=1&sr=8-9&th=1> |
+| 00 Super (Red)    | Polselli    | Medium strength, Good for use in a pizza oven    | <https://www.amazon.com/CLASSICA-Unbleached-Unbromated-Additives-Formulated/dp/B01ERE2YNK/ref=sr_1_9?keywords=00%2Bflour&qid=1694042996&rdc=1&sr=8-9&th=1> |
 
 ## See also
 
 - [Types of pizza](../260?T)
-- https://www.recipesfromitaly.com/best-flour-for-homemade-pizza/
+- <https://www.recipesfromitaly.com/best-flour-for-homemade-pizza/>
