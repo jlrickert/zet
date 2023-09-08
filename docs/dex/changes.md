@@ -1,5 +1,6 @@
+* 2023-09-08 06:35:31Z [How to keep workout notes](../320)
+* 2023-09-06 21:26:52Z [Baking index](../292)
 * 2023-09-06 18:59:17Z [Recommend wheat flour to use for different bakes](../319)
-* 2023-09-06 18:59:05Z [Baking index](../292)
 * 2023-09-06 18:56:56Z [Pizza night at the cabin pizza dough](../295)
 * 2023-09-06 18:56:51Z [Sourdough pizza dough batch request](../317)
 * 2023-09-06 18:25:16Z [Large sourdough pizza batch for BYOT pizza event](../302)

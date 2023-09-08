@@ -67,6 +67,27 @@ This is a time frame to consider if I am making the dough on Friday. Friday is a
 
   This is the earliest that it may be ready. I generally liked the dough better when it was left in the fridge for another day. Another thing to consider is that warm dough may be stickier and more prone to ripping. This isn't always the case.
 
+## Key events
+
+- 12:00pm Wednesday - Mix starter
+- 10:30pm Wednesday - Mix starter again
+
+  Mix before going to bed
+
+- 12:00am Thursday - Mix starter again
+
+- 06:00pm Thursday - Autolyse and mix rest of starter
+
+  I forgot that I needed to make more starter than my usual. I added an addition 75g of rye and 75g of water to the 50g of starter that I had.
+
+- 07:30pm Mixed ingredients
+
+- 10:45pm Cold bulk ferment
+
+## Retrospect
+
+I choose the Friday route.
+
 ## Baking
 
 - [ ] TODO: document the baking processess
