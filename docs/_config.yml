@@ -1,4 +1,6 @@
 tittle: KEG Zettelkasten for Jared Rickert (jlrickert)
+author: jlrickert
+email: jaredrickert52@gmail.com
 description: My personal zettelkasten KEG site. It contains stuff on pretty much any topic I feel like writing about.
 url: https://zet.jlrickert.me
 google_analytics: G-WXQ3PHET4N
@@ -6,3 +8,4 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-sitemap
+  - jekyll-feed

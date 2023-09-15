@@ -7,5 +7,3 @@ question on how I am going to manage multiple kegs.
 
 So far I have currently moved over all my world of warcraft notes and pop-os
 notes
-
-    current_node: 1
