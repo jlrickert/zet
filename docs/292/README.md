@@ -4,6 +4,7 @@ Index of the things that I have baked in the past.
 
 ## Index
 
+- 2023-09-16 [Sourdough rye and barley pancakes](../328)
 - 2023-09-06 [Sourdough pizza dough batch request](../317)
 - 2023-09-01 [Labor day weekend bread bowl](../293)
 - 2023-08-25 [Pizza night at the cabin large batch](../295)
