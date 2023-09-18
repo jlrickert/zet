@@ -31,9 +31,9 @@ Per pancake (only including the flour)
 This recipe made 8 pancakes of which we ate 7. We also had 7 eggs, and a 12oz
 package of bacon. Made [chia jam](../329) as well.
 
-The pancakes came out relatively thick. At first I had the electic griddle set
+The pancakes came out relatively thick. At first I had the eclectic griddle set
 to 300f for the first side. Ended up turning the temperature down to 250f on
-the second flip togive the chance for the center to cook. I could
+the second flip to give the chance for the center to cook. I could
 
 ## Meta
 
