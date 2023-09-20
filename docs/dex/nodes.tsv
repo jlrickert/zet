@@ -119,7 +119,7 @@
 123	2023-09-07 02:26:52Z	Problems with Linux as a workstation
 124	2023-09-07 02:26:52Z	Sync a directory with rsync
 125	2023-09-07 02:26:52Z	Programmatic bash completions
-126	2023-09-07 02:26:52Z	Golang development loop
+126	2023-09-20 18:23:01Z	Golang development loop
 127	2023-09-07 02:26:52Z	A quick to making a module in golang
 128	2023-09-07 02:26:52Z	WordPress plugin Gravity forms
 129	2023-09-07 02:26:52Z	How to use arrays in bash
@@ -244,7 +244,7 @@
 258	2023-09-07 02:26:52Z	Managing encrypted data with ssh keys
 259	2023-09-07 02:26:52Z	Automatically rerunning commands with `entr`
 260	2023-09-07 02:26:52Z	Types of pizza
-261	2023-09-07 02:26:52Z	Hugo theme development loop for share able themes
+261	2023-09-20 18:22:17Z	Hugo theme development loop for share able themes
 262	2023-09-07 02:26:52Z	Seamless navigation between tmux and vim
 263	2023-09-07 02:26:52Z	An interesting article about LINQ in JavaScript
 264	2023-09-07 02:26:52Z	Research on type of mic for my streaming
@@ -275,7 +275,7 @@
 289	2023-09-07 02:26:52Z	Research for tendonitis issue
 290	2023-09-07 02:26:52Z	Kineses Advantage360
 291	2023-09-07 02:26:52Z	Linux desktop comparison
-292	2023-09-18 16:32:06Z	Baking index
+292	2023-09-18 18:06:59Z	Baking index
 293	2023-09-07 02:26:52Z	Labor day weekend bread bowl
 294	2023-09-08 04:01:59Z	Sourdough somewhat whole wheat pizza for the ooni
 295	2023-09-07 02:26:52Z	Pizza night at the cabin pizza dough
@@ -309,5 +309,7 @@
 328	2023-09-17 03:10:15Z	Sourdough rye and barley pancakes
 329	2023-09-16 15:55:05Z	Chia jam recipe
 330	2023-09-18 15:50:10Z	Testing in Go
-331	2023-09-18 16:32:08Z	Sourdough rye and barley pita bread
-332	2023-09-18 16:05:29Z	My Ooni Karu 12G
+331	2023-09-20 18:50:45Z	Sourdough rye and barley pita bread
+332	2023-09-18 18:59:48Z	My Ooni Karu 12G
+333	2023-09-18 20:51:21Z	Flutter experiments
+334	2023-09-20 18:25:42Z	KEG website with CMS
