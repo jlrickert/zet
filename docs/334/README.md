@@ -7,4 +7,14 @@ Key requirements
 
 - Hugo
 
-  - netlify 
+  - netlify
+
+## SSR
+
+- Hugo
+- eleventy
+- elderjs
+
+## Markdown parsers
+
+- remarkjs

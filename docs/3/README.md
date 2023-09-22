@@ -1,4 +1,8 @@
-# World of warcraft evoker preservation gameplay
+---
+title: World of warcraft evoker preservation gameplay
+tags:
+  - \#wow
+---
 
 ## General stat priority
 
@@ -24,6 +28,5 @@ Mythic+
 - Haste & Mastery
 - Crit & Versatility
 
-[preservation]: https://www.wowhead.com/guide/classes/evoker/preservation/overview-pve-healer
-
-    #wow
+[preservation]:
+  https://www.wowhead.com/guide/classes/evoker/preservation/overview-pve-healer

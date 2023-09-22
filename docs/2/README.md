@@ -1,4 +1,6 @@
-# World of warcraft evoker devastation gameplay
+---
+title: World of warcraft evoker devastation gameplay
+---
 
 ## State priority
 
@@ -16,7 +18,7 @@ State priority is Mastery > Haste >= Critical Strike > Versatility
 | Boots   | Plainsrunner's Breeze | Plainsrunner's Breeze |
 | Ring    | Devotion of Mastery   | Writ of Mastery       |
 
-[devestation]: https://www.wowhead.com/guide/classes/evoker/devastation/overview-pve-dps
+[devestation]:
+  https://www.wowhead.com/guide/classes/evoker/devastation/overview-pve-dps
 
     #wow #gaming
-
