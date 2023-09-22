@@ -2,6 +2,8 @@
 title: Keg introduction
 ---
 
+# Keg introduction
+
 Hello KEG friend! For full reference try KEG Quick Start Guide[^start] or
 official KEG Specification[^spec]. If you already know some form of Markdown
 this sample summary should be enough to help you understand KEGML constraints to

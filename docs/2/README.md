@@ -1,11 +1,11 @@
 ---
-title: World of warcraft evoker devastation gameplay
-tags:
-  - \#wow
-  - \#gaming
+{
+  "title": "World of warcraft evoker devastation game play",
+  "tags": ["wow", "gaming"],
+}
 ---
 
-# World of warcraft evoker devastation gameplay
+# World of warcraft evoker devastation game play
 
 ## State priority
 
