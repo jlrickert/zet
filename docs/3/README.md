@@ -2,6 +2,7 @@
 title: World of warcraft evoker preservation gameplay
 tags:
   - \#wow
+  - \#gaming
 ---
 
 ## General stat priority

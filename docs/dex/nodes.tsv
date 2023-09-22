@@ -1,7 +1,7 @@
 0	2023-09-07 02:26:52Z	Sorry, planned but not yet available
-1	2023-09-07 02:26:52Z	World of warcraft evoker game play
-2	2023-09-07 02:26:52Z	World of warcraft evoker devastation gameplay
-3	2023-09-07 02:26:52Z	World of warcraft evoker preservation gameplay
+1	2023-09-21 21:22:47Z	World of warcraft evoker game play
+2	2023-09-21 21:23:07Z	World of warcraft evoker devastation gameplay
+3	2023-09-22 20:06:24Z	World of warcraft evoker preservation gameplay
 4	2023-09-07 02:26:52Z	World of warcraft dragonflight season 1 dungeons
 5	2023-09-07 02:26:52Z	December 2022 week 2 2022 world of warcraft checklist
 6	2023-09-07 02:26:52Z	Pop_OS! window management setup
@@ -119,7 +119,7 @@
 123	2023-09-07 02:26:52Z	Problems with Linux as a workstation
 124	2023-09-07 02:26:52Z	Sync a directory with rsync
 125	2023-09-07 02:26:52Z	Programmatic bash completions
-126	2023-09-21 14:01:07Z	Golang development loop with multi repos
+126	2023-09-21 19:01:07Z	Golang development loop with multi repos
 127	2023-09-07 02:26:52Z	A quick to making a module in golang
 128	2023-09-07 02:26:52Z	WordPress plugin Gravity forms
 129	2023-09-07 02:26:52Z	How to use arrays in bash
@@ -244,14 +244,14 @@
 258	2023-09-07 02:26:52Z	Managing encrypted data with ssh keys
 259	2023-09-07 02:26:52Z	Automatically rerunning commands with `entr`
 260	2023-09-07 02:26:52Z	Types of pizza
-261	2023-09-20 18:22:17Z	Hugo theme development loop for share able themes
+261	2023-09-21 19:05:25Z	Hugo theme development loop
 262	2023-09-07 02:26:52Z	Seamless navigation between tmux and vim
 263	2023-09-07 02:26:52Z	An interesting article about LINQ in JavaScript
 264	2023-09-07 02:26:52Z	Research on type of mic for my streaming
 265	2023-09-07 02:26:52Z	Steps to host a keg with github pages
 266	2023-09-07 02:26:52Z	The idea of cognitive distance
 267	2023-09-07 02:26:52Z	Jekyll theme **hacker** google analytics issue
-268	2023-09-07 02:26:52Z	Keg introduction
+268	2023-09-21 21:24:39Z	Keg introduction
 269	2023-09-07 02:26:52Z	When to use CGO_ENABLED
 270	2023-09-11 22:48:40Z	Streaming setup research
 271	2023-09-07 02:26:52Z	Digital ocean resource support
@@ -306,11 +306,13 @@
 325	2023-09-16 02:19:28Z	Managing ruby version on MacOSX with chruby
 326	2023-09-16 02:10:33Z	Setting up a new KEG app with tina and jekyll
 327	2023-09-16 02:19:26Z	KEG repo with tina cms and jekyll experiment
-328	2023-09-16 22:10:15Z	Sourdough rye and barley pancakes
+328	2023-09-17 03:10:15Z	Sourdough rye and barley pancakes
 329	2023-09-16 15:55:05Z	Chia jam recipe
 330	2023-09-18 15:50:10Z	Testing in Go
-331	2023-09-20 18:50:45Z	Sourdough rye and barley pita bread
+331	2023-09-20 19:36:27Z	Sourdough rye and barley pita bread
 332	2023-09-18 18:59:48Z	My Ooni Karu 12G
 333	2023-09-18 20:51:21Z	Flutter experiments
-334	2023-09-20 18:25:42Z	KEG website with CMS
-336	2023-09-20 20:32:11Z	AWS Certifications
+334	2023-09-20 22:55:44Z	KEG website with CMS
+335	2023-09-21 16:27:52Z	AWS Access management
+336	2023-09-21 16:27:56Z	AWS Certifications
+337	2023-09-21 16:27:57Z	AWS Developer Associate Exam
