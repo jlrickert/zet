@@ -1,6 +1,11 @@
 ---
 title: World of warcraft evoker devastation gameplay
+tags:
+  - \#wow
+  - \#gaming
 ---
+
+# World of warcraft evoker devastation gameplay
 
 ## State priority
 
@@ -20,5 +25,3 @@ State priority is Mastery > Haste >= Critical Strike > Versatility
 
 [devestation]:
   https://www.wowhead.com/guide/classes/evoker/devastation/overview-pve-dps
-
-    #wow #gaming
