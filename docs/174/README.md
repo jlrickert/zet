@@ -1,6 +1,7 @@
 # My personal website design
 
-This is my personal website that will be at https://jlrickert.me or https://jlrickert.github.io.
+This is my personal website that will be at https://jlrickert.me or
+https://jlrickert.github.io.
 
 The design of it is to be a retro terminal
 
@@ -24,6 +25,7 @@ The design of it is to be a retro terminal
 
 - https://github.com/ashleydavis/pnpm-workspace-examples/tree/main/fullstack/packages/validation
 - https://css-tricks.com/old-timey-terminal-styling/
+- https://blog.webguy.pw/blog/simulating-a-crt-monitor-in-css/
 - https://rhjdfv.csb.app/
 - https://dakotaleemartinez.com/tutorials/hugo-and-tailwind-css/#initial-setup
 - https://github.com/DakotaLMartinez/hugotails/tree/main

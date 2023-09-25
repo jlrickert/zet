@@ -9,6 +9,8 @@ Key requirements
 
   - netlify
 
+- sveltkit
+
 ## SSR
 
 - Hugo
