@@ -1,5 +1,6 @@
 ---
 title: KEG Zettelkasten for Jared Rickert (jlrickert)
+permalink: /
 ---
 
 Hi I'm Jared. This is my personal **zettelkasten** KEG site. It contains stuff
