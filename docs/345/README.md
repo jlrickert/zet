@@ -1,6 +1,4 @@
----
-title: Different types of learning
----
+# Different types of learning
 
 Learning can be done through a variety of means. Here is a dump from chatGPT.
 

@@ -1,10 +1,4 @@
----
-title: Deploying a sveltkit app on AWS
-tags:
-  - webdev
-  - aws
-  - svelte
----
+# Deploying a sveltkit app on AWS
 
 I need to learn how to use AWS and decided to launch a simple SveltKit app on
 AWS. This will be a simple app that has a nodejs backend service with a REST
@@ -41,3 +35,7 @@ This is serverless docker containers (I think).
 ## See also
 
 - [AWS free tier](../340)
+
+## Meta
+
+    tags: #webdev #aws #svelte

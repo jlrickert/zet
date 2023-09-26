@@ -31,3 +31,8 @@ The design of it is to be a retro terminal
 - https://github.com/DakotaLMartinez/hugotails/tree/main
 - https://codesandbox.io/s/crt-terminal-in-css-js-forked-rhjdfv?file=/style/style.css
 - https://github.com/4s3ti/terminalcv
+- https://github.com/4s3ti/hugo-theme-hello-4s3ti
+
+## Meta
+
+    tags: #webdev

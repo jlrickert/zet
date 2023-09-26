@@ -1,10 +1,3 @@
----
-title: World of warcraft evoker preservation gameplay
-tags:
-  - \#wow
-  - \#gaming
----
-
 # World of warcraft evoker preservation gameplay
 
 ## General stat priority
@@ -33,3 +26,5 @@ Mythic+
 
 [preservation]:
   https://www.wowhead.com/guide/classes/evoker/preservation/overview-pve-healer
+
+    tags: #wow #gaming

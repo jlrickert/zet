@@ -1,6 +1,4 @@
----
-title: AWS free tier
----
+# AWS free tier
 
 ## EC2
 
@@ -21,3 +19,7 @@ title: AWS free tier
 ## See also
 
 - [Free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+
+## Meta
+
+    tags: #aws

@@ -1,8 +1,6 @@
----
-title: Cool facts about octopus
----
+# Cool facts about octopus
 
-### Key features of octopus
+## Key features of octopus
 
 - builder of cities
 - Antisocial tendencies
@@ -31,7 +29,11 @@ title: Cool facts about octopus
 
 - Learn by observation (observational learning)
 
-### See also
+## See also
 
 - [Octopuses keep surprising us](https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html)
 - [Social behavior of octopus](https://animalqueries.com/octopus-social-behavior/)
+
+## Meta
+
+    tags: #biology

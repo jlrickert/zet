@@ -1,7 +1,3 @@
----
-title: Keg introduction
----
-
 # Keg introduction
 
 Hello KEG friend! For full reference try KEG Quick Start Guide[^start] or
