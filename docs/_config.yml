@@ -12,4 +12,4 @@ plugins:
     - jekyll-sitemap
     - jekyll-feed
 kramdown:
-    header_offset: 0
+    header_offset: 1
