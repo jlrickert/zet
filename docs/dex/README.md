@@ -1,6 +1,4 @@
----
-title: Index
----
+# Index
 
 ## Indexes
 

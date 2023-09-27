@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+declare NOCOLOR=
+[[ -t 1 ]] || NOCOLOR=y
+declare GOLD='[38;2;184;138;0m'
+declare RED='[38;2;255;0;0m'
+declare GREY='[38;2;100;100;100m'
+declare CYAN='[38;2;0;255;255m'
+declare GREEN='[38;2;0;255;0m'
+declare RESET='[0m'
+
+if [[ -n "" ]]; then
+	GOLD=
+	RED=
+	GREY=
+	CYAN=
+	GREEN=
+	RESET=
+fi
+
+_log() {
+	echo "${GREEN}Running${RESET}: $*"
+	"$@"
+}
+
+_log docker run --rm -it --publish 127.0.0.1:8000:8000/tcp --mount "type=bind,source=${PWD},target=/docs" zet-mkdocs "$@"

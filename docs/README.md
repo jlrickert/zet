@@ -1,6 +1,4 @@
----
-title: KEG Zettelkasten for Jared Rickert (jlrickert)
----
+# KEG Zettelkasten for Jared Rickert (jlrickert)
 
 Hi I'm Jared. This is my personal **zettelkasten** KEG site. It contains stuff
 on pretty much any topic I feel like writing about, mostly about [baking](292)
