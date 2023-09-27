@@ -16,7 +16,7 @@ site_description: >-
 
   The reason that I make these notes available is that they may be helpful to
   some one out there.
-use_directory_urls: false
+use_directory_urls: true
 theme:
   name: readthedocs
   analytics:
