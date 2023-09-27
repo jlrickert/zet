@@ -161,6 +161,9 @@ jobs:
       - run: mkdocs gh-deploy --force
 ```
 
+Add and push this up to GitHub. GitHub pages then should be configured to point
+to the **gh-pages** branch.
+
 ## See also
 
 - [mkdocs material]:

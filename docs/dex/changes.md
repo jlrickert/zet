@@ -1,5 +1,5 @@
+* 2023-09-27 04:14:26Z [Deploying a keg on MkDocs](../348)
 * 2023-09-27 03:52:18Z [Example for how to build a KEG for use with google docs](../349)
-* 2023-09-27 03:44:38Z [Deploying a keg on MkDocs](../348)
 * 2023-09-27 03:06:21Z [How do you fingerprint the OS with bash](../133)
 * 2023-09-27 03:05:14Z [First bigga sourdough pizza batch for the Ooni](../297)
 * 2023-09-27 00:13:26Z [how to login to AWS via command line](../347)
