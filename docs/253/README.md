@@ -112,73 +112,73 @@ complete -o nospace -F _wp_complete br8kthru-scripts wp
 ```
 
 ```yaml
-version: '3.1'
+version: "3.1"
 
 services:
-    wordpress:
-        build:
-            context: .
-            dockerfile: wordpress.Dockerfile
-        restart: always
-        ports:
-            - 8080:80
-        depends_on:
-            - db
-        environment:
-            WORDPRESS_DB_HOST: db
-            WORDPRESS_DB_USER: exampleuser
-            WORDPRESS_DB_PASSWORD: examplepass
-            WORDPRESS_DB_NAME: exampledb
-            WORDPRESS_DEBUG: true
-        volumes:
-            - ./internal:/var/www/html
-            - ./packages/themes:/app/themes:ro
-            - ./packages/plugins:/app/plugins:ro
-            - ./config/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini:ro
-        networks:
-            - wp-net
+  wordpress:
+    build:
+      context: .
+      dockerfile: wordpress.Dockerfile
+    restart: always
+    ports:
+      - 8080:80
+    depends_on:
+      - db
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: exampleuser
+      WORDPRESS_DB_PASSWORD: examplepass
+      WORDPRESS_DB_NAME: exampledb
+      WORDPRESS_DEBUG: true
+    volumes:
+      - ./internal:/var/www/html
+      - ./packages/themes:/app/themes:ro
+      - ./packages/plugins:/app/plugins:ro
+      - ./config/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini:ro
+    networks:
+      - wp-net
 
-    wordpress-cli:
-        image: wordpress:cli
-        stop_signal: SIGINT
-        depends_on:
-            - db
-            - wordpress
-        links:
-            - db
-        environment:
-            WORDPRESS_DB_HOST: db
-            WORDPRESS_DB_USER: exampleuser
-            WORDPRESS_DB_PASSWORD: examplepass
-            WORDPRESS_DB_NAME: exampledb
-            WORDPRESS_DEBUG: true
-        volumes:
-            - ./internal:/var/www/html
-            - ./packages/media:/app/media:ro
-            - ./packages/themes:/app/themes:ro
-            - ./packages/plugins:/app/plugins:ro
-        networks:
-            - wp-net
+  wordpress-cli:
+    image: wordpress:cli
+    stop_signal: SIGINT
+    depends_on:
+      - db
+      - wordpress
+    links:
+      - db
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: exampleuser
+      WORDPRESS_DB_PASSWORD: examplepass
+      WORDPRESS_DB_NAME: exampledb
+      WORDPRESS_DEBUG: true
+    volumes:
+      - ./internal:/var/www/html
+      - ./packages/media:/app/media:ro
+      - ./packages/themes:/app/themes:ro
+      - ./packages/plugins:/app/plugins:ro
+    networks:
+      - wp-net
 
-    db:
-        image: mysql:5.7
-        platform: linux/x86_64
-        restart: always
-        environment:
-            MYSQL_DATABASE: exampledb
-            MYSQL_USER: exampleuser
-            MYSQL_PASSWORD: examplepass
-            MYSQL_RANDOM_ROOT_PASSWORD: '1'
-        volumes:
-            - db:/var/lib/mysql
-        networks:
-            - wp-net
+  db:
+    image: mysql:5.7
+    platform: linux/x86_64
+    restart: always
+    environment:
+      MYSQL_DATABASE: exampledb
+      MYSQL_USER: exampleuser
+      MYSQL_PASSWORD: examplepass
+      MYSQL_RANDOM_ROOT_PASSWORD: "1"
+    volumes:
+      - db:/var/lib/mysql
+    networks:
+      - wp-net
 
 volumes:
-    db:
+  db:
 
 networks:
-    wp-net: {}
+  wp-net: {}
 ```
 
     tags: #wordpress

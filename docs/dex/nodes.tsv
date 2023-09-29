@@ -14,7 +14,7 @@
 13	2023-09-07 02:26:52Z	Nginx clear cache hack with echo ""
 14	2023-09-07 02:26:52Z	Fierce armor kit construction cost calculation
 15	2023-09-07 02:26:52Z	How to quickly test out space vim
-16	2023-09-07 02:26:52Z	How to quickly spin up a dev enviornment for testing with docker
+16	2023-09-29 03:15:59Z	How to quickly spin up a dev environment for testing with docker
 17	2023-09-07 02:26:52Z	How to manage files in vanilla vim with netrw
 18	2023-09-07 02:26:52Z	Quick start on settup lsp for neovim lua hacking
 19	2023-09-07 02:26:52Z	Package managment in neovim with mason
@@ -73,7 +73,7 @@
 76	2023-09-07 02:26:52Z	Harpoon keybindings in vscode
 77	2023-09-07 02:26:52Z	Really good article about software engineering principles
 78	2023-09-07 02:26:52Z	Quick fix menus in vim
-79	2023-09-07 02:26:52Z	An example of a bash script that has tab completion
+79	2023-09-29 02:37:10Z	
 80	2023-09-07 02:26:52Z	Rob Muhlestein
 81	2023-09-07 02:26:52Z	rwxrob's list of go packages
 82	2023-09-07 02:26:52Z	How to give credit to the original script owner
@@ -236,7 +236,7 @@
 250	2023-09-07 02:26:52Z	Types of sourdough preferments
 251	2023-09-07 02:26:52Z	How to setup automated change logs with github actions
 252	2023-09-07 02:26:52Z	List of core blocks for the block editor
-253	2023-09-07 02:26:52Z	Docker compose service cli interactions
+253	2023-09-29 02:37:22Z	Docker compose service cli interactions
 254	2023-09-07 02:26:52Z	CSS grid attributes and cheatsheet
 255	2023-09-07 02:26:52Z	Introductory material for statistics
 256	2023-09-07 02:26:52Z	Recommended image types to use on the web
@@ -313,7 +313,7 @@
 332	2023-09-18 18:59:48Z	My Ooni Karu 12G
 333	2023-09-18 20:51:21Z	Flutter experiments
 334	2023-09-25 01:14:56Z	KEG website with CMS
-335	2023-09-21 16:27:52Z	AWS Access management
+335	2023-09-27 23:01:04Z	AWS Access management
 336	2023-09-21 16:27:56Z	AWS Certifications
 337	2023-09-21 16:27:57Z	AWS Developer Associate Exam
 338	2023-09-26 23:47:22Z	Deploying a sveltkit app on AWS
@@ -323,6 +323,14 @@
 344	2023-09-26 23:46:54Z	Cool facts about octopus
 345	2023-09-26 23:49:17Z	Different types of learning
 346	2023-09-26 23:46:26Z	Society requires perfect trust
-347	2023-09-27 00:13:26Z	how to login to AWS via command line
-348	2023-09-27 04:14:26Z	Deploying a keg on MkDocs
+347	2023-09-28 18:55:49Z	how to login to AWS via command line
+348	2023-09-28 00:16:46Z	Deploying a keg on MkDocs
 349	2023-09-27 03:52:18Z	Example for how to build a KEG for use with google docs
+350	2023-09-27 16:28:09Z	Zip cheatsheet
+351	2023-09-28 00:32:47Z	JavaScript article
+352	2023-09-28 19:37:42Z	SSH key rotation best practices
+353	2023-09-28 18:55:51Z	AWS EC2
+354	2023-09-28 20:31:22Z	Strange .pnpm-store appearing in my repo
+355	2023-09-29 03:16:49Z	How to use docker for NodeJS development
+356	2023-09-29 17:34:11Z	Handling flags in bash
+357	2023-09-29 17:48:36Z	Battle tanks the game
