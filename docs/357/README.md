@@ -11,3 +11,4 @@ For development I prefer being able to develop on my local machine. I plan on
 using `traefik` for load balancing and docker compose.
 
 ![Game Architecture](game-architecture.png)
+![Game Architecture](game-architecture-2.png)

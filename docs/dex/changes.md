@@ -1,4 +1,5 @@
-* 2023-09-29 17:48:36Z [Battle tanks the game](../357)
+* 2023-09-30 03:46:01Z [Battle tanks the game](../357)
+* 2023-09-29 23:00:57Z [Docker compose host name resolution](../358)
 * 2023-09-29 17:34:11Z [Handling flags in bash](../356)
 * 2023-09-29 03:16:49Z [How to use docker for NodeJS development](../355)
 * 2023-09-29 03:15:59Z [How to quickly spin up a dev environment for testing with docker](../16)
