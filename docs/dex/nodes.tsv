@@ -68,7 +68,7 @@
 71	2023-09-07 02:26:52Z	How to handle conditionals in bash scripting
 72	2023-09-07 02:26:52Z	Pop_OS! setup
 73	2023-09-07 02:26:52Z	Example of keyword searching with awk
-74	2023-09-07 02:26:52Z	Git techniques and cheat sheet
+74	2023-10-01 21:08:39Z	Git techniques and cheat sheet
 75	2023-09-07 02:26:52Z	Tiling window management in windows with komorebi
 76	2023-09-07 02:26:52Z	Harpoon keybindings in vscode
 77	2023-09-07 02:26:52Z	Really good article about software engineering principles
@@ -234,7 +234,7 @@
 248	2023-09-07 02:26:52Z	Keg and Case Market
 249	2023-09-07 02:26:52Z	How to convert json typescript schema
 250	2023-09-07 02:26:52Z	Types of sourdough preferments
-251	2023-09-07 02:26:52Z	How to setup automated change logs with github actions
+251	2023-10-02 16:41:09Z	How to setup automated change logs with github actions
 252	2023-09-07 02:26:52Z	List of core blocks for the block editor
 253	2023-09-29 02:37:22Z	Docker compose service cli interactions
 254	2023-09-07 02:26:52Z	CSS grid attributes and cheatsheet
@@ -331,7 +331,17 @@
 352	2023-09-28 19:37:42Z	SSH key rotation best practices
 353	2023-09-28 18:55:51Z	AWS EC2
 354	2023-09-28 20:31:22Z	Strange .pnpm-store appearing in my repo
-355	2023-09-29 03:16:49Z	How to use docker for NodeJS development
+355	2023-10-04 14:59:00Z	How to use docker for NodeJS development
 356	2023-09-29 17:34:11Z	Handling flags in bash
-357	2023-09-30 03:46:01Z	Battle tanks the game
-358	2023-09-29 23:00:57Z	Docker compose host name resolution
+357	2023-10-04 14:58:13Z	Battle tanks the game
+358	2023-09-30 17:20:55Z	Docker compose host name resolution
+359	2023-09-30 17:34:14Z	Recommended regex syntax to use
+360	2023-10-01 05:09:44Z	Effecting centralized logging strategy
+361	2023-09-30 20:24:35Z	Proper way to read user input when using Go
+362	2023-10-02 16:41:06Z	Simple versioning useing changesets
+363	2023-10-02 01:29:00Z	Power lifting workout routines
+364	2023-10-02 16:52:34Z	Setup OpenSearch AWS for learning
+365	2023-10-03 16:12:48Z	How to setup email using AWS SES
+366	2023-10-04 14:58:15Z	Multiplayer game with FireBase video
+367	2023-10-04 01:24:17Z	Neovim repositories
+368	2023-10-04 01:29:55Z	Resources to get started with Ocaml
