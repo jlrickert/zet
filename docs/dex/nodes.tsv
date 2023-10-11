@@ -314,8 +314,8 @@
 333	2023-09-18 20:51:21Z	Flutter experiments
 334	2023-09-25 01:14:56Z	KEG website with CMS
 335	2023-09-27 23:01:04Z	AWS Access management
-336	2023-09-21 16:27:56Z	AWS Certifications
-337	2023-09-21 16:27:57Z	AWS Developer Associate Exam
+336	2023-10-08 15:59:19Z	AWS Certifications
+337	2023-10-08 16:04:44Z	AWS Developer Associate Exam
 338	2023-09-26 23:47:22Z	Deploying a sveltkit app on AWS
 339	2023-09-26 23:48:03Z	AWS service elastic beanstalk
 340	2023-09-26 23:50:09Z	AWS free tier
@@ -333,7 +333,7 @@
 354	2023-09-28 20:31:22Z	Strange .pnpm-store appearing in my repo
 355	2023-10-04 14:59:00Z	How to use docker for NodeJS development
 356	2023-09-29 17:34:11Z	Handling flags in bash
-357	2023-10-04 14:58:13Z	Battle tanks the game
+357	2023-10-04 16:30:30Z	Battle tanks the game
 358	2023-09-30 17:20:55Z	Docker compose host name resolution
 359	2023-09-30 17:34:14Z	Recommended regex syntax to use
 360	2023-10-01 05:09:44Z	Effecting centralized logging strategy
@@ -344,4 +344,10 @@
 365	2023-10-03 16:12:48Z	How to setup email using AWS SES
 366	2023-10-04 14:58:15Z	Multiplayer game with FireBase video
 367	2023-10-04 01:24:17Z	Neovim repositories
-368	2023-10-04 01:29:55Z	Resources to get started with Ocaml
+368	2023-10-06 22:28:16Z	Resources to get started with Ocaml
+369	2023-10-04 16:30:32Z	Dynamic colors with SvelteKit and tailwind
+370	2023-10-04 18:14:04Z	Middleware pattern with typescript
+371	2023-10-04 23:05:24Z	Reactivity concepts in web development
+372	2023-10-04 23:06:13Z	React experts
+374	2023-10-08 15:59:25Z	Sveltekit how to debounce input
+375	2023-10-08 16:15:37Z	AWS Aura serverless database

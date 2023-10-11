@@ -5,7 +5,7 @@
 - Costs 150 USD
 - Course code is DVA-C01
 - Passing grade is 720/1000
-- 2 minutes per problem
+- 2 minutes per problem (90 seconds recommended)
 - 130m duration
 - Question breakdown
 
@@ -22,8 +22,8 @@ Recomended reading from <https://aws.amazon.com/whitepapers>.
 Here are some recomended reading from [freecodecamp]
 
 - [ ] TODO: (Recomended) Architecting for the cloud: AWS Best Practices
-- [ ] TODO: (Recomended) Practicing Continuous Integration and Continuous Delivery on AWS
-      Accelerating Software Delivery with DevOps
+- [ ] TODO: (Recomended) Practicing Continuous Integration and Continuous
+      Delivery on AWS Accelerating Software Delivery with DevOps
 - [ ] TODO: Microservices on AWS
 - [ ] TODO: Serverless Architectures with AWS Lambda
 - [ ] TODO: Optimizing Enterprise Economics with Serverless Architectures
@@ -34,7 +34,8 @@ Here are some recomended reading from [freecodecamp]
 
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 
-[freecodecamp]: https://www.freecodecamp.org/news/awscertified-challenge-free-path-aws-cloud-certifications/
+[freecodecamp]:
+  https://www.freecodecamp.org/news/awscertified-challenge-free-path-aws-cloud-certifications/
 
 ## Meta
 

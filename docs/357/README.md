@@ -52,45 +52,49 @@ everything.
 
 ## Road blocks
 
-- HMR and initiation spaghetti
+### HMR and websockets
 
-  Discovered a pattern to hold state between restarts when using vite. here is
-  an example of how I handle redis.
+Discovered a pattern to hold state between restarts when using vite. here is an
+example of how I handle redis.
 
-  ```ts
-  export const REDIS_SCOPE = "redis";
+```ts
+export const REDIS_SCOPE = "redis";
 
-  type Client = ReturnType<typeof createRedisClient>;
+type Client = ReturnType<typeof createRedisClient>;
 
-  const createRedisClient = () => {
-    const config = getGlobalConfig();
-    const client = redis.createClient({
-      url: config.redisURI,
-    });
+const createRedisClient = () => {
+  const config = getGlobalConfig();
+  const client = redis.createClient({
+    url: config.redisURI,
+  });
+  return client;
+};
+
+export class RedisClient {
+  private log: Logger;
+  constructor(private redis: Client) {
+    this.log = getGlobalLogger().child({ scope: REDIS_SCOPE });
+  }
+}
+
+export const getGlobalRedisClient = (): RedisClient => {
+  const client = (globalThis as any)[REDIS_SCOPE];
+  if (client) {
     return client;
-  };
-
-  export class RedisClient {
-    private log: Logger;
-    constructor(private redis: Client) {
-      this.log = getGlobalLogger().child({ scope: REDIS_SCOPE });
-    }
   }
 
-  export const getGlobalRedisClient = (): RedisClient => {
-    const client = (globalThis as any)[REDIS_SCOPE];
-    if (client) {
-      return client;
-    }
-
-    const redisClient = createRedisClient();
-    const newClient = new RedisClient(redisClient);
-    (globalThis as any)[REDIS_SCOPE] = newClient;
-    return (globalThis as any)[REDIS_SCOPE];
-  };
-  ```
+  const redisClient = createRedisClient();
+  const newClient = new RedisClient(redisClient);
+  (globalThis as any)[REDIS_SCOPE] = newClient;
+  return (globalThis as any)[REDIS_SCOPE];
+};
+```
 
 When ever id need redis I get a redis client by running `getGlobalRedisClient`
+
+## Coding patterns used
+
+- [dynamic colors](../369)
 
 ## See also
 
