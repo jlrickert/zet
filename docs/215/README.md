@@ -1,6 +1,7 @@
 # Flexbox CSS attributes
 
-There are a few CSS keywords that interacts with an element that has its display set to either `flex` or `inline-flex`.
+There are a few CSS keywords that interacts with an element that has its display
+set to either `flex` or `inline-flex`.
 
 - The main axis is horizontal (left to right) when `flex-direction` is `row`
 - The main axis is vertical (up and down) when `flex-direction` is `column`
@@ -22,6 +23,7 @@ The following work along the cross axis:
 - if `flex-direction` is column (up and down) then width
 - `{min,max}-{width,height}`
 
-The order of flex items may be specified using css rather than html by useing the `order` property.
+The order of flex items may be specified using css rather than html by useing
+the `order` property.
 
     tags: #css #webdev #design

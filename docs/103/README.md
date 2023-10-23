@@ -34,9 +34,8 @@ yabai --stop-service
 yabai --stop-service && yabai --start-service
 ```
 
-For hacking on configs.  This is actually unnecessary for skhd as
-restarting is build right into the service.  I am keeping it here for
-reference.
+For hacking on configs. This is actually unnecessary for skhd as restarting is
+build right into the service. I am keeping it here for reference.
 
 ```bash
 ls .skhdrc  | entr -s 'skhd --stop-service && skhd --start-service'

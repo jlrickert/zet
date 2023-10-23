@@ -95,3 +95,7 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: pnpx semantic-release
 ```
+
+## See also
+
+- [Changelog automation](../381)

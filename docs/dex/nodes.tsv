@@ -95,8 +95,8 @@
 99	2023-09-07 02:26:52Z	Fedora workstation setup
 100	2023-09-07 02:26:52Z	Install flutter on macOS with apple silicon
 101	2023-09-07 02:26:52Z	Installing software with curl
-102	2023-09-07 02:26:52Z	Using a temporary directory that require installing transient scripts
-103	2023-09-07 02:26:52Z	Tiling window management on macOS with Yabai
+102	2023-10-20 16:14:20Z	Using a temporary directory that require installing transient scripts
+103	2023-10-20 16:10:40Z	Tiling window management on macOS with Yabai
 104	2023-09-07 02:26:52Z	Overview of macOS tools and software
 105	2023-09-07 02:26:52Z	Concrete 5
 106	2023-09-07 02:26:52Z	How to install lando on MacOS
@@ -139,7 +139,7 @@
 143	2023-09-07 02:26:52Z	M23SS brewery event at Blackstack Brewing
 144	2023-09-07 02:26:52Z	Minneapolis 20s 30s something social meetup group
 147	2023-09-07 02:26:52Z	Where to get started when design a system
-148	2023-09-07 02:26:52Z	Domain model for yabai
+148	2023-10-19 05:03:36Z	Domain model for yabai
 149	2023-09-07 02:26:52Z	Useful WordPress plugins
 150	2023-09-07 02:26:52Z	Basics of skip links in web development
 151	2023-09-07 02:26:52Z	Official WordPress theme review process
@@ -163,7 +163,7 @@
 171	2023-09-07 02:26:52Z	E-commerce headless CMS domain model
 172	2023-09-07 02:26:52Z	MLSGrid
 173	2023-09-07 02:26:52Z	Example scan line effect with tailwind
-174	2023-09-26 23:45:48Z	My personal website design
+174	2023-10-20 16:14:15Z	My personal website design
 175	2023-09-07 02:26:52Z	jq cheat sheet
 177	2023-09-07 02:26:52Z	WordPress development overview
 178	2023-09-07 02:26:52Z	What is an electrical component distributor
@@ -202,7 +202,7 @@
 212	2023-09-07 02:26:52Z	Blackstack Brewing
 213	2023-09-07 02:26:52Z	The brewery Clutch Brewing
 214	2023-09-11 03:24:05Z	Brewery Bahaus Brew Labs
-215	2023-09-07 02:26:52Z	Flexbox CSS attributes
+215	2023-10-19 02:25:32Z	Flexbox CSS attributes
 216	2023-09-07 02:26:52Z	How to load custom CSS for a WordPress block
 217	2023-09-07 02:26:52Z	How to build a generic accordion in WordPress
 219	2023-09-07 02:26:52Z	How to configure the editor in WordPress
@@ -234,7 +234,7 @@
 248	2023-09-07 02:26:52Z	Keg and Case Market
 249	2023-09-07 02:26:52Z	How to convert json typescript schema
 250	2023-09-07 02:26:52Z	Types of sourdough preferments
-251	2023-10-02 16:41:09Z	How to setup automated change logs with github actions
+251	2023-10-20 21:16:03Z	How to setup automated change logs with github actions
 252	2023-09-07 02:26:52Z	List of core blocks for the block editor
 253	2023-09-29 02:37:22Z	Docker compose service cli interactions
 254	2023-09-07 02:26:52Z	CSS grid attributes and cheatsheet
@@ -265,7 +265,7 @@
 279	2023-09-07 02:26:52Z	Vim, tmux and ssh copy and paste madness
 280	2023-09-07 02:26:52Z	Git techniques and cheatsheet
 281	2023-09-07 02:26:52Z	Personal dotfiles
-282	2023-09-07 02:26:52Z	Github CLI tips and tricks
+282	2023-10-17 14:58:42Z	Github CLI tips and tricks
 283	2023-09-07 02:26:52Z	PGP cheatsheet
 284	2023-09-07 02:26:52Z	Meetup.com alternative idea
 285	2023-09-07 02:26:52Z	How to setup HP Officejet j4680 for printing
@@ -343,11 +343,18 @@
 364	2023-10-02 16:52:34Z	Setup OpenSearch AWS for learning
 365	2023-10-03 16:12:48Z	How to setup email using AWS SES
 366	2023-10-04 14:58:15Z	Multiplayer game with FireBase video
-367	2023-10-04 01:24:17Z	Neovim repositories
+367	2023-10-22 15:29:34Z	Neovim repositories
 368	2023-10-06 22:28:16Z	Resources to get started with Ocaml
 369	2023-10-04 16:30:32Z	Dynamic colors with SvelteKit and tailwind
 370	2023-10-04 18:14:04Z	Middleware pattern with typescript
 371	2023-10-04 23:05:24Z	Reactivity concepts in web development
 372	2023-10-04 23:06:13Z	React experts
 374	2023-10-08 15:59:25Z	Sveltekit how to debounce input
-375	2023-10-08 16:15:37Z	AWS Aura serverless database
+375	2023-10-17 14:58:47Z	AWS Aura serverless database
+376	2023-10-20 16:09:50Z	Wireguard for AWS VPC access gateway for Ubuntu server
+377	2023-10-13 15:41:20Z	Volunteering at Habitat for Humanity
+378	2023-10-17 15:09:21Z	Web authentication strategies
+379	2023-10-19 15:49:07Z	Dynamic themes in sveltekit
+380	2023-10-20 21:32:36Z	Project management for python
+381	2023-10-21 17:51:55Z	Releasing software with python
+382	2023-10-21 14:21:49Z	Green curry recipe

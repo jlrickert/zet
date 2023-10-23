@@ -12,7 +12,7 @@ curl -fsSL -O https://raw.githubusercontent.com/helm/helm/master/scripts/get-hel
 bash ./get-helm-3
 ```
 
-The key here is the `cd "$(mktemp -d)"`. It creates a directory and
-changes the current working directory to it.
+The key here is the `cd "$(mktemp -d)"`. It creates a directory and changes the
+current working directory to it.
 
     tags: #bash
