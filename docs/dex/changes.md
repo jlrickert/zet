@@ -1,3 +1,5 @@
+* 2023-10-24 19:43:56Z [Frontend masters OpenAI and NodeJS](../384)
+* 2023-10-24 03:56:50Z [How I created my first nvim plugin](../383)
 * 2023-10-22 15:29:34Z [Neovim repositories](../367)
 * 2023-10-21 17:51:55Z [Releasing software with python](../381)
 * 2023-10-21 14:21:49Z [Green curry recipe](../382)
