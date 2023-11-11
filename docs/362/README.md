@@ -1,4 +1,4 @@
-# Simple versioning useing changesets
+# Simple versioning using changesets
 
 ## Setup
 

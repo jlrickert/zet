@@ -314,8 +314,8 @@
 333	2023-09-18 20:51:21Z	Flutter experiments
 334	2023-09-25 01:14:56Z	KEG website with CMS
 335	2023-09-27 23:01:04Z	AWS Access management
-336	2023-10-08 15:59:19Z	AWS Certifications
-337	2023-10-08 16:04:44Z	AWS Developer Associate Exam
+336	2023-11-09 03:15:12Z	AWS Certifications
+337	2023-11-09 03:14:27Z	AWS Developer Associate Exam
 338	2023-09-26 23:47:22Z	Deploying a sveltkit app on AWS
 339	2023-09-26 23:48:03Z	AWS service elastic beanstalk
 340	2023-09-26 23:50:09Z	AWS free tier
@@ -338,10 +338,10 @@
 359	2023-09-30 17:34:14Z	Recommended regex syntax to use
 360	2023-10-01 05:09:44Z	Effecting centralized logging strategy
 361	2023-09-30 20:24:35Z	Proper way to read user input when using Go
-362	2023-10-02 16:41:06Z	Simple versioning useing changesets
+362	2023-11-10 19:52:12Z	Simple versioning using changesets
 363	2023-10-02 01:29:00Z	Power lifting workout routines
 364	2023-11-02 01:53:39Z	Setup OpenSearch AWS for learning
-365	2023-10-03 16:12:48Z	How to setup email using AWS SES
+365	2023-11-11 02:24:02Z	How to setup email using AWS SES
 366	2023-10-04 14:58:15Z	Multiplayer game with FireBase video
 367	2023-10-22 15:29:34Z	Neovim repositories
 368	2023-10-06 22:28:16Z	Resources to get started with Ocaml
@@ -379,3 +379,4 @@
 404	2023-11-02 03:17:07Z	Amazon CodePipeline
 405	2023-11-02 03:07:34Z	Message de-duplication on AWS FIFO topics
 406	2023-11-04 18:50:57Z	How to upload a SSH key pair from the CLI to AWS
+407	2023-11-10 04:23:12Z	Neovim intellisense for json files

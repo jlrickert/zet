@@ -15,14 +15,14 @@
   - 10% Refactoring
   - 12% Monitoring and Troubleshooting
 
-## Recomended white papers
+## Recommended white papers
 
-Recomended reading from <https://aws.amazon.com/whitepapers>.
+Recommended reading from <https://aws.amazon.com/whitepapers>.
 
-Here are some recomended reading from [freecodecamp]
+Here are some recommended reading from [freecodecamp]
 
-- [ ] TODO: (Recomended) Architecting for the cloud: AWS Best Practices
-- [ ] TODO: (Recomended) Practicing Continuous Integration and Continuous
+- [ ] TODO: (Recommended) Architecting for the cloud: AWS Best Practices
+- [ ] TODO: (Recommended) Practicing Continuous Integration and Continuous
       Delivery on AWS Accelerating Software Delivery with DevOps
 - [ ] TODO: Microservices on AWS
 - [ ] TODO: Serverless Architectures with AWS Lambda
@@ -33,6 +33,7 @@ Here are some recomended reading from [freecodecamp]
 ## See also
 
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+- [AWS Certifications](../336)
 
 [freecodecamp]:
   https://www.freecodecamp.org/news/awscertified-challenge-free-path-aws-cloud-certifications/
