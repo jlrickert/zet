@@ -11,6 +11,7 @@ AWS provides a bunch of services for managing infrastructure.
 - [CodeStar](../400)
 - [Cognito](../416)
 - [EBS](../418)
+- [AppSync](../420)
 
 CI/CD
 

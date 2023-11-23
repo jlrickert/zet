@@ -315,7 +315,7 @@
 334	2023-09-25 01:14:56Z	KEG website with CMS
 335	2023-09-27 23:01:04Z	AWS Access management
 336	2023-11-09 03:15:12Z	AWS Certifications
-337	2023-11-09 03:14:27Z	AWS Developer Associate Exam
+337	2023-11-19 01:33:46Z	AWS Developer Associate Exam
 338	2023-11-17 16:35:51Z	Deploying a sveltkit app on AWS
 339	2023-11-17 16:37:21Z	AWS service elastic beanstalk
 340	2023-09-26 23:50:09Z	AWS free tier
@@ -363,7 +363,7 @@
 387	2023-10-24 21:37:33Z	mono repo setup with pnpm
 389	2023-10-30 15:23:06Z	Tyler Industries entry level .Net role
 390	2023-11-02 01:14:41Z	Solid Principles
-391	2023-11-17 17:32:50Z	AWS services
+391	2023-11-18 19:40:43Z	AWS services
 392	2023-11-15 16:21:40Z	Simple Queue Service (SQS)
 393	2023-11-02 03:07:30Z	Simple Notification Service (SNS)
 394	2023-11-02 02:12:26Z	AWS Lambda
@@ -376,10 +376,10 @@
 401	2023-11-02 02:48:17Z	Amazon CodeCommit
 402	2023-11-02 02:48:30Z	Amazon CodeBuild
 403	2023-11-02 02:50:40Z	Amazon CodeDeploy
-404	2023-11-02 03:17:07Z	Amazon CodePipeline
+404	2023-11-18 19:40:26Z	Amazon CodePipeline
 405	2023-11-02 03:07:34Z	Message de-duplication on AWS FIFO topics
 406	2023-11-04 18:50:57Z	How to upload a SSH key pair from the CLI to AWS
-407	2023-11-10 04:23:12Z	Neovim intellisense for json files
+407	2023-11-18 21:15:25Z	Neovim intellisense for json files
 408	2023-11-12 23:20:35Z	ECS cluster tutorial
 409	2023-11-13 00:27:38Z	Interesting bug in AWS ECS
 410	2023-11-15 16:19:19Z	AWS Service CloudFormation
@@ -389,5 +389,12 @@
 414	2023-11-17 16:16:55Z	AWS Elastic Kubernetes Service EKS
 415	2023-11-15 16:33:54Z	AWS Elastic Container Registry (ECR)
 416	2023-11-17 16:38:46Z	AWS Cognito
-417	2023-11-17 17:32:41Z	AWS Developer Associate study guide
+417	2023-11-17 18:48:27Z	AWS Developer Associate study guide
 418	2023-11-17 17:32:39Z	AWS Elastic Block Storage
+419	2023-11-18 21:11:59Z	AWS Chat app tutorial
+420	2023-11-18 19:41:25Z	AWS AppSync
+421	2023-11-19 04:12:11Z	AWS Typescript CDK Quick start
+422	2023-11-22 20:28:50Z	Proof of concept for a monorepo with changesets
+423	2023-11-22 20:52:48Z	Netmagic cloud
+424	2023-11-22 20:51:08Z	Test exams
+425	2023-11-22 22:38:07Z	Raw module 4 instructions
