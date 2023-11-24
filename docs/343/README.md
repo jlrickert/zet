@@ -36,7 +36,7 @@ what you learn. For example, you build up a social network, others get to learn
 as well, you have a record of everything you learned to make it easier to
 relearn, and I find it more fun in general.
 
-## Benifits
+## Benefits
 
 Having a solid social network is a requirement if you want to be gainfully
 employed. Learning in public helps with this. Over time you will gain a track
