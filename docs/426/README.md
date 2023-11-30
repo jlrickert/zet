@@ -2,9 +2,9 @@
 
 ## Domain model
 
-- Neuroplasticity
+- Neroplasticity
 
-- Neurogenesis
+- Nerogenesis
 
   Process of generating new neurons
 
@@ -14,15 +14,15 @@
 
 - Neocortex
 
-  volitional control
+  Volitional control
 
 - Hippocampus
 
-  memory
+  Memory
 
 - Amygdala
 
-  emotions
+  Emotions
 
 ## Aids to learning performance
 

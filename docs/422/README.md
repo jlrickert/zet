@@ -27,7 +27,6 @@ Here are some packages that I would like to publish to npmjs:
 - make branch off of the dev branch. Typically this is either a feature, fix, or
   release branch but not always.
 - make changes to branch
--
 - add changeset once
 
 ## Building

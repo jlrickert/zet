@@ -16,6 +16,12 @@
   Run `git pull upstream --rebase`. This will add the upstream changes to you
   repo before your commits.
 
-Meta:
+- Check for secrets commited
+
+  `git grep 'YOUR_SECRET` "$(git rev-list --all)"
+
+  `git log -S 'YOUR_SECRET' --oneline --name-only --pretty=format:'%h %s'`
+
+## Meta
 
     #cli #linux #git #unix

@@ -33,4 +33,4 @@ The temperature was roughly 80f.
 ## Meta
 
     tags: #baking #holiday #sourdough
-    date: 20230-06-30
+    date: 2023-06-30
