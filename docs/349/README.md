@@ -53,3 +53,7 @@ $(BUILD_DIR):
 clean:
 	rm -rf $(BUILD_DIR)
 ```
+
+Meta:
+
+    tags: #keg

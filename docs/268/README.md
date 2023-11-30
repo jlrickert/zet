@@ -84,3 +84,7 @@ linking to [a file](somefile) must be local[^1].
 [^dexnode]:
     An index directory _is_ a node but without the integer name making them
     **unindexed nodes**.
+
+## Meta
+
+    tags: #keg

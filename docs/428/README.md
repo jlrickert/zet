@@ -17,7 +17,9 @@ Here are the key events
 - Mixed everything at 5:30pm
 - Placed in fridge at like 11pm
 - Shaped at 9am
-- baked at 10:30
+- baked at 10:30 am
+
+![Picture of sourdough bread](20231127_114043.jpg)
 
 ## See also
 

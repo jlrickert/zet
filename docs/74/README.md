@@ -22,6 +22,10 @@
 
   `git log -S 'YOUR_SECRET' --oneline --name-only --pretty=format:'%h %s'`
 
+## See also
+
+- https://rtyley.github.io/bfg-repo-cleaner/
+
 ## Meta
 
     #cli #linux #git #unix

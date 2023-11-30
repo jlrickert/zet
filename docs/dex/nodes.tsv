@@ -62,13 +62,13 @@
 63	2023-09-07 02:26:52Z	How does a generic search engine work for the web
 64	2023-09-07 02:26:52Z	Top gear for warlock
 65	2023-09-07 02:26:52Z	Recommended warlock spec for Aberrus bosses
-67	2023-09-07 02:26:52Z	My first user experience with keg
+67	2023-11-30 18:39:27Z	My first user experience with keg
 69	2023-09-07 02:26:52Z	Config files for zsh environment
 70	2023-09-07 02:26:52Z	Useful oh my zsh plugins list
 71	2023-09-07 02:26:52Z	How to handle conditionals in bash scripting
 72	2023-09-07 02:26:52Z	Pop_OS! setup
 73	2023-09-07 02:26:52Z	Example of keyword searching with awk
-74	2023-11-30 16:02:29Z	Git techniques and cheat sheet
+74	2023-11-30 16:04:36Z	Git techniques and cheat sheet
 75	2023-09-07 02:26:52Z	Tiling window management in windows with komorebi
 76	2023-09-07 02:26:52Z	Harpoon keybindings in vscode
 77	2023-09-07 02:26:52Z	Really good article about software engineering principles
@@ -251,7 +251,7 @@
 265	2023-09-26 23:45:16Z	Steps to host a keg with GitHub pages
 266	2023-09-07 02:26:52Z	The idea of cognitive distance
 267	2023-09-07 02:26:52Z	Jekyll theme **hacker** google analytics issue
-268	2023-09-26 23:48:31Z	Keg introduction
+268	2023-11-30 18:38:58Z	Keg introduction
 269	2023-09-07 02:26:52Z	When to use CGO_ENABLED
 270	2023-09-11 22:48:40Z	Streaming setup research
 271	2023-09-07 02:26:52Z	Digital ocean resource support
@@ -289,7 +289,7 @@
 304	2023-09-07 02:26:52Z	Memorial day sourdough bread bowl
 305	2023-09-07 02:26:52Z	Thanksgiving bread bowl 2022
 306	2023-09-07 02:26:52Z	Father's day whole wheat sourdough batard
-307	2023-09-07 02:26:52Z	Whole wheat sourdough loaf
+307	2023-11-30 17:49:17Z	Whole wheat sourdough loaf
 308	2023-09-07 02:26:52Z	Experimental whole wheat pizza sourdough small batch
 309	2023-09-07 02:26:52Z	Sourdough Pizza experiment
 310	2023-09-07 02:26:52Z	Experimental rye and barley pullman loaf
@@ -319,13 +319,13 @@
 338	2023-11-17 16:35:51Z	Deploying a sveltkit app on AWS
 339	2023-11-17 16:37:21Z	AWS service elastic beanstalk
 340	2023-09-26 23:50:09Z	AWS free tier
-343	2023-11-24 17:50:46Z	Learning in public
+343	2023-11-30 18:38:00Z	Learning in public
 344	2023-09-26 23:46:54Z	Cool facts about octopus
 345	2023-11-25 22:22:23Z	Different types of learning
 346	2023-09-26 23:46:26Z	Society requires perfect trust
 347	2023-09-28 18:55:49Z	how to login to AWS via command line
 348	2023-09-28 00:16:46Z	Deploying a keg on MkDocs
-349	2023-09-27 03:52:18Z	Example for how to build a KEG for use with google docs
+349	2023-11-30 18:37:37Z	Example for how to build a KEG for use with google docs
 350	2023-09-27 16:28:09Z	Zip cheatsheet
 351	2023-09-28 00:32:47Z	JavaScript article
 352	2023-09-28 19:37:42Z	SSH key rotation best practices
@@ -400,4 +400,6 @@
 425	2023-11-22 22:38:07Z	Raw module 4 instructions
 426	2023-11-26 00:08:45Z	Neuroscience on how learning occurs
 427	2023-11-26 00:08:49Z	Strategy for learning
-428	2023-11-27 16:12:09Z	Guesswork Sourdough bread
+428	2023-11-30 17:49:15Z	Guesswork Sourdough bread
+429	2023-11-30 18:40:57Z	Tools needed to setup a npm library for typescript
+430	2023-11-30 18:36:45Z	Creating KEG commands plugin in NeoVim
