@@ -4,6 +4,7 @@ Index of the things that I have baked in the past.
 
 ## Index
 
+- 2023-12-01 [Uzbek Lepyoshki experiment](../292)
 - 2023-11-26 [Guesswork sourdough bread](../428)
 - 2023-09-18 [Sourdough rye and barley pita bread](../331)
 - 2023-09-16 [Sourdough rye and barley pancakes](../328)
@@ -27,6 +28,10 @@ Index of the things that I have baked in the past.
 - 2023-01-01 [Einkorn sourdough bread bowl](../311)
 - 2023-01-01 [Sourdough pizza](../312)
 - 2022-11-24 [Thanksgiving bread bowl 2022](../305)
+
+## See also
+
+- [Types of sourdough preferments](../250)
 
 ## Meta:
 
