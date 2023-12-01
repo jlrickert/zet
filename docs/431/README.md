@@ -1,8 +1,9 @@
 # Uzbek Lepyoshki experiment
 
 This is an idea that I got from a friend from Uzbekistan. This is based on a
-traditional Uzbek yeast bun. My first attempt is based on a [recipe] that I
-found online but with a few small tweaks. The tweaks include:
+traditional Uzbek yeast bun. My first attempt is based on a [recipe] that they
+pointed out to me that looked like it online. I did tweak it in a few places
+though due to an old jar of yeast. The tweaks include:
 
 - Swapping out some whole milk and flour with starter
 - Poppy seed instead of sesame seeds
@@ -80,6 +81,7 @@ Ingredients for the glaze
 - Mixed ingredients at 12:15pm
 - Shaped at 2:15pm
 - Baked at 2:50pm
+- Pulled out of oven at 3:30pm
 
 ## Retrospect
 
