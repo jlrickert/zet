@@ -39,3 +39,4 @@ Here are some packages that I would like to publish to npmjs:
 
 - https://github.com/vercel/turbo/tree/main/examples/with-changesets
 - https://github.com/vercel/turbo/tree/main/examples/kitchen-sink
+- https://github.com/VulcanJS/vulcan-npm
