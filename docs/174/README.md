@@ -3,12 +3,21 @@
 This is my personal website that will be at https://jlrickert.me or
 https://jlrickert.github.io.
 
-The design of it is to be a retro terminal
+The design of it is to be a retro terminal inspired by bash bunni and 4s3ti.
+However, that seems like it will take some work and doesn't have much value. It
+would be a stretch goal. For now I just need something simple.
 
 ## Sitemap
 
 - Home
+
+  This should have basic things about me.
+
 - Zettelkasten
+
+  Simply a link to my public notes for now. Maybe at some point I will do
+  something different.
+
 - Blog
 - About
 - Resume
