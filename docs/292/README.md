@@ -4,6 +4,7 @@ Index of the things that I have baked in the past.
 
 ## Index
 
+- 2023-12-08 [Uzbek Lepyoshki take 2](../441)
 - 2023-12-05 [Lazy sourdough Uzbek Lepyoshki experiment](../440)
 - 2023-12-01 [Uzbek Lepyoshki experiment](../431)
 - 2023-11-26 [Guesswork sourdough bread](../428)
@@ -33,6 +34,7 @@ Index of the things that I have baked in the past.
 ## See also
 
 - [Types of sourdough preferments](../250)
+- [General index](../442)
 
 ## Meta:
 

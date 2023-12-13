@@ -17,10 +17,17 @@ I made include more sourdough to quicken up fermentation.
 ## Key events
 
 - Mixed levain at 10:30am
-- Mixed ingredients at 12:45pm
+- Mixed ingredients at 03:15pm
 
   Milk, sugar, salt, and butter mixed together and heated. It is then mixed in
   with the rest of the ingredients.
+
+- Baked at 7:45pm
+
+## Retrospect
+
+I find it tasted better than the last one. A bit dense but to be expected
+because of the rather short rise time.
 
 ## See also
 

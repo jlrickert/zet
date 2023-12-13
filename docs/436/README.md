@@ -5,7 +5,7 @@ green starter kit that I bought in 2021.
 
 ## See also
 
-- [Micro green index](../436)
+- [Micro green index](../434)
 
 ## Meta
 

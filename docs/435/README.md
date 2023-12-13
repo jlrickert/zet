@@ -30,11 +30,18 @@ with roughly 20 grams of seeds and sprinkled it evenly.
 
 - Planted on Thursday before bed
 - Took the lid off on Tuesday
+- Harvested on Friday, and Saturday
 
 ## Retrospect
 
 One of the things that I need to look into is soil hydration. For next time what
 I might do is weigh out the coco coir and the water that I mix together.
+
+This batch was very mild compared to what I remember.
+
+## See also
+
+- [Micro green index](../433)
 
 ## Meta
 
