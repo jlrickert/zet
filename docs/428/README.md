@@ -8,8 +8,7 @@ Here is the list of ingredients:
 | Water             | 250g   |                               |
 | starter           | 100g   | 100% whole wheat 1:1          |
 
-All ingredients here a guess. The water amount may be the only some what close
-measurement. Everything is based off of that amount. I had to wing it.
+All ingredients here a guess. The water amount may be the only some what close measurement. Everything is based off of that amount. I had to wing it.
 
 Here are the key events
 

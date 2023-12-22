@@ -2,12 +2,12 @@
 
 Recipe that I used for making 2 bread bowls for labor day weekend (Friday September 1 20223). This is an interesting bake because I left my starter up at the cabin in the fridge. I was suppose to be back by Thursday night but ended up arriving on Friday morning.
 
-| Ingredient  | Amount | Bakers Percentage | Comment                                 |
-| ----------- | ------ | ----------------- | --------------------------------------- |
-| Bread flour | 1100g  | 100%              | King Arthur bread flour (12.7% protein) |
-| Water       | 750g   | 68%               |                                         |
-| starter     | 50g    | 27%               | 100% rye 1:1                            |
-| salt        | 11g    | 1%                |                                         |
+| Ingredient | Amount | Bakers Percentage | Comment |
+| --- | --- | --- | --- |
+| Bread flour | 1100g | 100% | King Arthur bread flour (12.7% protein) |
+| Water | 750g | 68% |  |
+| starter | 50g | 27% | 100% rye 1:1 |
+| salt | 11g | 1% |  |
 
 Total weight is around 1900g
 

@@ -14,8 +14,8 @@ Sourdough pancakes for 5 adults.
 | baking powder | 1/4 tsp |                   | maybe 2 scoops     |
 | baking soda   | 1/4 tsp |                   | maybe 2 scoops     |
 
-Mix the barley and rye starter together along with all teh dry ingredients. Add
-pecans and bananas as ell. Then add all the wet.
+Mix the barley and rye starter together along with all the dry ingredients. Add
+pecans and bananas as well. Then add all the wet ingredients.
 
 ## Nutrition facts
 
@@ -32,8 +32,8 @@ This recipe made 8 pancakes of which we ate 7. We also had 7 eggs, and a 12oz
 package of bacon. Made [chia jam](../329) as well.
 
 The pancakes came out relatively thick. At first I had the eclectic griddle set
-to 300f for the first side. Ended up turning the temperature down to 250f on
-the second flip to give the chance for the center to cook. I could
+to 300f for the first side. Ended up turning the temperature down to 250f on the
+second flip to give the chance for the center to cook. I could
 
 ## Meta
 
