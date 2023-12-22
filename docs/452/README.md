@@ -1,35 +1,26 @@
 # Spinach dip recipe
 
-This is the spinach dip recipe that I used with the bread bowl that I made for [Christmas 2023](https://jlrickert.me/zettel/820)
+This is the spinach dip recipe that I used with the bread bowl that I made for [Christmas 2023](https://jlrickert.me/zettel/820). Most recipes online use a vegetable soup mix. However, we didn't have any so I had to make my own.
 
 Base ingredients
 
 | Ingredient | Weight | Comment |
 | --- | --- | --- |
-| Sour cream | 450g |
-| mayonnaise | 250g |
-| frozen spinach | 280g |
+| Sour cream | 450g | 1 container |
+| mayonnaise | 250g |  |
+| frozen spinach | 320g | 1 package |
 | soup mix | 50g | Either a package of soup mix or the one I made below |
+| soy sause | 6g | low sodium |
 
-| Ingredient    | Weight |
-| ------------- | ------ |
-| onion flakes  |        |
-| carrot flakes |        |
-| dried parsely |        |
-| dried celery  |        |
-| garlic powder |        |
-| dried dill    |        |
-| dried basil   |        |
-| salt          |        |
-| pepper        |        |
+Vegetable soup mix
 
-- 1 cup dried spinach flakes
-- 1/2 cup dried onion flakes
-- 1/4 cup dried carrot flakes
-- 2 tablespoons dried parsley flakes
-- 1 tablespoon dried celery flakes
-- 2 teaspoons garlic powder
-- 1 teaspoon dried dill
-- 1 teaspoon dried basil
-- 1/2 teaspoon salt
-- 1/4 teaspoon black pepper
+| Ingredient        | Weight |
+| ----------------- | ------ |
+| onion flakes      | 30g    |
+| garlic salt       | 20g    |
+| dried dill        | 2g     |
+| dried basil       | 2g     |
+| dried parsely     | 2g     |
+| italian seasoning | 4g     |
+
+Just mix all the ingredients together

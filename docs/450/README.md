@@ -1,6 +1,6 @@
 # Christmas bread bowl 2023
 
-Bread bowl for Christmas 2023 based off of the recipe that I made for labor day and the fourth of July 2023. It is a basic bread bowl. Nothing really special.
+Bread bowl for Christmas 2023 based off of the recipe that I made for labor day and the fourth of July 2023. It is a basic bread bowl. Nothing really special. I served this with a [spinach dip](../452) that I made.
 
 | Ingredient | Amount | Bakers Percentage | Comment |
 | --- | --- | --- | --- |
@@ -13,12 +13,18 @@ Total weight is around 1080g
 
 ## Key events
 
-- [x] 2023-12-22 11:00 Feed starter
-- [x] 2023-12-22 16:00 Autolyse
+- 2023-12-22 11:00 Feed starter
+- 2023-12-22 16:00 Autolyse
+
+  Flour and water should be mixed together.
 
   ![Before autolyse](./autolyse-before.jpg)
 
-- [ ] 2023-12-22 17:00 Mix
+  1 hour and a half autolyse. Normally, 1 hour is how much time you want to give it. I ended up going an extra 30 minutes because I was busy with other things.
+
+  ![1 and a half hour autolyse](./autolyse-after.jpg)
+
+- [ ] 2023-12-22 17:30 Mix
 
   4 stretch and folds 30 minutes apart.
 
