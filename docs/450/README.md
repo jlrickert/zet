@@ -14,7 +14,7 @@ Total weight is around 1080g
 ## Key events
 
 - [x] 2023-12-22 11:00 Feed starter
-- [ ] 2023-12-22 16:00 Autolyse
+- [x] 2023-12-22 16:00 Autolyse
 
   ![Before autolyse](./autolyse-before.jpg)
 
