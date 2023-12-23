@@ -24,9 +24,13 @@ Total weight is around 1080g
 
   ![1 and a half hour autolyse](./autolyse-after.jpg)
 
-- [ ] 2023-12-22 17:30 Mix
+- 2023-12-22 17:45 Mix
 
-  4 stretch and folds 30 minutes apart.
+  Mixed the dough well and did a little bit of kneading in the bowl.
+
+  ![Mixed dough](./mixed.jpg)
+
+  Normally I would do some stretch and folds but I wont be home to do it.
 
 - [ ] 2023-12-22 22:00 Shape
 - [ ] 2023-12-22 24:00 Place in fridge
