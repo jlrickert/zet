@@ -7,6 +7,7 @@ Base ingredients
 | Ingredient | Weight | Comment |
 | --- | --- | --- |
 | Sour cream | 450g | 1 container |
+| chestnuts | 141g | 1 drained container of canned chestnuts |
 | mayonnaise | 250g |  |
 | frozen spinach | 320g | 1 package |
 | soup mix | 50g | Either a package of soup mix or the one I made below |

@@ -1,13 +1,13 @@
 # Christmas bread bowl 2023
 
-Bread bowl for Christmas 2023 based off of the recipe that I made for labor day and the fourth of July 2023. It is a basic bread bowl. Nothing really special. I served this with a [spinach dip](../452) that I made.
+Bread bowl for Christmas 2023 based off of the recipe that I made for labor day and the fourth of July 2023. It is a basic bread bowl with one modification. I am using garlic salt rather than sea salt. I served this with a [spinach dip](../452) that I made.
 
 | Ingredient | Amount | Bakers Percentage | Comment |
 | --- | --- | --- | --- |
 | All purpose flour | 600g | 100% | organic ap flour from walmart |
 | Water | 425g | 71% |  |
 | starter | 50g | 8% | 100% rye 1:1 |
-| salt | 11g |  |  |
+| garlic salt | 8g |  |  |
 
 Total weight is around 1080g
 
