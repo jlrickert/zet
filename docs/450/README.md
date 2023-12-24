@@ -32,11 +32,18 @@ Total weight is around 1080g
 
   Normally I would do some stretch and folds but I wont be home to do it.
 
-- [ ] 2023-12-22 22:00 Shape
-- [ ] 2023-12-22 24:00 Place in fridge
-- [ ] 2023-12-23 12:00 Bake
+- 2023-12-23 00:30 Shape
+- 2023-12-23 00:30 Placed in the fridge
+- 2023-12-23 11:00 Took out of the fridge
+- 2023-12-23 14:00 Bake
 
-  Bake at 450f for 24 minutes with the lid on. 450f with the lid off for another 14 minutes.
+  Bake at 450f for 20 minutes with the lid on. 450f with the lid off for another 25 minutes.
+
+![loaf](./loaf.jpg)
+
+## Retrospect
+
+A little bit too salty and not cooked enough. Not much oven spring either. I skipped the stretch and fold part as I was busy. Really good flavor though. Seems like Mom's oven doesn't get as hot as the one that I have at home. Also, the digital scale seems really cheap and crappy. Chances are it didn't read how much salt that I added. Had to tap it to get it to read. At some point I should explored how salt effects fermentation.
 
 ## See also
 
