@@ -22,13 +22,13 @@ Total weight is around 1080g
 
   1 hour and a half autolyse. Normally, 1 hour is how much time you want to give it. I ended up going an extra 30 minutes because I was busy with other things.
 
-  ![1 and a half hour autolyse](./autolyse-after.jpg)
+  ![1 and a half hour autolyse](autolyse-after.jpg)
 
 - 2023-12-22 17:45 Mix
 
   Mixed the dough well and did a little bit of kneading in the bowl.
 
-  ![Mixed dough](./mixed.jpg)
+  ![Mixed dough](mixed.jpg)
 
   Normally I would do some stretch and folds but I wont be home to do it.
 
@@ -43,7 +43,11 @@ Total weight is around 1080g
 
 ## Retrospect
 
-A little bit too salty and not cooked enough. Not much oven spring either. I skipped the stretch and fold part as I was busy. Really good flavor though. Seems like Mom's oven doesn't get as hot as the one that I have at home. Also, the digital scale seems really cheap and crappy. Chances are it didn't read how much salt that I added. Had to tap it to get it to read. At some point I should explored how salt effects fermentation.
+Overall the load came out tasting really good but was a bit dense. There where a couple of problems that I ran into. Not around to work the gluten with stretch and folds. Mom's oven seemed like it didn't heat up as much compared to my oven. I baked for a longer duration that other bakes yet it came out slightly dough. It was a bit on the salty side. This could be from using garlic salt rather than sea salt and an inaccurate digital scale. At some point I should look into how much salt affects the fermentation rate.
+
+Here is what I made with it. The dip is a [spinach dip](../452)
+
+![Bread with dip in the middle](bread-with-dip.jpg)
 
 ## See also
 
