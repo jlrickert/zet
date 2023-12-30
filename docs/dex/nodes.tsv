@@ -96,7 +96,7 @@
 100	2023-09-07 02:26:52Z	Install flutter on macOS with apple silicon
 101	2023-09-07 02:26:52Z	Installing software with curl
 102	2023-10-20 16:14:20Z	Using a temporary directory that require installing transient scripts
-103	2023-10-20 16:10:40Z	Tiling window management on macOS with Yabai
+103	2023-12-29 18:06:44Z	Tiling window management on macOS with Yabai
 104	2023-09-07 02:26:52Z	Overview of macOS tools and software
 105	2023-09-07 02:26:52Z	Concrete 5
 106	2023-09-07 02:26:52Z	How to install lando on MacOS
@@ -379,7 +379,7 @@
 404	2023-11-18 19:40:26Z	Amazon CodePipeline
 405	2023-11-02 03:07:34Z	Message de-duplication on AWS FIFO topics
 406	2023-11-04 18:50:57Z	How to upload a SSH key pair from the CLI to AWS
-407	2023-12-21 18:10:44Z	Neovim intellisense for json files
+407	2023-12-30 16:35:25Z	Neovim intellisense for JSON files
 408	2023-11-12 23:20:35Z	ECS cluster tutorial
 409	2023-11-13 00:27:38Z	Interesting bug in AWS ECS
 410	2023-11-15 16:19:19Z	AWS Service CloudFormation
@@ -412,7 +412,7 @@
 437	2023-12-05 18:20:52Z	Coco coir for micro green growing
 438	2023-12-05 20:37:33Z	Project ideas
 439	2023-12-05 20:13:23Z	Knutjs
-440	2023-12-06 18:32:15Z	Lazy sourdough Uzbek Lepyoshki experiment
+440	2023-12-26 23:43:04Z	Lazy sourdough Uzbek Lepyoshki experiment
 441	2023-12-14 04:52:47Z	Uzbek Lepyoshki take 2
 442	2023-12-11 00:24:36Z	General Index
 443	2023-12-11 01:44:42Z	Ice Skating in Twin Cities
@@ -422,9 +422,13 @@
 447	2023-12-21 22:00:59Z	Zeros shoe comparison chart
 448	2023-12-21 23:54:57Z	Stateful command tree using commander js
 449	2023-12-22 17:04:10Z	Professional Full Stack developer prompt for ChatGPT
-450	2023-12-24 18:36:29Z	Christmas bread bowl 2023
+450	2023-12-30 16:23:23Z	Christmas bread bowl 2023
 451	2023-12-22 17:19:13Z	Tool and strategies for making sourdough bread
 452	2023-12-23 20:05:27Z	Spinach dip recipe
 453	2023-12-22 23:01:48Z	How to implement "cook mode" on a website
 454	2023-12-23 20:07:29Z	Karble cheat sheet
-455	2023-12-25 03:49:12Z	Dill Pickle Tortilla Roll Up recipe
+455	2023-12-25 16:28:29Z	Dill Pickle Tortilla Roll Up recipe
+456	2023-12-28 21:56:17Z	Bundling and compiling typescript files
+457	2023-12-30 16:55:08Z	Sourdough batard
+458	2023-12-30 16:32:53Z	How to shape a batard
+459	2023-12-30 16:51:51Z	How to make good sourdough bread

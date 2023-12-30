@@ -51,6 +51,4 @@ Here is what I made with it. The dip is a [spinach dip](../452)
 
 ## See also
 
-- [July forth bread bowl](../299)
-- [Labour day bread bowl](../293)
-- [autolyse](../451)
+- [Baking index](../dex/baking.md)

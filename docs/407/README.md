@@ -1,17 +1,13 @@
-# Neovim intellisense for json files
+# Neovim intellisense for JSON files
 
-I haven't yet figured out how to get intellisense to work in neovim for some
-specific files. What I have found is that you can manually add a `$schema`
-property to add intellisense. These may be looked up on
-https://www.schemastore.org/json/. It may also be possible to use them for yaml
-as well.
+I haven't yet figured out how to get intellisense to work in neovim for some specific files. What I have found is that you can manually add a `$schema` property to add intellisense. These may be looked up on https://www.schemastore.org/json/. It may also be possible to use them for yaml as well.
 
 Here are some of the more useful ones
 
-| Package      | Schema url                                                                               |
-| ------------ | ---------------------------------------------------------------------------------------- |
-| package.json | https://json.schemastore.org/package.json                                                |
-| .prettierrc  | https://json.schemastore.org/prettierrc.json                                             |
-| changeset    | https://raw.githubusercontent.com/changesets/changesets/main/packages/config/schema.json |
+| Package | Schema url |
+| --- | --- |
+| package.json | https://json.schemastore.org/package.json |
+| .prettierrc | https://json.schemastore.org/prettierrc.json |
+| changeset | https://raw.githubusercontent.com/changesets/changesets/main/packages/config/schema.json |
 
     tags: #noevim
