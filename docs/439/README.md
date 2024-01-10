@@ -1,4 +1,4 @@
-# Knutjs
+# Knutjs project idea
 
 Knutjs is the next iteration for my note taking system.
 

@@ -1,4 +1,4 @@
-updated: 2023-12-30 16:55:08Z
+updated: 2024-01-10 19:28:54Z
 kegv: 2023-01
 
 title: KEG Zettelkasten for Jared Rickert (jlrickert)
@@ -7,7 +7,7 @@ linkfmt: https://zet.jlrickert.me/{{id}}
 creator: git@github.com:jlrickert/jlrickert.git
 state: living
 
-summary:
+summary: |
   Hi I'm Jared. This is my personal **zettelkasten** KEG site.  It contains
   mostly a brain dump for my personal reference.  Things here may not represent
   my current standing on something, and/or may just be plain inaccurate.

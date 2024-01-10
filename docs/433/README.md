@@ -8,6 +8,10 @@ Some that I have tried and did not like:
 
   Very dry but cheap. Maybe OK for cooking.
 
-## Meta
+- 14 hands - hot to trot
 
-    tags: #wine
+  A smooth red blend. Very good tasting
+
+- Menage a Trois - Cabernet Sauvignon
+
+  My go to steak wine

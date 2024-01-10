@@ -1,8 +1,6 @@
 # Full list of operating systems that ansible is able to detect
 
-Ansible has a list of distributions that is detectable by default
-documented on the [ansible website]. Unfortunately this is not an
-exhaustive list.
+Ansible has a list of distributions that is detectable by default documented on the [ansible website]. Unfortunately this is not an exhaustive list.
 
 - Alpine
 - Altlinux
@@ -35,10 +33,10 @@ In order to get access to one of these variables see the below table.
 | Remote   | `ansible_distribution` |
 | Delegate |                        |
 
-Here is an example snippet of 
+Here is an example snippet of
 
 ```yaml
-- name: Install homebrew 
+- name: Install homebrew
   import_tasks: homebrew
   when: ansible_distribution == "MacOSX"
 ```
