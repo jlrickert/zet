@@ -13,10 +13,8 @@ Total weight is 1065.
 Example bakes
 
 - Thanks giving 2022
-  - I baked it at 450 for 18 minutes in the dutch oven with steam and 20 minutes
-    without.
-  - It was a total hit and almost gone. The smokey bacon dip that I bought at
-    cub was a hit as well.
+  - I baked it at 450 for 18 minutes in the dutch oven with steam and 20 minutes without.
+  - It was a total hit and almost gone. The smokey bacon dip that I bought at cub was a hit as well.
 
 ## See also
 

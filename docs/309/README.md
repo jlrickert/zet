@@ -15,8 +15,3 @@ Total weight is 202g
 ## See also
 
 - [Baking index](../292)
-
-## Meta
-
-    tags: #baking #pizza
-    date: 2023-04-18

@@ -20,8 +20,3 @@ Total weight is 2000g
 - [thursday](keg://jlrickert/356)
 - [sunday](keg://jlrickert/348)
 - [Baking index](../292)
-
-## Meta
-
-    tags: #baking #pizza #sourdough
-    date: 2023-04-20

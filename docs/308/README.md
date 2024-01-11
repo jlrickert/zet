@@ -14,8 +14,3 @@ Total weight is 400g
 ## See also
 
 - [Baking index](../292)
-
-## Meta
-
-    tags: #baking #pizza #sourdough
-    date: 2023-04-16

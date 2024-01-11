@@ -32,8 +32,3 @@ The dough came out relatively easy to work with. Was a huge hit with every one.
 ## See also
 
 - [Baking index](../292)
-
-## Meta
-
-    tags: #baking #sourdough #pizza
-    date: 2023-06-23

@@ -16,8 +16,3 @@ Made evening of Fri Mar 31 2023. Baked Mid day the next day at 350f for 1.75h. H
 ## See also
 
 - [Baking index](../292)
-
-## Meta
-
-    Tags: #baking
-    Date: Fri Mar 31 2023
