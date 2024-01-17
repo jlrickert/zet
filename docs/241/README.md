@@ -1,6 +1,6 @@
 # Portable pizza oven buying checklist
 
-Here are my requiments
+Here are my requirements
 
 - Good for 12 inch pizza's
 - Easy to use for large events as I will more than likely dealing with the dough
@@ -22,15 +22,15 @@ Types of pizza ovens
 - pellet
 - wood
 
-| Oven          | Type                  | Temp | Price | Comment                                           |
-| ------------- | --------------------- | ---- | ----- | ------------------------------------------------- |
-| Ooni Karu     | wood,charcoal,gas     | 950  |       | see through door                                  |
-| Ooni Karu 12G | wood,charcoal,gas     | 950  |       | see through door                                  |
-| Ooni Frya     | pellet                | 950  |       |                                                   |
-| Ooni Koda     | gas                   | 950  |       |                                                   |
-| Gozney        | propane               | 950  |       |                                                   |
-| Bertello      | propane,wood,charcoal | 920  | 500   | Wood and propane at the same time. Need to rotate |
-| Halo Versa    |                       |      | 530   | It rotates                                        |
-| Vevor multi   |                       |      |       |                                                   |
+| Oven | Type | Temp | Price | Comment |
+| --- | --- | --- | --- | --- |
+| Ooni Karu | wood,charcoal,gas | 950 |  | see through door |
+| Ooni Karu 12G | wood,charcoal,gas | 950 |  | see through door |
+| Ooni Frya | pellet | 950 |  |  |
+| Ooni Koda | gas | 950 |  |  |
+| Gozney | propane | 950 |  |  |
+| Bertello | propane,wood,charcoal | 920 | 500 | Wood and propane at the same time. Need to rotate |
+| Halo Versa |  |  | 530 | It rotates |
+| Vevor multi |  |  |  |  |
 
 [AVPN]: Associazione Verace Pizza Napoletana
