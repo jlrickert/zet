@@ -1,3 +1,4 @@
+- 2024-01-19 [Sourdough bread batard January 19 2024](../478)
 - 2024-01-16 [White sourdough batard](../474)
 - 2023-12-30 [Sourdough bread batard](../462)
 - 2023-12-30 [Sourdough bread batard](../457)
