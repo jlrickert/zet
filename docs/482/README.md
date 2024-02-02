@@ -1,4 +1,4 @@
-# Sourdough bread batard January 19 2024
+# Sourdough bread batard February 02 2024
 
 Single day bread bake
 
@@ -14,14 +14,7 @@ Total weight is roughly 750g.
 
 ## Key events
 
-- 2024-01-19 10:30 Autolyse
-- 2024-01-19 11:30 Mixed
-
-  Did 4 stretch and folds and did the oven trick
-
-- 2024-01-19 20:00 Baked
-
-  Baked for 40 minutes at 475f. Turned out tasting great. Was a bit over proofed.
+- 2024-02-02 14:19 autolyse
 
 ## See also
 

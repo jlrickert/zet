@@ -5,7 +5,7 @@ This is a recipe based off of the recipe on a random recipe I found on [google].
 [google]: https://www.biggerbolderbaking.com/whole-wheat-tortillas/
 
 | Ingredient        | Weight | Bakers percentage | Comment |
-|-------------------|--------|-------------------|---------|
+| ----------------- | ------ | ----------------- | ------- |
 | Whole Wheat flour | 500g   |                   |         |
 | Oil               | 50g    |                   |         |
 | hot water         | 280g   |                   |         |
@@ -15,7 +15,3 @@ This is a recipe based off of the recipe on a random recipe I found on [google].
 ## See also
 
 - [Baking index](../292)
-
-## Meta
-
-    tags: #baking

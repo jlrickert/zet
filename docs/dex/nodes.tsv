@@ -276,10 +276,10 @@
 290	2023-09-07 02:26:52Z	Kineses Advantage360
 291	2023-09-07 02:26:52Z	Linux desktop comparison
 292	2023-12-22 01:22:06Z	Baking index
-293	2023-12-22 01:24:46Z	Labor day weekend bread bowl
-294	2023-09-08 04:01:59Z	Sourdough somewhat whole wheat pizza for the ooni
-295	2023-09-07 02:26:52Z	Pizza night at the cabin pizza dough
-296	2023-09-08 03:57:34Z	Whole wheat tortilla recipe
+293	2024-01-27 20:37:45Z	Labor day weekend bread bowl
+294	2024-01-27 20:36:04Z	Sourdough somewhat whole wheat pizza for the ooni
+295	2024-01-27 20:36:59Z	Pizza night at the cabin pizza dough
+296	2024-01-27 20:35:24Z	Whole wheat tortilla recipe
 297	2024-01-12 22:13:55Z	First bigga sourdough pizza batch for the Ooni
 298	2024-01-11 18:49:56Z	Bigga sourdough pizza dough Saturday July 22 2023
 299	2024-01-11 18:48:55Z	July fourth weekend 2023 sourdough bread bowl
@@ -297,7 +297,7 @@
 312	2024-01-11 17:50:33Z	Sourdough pizza
 315	2023-09-07 02:26:52Z	How to manually install a package from the AUR
 316	2023-09-07 02:26:52Z	Researching a Rofi like experience on MacOSX
-317	2023-09-18 15:58:02Z	Sourdough pizza dough batch request
+317	2024-01-27 20:39:19Z	Sourdough pizza dough batch request
 319	2023-09-11 04:32:54Z	Recommend wheat flour to use for different bakes
 321	2023-11-02 01:45:21Z	Chrome book comparison
 322	2023-09-10 19:05:06Z	Digital fonts
@@ -306,10 +306,10 @@
 325	2023-09-26 23:46:00Z	Managing ruby version on MacOSX with chruby
 326	2023-09-26 23:46:09Z	Setting up a new KEG app with tina and jekyll
 327	2023-09-16 02:19:26Z	KEG repo with tina cms and jekyll experiment
-328	2023-12-18 16:44:15Z	Sourdough rye and barley pancakes
+328	2024-01-27 20:39:08Z	Sourdough rye and barley pancakes
 329	2023-09-16 15:55:05Z	Chia jam recipe
 330	2023-09-18 15:50:10Z	Testing in Go
-331	2023-09-20 19:36:27Z	Sourdough rye and barley pita bread
+331	2024-01-27 20:39:55Z	Sourdough rye and barley pita bread
 332	2023-09-18 18:59:48Z	My Ooni Karu 12G
 333	2023-09-18 20:51:21Z	Flutter experiments
 334	2023-09-25 01:14:56Z	KEG website with CMS
@@ -400,7 +400,7 @@
 425	2023-11-22 22:38:07Z	Raw module 4 instructions
 426	2023-11-26 00:08:45Z	Neuroscience on how learning occurs
 427	2023-11-26 00:08:49Z	Strategy for learning
-428	2023-12-22 01:24:32Z	Guesswork Sourdough bread
+428	2024-01-27 20:40:38Z	Guesswork Sourdough bread
 429	2023-12-11 00:24:21Z	Tools needed to setup a npm library for typescript
 430	2023-12-05 19:53:42Z	Creating KEG commands plugin in NeoVim
 431	2023-12-13 17:49:55Z	Uzbek Lepyoshki experiment
@@ -413,9 +413,9 @@
 438	2023-12-05 20:37:33Z	Project ideas
 439	2024-01-10 16:44:52Z	Knutjs project idea
 440	2023-12-26 23:43:04Z	Lazy sourdough Uzbek Lepyoshki experiment
-441	2023-12-14 04:52:47Z	Uzbek Lepyoshki take 2
+441	2024-01-27 21:02:45Z	Uzbek Lepyoshki take 2
 442	2023-12-11 00:24:36Z	General Index
-443	2024-01-19 15:17:12Z	Ice Skating in Twin Cities
+443	2024-01-27 21:24:31Z	Ice Skating in Twin Cities
 444	2023-12-21 18:09:42Z	The science of motivation
 445	2023-12-17 14:34:26Z	How to belay top rope at climbing gym
 446	2023-12-16 17:25:59Z	Mongo style filter example with typescript
@@ -429,7 +429,7 @@
 454	2023-12-23 20:07:29Z	Karble cheat sheet
 455	2023-12-25 16:28:29Z	Dill Pickle Tortilla Roll Up recipe
 456	2023-12-28 21:56:17Z	Bundling and compiling typescript files
-457	2024-01-10 19:28:54Z	Sourdough batard
+457	2024-01-20 01:55:30Z	Sourdough batard
 458	2023-12-30 23:41:04Z	How to shape a batard
 459	2023-12-30 17:16:12Z	How to make good sourdough bread
 460	2024-01-08 04:14:37Z	.Net core setup for MacOSX and neovim
@@ -449,4 +449,8 @@
 475	2024-01-19 02:47:54Z	Companies in the Twin Cities that hire Software Engineers
 476	2024-01-19 02:21:38Z	Junior Automation Application Developer
 477	2024-01-19 16:26:50Z	Companies that are hiring remote works in 2024
-478	2024-01-19 16:29:47Z	Sourdough bread batard January 19 2024
+478	2024-02-02 20:17:42Z	Sourdough bread batard January 19 2024
+479	2024-01-21 13:25:17Z	Material to learn functional programming
+480	2024-01-21 20:37:20Z	How to sort an array with -1, 0, and 1 sort function
+481	2024-01-27 21:24:29Z	Moving over to a different way to handle my public KEG
+482	2024-02-02 20:20:24Z	Sourdough bread batard February 02 2024

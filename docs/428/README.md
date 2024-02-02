@@ -23,8 +23,3 @@ Here are the key events
 ## See also
 
 - [Baking index](../292)
-
-## Meta
-
-    tags: #baking #sourdough
-    date: 2023-11-26

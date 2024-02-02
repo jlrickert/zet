@@ -1,0 +1,3 @@
+# Moving over to a different way to handle my public KEG
+
+I find it hard to maintain multiple kegs as I often times want to put personal information. My new strategy is to simply just put everything into my private keg and to use the eventual filter and merge feature of Knut to selectively expose what I want to make public. I think what I will do is to use the #public tag and certain other tags as well.
