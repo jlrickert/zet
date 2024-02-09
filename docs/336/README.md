@@ -6,8 +6,7 @@ The AWS Cloud Practitioner is a high level of AWS. Very hands off.
 
 The AWS Solutions Architect Associate is the most important one
 
-The [AWS Developer Associate Exam](../337?T) is recommended for developers who
-would like to learn more how to leverage AWS for deploying software on AWS.
+The [AWS Developer Associate Exam](../337?T) is recommended for developers who would like to learn more how to leverage AWS for deploying software on AWS.
 
 List of certs
 
