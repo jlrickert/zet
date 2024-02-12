@@ -4,13 +4,11 @@
 
 - package.json
 
-  Specifies how files should be exported. Key properties include: `exports`,
-  `type`, `sideEffects`, `main`, `module`, and `types`.
+  Specifies how files should be exported. Key properties include: `exports`, `type`, `sideEffects`, `main`, `module`, and `types`.
 
 - Module Formats
 
-  A JavaScript module may be in several different formats. The current formats
-  are UMD, ESM, and CommonJS.
+  A JavaScript module may be in several different formats. The current formats are UMD, ESM, and CommonJS.
 
 - UMD
 

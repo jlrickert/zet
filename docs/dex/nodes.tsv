@@ -218,7 +218,7 @@
 231	2023-09-07 02:26:52Z	Problem solution sets
 232	2023-09-07 02:26:52Z	PCI-DSS compliance
 233	2023-09-07 02:26:52Z	What is Multi-Factor authentication
-235	2024-01-09 20:53:12Z	Categorization of numbers
+235	2024-02-12 18:43:49Z	Categorization of numbers
 236	2023-09-07 02:26:52Z	Accordion plugins for WordPress
 237	2023-09-07 02:26:52Z	COC Categorization
 238	2023-09-07 02:26:52Z	Wooden ship brewing
@@ -327,10 +327,10 @@
 348	2023-09-28 00:16:46Z	Deploying a keg on MkDocs
 349	2023-11-30 18:37:37Z	Example for how to build a KEG for use with google docs
 350	2023-09-27 16:28:09Z	Zip cheatsheet
-351	2023-09-28 00:32:47Z	JavaScript article
+351	2024-02-11 15:08:48Z	JavaScript article
 352	2023-09-28 19:37:42Z	SSH key rotation best practices
 353	2023-09-28 18:55:51Z	AWS EC2
-354	2023-09-28 20:31:22Z	Strange .pnpm-store appearing in my repo
+354	2024-02-12 19:08:39Z	Strange .pnpm-store appearing in my repo
 355	2023-10-04 14:59:00Z	How to use docker for NodeJS development
 356	2023-09-29 17:34:11Z	Handling flags in bash
 357	2023-10-04 16:30:30Z	Battle tanks the game
@@ -401,7 +401,7 @@
 426	2023-11-26 00:08:45Z	Neuroscience on how learning occurs
 427	2023-11-26 00:08:49Z	Strategy for learning
 428	2024-01-27 20:40:38Z	Guesswork Sourdough bread
-429	2023-12-11 00:24:21Z	Tools needed to setup a npm library for typescript
+429	2024-02-12 19:54:08Z	Tools needed to setup a npm library for typescript
 430	2023-12-05 19:53:42Z	Creating KEG commands plugin in NeoVim
 431	2023-12-13 17:49:55Z	Uzbek Lepyoshki experiment
 432	2023-12-01 20:30:22Z	Recommended temperature for bread rising with active dry yeast
@@ -464,3 +464,8 @@
 490	2024-02-09 17:11:20Z	Biomarkers associated to centenarians
 491	2024-02-09 17:11:21Z	leostera the streamer
 492	2024-02-09 18:21:06Z	Task to help with minttea
+493	2024-02-12 17:56:09Z	System interactions in Tauri
+494	2024-02-12 19:07:28Z	Example usage of Ethereum block chain being used
+495	2024-02-12 19:47:04Z	ESM module system in Node
+496	2024-02-12 19:44:06Z	CommonJs module system in Node
+497	2024-02-12 19:54:10Z	TypeScript auto imports in neovim
