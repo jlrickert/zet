@@ -1,4 +1,4 @@
-* 2024-02-12 19:54:10Z [TypeScript auto imports in neovim](../497)
+* 2024-02-12 20:12:42Z [TypeScript auto imports in neovim](../497)
 * 2024-02-12 19:54:08Z [Tools needed to setup a npm library for typescript](../429)
 * 2024-02-12 19:47:04Z [ESM module system in Node](../495)
 * 2024-02-12 19:44:06Z [CommonJs module system in Node](../496)
