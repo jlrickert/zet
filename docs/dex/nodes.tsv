@@ -21,7 +21,7 @@
 20	2023-09-07 02:26:52Z	Pattern for managing keybindings in neovim
 21	2023-09-07 02:26:52Z	Quick fix list in neovim
 22	2023-09-07 02:26:52Z	Rust installation process annoyances
-23	2023-09-07 02:26:52Z	Node version managment with nvm
+23	2024-03-02 17:45:39Z	Node version managment with nvm
 24	2023-09-07 02:26:52Z	Example of a vm with out a garbage collect
 25	2023-09-07 02:26:52Z	Schema google thing
 26	2023-09-07 02:26:52Z	How to export postman files
@@ -82,7 +82,7 @@
 85	2023-09-07 02:26:52Z	How to install rust properly to prevent mucking with dotfiles
 86	2023-09-07 02:26:52Z	How to verify file integrity on the cli
 87	2023-09-07 02:26:52Z	Logitech G604 issues on macOS
-88	2023-09-07 02:26:52Z	My MacOS workstation setup
+88	2024-03-02 17:51:12Z	My MacOS workstation setup
 89	2023-09-07 02:26:52Z	Logitech G604 issues on macOS
 90	2023-09-07 02:26:52Z	Sanity content management system
 91	2023-09-07 02:26:52Z	How to swap caps lock on MacOS
@@ -230,7 +230,7 @@
 244	2023-09-07 02:26:52Z	WordPress block editor domain model
 245	2023-09-07 02:26:52Z	How to add a new post type in WordPress
 246	2023-09-07 02:26:52Z	Chezmoi cheatsheet
-247	2023-09-07 02:26:52Z	How to increase cursor speed on MacOSX
+247	2024-03-02 17:49:06Z	How to increase cursor speed on MacOSX
 248	2023-09-07 02:26:52Z	Keg and Case Market
 249	2023-09-07 02:26:52Z	How to convert json typescript schema
 250	2023-12-01 17:38:30Z	Types of sourdough preferments
@@ -338,7 +338,7 @@
 359	2023-09-30 17:34:14Z	Recommended regex syntax to use
 360	2023-10-01 05:09:44Z	Effecting centralized logging strategy
 361	2023-09-30 20:24:35Z	Proper way to read user input when using Go
-362	2023-12-13 18:13:20Z	Simple versioning using changesets
+362	2024-02-24 19:51:16Z	Simple versioning using changesets
 363	2023-10-02 01:29:00Z	Power lifting workout routines
 364	2023-11-02 01:53:39Z	Setup OpenSearch AWS for learning
 365	2023-11-11 02:45:05Z	How to setup email using AWS SES
@@ -401,7 +401,7 @@
 426	2023-11-26 00:08:45Z	Neuroscience on how learning occurs
 427	2023-11-26 00:08:49Z	Strategy for learning
 428	2024-01-27 20:40:38Z	Guesswork Sourdough bread
-429	2024-02-12 19:54:08Z	Tools needed to setup a npm library for typescript
+429	2024-02-12 20:12:59Z	Tools needed to setup a npm library for typescript
 430	2023-12-05 19:53:42Z	Creating KEG commands plugin in NeoVim
 431	2023-12-13 17:49:55Z	Uzbek Lepyoshki experiment
 432	2023-12-01 20:30:22Z	Recommended temperature for bread rising with active dry yeast
@@ -420,7 +420,7 @@
 445	2023-12-17 14:34:26Z	How to belay top rope at climbing gym
 446	2023-12-16 17:25:59Z	Mongo style filter example with typescript
 447	2023-12-21 22:00:59Z	Zeros shoe comparison chart
-448	2023-12-21 23:54:57Z	Stateful command tree using commander js
+448	2024-02-29 19:28:48Z	Stateful command tree using commander js
 449	2023-12-22 17:04:10Z	Professional Full Stack developer prompt for ChatGPT
 450	2023-12-30 16:23:23Z	Christmas bread bowl 2023
 451	2023-12-22 17:19:13Z	Tool and strategies for making sourdough bread
@@ -464,8 +464,18 @@
 490	2024-02-09 17:11:20Z	Biomarkers associated to centenarians
 491	2024-02-09 17:11:21Z	leostera the streamer
 492	2024-02-09 18:21:06Z	Task to help with minttea
-493	2024-02-12 17:56:09Z	System interactions in Tauri
+493	2024-02-14 17:49:39Z	System interactions in Tauri
 494	2024-02-12 19:07:28Z	Example usage of Ethereum block chain being used
 495	2024-02-12 19:47:04Z	ESM module system in Node
 496	2024-02-12 19:44:06Z	CommonJs module system in Node
-497	2024-02-12 20:12:42Z	TypeScript auto imports in neovim
+497	2024-02-12 20:12:55Z	TypeScript auto imports in neovim
+498	2024-02-13 17:18:33Z	How to programmatically upload to S3
+499	2024-02-13 17:18:25Z	How to sort an array with -1, 0, and 1 sort function
+500	2024-02-13 17:26:50Z	Mirage OS virtual library OS
+501	2024-02-13 17:29:10Z	OCaml awesome
+502	2024-02-16 23:51:02Z	Where to do research on the job market for tech jobs
+503	2024-02-21 23:17:14Z	User agent switcher
+504	2024-02-24 19:53:10Z	Reverse engineering Wagmi Github CI/CD pipeline
+505	2024-02-28 06:03:46Z	Java 16.02 bug with AMD processors
+506	2024-03-02 18:24:37Z	Node setup on MacOSX
+507	2024-03-02 18:51:07Z	Knut installation process on MacOSX

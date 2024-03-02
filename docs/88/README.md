@@ -22,12 +22,11 @@
 
 - homebrew
 
-  This is installed by running `/bin/bash -c "$(curl -fsSL
-https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+  This is installed by running `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 - Install vs code
 
-  Installing vs code is done by installing from the [website]. To be able to use `code` on the command line run `` Shell Command: Install `code` command in PATH ``. If this fails you may need to run `` Shell Command: Uninstall `code` command in PATH ``
+  Installing vs code is done by installing from the [website]. To be able to use `code` on the command line run ``Shell Command: Install `code` command in PATH``. If this fails you may need to run ``Shell Command: Uninstall `code` command in PATH``
 
 - Install [dotfiles]
 
@@ -77,7 +76,3 @@ https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - Setup notifications
 
   Use spotlight to search for _notifications_
-
-Meta:
-
-    tags: #macOS #workstation
