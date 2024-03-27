@@ -93,7 +93,7 @@
 96	2023-09-07 02:26:52Z	keg create git issue
 97	2023-09-07 02:26:52Z	Ergonomic mouse research
 99	2023-09-07 02:26:52Z	Fedora workstation setup
-100	2023-09-07 02:26:52Z	Install flutter on macOS with apple silicon
+100	2024-03-27 15:40:37Z	Install flutter on macOS with apple silicon
 101	2023-09-07 02:26:52Z	Installing software with curl
 102	2023-10-20 16:14:20Z	Using a temporary directory that require installing transient scripts
 103	2023-12-29 18:06:44Z	Tiling window management on macOS with Yabai
@@ -311,7 +311,7 @@
 330	2023-09-18 15:50:10Z	Testing in Go
 331	2024-01-27 20:39:55Z	Sourdough rye and barley pita bread
 332	2023-09-18 18:59:48Z	My Ooni Karu 12G
-333	2023-09-18 20:51:21Z	Flutter experiments
+333	2024-03-25 06:13:58Z	Flutter experiments
 334	2023-09-25 01:14:56Z	KEG website with CMS
 335	2023-09-27 23:01:04Z	AWS Access management
 336	2024-02-05 03:51:06Z	AWS Certifications
@@ -419,7 +419,7 @@
 444	2023-12-21 18:09:42Z	The science of motivation
 445	2023-12-17 14:34:26Z	How to belay top rope at climbing gym
 446	2023-12-16 17:25:59Z	Mongo style filter example with typescript
-447	2023-12-21 22:00:59Z	Zeros shoe comparison chart
+447	2024-03-05 18:04:10Z	Zeros shoe comparison chart
 448	2024-02-29 19:28:48Z	Stateful command tree using commander js
 449	2023-12-22 17:04:10Z	Professional Full Stack developer prompt for ChatGPT
 450	2023-12-30 16:23:23Z	Christmas bread bowl 2023
@@ -478,4 +478,10 @@
 504	2024-02-24 19:53:10Z	Reverse engineering Wagmi Github CI/CD pipeline
 505	2024-02-28 06:03:46Z	Java 16.02 bug with AMD processors
 506	2024-03-02 18:24:37Z	Node setup on MacOSX
-507	2024-03-02 18:51:07Z	Knut installation process on MacOSX
+507	2024-03-02 18:56:35Z	Knut installation process on MacOSX
+508	2024-03-12 21:09:36Z	Air purifiers for home research
+509	2024-03-12 21:09:33Z	Air quality in my living area research
+510	2024-03-25 05:49:08Z	Dependency injection using the Reader pattern
+511	2024-03-25 05:19:51Z	Notes about the neurological impact of music from a podcast
+512	2024-03-27 16:09:20Z	Basic setup for a React Native app with expo and pnpm monorepo
+513	2024-03-25 06:13:16Z	Add type checking to babel configuration

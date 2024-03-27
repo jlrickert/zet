@@ -29,7 +29,7 @@ npm i -g @jlrickert/knut-cli
 
 ## Setup kegs
 
-Example kegs
+Example kegs downloaded in a kegs directory
 
 ```sh
 mkdir ~/kegs
