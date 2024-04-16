@@ -1,4 +1,4 @@
-# Install flutter on macOS with apple silicon
+# Install flutter on macOSX with apple silicon
 
 Run the script to install flutter
 

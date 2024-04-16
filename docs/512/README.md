@@ -2,7 +2,8 @@
 
 This is the minimum that I found to work to get both android and the web. It should be noted that I have setup android previously for experimenting with [flutter].
 
-[flutter]: [expo-monorepo-example]: https://github.com/byCedric/expo-monorepo-example/tree/main
+[flutter]: 100
+[expo-monorepo-example]: https://github.com/byCedric/expo-monorepo-example/tree/main
 
 Here are the requirements:
 
@@ -14,6 +15,8 @@ Based on the learnings from [expo-monorepo-example]. Here is what I learned from
 
 - had to uncomment `config.resolver.disableHierarchicalLookup = true;` in `metro.config.js`. Having this enabled caused
 - only supports commonjs
+
+## Development environment
 
 Key files required for a dev environment:
 
@@ -202,3 +205,17 @@ Key files required for a dev environment:
     },
   }
   ```
+
+## Testing setup
+
+- https://docs.expo.dev/develop/unit-testing/
+
+```
+pnpm add -D jest jest-expo @testing-library/react-native @types/jest
+npx expo install jest-expo jest
+```
+
+## See also
+
+- [Install flutter on macOSX](100)
+- [Flutter experiments](333)

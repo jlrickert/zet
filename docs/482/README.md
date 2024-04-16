@@ -16,7 +16,7 @@ Total weight is roughly 750g.
 
 - 2024-02-02 14:19 autolyse
 - 2024-02-02 14:48 Mixed
-- 2024-02-01 00:30 Placed into fridge
+- 2024-02-03 00:30 Placed into fridge
 - 2024-02-03 16:00 Baked
 
   Baked at 500f for 18 minutes with the lid on and another 20m with the lid off. I put the dutch oven on top of the square cast iron skillet.
