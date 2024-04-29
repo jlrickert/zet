@@ -31,7 +31,7 @@
 30	2023-09-07 02:26:52Z	World of warcraft dragonflight season 1
 31	2023-09-07 02:26:52Z	Halls of Valor dungeon
 32	2023-09-07 02:26:52Z	World of warcraft court of stars dungen
-33	2023-09-07 02:26:52Z	Bash scripting tricks
+33	2024-04-17 14:34:21Z	Bash scripting tricks
 34	2024-02-03 22:16:33Z	Recommend language sever to use for golang development
 35	2023-09-07 02:26:52Z	Key things that make neovim as an ide
 37	2023-09-07 02:26:52Z	File type specific settings in neovim
@@ -94,15 +94,15 @@
 97	2023-09-07 02:26:52Z	Ergonomic mouse research
 99	2023-09-07 02:26:52Z	Fedora workstation setup
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
-101	2023-09-07 02:26:52Z	Installing software with curl
+101	2024-04-22 18:01:49Z	Installing software with curl
 102	2023-10-20 16:14:20Z	Using a temporary directory that require installing transient scripts
 103	2023-12-29 18:06:44Z	Tiling window management on macOS with Yabai
 104	2023-09-07 02:26:52Z	Overview of macOS tools and software
-105	2023-09-07 02:26:52Z	Concrete 5
+105	2024-04-17 16:08:35Z	Concrete 5
 106	2023-09-07 02:26:52Z	How to install lando on MacOS
 107	2023-09-07 02:26:52Z	Date standards
 108	2023-09-07 02:26:52Z	Wowhead diablo 4 class ranking comparison
-109	2023-09-07 02:26:52Z	MacOS vs Linux difference
+109	2024-04-16 21:44:10Z	MacOS vs Linux difference
 110	2023-09-07 02:26:52Z	My personal PHP style guide
 111	2023-09-07 02:26:52Z	My personal Bash style guide
 112	2023-09-07 02:26:52Z	My personal typescript style guide
@@ -137,7 +137,7 @@
 141	2023-09-07 02:26:52Z	Task to fix keybinding issues between MacOS and ranger
 142	2023-09-07 02:26:52Z	How to effectively use cp
 143	2023-09-07 02:26:52Z	M23SS brewery event at Blackstack Brewing
-144	2023-09-07 02:26:52Z	Minneapolis 20s 30s something social meetup group
+144	2024-04-23 16:00:28Z	Minneapolis 20s 30s something social meetup group
 147	2023-09-07 02:26:52Z	Where to get started when design a system
 148	2023-10-19 05:03:36Z	Domain model for yabai
 149	2023-09-07 02:26:52Z	Useful WordPress plugins
@@ -151,7 +151,7 @@
 157	2023-09-07 02:26:52Z	Overview of themes in WordPress
 158	2023-09-07 02:26:52Z	Thinking about a Zettelkasten organization as a form a taxonomy
 159	2024-01-08 22:47:40Z	Full list of operating systems that ansible is able to detect
-160	2023-09-07 02:26:52Z	How to install homebrew on a MacOS
+160	2024-04-16 21:44:38Z	How to install homebrew on a MacOS
 161	2023-09-07 02:26:52Z	How to benchmark zsh
 162	2023-09-07 02:26:52Z	Look into the fidget rewrite issue
 163	2024-04-16 21:07:01Z	How to manage ssh keys
@@ -262,7 +262,7 @@
 276	2023-09-07 02:26:52Z	Ranger alternatives
 277	2023-09-07 02:26:52Z	AwesomeWM Terminology
 278	2023-09-07 02:26:52Z	How to replace a missing MN license plate
-279	2023-09-07 02:26:52Z	Vim, tmux and ssh copy and paste madness
+279	2024-04-16 21:46:07Z	Vim, tmux and ssh copy and paste madness
 280	2023-09-07 02:26:52Z	Git techniques and cheatsheet
 281	2023-09-07 02:26:52Z	Personal dotfiles
 282	2023-10-17 14:58:42Z	Github CLI tips and tricks
@@ -474,7 +474,7 @@
 500	2024-02-13 17:26:50Z	Mirage OS virtual library OS
 501	2024-02-13 17:29:10Z	OCaml awesome
 502	2024-02-16 23:51:02Z	Where to do research on the job market for tech jobs
-503	2024-02-21 23:17:14Z	User agent switcher
+503	2024-04-17 18:46:00Z	User agent switcher
 504	2024-02-24 19:53:10Z	Reverse engineering Wagmi Github CI/CD pipeline
 505	2024-02-28 06:03:46Z	Java 16.02 bug with AMD processors
 506	2024-03-02 18:24:37Z	Node setup on MacOSX
@@ -484,7 +484,7 @@
 510	2024-03-25 05:49:08Z	Dependency injection using the Reader pattern
 511	2024-03-25 05:19:51Z	Notes about the neurological impact of music from a podcast
 512	2024-03-28 18:37:28Z	Basic setup for a React Native app with expo and pnpm monorepo
-513	2024-03-25 06:13:16Z	Add type checking to babel configuration
+513	2024-04-29 22:05:50Z	Add type checking to babel configuration
 514	2024-04-13 18:57:14Z	A better zustand store
 515	2024-03-27 18:16:22Z	Minnebar 18 details
 516	2024-03-28 19:33:00Z	React native design concepts
@@ -501,3 +501,10 @@
 527	2024-04-14 15:22:40Z	Mill city running group
 528	2024-04-15 22:19:03Z	Sourdough batard with purple prairie barley
 529	2024-04-15 19:36:37Z	Monday April 15 2024 daily entry
+530	2024-04-16 21:54:09Z	My tmux setup
+531	2024-04-18 16:32:12Z	How do document php code
+532	2024-04-26 21:00:11Z	Manage virtual machines with QEMU
+533	2024-04-23 17:01:39Z	Nodejs ecosystem support on freebsd
+534	2024-04-26 21:00:32Z	Database data management for MySQL with Navicat
+535	2024-04-27 16:38:35Z	How to mount a sambda drive on macosx CLI
+536	2024-04-29 22:05:58Z	Tips for adding TypeScript to legacy JavaScript code bases

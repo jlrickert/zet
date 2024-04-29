@@ -11,8 +11,8 @@ Here are the follow options that I pass in:
 
 - `-s` or `--silent`.
 - `-S` or `--show-error`
-- `-f` or `--fail`.  This attempts to return an error code depending on the http code.
-- `-l` or `--location`.  Re-attempts downloading if 3XX code is give with the new location.
+- `-f` or `--fail`. This attempts to return an error code depending on the http code.
+- `-l` or `--location`. Re-attempts downloading if 3XX code is give with the new location.
 
 This script will create a temporary directory and place the downloaded file in it. To unpack here a couple patterns that may be run.
 
@@ -25,7 +25,3 @@ tar xf package_macos_arm64_3.10.2-stable.tar.xz
 ```
 
 - [ ] TODO: figure out the tar equivalent of `unzip -d`
-
-Meta:
-
-    tags: #programming #todo

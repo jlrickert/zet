@@ -1,6 +1,6 @@
 # How to install homebrew on a MacOS
 
-Xcode needs to be setup.  Run the following if you have not already.
+Xcode needs to be setup. Run the following if you have not already.
 
 ```
 xcode-select --install
