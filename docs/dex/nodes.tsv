@@ -90,7 +90,7 @@
 93	2023-09-07 02:26:52Z	Installing patched power line fonts for MacOS
 94	2023-09-07 02:26:52Z	fzf setup and usage
 95	2023-09-07 02:26:52Z	How to set path variables on MacOS
-96	2023-09-07 02:26:52Z	keg create git issue
+96	2024-05-03 22:52:44Z	keg create git issue
 97	2023-09-07 02:26:52Z	Ergonomic mouse research
 99	2023-09-07 02:26:52Z	Fedora workstation setup
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
@@ -117,7 +117,7 @@
 121	2023-09-07 02:26:52Z	Necromancer leveling build on Diablo 4
 122	2023-09-07 02:26:52Z	My vim setup
 123	2023-09-07 02:26:52Z	Problems with Linux as a workstation
-124	2023-09-07 02:26:52Z	Sync a directory with rsync
+124	2024-05-03 01:36:30Z	Sync a directory with rsync
 125	2023-09-07 02:26:52Z	Programmatic bash completions
 126	2023-09-21 19:01:07Z	Golang development loop with multi repos
 127	2023-09-07 02:26:52Z	A quick to making a module in golang
@@ -127,7 +127,7 @@
 131	2023-09-07 02:26:52Z	WordPress development key concepts
 132	2023-09-07 02:26:52Z	How to get started developing themes and plugins with WordPress
 133	2023-09-27 03:06:21Z	How do you fingerprint the OS with bash
-134	2023-09-07 02:26:52Z	Recommended php language server to use
+134	2024-05-01 14:50:49Z	Recommended php language server to use
 135	2023-09-07 02:26:52Z	Task to figure out how to make scrolling faster on MacOS
 136	2023-09-07 02:26:52Z	How to setup VSCode for PHP and WordPress development
 137	2023-09-07 02:26:52Z	Como Park Zoo and Conservatory in St Paul Minnesota
@@ -154,7 +154,7 @@
 160	2024-04-16 21:44:38Z	How to install homebrew on a MacOS
 161	2023-09-07 02:26:52Z	How to benchmark zsh
 162	2023-09-07 02:26:52Z	Look into the fidget rewrite issue
-163	2024-04-16 21:07:01Z	How to manage ssh keys
+163	2024-05-03 01:36:32Z	How to manage ssh keys
 164	2023-09-07 02:26:52Z	How to get started with the redfin api
 166	2023-09-07 02:26:52Z	The service userzoom for doing UX research
 167	2023-09-07 02:26:52Z	Overview of the sales CMS Zendesk
@@ -262,7 +262,7 @@
 276	2023-09-07 02:26:52Z	Ranger alternatives
 277	2023-09-07 02:26:52Z	AwesomeWM Terminology
 278	2023-09-07 02:26:52Z	How to replace a missing MN license plate
-279	2024-04-16 21:46:07Z	Vim, tmux and ssh copy and paste madness
+279	2024-05-03 01:36:40Z	Vim, tmux and ssh copy and paste madness
 280	2023-09-07 02:26:52Z	Git techniques and cheatsheet
 281	2023-09-07 02:26:52Z	Personal dotfiles
 282	2023-10-17 14:58:42Z	Github CLI tips and tricks
@@ -502,9 +502,12 @@
 528	2024-04-15 22:19:03Z	Sourdough batard with purple prairie barley
 529	2024-04-15 19:36:37Z	Monday April 15 2024 daily entry
 530	2024-04-16 21:54:09Z	My tmux setup
-531	2024-04-18 16:32:12Z	How do document php code
+531	2024-05-01 16:23:17Z	How do document php code
 532	2024-04-26 21:00:11Z	Manage virtual machines with QEMU
 533	2024-04-23 17:01:39Z	Nodejs ecosystem support on freebsd
 534	2024-04-26 21:00:32Z	Database data management for MySQL with Navicat
 535	2024-04-27 16:38:35Z	How to mount a sambda drive on macosx CLI
-536	2024-04-29 22:05:58Z	Tips for adding TypeScript to legacy JavaScript code bases
+536	2024-04-30 18:48:32Z	Tips for adding TypeScript to legacy JavaScript code bases
+537	2024-05-03 01:36:37Z	How to setup fira code fonts on windows
+538	2024-05-03 22:51:55Z	CSS selectors and combinators
+539	2024-05-04 01:19:29Z	Cross compatibility with Windows Explorer zip files

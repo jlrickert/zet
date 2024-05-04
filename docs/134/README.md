@@ -1,9 +1,6 @@
 # Recommended php language server to use
 
-The 3 choices of language servers for PHP are as follows:
-[intelephense], [phpactor], [psalm], and [devsense]. Neovim has the
-option of running all but [devsense]. VSCode really only has 2 choices,
-[intelephense] and [devsense].
+The 3 choices of language servers for PHP are as follows: [intelephense], [phpactor], [psalm], and [devsense]. Neovim has the option of running all but [devsense]. VSCode really only has 2 choices, [intelephense] and [devsense].
 
 Intelephense is not open source. The o
 
@@ -15,8 +12,7 @@ Intelephense is not open source. The o
 | [devsense]     | no          |                                             |
 |                |             | Deprecated. Can't remember name. Don't care |
 
-I found the available php servers from the mason [lspconfig] extension's
-list of available servers.
+I found the available php servers from the mason [lspconfig] extension's list of available servers.
 
 Visual studio has another popular plugin simply named _PHP_ from [devsense]
 
@@ -45,8 +41,7 @@ Comparison
 | go to declaration       |       |          | paid         |
 | code actions            |       |          | paid         |
 
-For WordPress stuff use WordPress snippet
-PHP Debug
+For WordPress stuff use WordPress snippet PHP Debug
 
 [phpactor]: https://phpactor.readthedocs.io/en/master/
 [psalm]: https://psalm.dev/

@@ -21,7 +21,3 @@ Here is a working example that I have found
 - Windows terminal also works
 
 ssh config may be added
-
-## Meta
-
-    tags: #wsl #bash #ops

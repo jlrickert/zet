@@ -37,6 +37,8 @@ To enable enable logging into a system using your ssh key use `ssh-copy-id`. Her
 ssh-copy-id -i ~/.ss~/.ssh/id_ed25519_your_key terra.local
 ```
 
-Meta:
+How to add an arbitrary key to a remote server:
 
-    #cli #devops
+```bash
+cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+```

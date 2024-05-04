@@ -8,10 +8,7 @@ error: please commit or stash them.
 No remote repo has been setup. First create it and git push to it.
 ```
 
-When `keg edit` or `keg create` is called the keg indexes are updated
-and a few git commands are run.
-From the code base of keg these git commands invoked from `keg
-edit` or `keg create`.
+When `keg edit` or `keg create` is called the keg indexes are updated and a few git commands are run. From the code base of keg these git commands invoked from `keg edit` or `keg create`.
 
 The following git commands are run after a new is created and the dex is updated.
 
