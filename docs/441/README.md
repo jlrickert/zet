@@ -21,8 +21,8 @@ This is my third Uzbek Lepyoshki that I made. It is largely based on the [recipe
 - [x] Mixed starter at 10:30am
 - [x] Mixed ingredients at 2:30pm
 - [x] Shaped at 4:30pm
-- [ ] Baked for 40 minutes at 375f at 5:00pm
-- [ ] Pulled out of oven at 5:40pm
+- [x] Baked for 40 minutes at 375f at 5:00pm
+- [x] Pulled out of oven at 5:40pm
 
 ## See also
 

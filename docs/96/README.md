@@ -21,8 +21,4 @@ The `-C` option is the working directory to use. `kegpath` is the git directory.
 
 ## Solution
 
-`rebase` is set to true in `.git/config`. This needs to be removed.
-
-Meta:
-
-    #issue #solved
+`rebase` is set to true in `.git/config`. This needs to be set to `false`.

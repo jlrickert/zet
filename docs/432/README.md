@@ -3,8 +3,7 @@
 ## Protocols
 
 - Light on in the oven to maintain temperature
-- Use the microwave as a proofer. Boil water in the microwave and swap with the
-  bread. Tricky but works.
+- Use the microwave as a proofer. Boil water in the microwave and swap with the bread. Tricky but works.
 
 ## Sources
 
@@ -27,18 +26,12 @@ Key utility from a [proofing box]:
 Key facts from [ruuvi]:
 
 - 72 - 77 for most doughs
-- balance between to hot and too cold depending on the bread. Too hot the yeast
-  develops before the gluten. Too cold and the gluten over develops.
+- balance between to hot and too cold depending on the bread. Too hot the yeast develops before the gluten. Too cold and the gluten over develops.
 
 Ideal dough temperature is 75-78 from [kingarthurbaking].
 
-[bobsredmill]:
-  https://www.bobsredmill.com/blog/baking-101/what-temperature-kills-yeast/
-[tastofhome]:
-  https://www.tasteofhome.com/article/how-to-proof-bread-when-its-cold-outside-and-inside/
-[proofing box]:
-  https://www.surlatable.com/folding-proofer-slow-cooker/PRO-3318300.html
-[ruuvi]:
-  https://ruuvi.com/baking/#:~:text=The%20optimum%20rising%20temperature%20for,have%20enough%20time%20to%20develop.
-[kingarthurbaking]:
-  https://www.kingarthurbaking.com/blog/2018/05/29/desired-dough-temperature
+[bobsredmill]: https://www.bobsredmill.com/blog/baking-101/what-temperature-kills-yeast/
+[tastofhome]: https://www.tasteofhome.com/article/how-to-proof-bread-when-its-cold-outside-and-inside/
+[proofing box]: https://www.surlatable.com/folding-proofer-slow-cooker/PRO-3318300.html
+[ruuvi]: https://ruuvi.com/baking/#:~:text=The%20optimum%20rising%20temperature%20for,have%20enough%20time%20to%20develop.
+[kingarthurbaking]: https://www.kingarthurbaking.com/blog/2018/05/29/desired-dough-temperature
