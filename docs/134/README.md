@@ -1,4 +1,4 @@
-# Recommended php language server to use
+# Recommended PHP language server to use
 
 The 3 choices of language servers for PHP are as follows: [intelephense], [phpactor], [psalm], and [devsense]. Neovim has the option of running all but [devsense]. VSCode really only has 2 choices, [intelephense] and [devsense].
 

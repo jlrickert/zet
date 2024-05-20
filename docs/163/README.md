@@ -34,7 +34,7 @@ for i in $(sshkey list); do ssh-add --apple-use-keychain "$HOME/.ssh/$i"; done
 To enable enable logging into a system using your ssh key use `ssh-copy-id`. Here is an example
 
 ```bash
-ssh-copy-id -i ~/.ss~/.ssh/id_ed25519_your_key terra.local
+ssh-copy-id -i ~/.ssh/id_ed25519_your_key terra.local
 ```
 
 How to add an arbitrary key to a remote server:

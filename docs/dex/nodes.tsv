@@ -117,7 +117,7 @@
 121	2023-09-07 02:26:52Z	Necromancer leveling build on Diablo 4
 122	2023-09-07 02:26:52Z	My vim setup
 123	2023-09-07 02:26:52Z	Problems with Linux as a workstation
-124	2024-05-03 01:36:30Z	Sync a directory with rsync
+124	2024-05-15 21:58:49Z	Sync a directory with rsync
 125	2023-09-07 02:26:52Z	Programmatic bash completions
 126	2023-09-21 19:01:07Z	Golang development loop with multi repos
 127	2023-09-07 02:26:52Z	A quick to making a module in golang
@@ -127,7 +127,7 @@
 131	2023-09-07 02:26:52Z	WordPress development key concepts
 132	2023-09-07 02:26:52Z	How to get started developing themes and plugins with WordPress
 133	2023-09-27 03:06:21Z	How do you fingerprint the OS with bash
-134	2024-05-01 14:50:49Z	Recommended php language server to use
+134	2024-05-18 19:54:01Z	Recommended PHP language server to use
 135	2023-09-07 02:26:52Z	Task to figure out how to make scrolling faster on MacOS
 136	2023-09-07 02:26:52Z	How to setup VSCode for PHP and WordPress development
 137	2023-09-07 02:26:52Z	Como Park Zoo and Conservatory in St Paul Minnesota
@@ -152,9 +152,9 @@
 158	2023-09-07 02:26:52Z	Thinking about a Zettelkasten organization as a form a taxonomy
 159	2024-01-08 22:47:40Z	Full list of operating systems that ansible is able to detect
 160	2024-04-16 21:44:38Z	How to install homebrew on a MacOS
-161	2023-09-07 02:26:52Z	How to benchmark zsh
+161	2024-05-19 04:17:02Z	How to benchmark zsh
 162	2023-09-07 02:26:52Z	Look into the fidget rewrite issue
-163	2024-05-08 14:11:10Z	How to manage ssh keys
+163	2024-05-16 21:18:38Z	How to manage ssh keys
 164	2023-09-07 02:26:52Z	How to get started with the redfin api
 166	2023-09-07 02:26:52Z	The service userzoom for doing UX research
 167	2023-09-07 02:26:52Z	Overview of the sales CMS Zendesk
@@ -173,7 +173,7 @@
 182	2023-09-07 02:26:52Z	What is platform requirements
 183	2023-09-07 02:26:52Z	WordPress hosting on GoDaddy
 184	2023-09-07 02:26:52Z	WordPress hosting on WP Engine
-185	2023-09-07 02:26:52Z	Managing styles for block theme in WordPress
+185	2024-05-19 19:16:23Z	Managing styles for block theme in WordPress
 186	2023-09-07 02:26:52Z	How to include CSS in a block theme for WordPress
 187	2023-09-07 02:26:52Z	How to use `PostCSS` and `autoprefixer` in WordPress
 188	2023-09-07 02:26:52Z	Mental health disability anomia
@@ -204,7 +204,7 @@
 214	2023-09-11 03:24:05Z	Brewery Bahaus Brew Labs
 215	2024-05-14 02:28:04Z	Flexbox CSS attributes
 216	2023-09-07 02:26:52Z	How to load custom CSS for a WordPress block
-217	2023-09-07 02:26:52Z	How to build a generic accordion in WordPress
+217	2024-05-20 17:35:21Z	How to build a generic accordion in WordPress
 219	2023-09-07 02:26:52Z	How to configure the editor in WordPress
 220	2023-09-07 02:26:52Z	How to grab a specific item in a tar file
 221	2023-09-07 02:26:52Z	How I use chezmoi to manage my dot files
@@ -239,7 +239,7 @@
 253	2023-09-29 02:37:22Z	Docker compose service cli interactions
 254	2023-09-07 02:26:52Z	CSS grid attributes and cheatsheet
 255	2023-09-07 02:26:52Z	Introductory material for statistics
-256	2023-09-07 02:26:52Z	Recommended image types to use on the web
+256	2024-05-15 19:47:32Z	Recommended image types to use on the web
 257	2023-09-07 02:26:52Z	Article about how PostCSS is an alternatie to SCSS
 258	2023-09-07 02:26:52Z	Managing encrypted data with ssh keys
 259	2023-09-07 02:26:52Z	Automatically rerunning commands with `entr`
@@ -433,7 +433,7 @@
 458	2023-12-30 23:41:04Z	How to shape a batard
 459	2023-12-30 17:16:12Z	How to make good sourdough bread
 460	2024-01-08 04:14:37Z	.Net core setup for MacOSX and neovim
-461	2024-01-10 18:54:15Z	Snippets in neovim
+461	2024-05-18 20:41:58Z	Snippets in neovim
 462	2024-01-17 20:42:34Z	Sourdough batard
 463	2024-01-10 23:21:43Z	Bartender tips
 464	2024-01-10 23:39:31Z	Drink mixing tools and strategies
@@ -453,8 +453,8 @@
 479	2024-01-21 13:25:17Z	Material to learn functional programming
 480	2024-01-21 20:37:20Z	How to sort an array with -1, 0, and 1 sort function
 481	2024-01-27 21:24:29Z	Moving over to a different way to handle my public KEG
-482	2024-04-15 19:34:21Z	Sourdough bread batard February 02 2024
-483	2024-02-05 05:16:20Z	Vexilla is using tailblocks
+482	2024-05-19 19:20:43Z	Sourdough bread batard February 02 2024
+483	2024-05-18 23:46:17Z	Vexilla is using tailblocks
 484	2024-02-05 05:15:32Z	Rock paper scissors game
 485	2024-02-05 21:03:46Z	Plugin architecture of vscode
 486	2024-02-05 19:17:49Z	SVG security in public extensions for VSCode
@@ -505,7 +505,7 @@
 531	2024-05-01 16:23:17Z	How do document php code
 532	2024-04-26 21:00:11Z	Manage virtual machines with QEMU
 533	2024-04-23 17:01:39Z	Nodejs ecosystem support on freebsd
-534	2024-04-26 21:00:32Z	Database data management for MySQL with Navicat
+534	2024-05-17 19:42:00Z	Database data management for MySQL with Navicat
 535	2024-04-27 16:38:35Z	How to mount a sambda drive on macosx CLI
 536	2024-04-30 18:48:32Z	Tips for adding TypeScript to legacy JavaScript code bases
 537	2024-05-03 01:36:37Z	How to setup fira code fonts on windows
@@ -517,4 +517,16 @@
 543	2024-05-09 20:09:38Z	PHP awesome list
 544	2024-05-09 20:11:52Z	Git gutter issues in Phpstorm based editor when using SMB protocol
 545	2024-05-10 15:18:01Z	How to swap caps lock on windows
-546	2024-05-10 15:20:30Z	My preferred intellij settings
+546	2024-05-15 16:43:35Z	My preferred intellij settings
+547	2024-05-15 21:50:13Z	CSS image sizing strategies
+548	2024-05-16 18:01:07Z	`nmap` installation on macOSX
+549	2024-05-18 15:31:14Z	MariaDB SQL cheat sheet
+550	2024-05-20 01:38:36Z	First exploration into Nix
+551	2024-05-18 17:07:29Z	Managing neovim versions with brew
+552	2024-05-18 17:56:41Z	Managing disks on MacOS
+553	2024-05-18 23:13:42Z	In search of a configuration and data exchange language
+554	2024-05-18 19:20:13Z	Known standards
+555	2024-05-18 23:13:30Z	GitHub action using nix
+556	2024-05-18 23:46:58Z	Git clients
+557	2024-05-18 23:46:12Z	cmgrifing the streamer
+558	2024-05-20 19:56:30Z	Basic sourdough batard

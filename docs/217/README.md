@@ -1,7 +1,6 @@
 # How to build a generic accordion in WordPress
 
-Details on how to build an accessible accordion may be found on
-[aditus]. [GitHub] example of a list. This might be the closes thing that
+Details on how to build an accessible accordion may be found on [aditus]. [GitHub] example of a list. This might be the closes thing that
 
 Here is what a WordPress
 
@@ -26,7 +25,3 @@ Accordion item block
 
 [aditus]: https://www.aditus.io/patterns/accordion/
 [github]: https://github.com/WordPress/gutenberg/tree/b23e049459dcab00bb65e505a4b42c3904f81144/packages/block-library/src/list
-
-Meta:
-
-    tags: #webdev #wordpress

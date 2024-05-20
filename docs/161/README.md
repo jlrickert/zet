@@ -3,5 +3,3 @@
 ```bash
 time zsh -i -c exit
 ```
-
-    tags: #cli #zsh

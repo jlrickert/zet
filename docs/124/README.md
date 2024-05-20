@@ -1,5 +1,10 @@
 # Sync a directory with rsync
 
+Here is some terminology
+
+- sync:: make directory _a_ look like directory _b_.
+- overwrite: make contents of _a_ write over contents of _b_.
+
 Here is the command in question
 
 ```bash

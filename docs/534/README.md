@@ -15,10 +15,12 @@ WARNING!!! Make sure you don't overwrite the wrong target.
 
 ## Backing up data
 
-Right click the database you want to back up and select Dump SQL File. Save to some file.
+There are 2 methods that Navicat gives you. One is through an SQL dump, and the other is Backup feature part of Navicat.
 
-To restore a backup you need to do the thing.
+- SQL Method
 
-[ ] TODO: What does _"do the thing"_ mean
+  The SQL dump is more compatible. To make right click the database you want to back up and select Dump SQL File. Save to some file. This can then be used to restore. Something to note: freakin slow to restore. Like hours.
 
-- [ ] TODO: Holy crap slow
+- Navicat Backup
+
+  The other method is the Backup features. This makes a backup on you local machine. To backup do the thing.
