@@ -1,9 +1,6 @@
 # Mongo style filter example with typescript
 
-Here is an example pulled straight from
-[Mongo git repo](https://github.com/mongodb/node-mongodb-native) itself found in
-the file**src/mongo_types.ts**. The only modification is the removal of the
-**bson** types and **WithId**.
+Here is an example pulled straight from [Mongo git repo](https://github.com/mongodb/node-mongodb-native) itself found in the file**src/mongo_types.ts**. The only modification is the removal of the **bson** types and **WithId**.
 
 ```ts
 export type Filter<TSchema> = {
@@ -16,9 +13,8 @@ export type Condition<T> =
 
 export type RegExpOrString<T> = T extends string ? RegExp | T : T;
 
-export type AlternativeType<T> = T extends ReadonlyArray<infer U>
-  ? T | RegExpOrString<U>
-  : RegExpOrString<T>;
+export type AlternativeType<T> =
+  T extends ReadonlyArray<infer U> ? T | RegExpOrString<U> : RegExpOrString<T>;
 
 export type FilterOperators<TValue> = {
   // Comparison
@@ -78,7 +74,3 @@ export type RootFilterOperators<TSchema> = {
   $comment?: string | Document;
 };
 ```
-
-## Meta
-
-    tags: #typescript

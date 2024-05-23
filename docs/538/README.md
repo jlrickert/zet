@@ -4,11 +4,11 @@ Selectors are the thing that tells when nodes to grab and apply styles too.
 
 Separators:
 
-- descendant:: `<SPACE>`
-- child:: `>`
-- subsequent:: `~`
-- grouping:: `,`
-- siblings:: `+`
+- descendant: `<SPACE>`
+- child: `>`
+- subsequent: `~`
+- grouping: `,`
+- siblings: `+`
 
   Groups multiple selectors to apply styles too.
 

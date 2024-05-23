@@ -1,11 +1,8 @@
 # How to setup automated change logs with github actions
 
-This is still a proof of concept. On issue with this method is that the bot
-likes to commit to the main branch. For small projects this adds extra
-complexity as you have to deal with the merging with a remote repo.
+This is still a proof of concept. On issue with this method is that the bot likes to commit to the main branch. For small projects this adds extra complexity as you have to deal with the merging with a remote repo.
 
-There are 2 ways that I have found. One is with `semantic release` and the other
-is with `commitlint`. `commitlint` seems to have the
+There are 2 ways that I have found. One is with `semantic release` and the other is with `commitlint`. `commitlint` seems to have the
 
 Install the required packages
 
@@ -49,8 +46,7 @@ Add the following semantic release configuration to `.releaserc.json`
 }
 ```
 
-Github action. Add the following contents to the file
-`.github/workflows/release.yml`
+Github action. Add the following contents to the file `.github/workflows/release.yml`
 
 ```yaml
 name: Release
@@ -85,9 +81,7 @@ jobs:
         run: npm install --global pnpm
       - name: Install dependencies
         run: pnpm install
-      - name:
-          Verify the integrity of provenance attestations and registry
-          signatures for installed dependencies
+      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
         run: pnpm audit signatures
       - name: Release
         env:
@@ -98,4 +92,4 @@ jobs:
 
 ## See also
 
-- [Changelog automation](../381)
+- [Changelog automation in python](../381)

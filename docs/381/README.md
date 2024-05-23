@@ -1,6 +1,6 @@
 # Releasing software with python
 
-This whay I define as a release
+This why I define as a release
 
 - An updated changed log with changes based on conventional commits
 - The version bumped to the semvar version where appropriate
@@ -8,8 +8,7 @@ This whay I define as a release
 - typically the main repo will be set the the latest semvar repository
 - the new tag branch should have its packages deployed where ever
 
-CHANGELOG is the file that tells you what has changed for each version number
-based conventional commits.
+CHANGELOG is the file that tells you what has changed for each version number based conventional commits.
 
 The tools that I am using is pre-commit and poetry
 

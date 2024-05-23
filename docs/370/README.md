@@ -24,5 +24,3 @@ do {
   }
 } while (middleware);
 ```
-
-    tags: #typescript #webdev
