@@ -11,9 +11,11 @@ chmod  0600 ~/.ssh/id_ed25519
 chmod  0644 ~/.ssh/id_ed25519.pub
 ```
 
+The `id_ed25519` gets used by default if required (may be incorrect)
+
 Key types:
 
-- ed25519
+- ed25519 (recommended)
 - rsa
 
 ```bash
@@ -31,14 +33,16 @@ ssh-add --apple-use-keychain ~/.ssh/id_ed25519_your_key
 for i in $(sshkey list); do ssh-add --apple-use-keychain "$HOME/.ssh/$i"; done
 ```
 
+On windows run `ssh-agent`
+
 To enable enable logging into a system using your ssh key use `ssh-copy-id`. Here is an example
 
 ```bash
-ssh-copy-id -i ~/.ssh/id_ed25519_your_key terra.local
+ssh-copy-id -i ~/.ssh/id_ed25519_your_key user@remote.com
 ```
 
 How to add an arbitrary key to a remote server:
 
 ```bash
-cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+cat ~/.ssh/id_ed25519.pub | ssh username@remote_host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
 ```
