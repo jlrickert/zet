@@ -1,9 +1,6 @@
 # How do you fingerprint the OS with bash
 
-Being able to detect what environment is problem that comes up often. It is a
-requirement when writing install scripts that need to support multiple
-environments. Some environments include: MacOS, Debian, Ubuntu, Arch, Windows,
-WSL 1, WSL 2, and different CI/CD environments.
+Being able to detect what environment is problem that comes up often. It is a requirement when writing install scripts that need to support multiple environments. Some environments include: MacOS, Debian, Ubuntu, Arch, Windows, WSL 1, WSL 2, and different CI/CD environments.
 
 - Detect if running in WSL
 
@@ -23,6 +20,14 @@ WSL 1, WSL 2, and different CI/CD environments.
   fi
   ```
 
-Meta
+- Detect Linux distribution being used
 
-      tags: #bash #cli
+  ```bash
+  NAME="$(cat /etc/*-release | grep "ID" | awk -F'=' '{print $2}'})"
+  case $NAME in
+  'fedora') ;;
+  'debian') ;;
+  'ubuntu') ;;
+  'arch') ;;
+  esac
+  ```
