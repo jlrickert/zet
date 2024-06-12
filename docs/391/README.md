@@ -2,6 +2,7 @@
 
 AWS provides a bunch of services for managing infrastructure.
 
+- [CloudFront](../587)
 - [API Gateway](../396)
 - [SQS](../392)
 - [SNS](../393)

@@ -8,9 +8,13 @@ Install core DNS for an authoritative DNS
 
 ## Log
 
-- add user `jlrickert` and add to `wheel` group
+- `pkg update && pkg install curl fzf git nvim ripgrep starship sudo rsync wget zellij zsh`
+- Interactively add user with `adduser`
+
+  Set shell to zsh and add wheel user
+
+- setup sudo with `visudo`. Allow `wheel` group
 - sudo ntpdate -v -b in.pool.ntp.org
-- `pkg install curl fzf git nvim ripgrep starship rsync wget zellij zsh`
 - `sudo /etc/periodic/weekly/310.locate`
 - Install oh my zsh
 

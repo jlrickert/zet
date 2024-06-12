@@ -36,7 +36,9 @@ for i in $(sshkey list); do ssh-add --apple-use-keychain "$HOME/.ssh/$i"; done
 
 On windows run `ssh-agent`
 
-To enable enable logging into a system using your ssh key use `ssh-copy-id`. Here is an example
+To enable enable logging into a system using your ssh key use `ssh-copy-id`. This is if you already haves access. Here is an example
+
+## Gaining access
 
 ```bash
 ssh-copy-id -i ~/.ssh/id_ed25519_your_key user@remote.com

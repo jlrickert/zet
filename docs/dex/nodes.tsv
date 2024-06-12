@@ -21,7 +21,7 @@
 20	2023-09-07 02:26:52Z	Pattern for managing keybindings in neovim
 21	2023-09-07 02:26:52Z	Quick fix list in neovim
 22	2023-09-07 02:26:52Z	Rust installation process annoyances
-23	2024-03-02 17:45:39Z	Node version managment with nvm
+23	2024-06-09 17:13:01Z	Node version management with nvm
 24	2023-09-07 02:26:52Z	Example of a vm with out a garbage collect
 25	2023-09-07 02:26:52Z	Schema google thing
 26	2023-09-07 02:26:52Z	How to export postman files
@@ -87,7 +87,7 @@
 90	2023-09-07 02:26:52Z	Sanity content management system
 91	2024-05-13 19:12:23Z	How to swap caps lock on MacOS
 92	2023-09-07 02:26:52Z	Must have plugins for google chrome
-93	2023-09-07 02:26:52Z	Installing patched power line fonts for MacOS
+93	2024-06-11 19:38:17Z	Installing patched power line fonts for MacOS
 94	2023-09-07 02:26:52Z	fzf setup and usage
 95	2023-09-07 02:26:52Z	How to set path variables on MacOS
 96	2024-05-04 20:28:50Z	keg create git issue
@@ -149,12 +149,12 @@
 155	2023-09-07 02:26:52Z	Overview of a block theme in WordPress
 156	2023-09-07 02:26:52Z	Overview of the block editor in WordPress
 157	2023-09-07 02:26:52Z	Overview of themes in WordPress
-158	2023-09-07 02:26:52Z	Thinking about a Zettelkasten organization as a form a taxonomy
+158	2024-06-08 22:54:42Z	Thinking about a Zettelkasten organization as a form a taxonomy
 159	2024-06-07 03:53:05Z	Full list of operating systems that ansible is able to detect
 160	2024-04-16 21:44:38Z	How to install homebrew on a MacOS
 161	2024-05-19 04:17:02Z	How to benchmark zsh
 162	2023-09-07 02:26:52Z	Look into the fidget rewrite issue
-163	2024-06-04 20:34:13Z	How to manage ssh keys
+163	2024-06-11 19:38:23Z	How to manage ssh keys
 164	2023-09-07 02:26:52Z	How to get started with the redfin api
 166	2023-09-07 02:26:52Z	The service userzoom for doing UX research
 167	2023-09-07 02:26:52Z	Overview of the sales CMS Zendesk
@@ -204,10 +204,10 @@
 214	2023-09-11 03:24:05Z	Brewery Bahaus Brew Labs
 215	2024-05-14 02:28:04Z	Flexbox CSS attributes
 216	2023-09-07 02:26:52Z	How to load custom CSS for a WordPress block
-217	2024-05-28 14:16:26Z	How to build a generic accordion in WordPress
+217	2024-06-11 21:35:55Z	How to build a generic accordion in WordPress
 219	2023-09-07 02:26:52Z	How to configure the editor in WordPress
 220	2023-09-07 02:26:52Z	How to grab a specific item in a tar file
-221	2023-09-07 02:26:52Z	How I use chezmoi to manage my dot files
+221	2024-06-08 15:37:36Z	How I use chezmoi to manage my dot files
 222	2023-09-07 02:26:52Z	How to setup a contact us page in WordPress
 224	2023-09-07 02:26:52Z	WordPress docker container
 225	2023-09-07 02:26:52Z	Tips when researching laptops
@@ -219,7 +219,7 @@
 232	2023-09-07 02:26:52Z	PCI-DSS compliance
 233	2023-09-07 02:26:52Z	What is Multi-Factor authentication
 235	2024-02-12 18:43:49Z	Categorization of numbers
-236	2023-09-07 02:26:52Z	Accordion plugins for WordPress
+236	2024-06-11 21:09:04Z	Accordion plugins for WordPress
 237	2023-09-07 02:26:52Z	COC Categorization
 238	2023-09-07 02:26:52Z	Wooden ship brewing
 239	2023-09-07 02:26:52Z	The Word of Warcraft addons that I use
@@ -232,7 +232,7 @@
 246	2023-09-07 02:26:52Z	Chezmoi cheatsheet
 247	2024-03-02 17:49:06Z	How to increase cursor speed on MacOSX
 248	2023-09-07 02:26:52Z	Keg and Case Market
-249	2023-09-07 02:26:52Z	How to convert json typescript schema
+249	2024-06-07 17:56:20Z	How to convert JSON typescript schema
 250	2023-12-01 17:38:30Z	Types of sourdough preferments
 251	2024-05-20 21:41:36Z	How to setup automated change logs with github actions
 252	2023-09-07 02:26:52Z	List of core blocks for the block editor
@@ -326,7 +326,7 @@
 347	2023-09-28 18:55:49Z	how to login to AWS via command line
 348	2023-09-28 00:16:46Z	Deploying a keg on MkDocs
 349	2023-11-30 18:37:37Z	Example for how to build a KEG for use with google docs
-350	2023-09-27 16:28:09Z	Zip cheatsheet
+350	2024-06-07 17:26:46Z	Zip cheatsheet
 351	2024-02-11 15:08:48Z	JavaScript article
 352	2024-04-16 21:01:22Z	SSH key rotation best practices
 353	2023-09-28 18:55:51Z	AWS EC2
@@ -351,7 +351,7 @@
 372	2023-10-04 23:06:13Z	React experts
 374	2023-10-08 15:59:25Z	Sveltekit how to debounce input
 375	2023-10-17 14:58:47Z	AWS Aura serverless database
-376	2023-10-20 16:09:50Z	Wireguard for AWS VPC access gateway for Ubuntu server
+376	2024-06-08 22:21:18Z	Wireguard for AWS VPC access gateway for Ubuntu server
 377	2023-10-13 15:41:20Z	Volunteering at Habitat for Humanity
 378	2023-10-17 15:09:21Z	Web authentication strategies
 379	2023-10-19 15:49:07Z	Dynamic themes in sveltekit
@@ -363,7 +363,7 @@
 387	2023-10-24 21:37:33Z	mono repo setup with pnpm
 389	2023-10-30 15:23:06Z	Tyler Industries entry level .Net role
 390	2023-11-02 01:14:41Z	Solid Principles
-391	2023-11-18 19:40:43Z	AWS services
+391	2024-06-10 15:57:27Z	AWS services
 392	2023-11-15 16:21:40Z	Simple Queue Service (SQS)
 393	2023-11-02 03:07:30Z	Simple Notification Service (SNS)
 394	2023-11-02 02:12:26Z	AWS Lambda
@@ -384,7 +384,7 @@
 409	2023-11-13 00:27:38Z	Interesting bug in AWS ECS
 410	2023-11-15 16:19:19Z	AWS Service CloudFormation
 411	2023-11-17 16:18:14Z	AWS Cloud Development Kit (CDK)
-412	2023-11-17 16:30:51Z	AWS CloudTrail
+412	2024-06-10 15:56:58Z	AWS service CloudTrail
 413	2023-11-15 16:29:56Z	AWS CloudWatch
 414	2023-11-17 16:16:55Z	AWS Elastic Kubernetes Service EKS
 415	2023-11-15 16:33:54Z	AWS Elastic Container Registry (ECR)
@@ -401,7 +401,7 @@
 426	2023-11-26 00:08:45Z	Neuroscience on how learning occurs
 427	2023-11-26 00:08:49Z	Strategy for learning
 428	2024-01-27 20:40:38Z	Guesswork Sourdough bread
-429	2024-05-31 03:40:34Z	Tools needed to setup a npm library for typescript
+429	2024-06-07 18:00:23Z	Tools needed to setup a npm library for typescript
 430	2023-12-05 19:53:42Z	Creating KEG commands plugin in NeoVim
 431	2024-05-04 22:14:46Z	Uzbek Lepyoshki experiment
 432	2024-05-04 20:56:00Z	Recommended temperature for bread rising with active dry yeast
@@ -503,7 +503,7 @@
 529	2024-04-15 19:36:37Z	Monday April 15 2024 daily entry
 530	2024-04-16 21:54:09Z	My tmux setup
 531	2024-05-01 16:23:17Z	How do document php code
-532	2024-04-26 21:00:11Z	Manage virtual machines with QEMU
+532	2024-06-08 15:44:24Z	Manage virtual machines with QEMU
 533	2024-04-23 17:01:39Z	Nodejs ecosystem support on freebsd
 534	2024-05-17 19:42:00Z	Database data management for MySQL with Navicat
 535	2024-04-27 16:38:35Z	How to mount a sambda drive on macosx CLI
@@ -532,13 +532,33 @@
 558	2024-05-28 14:15:40Z	Basic sourdough batard
 559	2024-05-22 02:39:30Z	Case of using webp over png
 560	2024-05-23 15:10:51Z	Local network machine IP address discovery protocols
-561	2024-05-28 14:15:38Z	Memorial Day Weekend focaccia
-562	2024-06-07 14:28:09Z	Free BSD for homelab exploration
-563	2024-06-07 00:27:40Z	Think Server 140
+561	2024-06-10 17:55:34Z	Memorial Day Weekend focaccia
+562	2024-06-10 02:17:26Z	Free BSD for homelab exploration
+563	2024-06-09 16:11:16Z	Think Server 140
 564	2024-05-30 18:16:58Z	Dell XPS 9710
-565	2024-06-02 19:49:44Z	Improving CLS with blocking font loading
+565	2024-06-11 19:38:20Z	Improving CLS with blocking font loading
 566	2024-05-30 20:59:55Z	All things sudo
-567	2024-06-02 22:17:20Z	VLAN overview
+567	2024-06-07 20:03:47Z	VLAN overview
 568	2024-06-06 13:10:48Z	Overview for buying Ethernet adapters for a PC or server
 569	2024-06-06 15:35:41Z	Article about the disaster that is Copilot+ Recall
 570	2024-06-06 21:44:45Z	KeePass is the only password manager resistant to Copilot+ Recall
+571	2024-06-08 18:15:39Z	Package management in Ubuntu
+572	2024-06-07 22:37:58Z	Package management in FreeBSD
+573	2024-06-07 21:48:22Z	Wireguard topologies
+574	2024-06-10 02:17:31Z	Running FreeBSD VM on apple silicon with QEMU
+575	2024-06-08 16:08:06Z	File system recommendation for FreeBSD
+576	2024-06-08 16:19:05Z	VirtualBox on apple silicon
+577	2024-06-08 16:19:09Z	Converting a VirtualBox VDI to a QEMU on MacOSX
+578	2024-06-09 18:15:47Z	My current homelab setup
+579	2024-06-09 16:09:10Z	Netgear R7000 router
+580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
+581	2024-06-09 16:17:47Z	Custom built PC Trooper
+582	2024-06-09 17:54:23Z	Private IPv4 ranges
+583	2024-06-09 18:11:37Z	Macbook PRO m2
+584	2024-06-12 14:12:05Z	[ ] Homelab 2024 task | build up my homelab
+585	2024-06-09 18:38:06Z	FreeBSD networking overview
+586	2024-06-09 18:46:26Z	[ ] Neovim task | setup configuration
+587	2024-06-10 15:57:40Z	AWS service CloudFront
+588	2024-06-10 18:00:05Z	Mid week Focaccia sourdough
+589	2024-06-11 15:11:40Z	Network switch research
+590	2024-06-12 14:14:49Z	[ ] Homelab 2024 task | setup site to site configuration

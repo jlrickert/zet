@@ -12,3 +12,7 @@ Server that I got as a present long ago
   - 1 PCI 2.3
 
 - https://psref.lenovo.com/syspool/Sys/PDF/ThinkServer/ThinkServer_TS140/ThinkServer_TS140_Spec.PDF
+
+## See also
+
+- [Hardware dump](../580)

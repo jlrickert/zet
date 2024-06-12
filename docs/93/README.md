@@ -1,10 +1,6 @@
 # Installing patched power line fonts for MacOS
 
-I use [nerd fonts] to provide powerline details for my prompts. I use
-fira code nerd font. To install go to the website and install using the
-builtin tools that macOS has. The only font that needs to be installed
-is `FiraCodeNerdFont-Retina`. Retina looks good. Haven't tried the
-other variations yet.
+I use [nerd fonts] to provide powerline details for my prompts. I use fira code nerd font. To install go to the website and install using the builtin tools that macOS has. The only font that needs to be installed is `FiraCodeNerdFont-Retina`. Retina looks good. Haven't tried the other variations yet.
 
 Once the fonts are installed your terminal needs to be setup.
 

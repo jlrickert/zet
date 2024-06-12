@@ -1,5 +1,4 @@
-# How to convert json typescript schema
-
+# How to convert JSON typescript schema
 
 ```JavaScript
 # script.mjs
@@ -16,5 +15,3 @@ npm install --save-dev json-schema-to-typescript
 curl -fsSL -O https://raw.githubusercontent.com/WordPress/gutenberg/trunk/schemas/json/block.json
 node script.mjs
 ```
-
-    tags: #bash

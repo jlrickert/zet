@@ -1,3 +1,4 @@
+- 2024-06-10 [Mid week Focaccia sourdough](../588)
 - 2024-05-23 [Memorial day weekend foccacia](../561)
 - 2024-05-19 [Basic sourdough batard](../558)
 - 2024-05-04 [Traditional Italian Easter bread](../540)

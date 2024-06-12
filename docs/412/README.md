@@ -1,9 +1,5 @@
-# AWS CloudTrail
+# AWS service CloudTrail
 
 ## See also
 
 - [AWS Services](../391)
-
-## Meta
-
-    tags: #aws
