@@ -1,3 +1,4 @@
+- 2024-06-14 [Fathers Day Weekend focaccia 2024](../591)
 - 2024-06-10 [Mid week Focaccia sourdough](../588)
 - 2024-05-23 [Memorial day weekend foccacia](../561)
 - 2024-05-19 [Basic sourdough batard](../558)

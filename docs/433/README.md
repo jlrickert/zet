@@ -15,3 +15,17 @@ Some that I have tried and did not like:
 - Menage a Trois - Cabernet Sauvignon
 
   My go to steak wine
+
+## Shiraz
+
+- Some Australian wine from 2016. Forgot to take a note of the name.
+
+  Reminded Scott of the Meat loaf red wine
+
+## Others
+
+- Wine Haven | Honey wine
+
+  Also know as mead. Honey like taste.
+
+- Meat loaf red wine
