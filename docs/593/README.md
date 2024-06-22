@@ -6,7 +6,7 @@ Strap types
 
 - Winged
 
-  Sounds like a blister fest
+  Sounds like a blister festh
 
 - Retro
 

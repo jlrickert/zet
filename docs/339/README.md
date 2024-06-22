@@ -11,7 +11,3 @@ Elastic beanstalk is a service on AWS that simplifies deployment on AWS.
 ## See also
 
 - [AWS Services](../339)
-
-## Meta
-
-    tags: #aws

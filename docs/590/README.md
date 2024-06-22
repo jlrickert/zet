@@ -1,4 +1,4 @@
-# [ ] Homelab 2024 task | setup site to site configuration
+# [ ] Homelab 2024 Task | setup site to site configuration
 
 Site to site configuration between digital ocean droplet (charm) and server at home (ts140). This is my first iteration. The goal is to get some simple communication between the 2.
 
