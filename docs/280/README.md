@@ -15,3 +15,21 @@
 - Delete all files not tracked by git
 
   Run `git clean -dfx`
+
+- Rebasing branch comments on different branch
+
+  ```bash
+  git checkout main
+  git pull origin main
+  git checkout my_branch
+  git rebase production
+  git checkout production
+  git merge --ff my_branch
+  ```
+
+- Set current branch to what is on remote
+
+  ```bash
+  git checkout <git commit hash>
+  git checkout -B your_branch
+  ```

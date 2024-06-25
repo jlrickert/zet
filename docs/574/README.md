@@ -6,12 +6,12 @@ UTM is a frontend for [QEMU](../574) that I find works.
 
 Download a QEMU virtual machine image with the qcow format. I use the zfs variant for now. See [file system recommendation](../575)
 
-Once installed it may be uncompressed with `unxz`. For example `unxz FreeBSD-14.1-RELEASE-arm64-aarch64-zfs.qcow2.xz`.
+Once installed it may be uncompressed with `unxz`. For example `unxz FreeBSD-14.1-RELEASE-arm64-aarch64-zfs.qcow2.xz`. Should also be able to emulate an x86 architecture as well.
 
 Settings
 
-- network1: bridge
-- drive1: VirtIO and select the qcow2 image.
+- network1: bridge mode
+- drive1: VirtIO and select the qcow2 image and select the size
 
   This will create a copy of it and will not modify the image. This diffs from the behavior of VirtualBox. Set the image size to the size you want.
 
