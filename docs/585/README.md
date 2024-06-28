@@ -11,5 +11,8 @@ sudo service netif restart
 
 ## DHCP
 
-## DNS
+```bash
+sudo dhcpclient em0
+```
 
+## DNS
