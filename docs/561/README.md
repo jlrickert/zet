@@ -1,15 +1,15 @@
-# Memorial Day Weekend focaccia 2024
+# Bake: Memorial Day Weekend focaccia 2024
 
 Made this for a lunch snack during Memorial Day weekend 2024.
 
 ## Ingredients
 
-| Ingredient  | Amount | Bakers Percentage | Comment                  |
-| ----------- | ------ | ----------------- | ------------------------ |
-| Bread flour | 500g   |                   | King authors bread flour |
-| Water       | 400g   |                   |                          |
-| starter     | 100g   |                   |                          |
-| salt        | 13g    |                   |                          |
+| Ingredient  | Amount | Bakers Percentage | Comment               |
+| ----------- | ------ | ----------------- | --------------------- |
+| Bread flour | 500g   |                   | [bread flour](../642) |
+| Water       | 400g   |                   |                       |
+| starter     | 100g   |                   |                       |
+| salt        | 13g    |                   |                       |
 
 Total weight is 1000g
 

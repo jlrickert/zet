@@ -24,7 +24,4 @@ Mythic+
 - Haste & Mastery
 - Crit & Versatility
 
-[preservation]:
-  https://www.wowhead.com/guide/classes/evoker/preservation/overview-pve-healer
-
-    tags: #wow #gaming
+[preservation]: https://www.wowhead.com/guide/classes/evoker/preservation/overview-pve-healer

@@ -27,13 +27,9 @@ Running the installer with `install --bin` will install the binary in the source
 
 ### Shell config
 
-The install script can be found at the top level of the fzf git repo.
-If you installed fzf with homebrew on MacOS then it may be found at
-`/opt/homebrew/opt/fzf/install`
+The install script can be found at the top level of the fzf git repo. If you installed fzf with homebrew on MacOS then it may be found at `/opt/homebrew/opt/fzf/install`
 
-Running `install --no-update-rc --xdg --key-bindings --completion`
-generate `~/.config/fzf/fzf.zsh` and `~/.config/fzf/fzf.bash`. This
-prevents the fzf installer from muking up the dotfiles.
+Running `install --no-update-rc --xdg --key-bindings --completion` generate `~/.config/fzf/fzf.zsh` and `~/.config/fzf/fzf.bash`. This prevents the fzf installer from muking up the dotfiles.
 
 Normally the installer will add the following:
 
@@ -48,7 +44,3 @@ Normally the installer will add the following:
 ## See Also
 
 - [my fzf installation process](https://github.com/dotfiles)
-
-Meta:
-
-    tags: #bash #cli #macOS

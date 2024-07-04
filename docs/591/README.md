@@ -1,6 +1,8 @@
-# Fathers Day Weekend focaccia 2024
+# Baking: Fathers Day Weekend focaccia 2024
 
 Made this for a lunch snack during Memorial Day weekend 2024.
+
+![focaccia](./focaccia.jpg)
 
 ## Ingredients
 
@@ -24,7 +26,7 @@ Total weight is 1000g
 - 2024-06-14 21:00 Put back into fridge
 - 2024-06-15 11:30 Baked
 
-  Baked for 35 minutes. The oven was set to 490f. It is a gas one in a camper. Rotated about every 8 minutes. Forgot to put oil or parchment down before putting the dough down. Ended up [sticking](..592.
+  Baked for 35 minutes. The oven was set to 490f. It is a gas one in a camper. Rotated about every 8 minutes. Forgot to put oil or parchment down before putting the dough down. Ended up [sticking](../592).
 
 ## See also
 

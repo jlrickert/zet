@@ -18,4 +18,4 @@ Issue ran into when backing
 
 ## Cast Iron
 
-To be tried
+Tried it out on my first [100% whole wheat bread](../608). Worked beautifully.

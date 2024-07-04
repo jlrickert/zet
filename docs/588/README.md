@@ -1,4 +1,4 @@
-# Mid week Focaccia sourdough
+# Baking: Mid week Focaccia sourdough
 
 ## Ingredients
 

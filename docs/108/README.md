@@ -1,4 +1,4 @@
-# Wowhead diablo 4 class ranking comparison
+# Research: Wowhead diablo 4 class ranking comparison
 
 Wowhead created a [guide] on the ranking classes for Diablo 4.
 
@@ -14,5 +14,3 @@ Wowhead created a [guide] on the ranking classes for Diablo 4.
 | Werewolf Druid   | 2.5      | 3            | 4             | 4               | 2                   | Moderate       |
 
 [guide]: https://www.wowhead.com/diablo-4/guide/tier-list#rankings
-
-    tags: #gaming #diablo

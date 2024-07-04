@@ -1,4 +1,4 @@
-# Overview for buying Ethernet adapters for a PC or server
+# Research: buying Ethernet adapters for a PC or server
 
 TLDR - buy newer Intel chipsets
 
@@ -6,7 +6,7 @@ For 1G
 
 - i350
 
-For 2.5G don't bother
+For 2.5G don't bother if you plan on going FreeBSD or Linux
 
 For 10G
 

@@ -138,5 +138,3 @@ To bring down run
 ```bash
 sudo wg-quick down wg0
 ```
-
-    tags: #aws #vpn

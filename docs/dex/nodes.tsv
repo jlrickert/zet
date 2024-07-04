@@ -1,7 +1,7 @@
 0	2023-09-07 02:26:52Z	Sorry, planned but not yet available
 1	2023-09-26 23:49:28Z	World of warcraft evoker game play
 2	2023-09-26 23:48:23Z	World of warcraft evoker devastation game play
-3	2023-09-26 23:48:47Z	World of warcraft evoker preservation gameplay
+3	2024-07-04 17:55:28Z	World of warcraft evoker preservation gameplay
 4	2023-09-07 02:26:52Z	World of warcraft dragonflight season 1 dungeons
 5	2023-09-07 02:26:52Z	December 2022 week 2 2022 world of warcraft checklist
 6	2023-09-07 02:26:52Z	Pop_OS! window management setup
@@ -32,7 +32,7 @@
 31	2023-09-07 02:26:52Z	Halls of Valor dungeon
 32	2024-05-21 00:22:45Z	World of Warcraft court of stars dungeon
 33	2024-04-17 14:34:21Z	Bash scripting tricks
-34	2024-02-03 22:16:33Z	Recommend language sever to use for golang development
+34	2024-07-04 17:53:38Z	Recommend language sever to use for golang development
 35	2023-09-07 02:26:52Z	Key things that make neovim as an ide
 37	2023-09-07 02:26:52Z	File type specific settings in neovim
 38	2023-09-07 02:26:52Z	Shadow moon burial grounds dungeon
@@ -73,8 +73,8 @@
 76	2023-09-07 02:26:52Z	Harpoon keybindings in vscode
 77	2023-09-07 02:26:52Z	Really good article about software engineering principles
 78	2023-09-07 02:26:52Z	Quick fix menus in vim
-79	2024-06-19 16:00:15Z	An example of a bash script that has tab completion
-80	2023-09-07 02:26:52Z	Rob Muhlestein
+79	2024-07-04 18:22:35Z	An example of a bash script that has tab completion
+80	2024-07-04 18:24:20Z	Person: Rob Muhlestein
 81	2023-09-07 02:26:52Z	rwxrob's list of go packages
 82	2023-09-07 02:26:52Z	How to give credit to the original script owner
 83	2023-09-07 02:26:52Z	Managing personal secrets with an external USB drive
@@ -88,7 +88,7 @@
 91	2024-05-13 19:12:23Z	How to swap caps lock on MacOS
 92	2023-09-07 02:26:52Z	Must have plugins for google chrome
 93	2024-06-11 19:38:17Z	Installing patched power line fonts for MacOS
-94	2023-09-07 02:26:52Z	fzf setup and usage
+94	2024-07-04 17:04:23Z	fzf setup and usage
 95	2023-09-07 02:26:52Z	How to set path variables on MacOS
 96	2024-05-04 20:28:50Z	keg create git issue
 97	2023-09-07 02:26:52Z	Ergonomic mouse research
@@ -101,7 +101,7 @@
 105	2024-04-17 16:08:35Z	Concrete 5
 106	2023-09-07 02:26:52Z	How to install lando on MacOS
 107	2023-09-07 02:26:52Z	Date standards
-108	2023-09-07 02:26:52Z	Wowhead diablo 4 class ranking comparison
+108	2024-06-30 20:42:07Z	Research: Wowhead diablo 4 class ranking comparison
 109	2024-04-16 21:44:10Z	MacOS vs Linux difference
 110	2023-09-07 02:26:52Z	My personal PHP style guide
 111	2023-09-07 02:26:52Z	My personal Bash style guide
@@ -128,8 +128,8 @@
 132	2023-09-07 02:26:52Z	How to get started developing themes and plugins with WordPress
 133	2024-06-07 03:53:07Z	How do you fingerprint the OS with bash
 134	2024-05-18 19:54:01Z	Recommended PHP language server to use
-135	2023-09-07 02:26:52Z	Task to figure out how to make scrolling faster on MacOS
-136	2023-09-07 02:26:52Z	How to setup VSCode for PHP and WordPress development
+135	2024-06-30 17:29:32Z	Task to figure out how to make scrolling faster on MacOS
+136	2024-06-30 17:29:30Z	How to setup VSCode for PHP and WordPress development
 137	2023-09-07 02:26:52Z	Como Park Zoo and Conservatory in St Paul Minnesota
 138	2023-09-07 02:26:52Z	Cuzzy's Grill and bar in downtown Minneapolis
 139	2023-09-07 02:26:52Z	How to setup bbPress forums in WordPress
@@ -218,7 +218,7 @@
 231	2023-09-07 02:26:52Z	Problem solution sets
 232	2023-09-07 02:26:52Z	PCI-DSS compliance
 233	2023-09-07 02:26:52Z	What is Multi-Factor authentication
-235	2024-02-12 18:43:49Z	Categorization of numbers
+235	2024-07-02 20:52:12Z	Categorization of numbers
 236	2024-06-11 21:09:04Z	Accordion plugins for WordPress
 237	2023-09-07 02:26:52Z	COC Categorization
 238	2023-09-07 02:26:52Z	Wooden ship brewing
@@ -284,7 +284,7 @@
 298	2024-01-11 18:49:56Z	Bigga sourdough pizza dough Saturday July 22 2023
 299	2024-01-11 18:48:55Z	July fourth weekend 2023 sourdough bread bowl
 301	2024-01-11 18:49:29Z	July fourth weekend 2023 sourdough pizza
-302	2024-01-11 18:48:15Z	Large sourdough pizza batch for BYOT pizza event
+302	2024-06-30 19:18:13Z	Large sourdough pizza batch for BYOT pizza event
 303	2024-01-11 17:55:05Z	Thu Apr 20 2023 sourdough pizza
 304	2024-01-11 17:55:47Z	Memorial day sourdough bread bowl
 305	2024-01-11 17:49:14Z	Thanksgiving bread bowl 2022
@@ -296,8 +296,8 @@
 311	2024-01-11 17:53:05Z	Einkorn sourdough bread bowl
 312	2024-01-11 17:50:33Z	Sourdough pizza
 315	2023-09-07 02:26:52Z	How to manually install a package from the AUR
-316	2023-09-07 02:26:52Z	Researching a Rofi like experience on MacOSX
-317	2024-01-27 20:39:19Z	Sourdough pizza dough batch request
+316	2024-07-04 17:05:52Z	Research: a Rofi like experience on MacOSX
+317	2024-06-30 20:15:24Z	Sourdough pizza dough batch request
 319	2023-09-11 04:32:54Z	Recommend wheat flour to use for different bakes
 321	2023-11-02 01:45:21Z	Chrome book comparison
 322	2023-09-10 19:05:06Z	Digital fonts
@@ -310,7 +310,7 @@
 329	2023-09-16 15:55:05Z	Chia jam recipe
 330	2023-09-18 15:50:10Z	Testing in Go
 331	2024-01-27 20:39:55Z	Sourdough rye and barley pita bread
-332	2023-09-18 18:59:48Z	My Ooni Karu 12G
+332	2024-07-04 16:35:49Z	Hardware: My Ooni Karu 12G
 333	2024-03-27 16:14:58Z	Flutter experiments
 334	2024-06-05 22:02:05Z	KEG website with CMS
 335	2023-09-27 23:01:04Z	AWS Access management
@@ -351,7 +351,7 @@
 372	2023-10-04 23:06:13Z	React experts
 374	2023-10-08 15:59:25Z	Sveltekit how to debounce input
 375	2023-10-17 14:58:47Z	AWS Aura serverless database
-376	2024-06-08 22:21:18Z	Wireguard for AWS VPC access gateway for Ubuntu server
+376	2024-06-30 17:28:16Z	Wireguard for AWS VPC access gateway for Ubuntu server
 377	2023-10-13 15:41:20Z	Volunteering at Habitat for Humanity
 378	2023-10-17 15:09:21Z	Web authentication strategies
 379	2023-10-19 15:49:07Z	Dynamic themes in sveltekit
@@ -453,7 +453,7 @@
 479	2024-01-21 13:25:17Z	Material to learn functional programming
 480	2024-01-21 20:37:20Z	How to sort an array with -1, 0, and 1 sort function
 481	2024-01-27 21:24:29Z	Moving over to a different way to handle my public KEG
-482	2024-05-19 19:20:43Z	Sourdough bread batard February 02 2024
+482	2024-07-01 15:21:28Z	Baking: Sourdough bread batard February 02 2024
 483	2024-05-18 23:46:17Z	Vexilla is using tailblocks
 484	2024-02-05 05:15:32Z	Rock paper scissors game
 485	2024-02-05 21:03:46Z	Plugin architecture of vscode
@@ -532,14 +532,14 @@
 558	2024-05-28 14:15:40Z	Basic sourdough batard
 559	2024-06-21 16:23:31Z	Case of using webp over png
 560	2024-05-23 15:10:51Z	Local network machine IP address discovery protocols
-561	2024-06-14 12:57:21Z	Memorial Day Weekend focaccia 2024
-562	2024-06-10 02:17:26Z	Free BSD for homelab exploration
-563	2024-06-09 16:11:16Z	Think Server 140
-564	2024-05-30 18:16:58Z	Dell XPS 9710
+561	2024-07-04 15:27:18Z	Bake: Memorial Day Weekend focaccia 2024
+562	2024-06-30 17:25:23Z	FreeBSD for homelab exploration
+563	2024-06-30 18:01:39Z	Hardware: Think Server 140 (ts140)
+564	2024-06-30 17:53:39Z	Hardware: Dell XPS 9710
 565	2024-06-27 14:59:55Z	Improving CLS with blocking font loading
 566	2024-05-30 20:59:55Z	All things sudo
 567	2024-06-07 20:03:47Z	VLAN overview
-568	2024-06-06 13:10:48Z	Overview for buying Ethernet adapters for a PC or server
+568	2024-07-04 18:18:00Z	Research: buying Ethernet adapters for a PC or server
 569	2024-06-06 15:35:41Z	Article about the disaster that is Copilot+ Recall
 570	2024-06-06 21:44:45Z	KeePass is the only password manager resistant to Copilot+ Recall
 571	2024-06-08 18:15:39Z	Package management in Ubuntu
@@ -549,31 +549,73 @@
 575	2024-06-08 16:08:06Z	File system recommendation for FreeBSD
 576	2024-06-08 16:19:05Z	VirtualBox on apple silicon
 577	2024-06-08 16:19:09Z	Converting a VirtualBox VDI to a QEMU on MacOSX
-578	2024-06-09 18:15:47Z	My current homelab setup
-579	2024-06-09 16:09:10Z	Netgear R7000 router
+578	2024-06-30 22:16:30Z	Project: Current Homelab
+579	2024-07-04 15:21:26Z	Netgear R7000 router
 580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
 581	2024-06-09 16:17:47Z	Custom built PC Trooper
 582	2024-06-09 17:54:23Z	Private IPv4 ranges
-583	2024-06-09 18:11:37Z	Macbook PRO m2
-584	2024-06-12 14:12:05Z	[ ] Homelab 2024 task | build up my homelab
+583	2024-07-03 04:45:49Z	Hardware: My M2 Macbook Pro
+584	2024-07-01 06:19:03Z	[ ] Homelab 2024 task | build up my homelab
 585	2024-06-27 14:57:42Z	FreeBSD networking overview
 586	2024-06-19 23:43:17Z	[ ] Neovim Task | setup configuration
 587	2024-06-10 15:57:40Z	AWS service CloudFront
-588	2024-06-16 18:13:55Z	Mid week Focaccia sourdough
+588	2024-06-30 19:13:17Z	Baking: Mid week Focaccia sourdough
 589	2024-06-11 15:11:40Z	Network switch research
-590	2024-06-19 23:42:49Z	[ ] Homelab 2024 Task | setup site to site configuration
-591	2024-06-22 19:01:52Z	Fathers Day Weekend focaccia 2024
-592	2024-06-16 18:16:53Z	Issue: Sticking issues with baking
+590	2024-06-30 17:35:38Z	
+591	2024-06-30 19:12:51Z	Baking: Fathers Day Weekend focaccia 2024
+592	2024-06-30 18:16:53Z	Issue: Sticking issues with baking
 593	2024-06-19 23:33:15Z	Research: Running sandals
 594	2024-06-19 23:33:12Z	Huarache
-595	2024-06-20 00:29:37Z	Research: search engines
+595	2024-06-29 22:33:09Z	Research: search engines
 596	2024-06-21 20:43:55Z	Place: 612 Brewing
 597	2024-06-21 20:44:40Z	Place: Padraigs Brewing
 598	2024-06-21 20:40:36Z	Place: Spyhouse Coffee Roasters
 599	2024-06-22 15:25:52Z	Issue: running a typescript library in deno
 600	2024-06-22 18:48:48Z	Building guis with Dioxis in rust
 601	2024-06-23 17:17:21Z	Covariance and contravariance in TypeScript
-602	2024-06-23 18:28:17Z	Accessing `package.json` version for a TypeScript cli applicationg
+602	2024-06-29 02:22:06Z	Accessing `package.json` version for a TypeScript cli applicationg
 603	2024-06-27 13:30:32Z	Place: Loadstone Coffee and Games
 604	2024-06-28 14:18:21Z	Overview of navicat
-605	2024-06-28 03:23:12Z	Research into creating a docker for multiple php sites
+605	2024-06-30 17:25:50Z	Research: docker setup for multiple php websites
+606	2024-07-01 20:24:27Z	Overview: backing up Unix systems
+607	2024-06-29 05:02:38Z	Common network ranges used in private networks
+608	2024-06-30 19:12:36Z	Baking: Experimental whole wheat focaccia
+609	2024-06-29 22:32:51Z	Project: Knutjs
+610	2024-07-03 02:39:09Z	[x] Homelab Task | setup a vpn
+611	2024-06-30 20:25:45Z	pfSense for networking
+612	2024-06-30 18:02:07Z	Hardware: Samsung S22+ android phone (s22)
+613	2024-06-30 17:53:15Z	Hardware: Razer thunderbolt docking station
+614	2024-07-03 04:48:19Z	Baking: Fourth of July Pizza dough
+615	2024-07-01 15:24:21Z	Ingredient: Polselli 00 flour classica
+616	2024-06-30 19:22:45Z	Neapolitan pizza
+617	2024-07-01 12:59:48Z	How I organize my notes
+618	2024-07-01 12:59:44Z	Other note taking structures
+619	2024-06-30 20:10:28Z	Project: Neovim editor
+620	2024-06-30 20:22:51Z	Google structured data
+621	2024-07-01 12:59:40Z	Issue: saving files in vim updates the modified time stamp
+622	2024-06-30 21:04:19Z	Issue: Generating documentation for nvim plugins
+623	2024-06-30 21:20:47Z	Zettelkasten definition
+624	2024-06-30 21:26:52Z	Information normalization in note taking
+625	2024-06-30 21:46:31Z	Project: dotfiles
+626	2024-06-30 22:12:25Z	Homelab topology
+627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
+628	2024-06-30 22:16:35Z	Person: Streamer rwxrob
+629	2024-07-01 00:46:32Z	[ ] Homelab Task | setup pfSense on ts140
+630	2024-07-01 15:20:41Z	Ingredient: King Author all purpose flour
+631	2024-07-01 15:20:33Z	Company: King Author
+632	2024-07-01 15:23:03Z	Ingredient: Hard red wheat
+633	2024-07-01 15:32:05Z	Issue: Host only adapter not working in UTM
+634	2024-07-01 19:18:47Z	Beelink mini computers
+635	2024-07-01 19:19:49Z	Overview: Proxmox
+636	2024-07-03 18:31:43Z	Feature: search domain in DNS
+637	2024-07-02 20:52:02Z	Place: Task of India St Louis Park
+638	2024-07-02 20:51:57Z	Place: St Louis Park, MN
+639	2024-07-03 05:48:13Z	Research: 2024 WiFi upgrade
+640	2024-07-04 15:27:30Z	Bake: Fourth of July focaccia
+641	2024-07-04 15:24:26Z	Ingredient: Turkey red wheat berries
+642	2024-07-04 15:26:53Z	Ingredient: King authors all purpose flour
+643	2024-07-04 17:53:31Z	Overview: Unix style search and replace utilities
+644	2024-07-04 17:53:34Z	Keg searching techniques
+645	2024-07-04 18:21:33Z	My current zettelkasten note taking setup
+646	2024-07-04 17:36:34Z	Project: keg
+647	2024-07-04 18:16:17Z	Project: Neovim Telescope

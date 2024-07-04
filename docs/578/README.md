@@ -1,73 +1,46 @@
-# My current homelab setup
+# Project: Current Homelab
 
-## VLANS
+Home lab is what I run on my machine
 
-Need to buy hardware for this.
-
-## Network layout
-
-My whole network in my home lab will be on 10.10.0.0/16
-
-### Core infrastructure on on 10.10.10.0/24
-
-This will be on VLAN10
-
-- ts140.int.jlrickert.me: 10.10.10.1
-- luna.int.jlrickert.me: 10.10.10.3
-- trooper.int.jlrickert.me: 10.10.10.2
-
-### Virtual machines on 10.10.20.0/24
-
-This will be on VLAN20
-
-- php71.int.jlrickert.me: 10.10.20.xx
-- php74.int.jlrickert.me: 10.10.20.xx
-- php81.int.jlrickert.me: 10.10.20.xx
-
-### Internet of things on 10.10.0.0/24
-
-For now my r7000 will act as both an access point and router until I get what I need for ts140.
-
-- r7000: 10.10.0.1
-- jlrickert-mbp.int.jlrickert.me: 10.10.0.xx
-- jlrickert-xps.int.jlrickert.me: 10.10.0.xx
-
-### Wireguard things
-
-Network will be 10.0.0/16
-
-### Work things
-
-Work network will be on a separate network at 10.1.0.0/16
-
-## Machines
-
-- mbp.int.jlrickert.me
-- ts140.int.jlrickert.me
-
-  This will be running FreeBSD 14. Services include: CoreDNS, DHCP, PostgreSQL, Email, backup services, etc.
-
-- trooper.int.jlrickert.me
-
-  This will be the primary app server. It will be running either proxmox or a lighter alternative.
+- [Network topology](../626)
 
 ## Hardware
 
-- [Think Server 140](../563)
+- [Think Server 140](../563) | ts140.int.jlrickert.me
 
-  This will be running FreeBSD. This sill be my router, DNS, DHCP, and firewall.
+  This will be running either FreeBSD or pfSense. This sill be my router, DNS, DHCP, and firewall.
 
-- [Netgear R7000](../579)
-- [Custom PC](../581)
+- [Netgear R7000](../579) | r7000.int.jlrickert.me
 
-Other devices
+  Planning on using as an access point and switch
+
+- Modem
+- [Trooper](../581) | trooper.int.jlrickert.me
+
+  I plan on using this to run proxmox to run all of the services
+
+- 16 port unmanaged switch
+
+### Personal devices
 
 - [MBP](../583)
 - [XPS](../564)
+- android phone
+- android tablet
+- smart TV
+- google wiretap
+
+### Planed devices
+
+- Pi 5 for dedicated pi hole
+- 3 machine k8s cluster (undecided on hardware)
+- NAS box
+- 2.5GB switch
 
 ## Example home labs
 
-- [rwxrobs homelab](https://app.excalidraw.com/l/6rjSvoGlOkc/1njNB1sKmj8)
+- [rwxrobs](../628) [homelab](https://app.excalidraw.com/l/6rjSvoGlOkc/1njNB1sKmj8)
+- [Mischa van den Burg](../627) [homelab](https://github.com/mischavandenburg/homelab)
 
 ## See also
 
@@ -78,5 +51,6 @@ Other devices
 
 - [Marionette](https://github.com/jlrickert/marionette)
 
-  My old setup.  I no longer use but keep around as a reference
+  My old setup. I no longer use but keep around as a reference
 
+- [Common private networks](../607)

@@ -1,6 +1,6 @@
 # Large sourdough pizza batch for BYOT pizza event
 
-This is a big batch of pizza dough for the bring your own toppings (BYOT) pizza event at a [friends place](https://zettel.jlrickert.me/422) on Saturday June 24 2023. I plan to base the [recipe](../303) that I had for last time I tried to get a pizza night going.
+This is a big batch of pizza dough for the bring your own toppings (BYOT) pizza event at a [friends place](keg:private/422) on Saturday June 24 2023. I plan to base the [recipe](../303) that I had for last time I tried to get a pizza night going.
 
 The temperature today is suppose to get to around 85.
 

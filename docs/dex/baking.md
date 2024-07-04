@@ -1,3 +1,6 @@
+- 2024-07-04 [Fourth of July focaccia](../640)
+- 2024-06-30 [Baking: Fourth of July Pizza dough](../614)
+- 2024-06-29 [Experimental whole wheat focaccia](../608)
 - 2024-06-14 [Fathers Day Weekend focaccia 2024](../591)
 - 2024-06-10 [Mid week Focaccia sourdough](../588)
 - 2024-05-23 [Memorial day weekend foccacia](../561)

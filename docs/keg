@@ -1,4 +1,4 @@
-updated: 2024-06-28 14:18:21Z
+updated: 2024-07-04 18:24:20Z
 kegv: 2023-01
 
 title: KEG Zettelkasten for Jared Rickert (jlrickert)
@@ -10,6 +10,8 @@ state: living
 links:
   - alias: jlrickert
     url: https://zet.jlrickert.me
+  - alias: private
+    url: https://zettel.jlrickert.me
 
 summary: |
   Hi I'm Jared. This is my personal **zettelkasten** KEG site.  It contains

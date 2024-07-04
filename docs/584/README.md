@@ -24,7 +24,15 @@
 
 - 2024-06-12 00:22 (2h 30m) [Setting up wireguard site to site](../590)
 
-  Managed to get charm and ts140 to communicate over VPN in a point to point configuration. Still haven't figured out how to get either to forward packets yet to hosts on each others networks.
+  Managed to get charm and [ts140] to communicate over VPN in a point to point configuration. Still haven't figured out how to get either to forward packets yet to hosts on each others networks.
+
+- 2024-06-29 03:00 (5h) Setting up [ts140] with [pfSense](../611)
+
+  Installed pfSense on the [ts140]. I have the LAN connected to the new network card and the old one connected to the WAN. For some reason I am only getting 800 Mbits out if rather than the 950 MBits that I was getting previously
+
+- 2024-07-01 01:18 (5.15h) Spent time setting up Wireguard on [ts140]
+
+[ts140]: ../563
 
 ## See also
 

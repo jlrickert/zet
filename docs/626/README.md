@@ -1,0 +1,67 @@
+# Homelab topology
+
+## DNS
+
+Use quad9 for external
+
+9.9.9.9 and 149.112.112.112
+
+## VLANS
+
+Don't plan on using as I don't want to spend time working on it.
+
+## Network layout
+
+### Main network 192.168.50.0/24
+
+Core devices. These are physical devices. Hopefully I will never have more than 18.
+
+```
+192.168.50.1/24 A ts140.int.jlrickert.me
+192.168.50.2/24 A trooper.int.jlrickert.me
+192.168.50.3/24 A r7000.int.jlrickert.me
+192.168.50.4/24 A nas.int.jlrickert.me
+```
+
+DHCP will be between 192.168.50.50/24 to 192.168.50.200/24
+
+VM's running in proxmox
+
+```
+192.168.50.20/24 A pihole-1.int.jlrickert.me
+192.168.50.21/24 A pihole-2.int.jlrickert.me
+192.168.50.22/24 A app-1.int.jlrickert.me
+```
+
+Applications
+
+```
+rtr1.int.jlrickert.me      CNAME ts140.int.jlrickert.me
+ap1.int.jlrickert.me       CNAME r7000.nt.jlrickert.me
+ns1.int.jlrickert.me       CNAME pihole-1.int.jlrickert.me
+ns2.int.jlrickert.me       CNAME pihole-2.int.jlrickert.me
+nextcloud.int.jlrickert.me CNAME app-1.int.jlrickert.me
+proxmox.int.jlrickert.me   CNAME trooper.int.jlrickert.me
+```
+
+### Other Virtual machines on 192.168.60/24
+
+Is this a good idea that it is on a different network?
+
+```
+192.168.60.71 A php71.int.jlrickert.me
+192.168.60.74 A php74.int.jlrickert.me
+192.168.60.81 A php81.int.jlrickert.me
+```
+
+### Wireguard things
+
+Network will be 10.150.0.0/16
+
+### Work things
+
+Work mock network will be on a separate network at 10.1.0.0/16
+
+## See also
+
+- [Homelab](../578)

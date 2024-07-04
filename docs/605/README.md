@@ -1,4 +1,4 @@
-# Research into creating a docker for multiple php sites
+# Research: docker setup for multiple php websites
 
 ```conf
 #devel
