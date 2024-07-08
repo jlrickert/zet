@@ -1,5 +1,7 @@
 # Bake: Fourth of July focaccia
 
+![focaccia](./focaccia.jpg
+
 ## Ingredients
 
 | Ingredient        | Amount | Bakers Percentage | Comment              |
@@ -12,3 +14,6 @@
 ## Time log
 
 - 2024-07-04 10:24 fed starter
+- 2024-07-04 19:45 (mixed ingredients)
+- 2024-07-06 11:00 Pulled out of the refrigerator
+- 2024-07-06 13:00 Baked

@@ -9,7 +9,7 @@ The temperature is cooler this week. Around 75f.
 | Ingredient  | Weight | Bakers percentage | Comment                  |
 | ----------- | ------ | ----------------- | ------------------------ |
 | AP Flour    | 1141g  | 80%               | Walmart organic AP flour |
-| Whole wheat | 285g   | 20%               | Einkorn                  |
+| Whole wheat | 285g   | 20%               | [Einkorn](../648)        |
 | Water       | 941g   | 66%               |                          |
 | rye starter | 143g   | 10%               | 100% rye; 1 to 1 ratio   |
 | Salt        | 14g    | 1%                |                          |

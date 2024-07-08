@@ -62,6 +62,12 @@ Network will be 10.150.0.0/16
 
 Work mock network will be on a separate network at 10.1.0.0/16
 
+## Web interfaces
+
+- DNS web GUI: 192.168.50.20/admin
+- pfsense: 192.168.50.1
+- Access point: 192.168.50.3
+
 ## See also
 
 - [Homelab](../578)
