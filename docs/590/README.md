@@ -12,9 +12,6 @@ This is my server that is behind a NAT
 - wg0 ip: 10.0.0.1/31
 - config
 
-  ```conf
-  ```
-
 ## charm.jlrickert.me:
 
 - eth0 24.199.80.67/20

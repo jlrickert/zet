@@ -1,4 +1,4 @@
-# Overview of macOS tools and software
+# Overview: MacOSX tools and software
 
 | App              | Source | Description                                    |
 | ---------------- | ------ | ---------------------------------------------- |
@@ -8,5 +8,3 @@
 | Yabai            |        | tiling window manager                          |
 | xkhd             |        | keyboard shortcuts                             |
 | Activity Monitor | Apple  | system monitor like the tui btop               |
-
-    tags: #macOS #workstation

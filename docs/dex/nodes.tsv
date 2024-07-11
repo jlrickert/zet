@@ -97,7 +97,7 @@
 101	2024-04-22 18:01:49Z	Installing software with curl
 102	2023-10-20 16:14:20Z	Using a temporary directory that require installing transient scripts
 103	2023-12-29 18:06:44Z	Tiling window management on macOS with Yabai
-104	2023-09-07 02:26:52Z	Overview of macOS tools and software
+104	2024-07-11 14:03:40Z	Overview: MacOSX tools and software
 105	2024-04-17 16:08:35Z	Concrete 5
 106	2023-09-07 02:26:52Z	How to install lando on MacOS
 107	2023-09-07 02:26:52Z	Date standards
@@ -110,8 +110,8 @@
 114	2023-09-07 02:26:52Z	Samsung S22+ device specification
 115	2023-09-07 02:26:52Z	Recommended android SDK target for new android apps
 116	2023-09-07 02:26:52Z	Lando concepts
-117	2023-09-07 02:26:52Z	Mailhog
-118	2023-09-07 02:26:52Z	Reason why some things will not work on apple
+117	2024-07-11 14:02:58Z	Overview: Mailhog
+118	2024-07-11 14:07:28Z	Reason why some things will not work on apple
 119	2023-09-07 02:26:52Z	Tmux integration with iTerm 2
 120	2023-09-07 02:26:52Z	Diablo 4 completions
 121	2023-09-07 02:26:52Z	Necromancer leveling build on Diablo 4
@@ -188,7 +188,7 @@
 197	2023-09-07 02:26:52Z	A nifty way to compare versions
 198	2023-09-07 02:26:52Z	How to manage dependencies with git submodules
 199	2023-09-07 02:26:52Z	Top stats for warlock in dragon flight season 2
-200	2023-09-07 02:26:52Z	How to utilize these notes
+200	2024-07-11 14:19:24Z	How to utilize these notes
 202	2024-06-21 02:22:52Z	Optimal rice to water ratio
 203	2023-09-07 02:26:52Z	A possible thing to look out for if you see a spike in traffic
 204	2023-09-07 02:26:52Z	Web development security risk types
@@ -528,7 +528,7 @@
 554	2024-05-18 19:20:13Z	Known standards
 555	2024-05-18 23:13:30Z	GitHub action using nix
 556	2024-05-18 23:46:58Z	Git clients
-557	2024-05-18 23:46:12Z	cmgrifing the streamer
+557	2024-07-11 13:59:11Z	Person: cmgrifing the streamer
 558	2024-05-28 14:15:40Z	Basic sourdough batard
 559	2024-06-21 16:23:31Z	Case of using webp over png
 560	2024-05-23 15:10:51Z	Local network machine IP address discovery protocols
@@ -561,7 +561,7 @@
 587	2024-06-10 15:57:40Z	AWS service CloudFront
 588	2024-06-30 19:13:17Z	Baking: Mid week Focaccia sourdough
 589	2024-06-11 15:11:40Z	Network switch research
-590	2024-06-30 17:35:38Z	
+590	2024-07-11 13:58:22Z	
 591	2024-06-30 19:12:51Z	Baking: Fathers Day Weekend focaccia 2024
 592	2024-06-30 18:16:53Z	Issue: Sticking issues with baking
 593	2024-06-19 23:33:15Z	Research: Running sandals
@@ -594,7 +594,7 @@
 620	2024-06-30 20:22:51Z	Google structured data
 621	2024-07-01 12:59:40Z	Issue: saving files in vim updates the modified time stamp
 622	2024-06-30 21:04:19Z	Issue: Generating documentation for nvim plugins
-623	2024-06-30 21:20:47Z	Zettelkasten definition
+623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
 625	2024-06-30 21:46:31Z	Project: dotfiles
 626	2024-07-08 04:26:25Z	Homelab topology
@@ -616,7 +616,9 @@
 642	2024-07-04 15:26:53Z	Ingredient: King authors all purpose flour
 643	2024-07-04 17:53:31Z	Overview: Unix style search and replace utilities
 644	2024-07-04 17:53:34Z	Keg searching techniques
-645	2024-07-04 18:21:33Z	My current zettelkasten note taking setup
+645	2024-07-11 14:19:21Z	My current zettelkasten note taking setup
 646	2024-07-04 17:36:34Z	Project: keg
 647	2024-07-08 04:52:09Z	Project: Neovim Telescope
 648	2024-07-04 23:27:04Z	Ingredient: Einkorn wheat berries
+649	2024-07-11 14:21:23Z	Overview: My Note taking system
+650	2024-07-11 14:19:58Z	Overview: keg specification
