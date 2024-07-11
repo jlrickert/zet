@@ -15,7 +15,7 @@ Most nodes will have a prefix in the title. Each prefix specifies the type of no
 - `Ingredient:` An ingredient to use in a recipe
 - `Issue:`: A problem. Typically, this will have some possible solutions to it detailed.
 - `Meeting:` A meeting that I had. Typically, this will have
-- `Overview:` A entry point for an idea. Typically, this is the top of a hierarchy of nodes
+- `Overview:` A entry point for an idea. Typically, this is the top of a hierarchy of nodes. Also known as a hub.
 - `Person:`: A note about a physical unique person
 - `Project:` A particular project that I am working on
 - `Recipe:` A cooking recipe
