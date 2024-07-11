@@ -1,3 +1,4 @@
+* 2024-07-11 13:06:52Z [Package management in neovim with mason](../19)
 * 2024-07-08 04:52:13Z [Sourdough pizza dough batch request](../317)
 * 2024-07-08 04:52:09Z [Project: Neovim Telescope](../647)
 * 2024-07-08 04:52:01Z [Baking: Fourth of July Pizza dough](../614)
@@ -549,7 +550,6 @@
 * 2023-09-07 02:26:52Z [What is `mim`](../192)
 * 2023-09-07 02:26:52Z [Common patterns that I use for headers for my Zettelkasten](../191)
 * 2023-09-07 02:26:52Z [Overview of the service Mailchimp](../190)
-* 2023-09-07 02:26:52Z [Package managment in neovim with mason](../19)
 * 2023-09-07 02:26:52Z [How to implement a contact form with MailChimp](../189)
 * 2023-09-07 02:26:52Z [Mental health disability anomia](../188)
 * 2023-09-07 02:26:52Z [How to use `PostCSS` and `autoprefixer` in WordPress](../187)

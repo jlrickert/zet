@@ -1,8 +1,6 @@
-# Package managment in neovim with mason
+# Package management in neovim with mason
 
-Mason is a package manager for neovim. The contents of the packages that may be
-installed are DAP, LSP, Linters and formatters. To quickly setup do the
-following:
+Mason is a package manager for neovim. The contents of the packages that may be installed are DAP, LSP, Linters and formatters. To quickly setup do the following:
 
 ```lua
 -- put this somewhere in your packer file
