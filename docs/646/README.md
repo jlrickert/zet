@@ -1,3 +1,3 @@
 # Project: keg
 
-A binary for working with a single keg. This is [rwxrob](../628) brain child.
+My customizations to [keg](../651). A binary for working with a single keg.
