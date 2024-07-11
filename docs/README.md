@@ -6,4 +6,6 @@ A word of caution is that these are raw notes. They may be inaccurate, messy, an
 
 The reason that I make these notes available is that they may be helpful to some one out there.
 
+If your courious about the whole setup for this search for the overview for [my note taking system](./623).
+
 [blog]: https://jlrickert.me/blog
