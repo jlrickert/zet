@@ -1,10 +1,8 @@
 # Managing contexts with bash
 
-Homebrew bootstraps itself with `source <(/opt/homebrew/bin/brew
-shellenv)`
+Homebrew bootstraps itself with `source <(/opt/homebrew/bin/brew shellenv)`
 
-Here is a similar thing that I have come up with. Here is my `shellenv`
-bash script.
+Here is a similar thing that I have come up with. Here is my `shellenv` bash script.
 
 ```bash
 #!/bin/bash
@@ -23,10 +21,4 @@ EOF
 echo -e "${SCRIPT}"
 ```
 
-This may be sourced with `source <(/path/to/shellenv)`. This is a work
-around for the fact that a subshell is not able to modify the caller.
-This allows the shellenv script to have the environment that we expect.
-
-Meta:
-
-    tags: #bash #cli
+This may be sourced with `source <(/path/to/shellenv)`. This is a work around for the fact that a subshell is not able to modify the caller. This allows the shellenv script to have the environment that we expect.
