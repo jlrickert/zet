@@ -4,6 +4,12 @@ I use a [zettelkasten](../623) for taking notes. The whole goal of my notes is t
 
 ## Node content
 
+Github flavored markdown for now. This is what prettier supports currently.
+
+## Custom indexes
+
+nodes.tsv and changes.md are currently auto generated. Everything else is manually entered in.  At some point I plan on adding a few more such as ones around tags.
+
 ## Node titles
 
 Most nodes will have a prefix in the title. Each prefix specifies the type of noun. Here are the ones that I typically use:

@@ -242,7 +242,7 @@
 256	2024-05-15 19:47:32Z	Recommended image types to use on the web
 257	2023-09-07 02:26:52Z	Article about how PostCSS is an alternatie to SCSS
 258	2023-09-07 02:26:52Z	Managing encrypted data with ssh keys
-259	2023-09-07 02:26:52Z	Automatically rerunning commands with `entr`
+259	2024-07-12 02:07:47Z	Automatically rerunning commands with `entr`
 260	2023-09-07 02:26:52Z	Types of pizza
 261	2023-09-21 19:05:25Z	Hugo theme development loop
 262	2023-09-07 02:26:52Z	Seamless navigation between tmux and vim
@@ -536,7 +536,7 @@
 562	2024-06-30 17:25:23Z	FreeBSD for homelab exploration
 563	2024-06-30 18:01:39Z	Hardware: Think Server 140 (ts140)
 564	2024-06-30 17:53:39Z	Hardware: Dell XPS 9710
-565	2024-06-27 14:59:55Z	Improving CLS with blocking font loading
+565	2024-07-12 16:32:34Z	Improving CLS with blocking font loading
 566	2024-05-30 20:59:55Z	All things sudo
 567	2024-06-07 20:03:47Z	VLAN overview
 568	2024-07-04 18:18:00Z	Research: buying Ethernet adapters for a PC or server
@@ -588,7 +588,7 @@
 614	2024-07-08 04:52:01Z	Baking: Fourth of July Pizza dough
 615	2024-07-01 15:24:21Z	Ingredient: Polselli 00 flour classica
 616	2024-06-30 19:22:45Z	Neapolitan pizza
-617	2024-07-11 14:33:42Z	How I organize my notes
+617	2024-07-11 14:39:27Z	How I organize my notes
 618	2024-07-11 14:35:06Z	Other note taking structures
 619	2024-06-30 20:10:28Z	Project: Neovim editor
 620	2024-06-30 20:22:51Z	Google structured data
@@ -596,7 +596,7 @@
 622	2024-06-30 21:04:19Z	Issue: Generating documentation for nvim plugins
 623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
-625	2024-06-30 21:46:31Z	Project: dotfiles
+625	2024-07-12 04:07:26Z	Project: dotfiles
 626	2024-07-08 04:26:25Z	Homelab topology
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
 628	2024-06-30 22:16:35Z	Person: Streamer rwxrob
@@ -620,6 +620,14 @@
 646	2024-07-11 14:28:45Z	Project: keg
 647	2024-07-08 04:52:09Z	Project: Neovim Telescope
 648	2024-07-04 23:27:04Z	Ingredient: Einkorn wheat berries
-649	2024-07-11 14:32:30Z	Overview: My Note taking system
+649	2024-07-11 14:40:48Z	Overview: My Note taking system
 650	2024-07-11 14:19:58Z	Overview: keg specification
 651	2024-07-11 14:29:29Z	Overview: keg
+652	2024-07-11 17:06:48Z	Reusable Mariadb SQL scripts on the CLI
+653	2024-07-11 17:06:51Z	Overview: Mariadb
+654	2024-07-11 17:01:36Z	Overview: MacOSX
+655	2024-07-11 17:04:44Z	Handy pathing scripts
+656	2024-07-12 04:09:14Z	Issue: stupid MacOSX permissions crap
+657	2024-07-12 16:02:11Z	Overview: Website development
+658	2024-07-12 16:32:32Z	How to add custom fonts to a website
+659	2024-07-12 16:32:36Z	Arial font
