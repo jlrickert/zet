@@ -2,13 +2,9 @@
 
 ## DNS
 
-Use quad9 for external
+I have 2 [Pi Holes](../662) setup that handle the internal DNS. I have them setup to forward to [quad9](../668). Currently they are running on [proxmox](../635)
 
-9.9.9.9 and 149.112.112.112
-
-## VLANS
-
-Don't plan on using as I don't want to spend time working on it.
+See DNS [task](../667) to see how to setup.
 
 ## Network layout
 
@@ -65,8 +61,15 @@ Work mock network will be on a separate network at 10.1.0.0/16
 ## Web interfaces
 
 - DNS web GUI: 192.168.50.20/admin
+- DNS web GUI: 192.168.51.20/admin
 - pfsense: 192.168.50.1
 - Access point: 192.168.50.3
+
+## Other considerations
+
+### VLANS
+
+Don't plan on using as I don't want to spend time working on it.
 
 ## See also
 

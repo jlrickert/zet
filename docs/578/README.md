@@ -1,8 +1,8 @@
 # Project: Current Homelab
 
-Home lab is what I run on my machine
+This is my own personal cloud that I have running on my own hardware.
 
-- [Network topology](../626)
+For an overview of how I have the networks setup see [Network topology](../626).
 
 ## Hardware
 
@@ -36,6 +36,7 @@ Home lab is what I run on my machine
 - 3 machine k8s cluster (undecided on hardware)
 - NAS box
 - 2.5GB switch
+- [WiFi upgrade](..639)
 
 ## Example home labs
 

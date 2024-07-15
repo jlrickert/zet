@@ -1,4 +1,4 @@
-# How do you fingerprint the OS with bash
+# OS Fingerprinting strategies in bash
 
 Being able to detect what environment is problem that comes up often. It is a requirement when writing install scripts that need to support multiple environments. Some environments include: MacOS, Debian, Ubuntu, Arch, Windows, WSL 1, WSL 2, and different CI/CD environments.
 
@@ -23,7 +23,7 @@ Being able to detect what environment is problem that comes up often. It is a re
 - Detect Linux distribution being used
 
   ```bash
-  NAME="$(cat /etc/*-release | grep "ID" | awk -F'=' '{print $2}'})"
+  NAME="$(cat /etc/*-release | grep "^ID=" | awk -F'=' '{print $2}')"
   case $NAME in
   'fedora') ;;
   'debian') ;;

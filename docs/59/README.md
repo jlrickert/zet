@@ -1,7 +1,6 @@
-# Foony's developer acorn1010
+# Person: Foony's developer acorn1010
 
-[acorn1010] is a twitch streamer who streams full time building [foony] along
-with another co-founder.
+[acorn1010] is a twitch streamer who streams full time building [foony] along with another co-founder.
 
 Tech stack
 

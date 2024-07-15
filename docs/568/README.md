@@ -8,7 +8,12 @@ For 1G
 
 For 2.5G don't bother if you plan on going FreeBSD or Linux
 
+- I226
+- Maybe I225
+
 For 10G
+
+- ???
 
 ## See also
 

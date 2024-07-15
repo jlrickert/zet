@@ -1,6 +1,6 @@
 # Hardware: Think Server 140 (ts140)
 
-Server that I got as a present long ago. A common nickname that I use for it is ts140
+Server that I got as a present long ago. A common nickname that I use for it is ts140.
 
 ## Hardware
 

@@ -1,6 +1,6 @@
 # [x] Homelab Task | setup a vpn
 
-Working example on 2024-07-02.  Just need to figure out why I cannot access everything on the LAN.
+Working example on 2024-07-02. Just need to figure out why I cannot access everything on the LAN.
 
 Need to setup a reliable VPN so I can access my home network. Currently, I plan on making the VPN work on [ts140](../563)
 
