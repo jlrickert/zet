@@ -1,3 +1,5 @@
+* 2024-07-16 21:58:03Z [Place: Mill city running](../682)
+* 2024-07-16 21:57:45Z [Mill city running group](../527)
 * 2024-07-16 15:35:32Z [Article: Really good article about software engineering principles](../77)
 * 2024-07-16 02:53:30Z [Programmatic bash completions](../125)
 * 2024-07-16 02:51:10Z [Overview: Bash scripting](../660)
@@ -237,7 +239,6 @@
 * 2024-04-16 21:01:22Z [SSH key rotation best practices](../352)
 * 2024-04-15 22:19:03Z [Sourdough batard with purple prairie barley](../528)
 * 2024-04-15 19:36:37Z [Monday April 15 2024 daily entry](../529)
-* 2024-04-14 15:22:40Z [Mill city running group](../527)
 * 2024-04-13 18:57:14Z [A better zustand store](../514)
 * 2024-04-08 16:18:17Z [Davy Crockett National Forest camping](../526)
 * 2024-04-08 15:57:04Z [Primitive Camping in Texas](../525)
