@@ -26,6 +26,11 @@ SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 - [export PATH trick](../655)
 - [Bash completions](../125)
 
+## Handy executables
+
+- [`entr`](../679)
+- [`rsync`](../680)
+
 ## Integrations
 
 - [reusable SQL script](../652) with [mariadb](../654)

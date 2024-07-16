@@ -6,4 +6,4 @@ Based on [Debian](../674)
 
 - [networking](../675)
 
-See also [networking](../585) in [freebsd]()
+See also [networking](../585) in [freebsd](../672)

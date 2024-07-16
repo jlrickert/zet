@@ -6,7 +6,7 @@ Relevant variables:
 
 | Variable     | Description                                                        |
 | ------------ | ------------------------------------------------------------------ |
-| `COMREPLY`   | An array to push to for options that are available for completions |
+| `COMPREPLY`  | An array to push to for options that are available for completions |
 | `COMP_WORDS` | an array of all the words typed after the name of the program      |
 | `COMP_LINE`  | the current command line                                           |
 

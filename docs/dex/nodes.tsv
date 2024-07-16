@@ -71,7 +71,7 @@
 74	2023-12-01 18:30:11Z	Git techniques and cheat sheet
 75	2023-09-07 02:26:52Z	Tiling window management in windows with komorebi
 76	2023-09-07 02:26:52Z	Harpoon keybindings in vscode
-77	2023-09-07 02:26:52Z	Really good article about software engineering principles
+77	2024-07-16 15:35:32Z	Article: Really good article about software engineering principles
 78	2023-09-07 02:26:52Z	Quick fix menus in vim
 79	2024-07-04 18:22:35Z	An example of a bash script that has tab completion
 80	2024-07-04 18:24:20Z	Person: Rob Muhlestein
@@ -118,7 +118,7 @@
 122	2023-09-07 02:26:52Z	My vim setup
 123	2023-09-07 02:26:52Z	Problems with Linux as a workstation
 124	2024-05-15 21:58:49Z	Sync a directory with rsync
-125	2024-07-12 22:37:26Z	Programmatic bash completions
+125	2024-07-16 02:53:30Z	Programmatic bash completions
 126	2023-09-21 19:01:07Z	Golang development loop with multi repos
 127	2023-09-07 02:26:52Z	A quick to making a module in golang
 128	2023-09-07 02:26:52Z	WordPress plugin Gravity forms
@@ -590,7 +590,7 @@
 616	2024-06-30 19:22:45Z	Neapolitan pizza
 617	2024-07-11 14:39:27Z	How I organize my notes
 618	2024-07-11 14:35:06Z	Other note taking structures
-619	2024-06-30 20:10:28Z	Project: Neovim editor
+619	2024-07-15 16:43:13Z	Project: Neovim editor
 620	2024-06-30 20:22:51Z	Google structured data
 621	2024-07-01 12:59:40Z	Issue: saving files in vim updates the modified time stamp
 622	2024-07-14 20:39:31Z	Issue: Generating documentation for nvim plugins
@@ -618,7 +618,7 @@
 644	2024-07-04 17:53:34Z	Keg searching techniques
 645	2024-07-11 14:34:22Z	My current zettelkasten note taking setup
 646	2024-07-11 14:28:45Z	Project: keg
-647	2024-07-08 04:52:09Z	Project: Neovim Telescope
+647	2024-07-15 16:43:52Z	Overview: Neovim Telescope Plugin
 648	2024-07-04 23:27:04Z	Ingredient: Einkorn wheat berries
 649	2024-07-11 14:40:48Z	Overview: My Note taking system
 650	2024-07-11 14:19:58Z	Overview: keg specification
@@ -628,10 +628,10 @@
 654	2024-07-11 17:01:36Z	Overview: MacOSX
 655	2024-07-11 17:04:44Z	Handy pathing scripts
 656	2024-07-12 04:09:14Z	Issue: stupid MacOSX permissions crap
-657	2024-07-12 16:02:11Z	Overview: Website development
+657	2024-07-15 14:36:41Z	Overview: Website development
 658	2024-07-12 16:32:32Z	How to add custom fonts to a website
 659	2024-07-12 16:32:36Z	Arial font
-660	2024-07-12 20:20:28Z	Overview: Bash scripting
+660	2024-07-16 02:51:10Z	Overview: Bash scripting
 661	2024-07-14 20:40:10Z	[x] Homelab Task | setup proxmox
 662	2024-07-14 21:08:56Z	Overview: Pi-Hole
 663	2024-07-14 21:08:58Z	Overview: Raspberry pi
@@ -641,10 +641,15 @@
 667	2024-07-15 00:52:10Z	[x] Homelab Task | setup DNS
 668	2024-07-14 23:13:30Z	Overview: Quad9 DNS
 669	2024-07-14 23:24:32Z	Preferred click handling mouse down vs mouse up
-670	2024-07-15 02:06:25Z	Overview: Ubuntu
+670	2024-07-15 14:35:24Z	Overview: Ubuntu
 671	2024-07-15 02:02:18Z	Dialog in website design
 672	2024-07-15 02:03:45Z	Overview: FreeBSD
 673	2024-07-15 02:03:30Z	Overview: UNIX
 674	2024-07-15 02:54:10Z	Overview: Debian
 675	2024-07-15 02:56:29Z	Networking in Linux
 676	2024-07-15 02:56:04Z	Overview: TrueNas
+677	2024-07-16 02:50:58Z	Techniques for handling scrolling
+678	2024-07-15 16:42:43Z	[ ] Neovim Task | hunk text object visual navigation issue
+679	2024-07-15 20:59:26Z	Overview: `entr`
+680	2024-07-15 20:59:55Z	Overview: `rsync`
+681	2024-07-15 21:01:20Z	[ ] Dotfiles Task | create `sync-project` script
