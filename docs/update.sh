@@ -16,6 +16,7 @@ declare RESET='[0m'
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
 BAKING_INDEX="${SCRIPT_DIR}/dex/baking.md"
+TAGS_INDEX="${SCRIPT_DIR}/dex/tags"
 
 baking_index() {
 	[ -f "${BAKING_INDEX}" ] && rm "${BAKING_INDEX}"
@@ -51,5 +52,37 @@ baking_index() {
 	printf "%s\n" "${entries[@]}" | sort -r >"${BAKING_INDEX}"
 }
 
-baking_index
+tags_index() {
+	[ -f "${TAGS_INDEX}" ] && rm "${TAGS_INDEX}"
+
+	tmp_file=$(mktemp)
+	trap 'rm -f "${tmp_file}"' EXIT
+
+	while IFS= read -r id; do
+		local meta_file="${id}/meta.yaml"
+		if [ ! -f "${meta_file}" ]; then
+			continue
+		fi
+		yq -r '.tags[]' "${meta_file}" | while IFS= read -r tag; do
+			echo "${tag} ${id}" >>"${tmp_file}"
+		done
+	done < <(ku nodes)
+
+	# Write sorted entries to file
+	sort -u "${tmp_file}" | awk '
+	{
+		arr[$1] = arr[$1] ? arr[$1] " " $2 : $2;
+	}
+	END {
+		for (key in arr) {
+			print key, arr[key]
+		}
+	}' >"${TAGS_INDEX}"
+	rm "${tmp_file}"
+}
+
+time tags_index
+echo "${GOLD}Index \"${TAGS_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+time baking_index
 echo "${GOLD}Index \"${BAKING_INDEX#"$(pwd)/"}\" updated${RESET}"
