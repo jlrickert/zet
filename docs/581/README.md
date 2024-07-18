@@ -4,5 +4,5 @@ A PC that I build for myself when I was in college. I nicknamed it trooper becau
 
 ## Specs
 
-- A170-Z
+- Z170-A
 - 48G of memory
