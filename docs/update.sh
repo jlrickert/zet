@@ -4,14 +4,15 @@ set -o errexit  # exit if non-zero status code is returned
 set -o nounset  # exit if undefined variable is used
 set -o pipefail # exit if no-zero status code is returned in a pipeline
 
-declare NOCOLOR=
+NOCOLOR=${NOCOLOR:-}
 [[ -t 1 ]] || NOCOLOR=y
-declare GOLD='[38;2;184;138;0m'
-declare RED='[38;2;255;0;0m'
-declare GREY='[38;2;100;100;100m'
-declare CYAN='[38;2;0;255;255m'
 declare GREEN='[38;2;0;255;0m'
 declare RESET='[0m'
+
+if [[ -n "${NOCOLOR}" ]]; then
+	GREEN=
+	RESET=
+fi
 
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
@@ -81,8 +82,8 @@ tags_index() {
 	rm "${tmp_file}"
 }
 
-time tags_index
-echo "${GOLD}Index \"${TAGS_INDEX#"$(pwd)/"}\" updated${RESET}"
+tags_index
+echo "${GREEN}Index \"${TAGS_INDEX#"$(pwd)/"}\" updated${RESET}"
 
-time baking_index
-echo "${GOLD}Index \"${BAKING_INDEX#"$(pwd)/"}\" updated${RESET}"
+baking_index
+echo "${GREEN}Index \"${BAKING_INDEX#"$(pwd)/"}\" updated${RESET}"
