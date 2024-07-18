@@ -6,7 +6,7 @@ Setup 2 [pi holes](../662) for my [homelab](../578).
 
 ## Installation process steps
 
-- Install 2 Ubuntu version 24.04 on [proxmox](../635) that is running on [trooper](../581).
+- Install 2 [Ubuntu] version 24.04 on [proxmox](../635) that is running on [trooper](../581).
 - Roughly 2G and 2 CPU is what I have setup. Also ensure they boot up on startup
 - For networking I use the following setup
 

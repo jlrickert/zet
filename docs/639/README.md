@@ -37,7 +37,7 @@ Cons:
 - Not wifi 6E
 - has 2.5G lan
 
-### BE9300
+### BE9300 (BE550)
 
 - WiFi 7
 - 280 USD
@@ -57,3 +57,7 @@ Mesh router
 - 300 USD
 - 8 lan USD
 - Need a 2.5G POE injector (30 USD)
+
+## Retrospect
+
+Decided on the [BE550](../685)

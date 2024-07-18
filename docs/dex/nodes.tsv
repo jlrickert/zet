@@ -55,7 +55,7 @@
 56	2023-09-07 02:26:52Z	Interesting things that I ran into when researching neovim as an ide
 57	2023-09-07 02:26:52Z	Top typing program out there
 58	2023-09-07 02:26:52Z	Skeuomorphism website design
-59	2024-07-14 23:24:26Z	Person: Foony's developer acorn1010
+59	2024-07-16 22:14:04Z	Person: Foony's developer acorn1010
 60	2023-09-07 02:26:52Z	Dragonflight leather working recipes
 61	2023-09-07 02:26:52Z	How to setup fira code fonts on windows
 62	2023-09-07 02:26:52Z	Zettelkasten search engine
@@ -494,7 +494,7 @@
 520	2024-04-02 19:03:30Z	WOW Dragonflight Season 3
 521	2024-04-08 04:01:13Z	WOW Dragonflight season 4
 522	2024-04-05 17:59:34Z	Knut mobile app workflow
-523	2024-04-08 02:29:32Z	Huckleberry ridge conservatory
+523	2024-07-17 20:40:10Z	Place: Huckleberry ridge conservatory
 524	2024-04-08 04:47:16Z	Caddo national grasslands
 525	2024-04-08 15:57:04Z	Primitive Camping in Texas
 526	2024-04-08 16:18:17Z	Davy Crockett National Forest camping
@@ -536,7 +536,7 @@
 562	2024-06-30 17:25:23Z	FreeBSD for homelab exploration
 563	2024-07-14 18:47:29Z	Hardware: Think Server 140 (ts140)
 564	2024-06-30 17:53:39Z	Hardware: Dell XPS 9710
-565	2024-07-12 16:32:34Z	Improving CLS with blocking font loading
+565	2024-07-17 17:11:23Z	Improving CLS with blocking font loading
 566	2024-05-30 20:59:55Z	All things sudo
 567	2024-06-07 20:03:47Z	VLAN overview
 568	2024-07-14 19:46:02Z	Research: buying Ethernet adapters for a PC or server
@@ -549,7 +549,7 @@
 575	2024-06-08 16:08:06Z	File system recommendation for FreeBSD
 576	2024-06-08 16:19:05Z	VirtualBox on apple silicon
 577	2024-06-08 16:19:09Z	Converting a VirtualBox VDI to a QEMU on MacOSX
-578	2024-07-14 23:29:56Z	Project: Current Homelab
+578	2024-07-18 02:42:29Z	Project: Current Homelab
 579	2024-07-14 19:46:00Z	Netgear R7000 router
 580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
 581	2024-07-14 23:10:54Z	Hardware: Custom built PC Trooper
@@ -597,7 +597,7 @@
 623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
 625	2024-07-14 21:42:05Z	Project: dotfiles
-626	2024-07-14 23:44:06Z	Homelab topology
+626	2024-07-18 02:40:17Z	Current Homelab topology
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
 628	2024-06-30 22:16:35Z	Person: Streamer rwxrob
 629	2024-07-14 20:53:29Z	[x] Homelab Task | setup pfSense on ts140
@@ -610,7 +610,7 @@
 636	2024-07-03 18:31:43Z	Feature: search domain in DNS
 637	2024-07-08 04:51:57Z	Place: Taste of India St Louis Park
 638	2024-07-02 20:51:57Z	Place: St Louis Park, MN
-639	2024-07-14 18:18:48Z	Research: 2024 WiFi upgrade
+639	2024-07-18 04:59:51Z	Research: 2024 WiFi upgrade
 640	2024-07-08 04:51:53Z	Bake: Fourth of July focaccia
 641	2024-07-04 15:24:26Z	Ingredient: Turkey red wheat berries
 642	2024-07-04 15:26:53Z	Ingredient: King authors all purpose flour
@@ -629,16 +629,16 @@
 655	2024-07-11 17:04:44Z	Handy pathing scripts
 656	2024-07-12 04:09:14Z	Issue: stupid MacOSX permissions crap
 657	2024-07-15 14:36:41Z	Overview: Website development
-658	2024-07-12 16:32:32Z	How to add custom fonts to a website
+658	2024-07-17 17:12:40Z	How to add custom fonts to a website
 659	2024-07-12 16:32:36Z	Arial font
-660	2024-07-16 02:51:10Z	Overview: Bash scripting
+660	2024-07-18 00:09:55Z	Overview: Bash scripting
 661	2024-07-14 20:40:10Z	[x] Homelab Task | setup proxmox
 662	2024-07-14 21:08:56Z	Overview: Pi-Hole
 663	2024-07-14 21:08:58Z	Overview: Raspberry pi
 664	2024-07-14 21:09:20Z	[ ] Dotfiles Task | create a zetq script
 665	2024-07-14 21:42:41Z	SPEC: `zetq`
 666	2024-07-14 23:04:27Z	Project: Personal Zettelkasten (note taking system)
-667	2024-07-15 00:52:10Z	[x] Homelab Task | setup DNS
+667	2024-07-16 22:13:50Z	[x] Homelab Task | setup DNS
 668	2024-07-14 23:13:30Z	Overview: Quad9 DNS
 669	2024-07-14 23:24:32Z	Preferred click handling mouse down vs mouse up
 670	2024-07-15 14:35:24Z	Overview: Ubuntu
@@ -654,3 +654,6 @@
 680	2024-07-15 20:59:55Z	Overview: `rsync`
 681	2024-07-15 21:01:20Z	[ ] Dotfiles Task | create `sync-project` script
 682	2024-07-16 21:58:03Z	Place: Mill city running
+683	2024-07-17 20:37:26Z	Dispersed camping
+684	2024-07-18 00:10:00Z	Colors in bash scripting
+685	2024-07-18 05:18:34Z	Hardware: TP-Link BE550

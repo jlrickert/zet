@@ -25,6 +25,7 @@ SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 - [Os fingerprinting](../133)
 - [export PATH trick](../655)
 - [Bash completions](../125)
+- [Colors in bash scripting](../684)
 
 ## Handy executables
 

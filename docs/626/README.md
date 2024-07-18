@@ -1,4 +1,4 @@
-# Homelab topology
+# Current Homelab topology
 
 ## DNS
 
@@ -15,7 +15,7 @@ Core devices. These are physical devices. Hopefully I will never have more than 
 ```
 192.168.50.1/24 A ts140.int.jlrickert.me
 192.168.50.2/24 A trooper.int.jlrickert.me
-192.168.50.3/24 A r7000.int.jlrickert.me
+192.168.50.3/24 A be550.int.jlrickert.me
 192.168.50.4/24 A nas.int.jlrickert.me
 ```
 
@@ -33,7 +33,7 @@ Applications
 
 ```
 rtr1.int.jlrickert.me      CNAME ts140.int.jlrickert.me
-ap1.int.jlrickert.me       CNAME r7000.nt.jlrickert.me
+ap1.int.jlrickert.me       CNAME be550.int.jlrickert.me
 ns1.int.jlrickert.me       CNAME pihole-1.int.jlrickert.me
 ns2.int.jlrickert.me       CNAME pihole-2.int.jlrickert.me
 nextcloud.int.jlrickert.me CNAME app-1.int.jlrickert.me

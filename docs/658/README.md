@@ -40,6 +40,10 @@ p {
 - woff (oldish)
 - ttf (old school compatibility)
 
+## performance
+
+Research `font-display: swap` and `font-display: block`.
+
 ## Performance
 
 - See [improving cls with blocking font loading](../565)

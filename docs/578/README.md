@@ -10,10 +10,7 @@ For an overview of how I have the networks setup see [Network topology](../626).
 
   This will be running either FreeBSD or pfSense. This sill be my router, DNS, DHCP, and firewall.
 
-- [Netgear R7000](../579) | r7000.int.jlrickert.me
-
-  Planning on using as an access point and switch
-
+- [TP-Link BE550](../685) | be550.int.jlrickert.me
 - Modem
 - [Trooper](../581) | trooper.int.jlrickert.me
 
@@ -37,6 +34,12 @@ For an overview of how I have the networks setup see [Network topology](../626).
 - NAS box
 - 2.5GB switch
 - [WiFi upgrade](..639)
+
+### Retired hardware
+
+- [Netgear R7000](../579) | r7000.int.jlrickert.me
+
+  Planning on using as an access point and switch
 
 ## Example home labs
 
