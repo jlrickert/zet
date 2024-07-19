@@ -549,7 +549,7 @@
 575	2024-06-08 16:08:06Z	File system recommendation for FreeBSD
 576	2024-06-08 16:19:05Z	VirtualBox on apple silicon
 577	2024-06-08 16:19:09Z	Converting a VirtualBox VDI to a QEMU on MacOSX
-578	2024-07-18 02:42:29Z	Project: Current Homelab
+578	2024-07-19 19:31:22Z	Project: Current Homelab (homelab)
 579	2024-07-14 19:46:00Z	Netgear R7000 router
 580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
 581	2024-07-18 15:24:24Z	Hardware: Custom built PC Trooper
@@ -623,13 +623,13 @@
 649	2024-07-11 14:40:48Z	Overview: My Note taking system
 650	2024-07-11 14:19:58Z	Overview: keg specification
 651	2024-07-11 14:29:29Z	Overview: keg
-652	2024-07-12 20:20:30Z	Reusable Mariadb SQL scripts on the CLI
+652	2024-07-19 19:27:40Z	Reusable Mariadb SQL scripts on the CLI
 653	2024-07-12 19:58:38Z	Overview: Mariadb
 654	2024-07-11 17:01:36Z	Overview: MacOSX
 655	2024-07-11 17:04:44Z	Handy pathing scripts
 656	2024-07-12 04:09:14Z	Issue: stupid MacOSX permissions crap
-657	2024-07-15 14:36:41Z	Overview: Website development
-658	2024-07-17 17:12:40Z	How to add custom fonts to a website
+657	2024-07-19 19:27:36Z	Overview: Website development (webdev)
+658	2024-07-18 20:10:43Z	How to add custom fonts to a website
 659	2024-07-12 16:32:36Z	Arial font
 660	2024-07-18 00:09:55Z	Overview: Bash scripting
 661	2024-07-14 20:40:10Z	[x] Homelab Task | setup proxmox
@@ -637,7 +637,7 @@
 663	2024-07-14 21:08:58Z	Overview: Raspberry pi
 664	2024-07-14 21:09:20Z	[ ] Dotfiles Task | create a zetq script
 665	2024-07-14 21:42:41Z	SPEC: `zetq`
-666	2024-07-14 23:04:27Z	Project: Personal Zettelkasten (note taking system)
+666	2024-07-19 19:31:03Z	Project: Personal Zettelkasten (notetaking)
 667	2024-07-16 22:13:50Z	[x] Homelab Task | setup DNS
 668	2024-07-14 23:13:30Z	Overview: Quad9 DNS
 669	2024-07-14 23:24:32Z	Preferred click handling mouse down vs mouse up
@@ -657,3 +657,16 @@
 683	2024-07-17 20:37:26Z	Dispersed camping
 684	2024-07-18 00:10:00Z	Colors in bash scripting
 685	2024-07-18 05:18:34Z	Hardware: TP-Link BE550
+686	2024-07-18 19:21:02Z	Place: Utepils
+687	2024-07-18 19:22:04Z	Thirsty Thursdays Theo Trail Runners
+688	2024-07-19 05:29:38Z	Overview: Running
+689	2024-07-18 21:35:57Z	View CSS on interactive elements
+690	2024-07-19 05:21:14Z	Event: Two rivers 10 mile 2024
+691	2024-07-19 05:24:21Z	Event: Fargo half marathon 2024
+692	2024-07-19 05:25:30Z	Event: Ely marathon 2023
+693	2024-07-19 05:27:11Z	Event: Fargo half marathon 2019
+694	2024-07-19 19:22:20Z	Issue: Borders around a table header
+695	2024-07-19 19:30:17Z	Tabular data in HTML
+696	2024-07-19 19:14:09Z	Layout strategies for webdev
+697	2024-07-19 19:29:57Z	World wide web consortium (w3c)
+698	2024-07-19 19:30:13Z	WHATWG community (whatwg)

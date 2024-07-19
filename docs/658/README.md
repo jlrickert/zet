@@ -40,6 +40,39 @@ p {
 - woff (oldish)
 - ttf (old school compatibility)
 
+## Font weights and styles
+
+### Dynamic fonts
+
+Only need to create 1 font face for different weights and styles. Need to figure out if weight and stretch are implicit.
+
+```css
+@font-face {
+  font-family: "MyVariableFont";
+  src:
+    url("fonts/MyVariableFont.woff2") format("woff2"),
+    url("fonts/MyVariableFont.woff") format("woff"),
+    url("fonts/MyVariableFont.ttf") format("truetype");
+  font-weight: 100 900; /* Defines the range of weights */
+  font-stretch: 50% 100%; /* Defines the range of widths */
+  font-display: swap; /* Optional but recommended */
+}
+```
+
+Also known as OpenType Font variations.
+
+| Axis Name    | CSS Value |
+| ------------ | --------- |
+| Weight       | wght      |
+| Width        | wdth      |
+| Slant        | slnt      |
+| Optical Size | opsz      |
+| Italics      | ital      |
+
+See googles [variable font docs] for more information.
+
+[variable font docs]: https://fonts.google.com/knowledge/unknown/introducing_variable_fonts
+
 ## performance
 
 Research `font-display: swap` and `font-display: block`.

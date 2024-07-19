@@ -1,4 +1,4 @@
-# Project: Current Homelab
+# Project: Current Homelab (homelab)
 
 This is my own personal cloud that I have running on my own hardware.
 
