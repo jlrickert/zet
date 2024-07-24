@@ -1,4 +1,4 @@
-# Hardware: TP-Link BE550
+# Hardware: TP-Link BE550 (be550)
 
 WIFI7 router with 5 2.5G Ethernet ports.
 

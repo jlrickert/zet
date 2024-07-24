@@ -1,4 +1,4 @@
-# Baking index
+# Overview: Baking (baking)
 
 Index of the things that I have baked in the past. See [baking index](../dex/baking.md).
 
@@ -6,7 +6,3 @@ Index of the things that I have baked in the past. See [baking index](../dex/bak
 
 - [Types of sourdough preferments](../250)
 - [General index](../442)
-
-## Meta:
-
-    tags: #index #baking

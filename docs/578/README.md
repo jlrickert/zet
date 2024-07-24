@@ -8,7 +8,7 @@ For an overview of how I have the networks setup see [Network topology](../626).
 
 - [Think Server 140](../563) | ts140.int.jlrickert.me
 
-  This will be running either FreeBSD or pfSense. This sill be my router, DNS, DHCP, and firewall.
+  This is my router, DHCP, and firewall using [pfsense](../611).
 
 - [TP-Link BE550](../685) | be550.int.jlrickert.me
 - Modem
@@ -22,7 +22,7 @@ For an overview of how I have the networks setup see [Network topology](../626).
 
 - [MBP](../583)
 - [XPS](../564)
-- android phone
+- [android phone](../612)
 - android tablet
 - smart TV
 - google wiretap
@@ -33,7 +33,8 @@ For an overview of how I have the networks setup see [Network topology](../626).
 - 3 machine k8s cluster (undecided on hardware)
 - NAS box
 - 2.5GB switch
-- [WiFi upgrade](..639)
+- [WiFi upgrade](../639)
+- [Beelink EW12 N100](../699) for pfsense (or opnsense) router
 
 ### Retired hardware
 

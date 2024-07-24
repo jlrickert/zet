@@ -16,11 +16,16 @@ fi
 
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
-BAKING_INDEX="${SCRIPT_DIR}/dex/baking.md"
-OVERVIEW_INDEX="${SCRIPT_DIR}/dex/overviews.md"
-TAGS_INDEX="${SCRIPT_DIR}/dex/tags"
+BAKING_INDEX="${BAKING_INDEX:-"${SCRIPT_DIR}/dex/baking.md"}"
+HARDWARES_INDEX="${HARDWARES_INDEX:-"${SCRIPT_DIR}/dex/hardware.md"}"
+ISSUES_INDEX="${ISSUES_INDEX:-"${SCRIPT_DIR}/dex/issues.md"}"
+OVERVIEW_INDEX="${OVERVIEW_INDEX:-"${SCRIPT_DIR}/dex/overviews.md"}"
+PERSONS_INDEX="${PERSONS_INDEX:-"${SCRIPT_DIR}/dex/persons.md"}"
+PROJECTS_INDEX="${PROJECTS_INDEX:-"${SCRIPT_DIR}/dex/projects.md"}"
+TAGS_INDEX="${TASKS_INDEX:-"${SCRIPT_DIR}/dex/tags"}"
+TASKS_INDEX="${TASKS_INDEX:-"${SCRIPT_DIR}/dex/tasks.md"}"
 
-tags_index() {
+_tags_index() {
 	[ -f "${TAGS_INDEX}" ] && rm "${TAGS_INDEX}"
 
 	tmp_file=$(mktemp)
@@ -49,42 +54,98 @@ tags_index() {
 	rm "${tmp_file}"
 }
 
-baking_index() {
-	[ -f "${BAKING_INDEX}" ] && rm "${BAKING_INDEX}"
+_hardware_index() {
+	[ -f "${HARDWARES_INDEX}" ] && rm "${HARDWARES_INDEX}"
+	[ -f "${TAGS_INDEX}" ] || _tags_index
 
-	baking_process_id() {
-		local id="$1"
-		local meta_file="${id}/meta.yaml"
-		if [ ! -f "${meta_file}" ]; then
-			return
-		fi
-
-		local baking
-		baking=$(yq '.tags[] | select(. == "baking")' "${meta_file}")
-		local date
-		date=$(yq '.date' "${meta_file}")
-		if [ -z "${baking}" ] || [ "${date}" = "null" ]; then
-			return
-		fi
-
-		local title
+	echo "# Physical things that I own " > "${HARDWARES_INDEX}"
+	echo "" > "${HARDWARES_INDEX}"
+	awk '/^hardware / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
 		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
-		echo "- ${date} [${title}](../${id})"
-	}
-
-	export -f baking_process_id # Export function for parallel
-
-	local entries=()
-	while IFS= read -r line; do
-		entries+=("${line}")
-	done < <(ku nodes | xargs -P 0 -n 1 -I {} bash -c 'baking_process_id "$@"' _ {})
-
-	# Write sorted entries to file
-	printf "%s\n" "${entries[@]}" | sort -r >"${BAKING_INDEX}"
+		echo "- [${title}](../${id})" >>"${HARDWARES_INDEX}"
+	done
 }
 
-tags_index
+_baking_index() {
+	[ -f "${BAKING_INDEX}" ] && rm "${BAKING_INDEX}"
+
+	awk '/^baking / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+		date=$(yq '.date' "${id}/meta.yaml")
+		echo "- ${date} [${title}](../${id})" >>"${BAKING_INDEX}"
+	done
+
+	sort --reverse --output="${BAKING_INDEX}" "${BAKING_INDEX}"
+}
+
+_tasks_index() {
+	[ -f "${TASKS_INDEX}" ] && rm "${TASKS_INDEX}"
+	[ -f "${TAGS_INDEX}" ] || _tags_index
+
+	awk '/^task / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+		echo "- [${title}](../${id})" >>"${TASKS_INDEX}"
+	done
+
+}
+
+_person_index() {
+	[ -f "${PERSONS_INDEX}" ] && rm "${PERSONS_INDEX}"
+	[ -f "${TAGS_INDEX}" ] || tags_index
+
+	awk '/^person / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+		echo "- [${title}](../${id})" >>"${PERSONS_INDEX}"
+	done
+}
+
+_overview_index() {
+	[ -f "${OVERVIEW_INDEX}" ] && rm "${OVERVIEW_INDEX}"
+	[ -f "${TAGS_INDEX}" ] || tags_index
+
+	awk '/^overview / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+		echo "- [${title}](../${id})" >>"${OVERVIEW_INDEX}"
+	done
+}
+
+_projects_index() {
+	[ -f "${PROJECTS_INDEX}" ] && rm "${PROJECTS_INDEX}"
+	[ -f "${TAGS_INDEX}" ] || tags_index
+
+	awk '/^project / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+		echo "- [${title}](../${id})" >>"${PROJECTS_INDEX}"
+	done
+}
+
+_issues_index() {
+	[ -f "${ISSUES_INDEX}" ] && rm "${ISSUES_INDEX}"
+	[ -f "${TAGS_INDEX}" ] || tags_index
+
+	awk '/^issue / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+		echo "- [${title}](../${id})" >>"${ISSUES_INDEX}"
+	done
+}
+
+_tags_index
 echo "${GREEN}Index \"${TAGS_INDEX#"$(pwd)/"}\" updated${RESET}"
 
-baking_index
+_baking_index
 echo "${GREEN}Index \"${BAKING_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+_person_index
+echo "${GREEN}Index \"${PERSONS_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+_overview_index
+echo "${GREEN}Index \"${OVERVIEW_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+_tasks_index
+echo "${GREEN}Index \"${TASKS_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+_hardware_index
+echo "${GREEN}Index \"${HARDWARES_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+_issues_index
+echo "${GREEN}Index \"${ISSUES_INDEX#"$(pwd)/"}\" updated${RESET}"
