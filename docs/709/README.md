@@ -2,7 +2,7 @@
 
 ## Outdoors
 
-- [Utipils](../686)
+- [Utepils](../686)
 
 ## Indoors
 

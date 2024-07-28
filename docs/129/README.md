@@ -23,13 +23,9 @@ Here are some examples:
   echo "${arr[@]}"
   ```
 
-- Print out the first element in an array.  Need to verify this
+- Print out the first element in an array. Need to verify this
 
   ```bash
   # print out contents in the array
   echo "${arr}"
   ```
-
-Meta:
-
-    tags: #bash #programming

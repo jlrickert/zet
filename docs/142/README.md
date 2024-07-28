@@ -1,7 +1,6 @@
 # How to effectively use cp
 
-For copying files things are very straight forward. The basic syntax is
-one of these:
+For copying files things are very straight forward. The basic syntax is one of these:
 
 | Command                              | Outcome                                                   |
 | ------------------------------------ | --------------------------------------------------------- |
@@ -10,11 +9,7 @@ one of these:
 | `cp [...options] file file`          | Copy file to another location                             |
 | `cp [...options] file [...file] dir` | Copy over files to a destination directory                |
 
-A trailing _/_ on the source directory will copy the contents to the
-destination. If not are present then the directory itself will be
-copied over. Another interesting thing is that `-R` is used over `-r`.
-Historically, `-r` is what I used. However, `-R` is the correct one to
-use.
+A trailing _/_ on the source directory will copy the contents to the destination. If not are present then the directory itself will be copied over. Another interesting thing is that `-R` is used over `-r`. Historically, `-r` is what I used. However, `-R` is the correct one to use.
 
 For example `cp -R plugins/css/ themes/example/css`
 
@@ -84,5 +79,3 @@ After
             ├── example.css
             └── main.css
 ```
-
-    tags: #cli #devops

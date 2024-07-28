@@ -1,10 +1,6 @@
 # How to create your own theme in WordPress
 
-On a fresh WordPress install there will be a few example themes to get
-you started. They are `twentytwentyone`, `twentytwentythree`, and
-`twentytwentytwo`. There are 2 different types of themes. One is block
-and the other is classic. `twentytwentyone` is an example of a classic
-theme while the other 2 are block themes.
+On a fresh WordPress install there will be a few example themes to get you started. They are `twentytwentyone`, `twentytwentythree`, and `twentytwentytwo`. There are 2 different types of themes. One is block and the other is classic. `twentytwentyone` is an example of a classic theme while the other 2 are block themes.
 
 Key concepts
 
@@ -53,5 +49,3 @@ Basic directory structure of `twentytwentyone`
 ```
 
 `theme.json` includes CSS variables.
-
-    tags: #wordpress #php #development

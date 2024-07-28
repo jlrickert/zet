@@ -8,14 +8,14 @@
 7	2023-09-07 02:26:52Z	A Linux distribution called Pop_OS!
 8	2023-09-07 02:26:52Z	Pop_OS! unable to run jest
 9	2023-09-15 20:21:14Z	The processes of migrating my private zets to my public zets
-10	2023-09-07 02:26:52Z	How I manage my secret dot files using a usb stick
-11	2023-09-07 02:26:52Z	Unix help pages with color
-12	2023-09-07 02:26:52Z	How to view and edit pdfs and the command line
-13	2023-09-07 02:26:52Z	Nginx clear cache hack with echo ""
-14	2023-09-07 02:26:52Z	Fierce armor kit construction cost calculation
-15	2023-09-07 02:26:52Z	How to quickly test out space vim
-16	2023-09-29 03:15:59Z	How to quickly spin up a dev environment for testing with docker
-17	2023-09-07 02:26:52Z	How to manage files in vanilla vim with netrw
+10	2024-07-28 05:27:28Z	How I manage my secret dot files using a usb stick
+11	2024-07-28 05:31:07Z	Unix help pages with color
+12	2024-07-28 05:33:36Z	How to view and edit pdfs and the command line
+13	2024-07-28 05:35:19Z	Nginx clear cache hack with echo ""
+14	2024-07-28 05:48:12Z	Fierce armor kit construction cost calculation
+15	2024-07-28 05:56:31Z	How to quickly test out space vim
+16	2024-07-28 05:40:49Z	How to quickly spin up a dev environment for testing with docker
+17	2024-07-28 05:58:53Z	How to manage files in vanilla vim with netrw
 18	2023-09-07 02:26:52Z	Quick start on settup lsp for neovim lua hacking
 19	2024-07-11 13:06:52Z	Package management in neovim with mason
 20	2023-09-07 02:26:52Z	Pattern for managing keybindings in neovim
@@ -92,93 +92,93 @@
 95	2023-09-07 02:26:52Z	How to set path variables on MacOS
 96	2024-05-04 20:28:50Z	keg create git issue
 97	2023-09-07 02:26:52Z	Ergonomic mouse research
-99	2023-09-07 02:26:52Z	Fedora workstation setup
+99	2024-07-28 05:54:19Z	Fedora workstation setup
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
 101	2024-04-22 18:01:49Z	Installing software with curl
-102	2023-10-20 16:14:20Z	Using a temporary directory that require installing transient scripts
-103	2023-12-29 18:06:44Z	Tiling window management on macOS with Yabai
+102	2024-07-28 05:27:58Z	Using a temporary directory that require installing transient scripts
+103	2024-07-28 05:29:09Z	Tiling window management on macOS with Yabai
 104	2024-07-28 01:52:52Z	Overview: MacOSX tools and software
-105	2024-04-17 16:08:35Z	Concrete 5
-106	2023-09-07 02:26:52Z	How to install lando on MacOS
-107	2023-09-07 02:26:52Z	Date standards
+105	2024-07-28 05:28:49Z	Concrete 5
+106	2024-07-28 05:29:44Z	How to install lando on MacOS
+107	2024-07-28 05:30:12Z	Date standards
 108	2024-06-30 20:42:07Z	Research: Wowhead diablo 4 class ranking comparison
 109	2024-04-16 21:44:10Z	MacOS vs Linux difference
-110	2023-09-07 02:26:52Z	My personal PHP style guide
-111	2023-09-07 02:26:52Z	My personal Bash style guide
+110	2024-07-28 05:31:27Z	My personal PHP style guide
+111	2024-07-28 05:31:55Z	My personal Bash style guide
 112	2024-05-30 22:27:52Z	My personal typescript style guide
-113	2024-07-12 19:38:55Z	Managing contexts with bash
-114	2023-09-07 02:26:52Z	Samsung S22+ device specification
-115	2023-09-07 02:26:52Z	Recommended android SDK target for new android apps
-116	2023-09-07 02:26:52Z	Lando concepts
+113	2024-07-28 05:46:04Z	Managing contexts with bash
+114	2024-07-28 05:32:39Z	Overview: Samsung S22+ device specification
+115	2024-07-28 05:41:28Z	Recommended android SDK target for new android apps
+116	2024-07-28 05:45:41Z	Lando concepts
 117	2024-07-11 14:02:58Z	Overview: Mailhog
 118	2024-07-11 14:07:28Z	Reason why some things will not work on apple
-119	2023-09-07 02:26:52Z	Tmux integration with iTerm 2
-120	2023-09-07 02:26:52Z	Diablo 4 completions
-121	2023-09-07 02:26:52Z	Necromancer leveling build on Diablo 4
-122	2023-09-07 02:26:52Z	My vim setup
-123	2023-09-07 02:26:52Z	Problems with Linux as a workstation
+119	2024-07-28 05:46:31Z	Tmux integration with iTerm 2
+120	2024-07-28 05:35:41Z	Diablo 4 completions
+121	2024-07-28 05:41:55Z	Necromancer leveling build on Diablo 4
+122	2024-07-28 05:47:10Z	My vim setup
+123	2024-07-28 05:49:37Z	Problems with Linux as a workstation
 124	2024-05-15 21:58:49Z	Sync a directory with rsync
 125	2024-07-16 02:53:30Z	Programmatic bash completions
-126	2023-09-21 19:01:07Z	Golang development loop with multi repos
-127	2023-09-07 02:26:52Z	A quick to making a module in golang
-128	2023-09-07 02:26:52Z	WordPress plugin Gravity forms
-129	2023-09-07 02:26:52Z	How to use arrays in bash
-130	2023-09-07 02:26:52Z	How to configure bash scripting behavior
-131	2023-09-07 02:26:52Z	WordPress development key concepts
-132	2023-09-07 02:26:52Z	How to get started developing themes and plugins with WordPress
+126	2024-07-28 05:50:41Z	Golang development loop with multi repos
+127	2024-07-28 05:47:41Z	A quick to making a module in golang
+128	2024-07-28 05:48:33Z	WordPress plugin Gravity forms
+129	2024-07-28 05:34:06Z	How to use arrays in bash
+130	2024-07-28 05:48:58Z	How to configure bash scripting behavior
+131	2024-07-28 05:51:42Z	WordPress development key concepts
+132	2024-07-28 05:57:34Z	How to get started developing themes and plugins with WordPress
 133	2024-07-15 13:51:23Z	OS Fingerprinting strategies in bash
-134	2024-05-18 19:54:01Z	Recommended PHP language server to use
+134	2024-07-28 05:59:58Z	Recommended PHP language server to use
 135	2024-06-30 17:29:32Z	Task to figure out how to make scrolling faster on MacOS
 136	2024-07-21 15:03:08Z	How to setup VSCode for PHP and WordPress development
-137	2023-09-07 02:26:52Z	Como Park Zoo and Conservatory in St Paul Minnesota
+137	2024-07-28 05:52:44Z	Place: Como Park Zoo and Conservatory in St Paul Minnesota
 138	2023-09-07 02:26:52Z	Cuzzy's Grill and bar in downtown Minneapolis
-139	2023-09-07 02:26:52Z	How to setup bbPress forums in WordPress
-140	2023-09-07 02:26:52Z	How to create your own theme in WordPress
-141	2023-09-07 02:26:52Z	Task to fix keybinding issues between MacOS and ranger
-142	2023-09-07 02:26:52Z	How to effectively use cp
-143	2023-09-07 02:26:52Z	M23SS brewery event at Blackstack Brewing
+139	2024-07-28 05:53:13Z	How to setup bbPress forums in WordPress
+140	2024-07-28 05:36:06Z	How to create your own theme in WordPress
+141	2024-07-28 05:38:30Z	Issue: Task to fix keybinding issues between MacOS and ranger
+142	2024-07-28 05:58:08Z	How to effectively use cp
+143	2024-07-28 05:37:29Z	Event: M23SS brewery event at Blackstack Brewing
 144	2024-07-26 20:37:40Z	Minneapolis 20s 30s something social meetup group (M23SS)
 147	2023-09-07 02:26:52Z	Where to get started when design a system
-148	2023-10-19 05:03:36Z	Domain model for yabai
+148	2024-07-28 05:53:35Z	Domain model for yabai
 149	2023-09-07 02:26:52Z	Useful WordPress plugins
 150	2023-09-07 02:26:52Z	Basics of skip links in web development
-151	2023-09-07 02:26:52Z	Official WordPress theme review process
+151	2024-07-28 05:39:06Z	Official WordPress theme review process
 152	2023-09-07 02:26:52Z	How to setup tailwind for WordPress
-153	2023-09-07 02:26:52Z	Overview of a classic theme in WordPress
+153	2024-07-28 05:56:08Z	Overview of a classic theme in WordPress
 154	2023-09-07 02:26:52Z	Query strings are thought to impede indexing of dynamic pages
 155	2023-09-07 02:26:52Z	Overview of a block theme in WordPress
 156	2023-09-07 02:26:52Z	Overview of the block editor in WordPress
-157	2023-09-07 02:26:52Z	Overview of themes in WordPress
-158	2024-06-08 22:54:42Z	Thinking about a Zettelkasten organization as a form a taxonomy
+157	2024-07-28 05:58:31Z	Overview of themes in WordPress
+158	2024-07-28 05:40:27Z	Thinking about a Zettelkasten organization as a form a taxonomy
 159	2024-06-07 03:53:05Z	Full list of operating systems that ansible is able to detect
-160	2024-04-16 21:44:38Z	How to install homebrew on a MacOS
+160	2024-07-28 05:39:35Z	How to install homebrew on a MacOS
 161	2024-05-19 04:17:02Z	How to benchmark zsh
 162	2023-09-07 02:26:52Z	Look into the fidget rewrite issue
 163	2024-06-11 19:38:23Z	How to manage ssh keys
-164	2023-09-07 02:26:52Z	How to get started with the redfin api
-166	2023-09-07 02:26:52Z	The service userzoom for doing UX research
+164	2024-07-28 05:55:08Z	How to get started with the redfin api
+166	2024-07-28 05:54:43Z	The service userzoom for doing UX research
 167	2023-09-07 02:26:52Z	Overview of the sales CMS Zendesk
-168	2023-09-07 02:26:52Z	How to work with gradients with tailwind
+168	2024-07-28 05:56:52Z	How to work with gradients with tailwind
 169	2023-09-07 02:26:52Z	Headless CMS options for managing content
 171	2023-09-07 02:26:52Z	E-commerce headless CMS domain model
 172	2023-09-07 02:26:52Z	MLSGrid
 173	2023-09-07 02:26:52Z	Example scan line effect with tailwind
 174	2023-12-05 20:38:11Z	My personal website design
 175	2024-02-04 01:25:15Z	jq cheat sheet
-177	2023-09-07 02:26:52Z	WordPress development overview
+177	2024-07-28 06:02:09Z	WordPress development overview
 178	2023-09-07 02:26:52Z	What is an electrical component distributor
 179	2023-09-07 02:26:52Z	What is a custom wire cutting service
 180	2023-09-07 02:26:52Z	WordPress block theme development prompt for chatGPT
-181	2023-09-07 02:26:52Z	WordPress email integrations
-182	2023-09-07 02:26:52Z	What is platform requirements
+181	2024-07-28 06:00:24Z	WordPress email integrations
+182	2024-07-28 06:00:42Z	What is platform requirements
 183	2023-09-07 02:26:52Z	WordPress hosting on GoDaddy
 184	2023-09-07 02:26:52Z	WordPress hosting on WP Engine
 185	2024-05-19 19:16:23Z	Managing styles for block theme in WordPress
 186	2023-09-07 02:26:52Z	How to include CSS in a block theme for WordPress
 187	2023-09-07 02:26:52Z	How to use `PostCSS` and `autoprefixer` in WordPress
 188	2023-09-07 02:26:52Z	Mental health disability anomia
-189	2023-09-07 02:26:52Z	How to implement a contact form with MailChimp
-190	2023-09-07 02:26:52Z	Overview of the service Mailchimp
+189	2024-07-28 06:01:22Z	How to implement a contact form with MailChimp
+190	2024-07-28 06:01:50Z	Overview: of the service Mailchimp (mailchimp)
 191	2023-09-07 02:26:52Z	Common patterns that I use for headers for my Zettelkasten
 192	2023-09-07 02:26:52Z	What is `mim`
 193	2023-09-07 02:26:52Z	MX Vertical mouse
@@ -590,9 +590,9 @@
 616	2024-06-30 19:22:45Z	Neapolitan pizza
 617	2024-07-11 14:39:27Z	How I organize my notes
 618	2024-07-11 14:35:06Z	Other note taking structures
-619	2024-07-15 16:43:13Z	Project: Neovim editor
+619	2024-07-28 05:59:49Z	Project: Neovim editor
 620	2024-06-30 20:22:51Z	Google structured data
-621	2024-07-01 12:59:40Z	Issue: saving files in vim updates the modified time stamp
+621	2024-07-28 05:59:57Z	Issue: saving files in vim updates the modified time stamp
 622	2024-07-14 20:39:31Z	Issue: Generating documentation for nvim plugins
 623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
@@ -680,7 +680,7 @@
 706	2024-07-25 18:00:24Z	Styling tab focused items
 707	2024-07-28 02:17:40Z	Favorite parking spot in the North Loop
 708	2024-07-26 14:07:48Z	Refurbished enterprise data center HDD for NAS
-709	2024-07-26 14:19:57Z	Places that have good public WiFi in Minneapolis
+709	2024-07-28 05:21:47Z	Places that have good public WiFi in Minneapolis
 710	2024-07-26 20:54:02Z	Place: Wandering Leaf Brewing
 711	2024-07-26 16:25:39Z	Adding keyboard only navigation elements to websites
 712	2024-07-26 20:30:04Z	Time log: Minneapolis 20s and 30s something social meetup group
@@ -695,7 +695,7 @@
 721	2024-07-28 00:43:05Z	Hardware: Beelink EQ12 N100
 722	2024-07-28 00:41:01Z	OPNSense for networking
 724	2024-07-28 00:52:37Z	Company: Target
-725	2024-07-28 01:39:48Z	Event: Biking with 20s 30s somethings
+725	2024-07-28 05:55:42Z	Event: Biking with 20s 30s somethings
 726	2024-07-28 01:34:54Z	Place: Stillwater
 727	2024-07-28 01:36:52Z	Place: Como lake
 728	2024-07-28 01:41:12Z	Place: Minnesota (minnesota)
@@ -704,3 +704,7 @@
 731	2024-07-28 02:06:02Z	World of Warcraft expansions and seasons
 732	2024-07-28 02:23:59Z	Event: Twin Cities Marathon 2024
 733	2024-07-28 02:23:55Z	Event: Wild Duluth 50K 2024
+734	2024-07-28 04:37:53Z	Structured data on the web
+735	2024-07-28 04:48:05Z	Creating backlinks using using schema objects
+736	2024-07-28 05:11:02Z	Gear for dual training in swimming and running
+737	2024-07-28 05:05:49Z	Place: Cedar lake near Theo

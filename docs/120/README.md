@@ -16,7 +16,3 @@
 - [x]: Bound by blood
 - [x]: Menestad Coffers
 - [x]: Travelers prayers
-
-Meta:
-
-    tags: #diablo #gaming

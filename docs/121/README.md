@@ -64,5 +64,3 @@ Skill tree
 | 58    | Decrepify Level 3                                  | Curse Skill            |
 
 At level 15 swap blood surge for bone spear
-
-    tags: #diablo #gaming

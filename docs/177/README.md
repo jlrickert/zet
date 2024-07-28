@@ -1,8 +1,6 @@
 # WordPress development overview
 
-WordPress is a blogging platform whose content is managed by a CMS by default.
-One advantage of WordPress is that it is widely used and well documented. A few
-cons include long term maintenance and performance.
+WordPress is a blogging platform whose content is managed by a CMS by default. One advantage of WordPress is that it is widely used and well documented. A few cons include long term maintenance and performance.
 
 Things that I need to learn
 
@@ -27,7 +25,3 @@ See also
 - [useful development plugins](../149)
 - [plugin development overview](../226)
 - [theme development](../140)
-
-Meta
-
-    tags: #wordpress #php #webdev

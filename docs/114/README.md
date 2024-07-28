@@ -1,4 +1,4 @@
-# Samsung S22+ device specification
+# Overview: Samsung S22+ device specification
 
 Device [specifications] for my S22+ device.
 
@@ -12,5 +12,3 @@ Device [specifications] for my S22+ device.
 | CPU        | 1x 2.885 GHz Cortex-X2, 3x 2.496 GHz Cortex-A710, 4x 1.78GHz Cortex-A510 |         |
 
 [specifications]: https://www.devicespecifications.com/en/model/0d0957f5
-
-    tags: #samsung #android #hardware

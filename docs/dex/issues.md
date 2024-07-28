@@ -1,3 +1,4 @@
+- [Issue: Task to fix keybinding issues between MacOS and ranger](../141)
 - [Issue: Sticking issues with baking](../592)
 - [Issue: running a typescript library in deno](../599)
 - [Issue: saving files in vim updates the modified time stamp](../621)

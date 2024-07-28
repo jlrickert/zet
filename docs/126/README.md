@@ -1,11 +1,10 @@
 # Golang development loop with multi repos
 
-Version 1.18 of go has workspace feature. This allows using a `go.work` file to
-use override the location of the source of dependenies.
+Version 1.18 of go has workspace feature. This allows using a `go.work` file to use override the location of the source of dependencies.
 
 - Create a repo
 - Create a module
-- Include dependenies
+- Include dependencies
 
 Files related to the project
 
@@ -75,9 +74,7 @@ Files and their contents once everything has been modified.
   go 1.19
   ```
 
-One thing that I have figure out is that I am able to change the working
-directory to `workspace/hello` rather than `workspace`. This is accomplished by
-modifying the `go.work` file to the following:
+One thing that I have figure out is that I am able to change the working directory to `workspace/hello` rather than `workspace`. This is accomplished by modifying the `go.work` file to the following:
 
 ```go
 go 1.18
@@ -87,13 +84,8 @@ use (
 )
 ```
 
-found with this setup is that I can change the root directory that I want to
-work out of.
+Found with this setup is that I can change the root directory that I want to work out of.
 
 ## See also
 
 - [Go workspace tutorial](https://go.dev/doc/tutorial/workspaces)
-
-## Meta
-
-    tags: #golang #programming

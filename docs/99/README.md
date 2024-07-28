@@ -4,8 +4,7 @@ Installed fedora workstation. This comes with gnome using wayland.
 
 ## i3 gaps exploration
 
-Ran the following to install i3
-`sudo dnf install --allowerasing i3-gaps`
+Ran the following to install i3 `sudo dnf install --allowerasing i3-gaps`
 
 This installs the following:
 
@@ -20,34 +19,31 @@ This installs the following:
       perl-encoding-4:3.00-493.fc38.x86_64                 perl-open-1.13-495.fc38.noarch                       rxvt-unicode-9.31-2.fc38.x86_64
       xcb-util-cursor-0.1.4-2.fc38.x86_64                  xcb-util-xrm-1.3-11.fc38.x86_64                      xorg-x11-fonts-misc-7.5-35.fc38.noarch
 
-Ran the following to install i3
-`sudo dnf install --allowerasing feh thunar dunst i3-blocks rofi arandr`
+Ran the following to install i3 `sudo dnf install --allowerasing feh thunar dunst i3-blocks rofi arandr`
 
 ## sway exploration
 
-`sway` is a drop in replacemnt for i3-gaps but on wayland. This uses
-some different utilities than what is found with
+`sway` is a drop in replacemnt for i3-gaps but on wayland. This uses some different utilities than what is found with
 
 ## Arch setup
 
 Packages install on my arch system
 
--   rofi (dmenu replacement)
+- rofi (dmenu replacement)
 
-[EndeavourOS
-repo](https://github.com/endeavouros-team/endeavouros-i3wm-setup)
+[EndeavourOS repo](https://github.com/endeavouros-team/endeavouros-i3wm-setup)
 
 ## Flutter Experiment
 
 This needs to be somewhere in your dotfiles
 
-``` bash
+```bash
 export ANDROID_SDK_ROOT="$HOME/.local/share/android"
 PATH="$HOME/.local/share/flutter/bin:$PATH"
 PATH="$ANDROID_SDK_ROOT/cmdline-tools/bin:$PATH"
 ```
 
-``` bash
+```bash
 sudo dnf install clang cmake ninja-build gtk3-devel
 curl -fsSL -O https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.7.12-stable.tar.xz
 tar xf flutter_linux_3.7.12-stable.tar.xz

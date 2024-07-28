@@ -1,13 +1,8 @@
 # How to install lando on MacOS
 
-Prior to installing [lando] docker should be uninstalled. This is to
-prevent a couple of issues. Something to note is that Docker should be
-uninstalled before [lando] is installed. This allows [lando] to install
-the latest version that it supports. Follow the [installation docs] for
-a more detailed explanation of how to install.
+Prior to installing [lando] docker should be uninstalled. This is to prevent a couple of issues. Something to note is that Docker should be uninstalled before [lando] is installed. This allows [lando] to install the latest version that it supports. Follow the [installation docs] for a more detailed explanation of how to install.
 
-Here is a quick script to get to get started. It should do most of the
-work.
+Here is a quick script to get to get started. It should do most of the work.
 
 ```bash
 # only if you haven't ran this before
@@ -22,14 +17,9 @@ open /Volumes/Lando\ ${VERSION}/LandoInstaller.pkg
 sudo hdiutil detach "/Volumes/Lando ${VERSION}"
 ```
 
-Once everything is installed x86 emulation may need to be enabled if
-using apple silicon. To enable go into the settings in docker and enable
-_Use Rosetta for x86/amd64 emulation on Apple Silicon_. This is found in
-features in development.
+Once everything is installed x86 emulation may need to be enabled if using apple silicon. To enable go into the settings in docker and enable _Use Rosetta for x86/amd64 emulation on Apple Silicon_. This is found in features in development.
 
-An alternative installation is with brew. This is initially what I tried
-but it installed a newer version of docker desktop that didn't work.
-This is here for future reference.
+An alternative installation is with brew. This is initially what I tried but it installed a newer version of docker desktop that didn't work. This is here for future reference.
 
 ```bash
 brew install lando
@@ -37,5 +27,3 @@ brew install lando
 
 [installation docs]: https://docs.lando.dev/getting-started/installation.html
 [lando]: https://docs.lando.dev/php/
-
-    tags: #programming #macOS #php
