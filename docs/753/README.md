@@ -25,28 +25,28 @@ Corner riser that sits on top of a desk to allowing transitioning between sittin
 
 ## Photos
 
-[Top view](20240728_154814.jpg)
+![Top view](20240728_154814.jpg)
 
-[gas springs](20240728_154937.jpg)
+![gas springs](20240728_154937.jpg)
 
-[top side show removable keyboard tray](20240728_155042.jpg)
+![top side show removable keyboard tray](20240728_155042.jpg)
 
-[top measuring top depth](20240728_155207.jpg)
+![top measuring top depth](20240728_155207.jpg)
 
-[Side view when fully raised](20240728_154910.jpg)
+![Side view when fully raised](20240728_154910.jpg)
 
-[Removable keyboard tray mechanism](20240728_154951.jpg)
+![Removable keyboard tray mechanism](20240728_154951.jpg)
 
-[Top side close up showing removable keyboard tray](20240728_155046.jpg)
+![Top side close up showing removable keyboard tray](20240728_155046.jpg)
 
-[Underside measuring depth of base](20240728_155312.jpg)
+![Underside measuring depth of base](20240728_155312.jpg)
 
-[Lock mechanism](20240728_154928.jpg)
+![Lock mechanism](20240728_154928.jpg)
 
 Paddle on both sides that lock the vertical position.
 
-[Linkage when fully extended](20240728_155013.jpg)
+![Linkage when fully extended](20240728_155013.jpg)
 
-[Top measuring width](20240728_155120.jpg)
+![Top measuring width](20240728_155120.jpg)
 
-[Underside measuring width of base](./20240728_160333.jpg)
+![Underside measuring width of base](./20240728_160333.jpg)
