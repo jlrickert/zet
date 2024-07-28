@@ -1,4 +1,4 @@
-# Netgear R7000 router
+# Hardware: Netgear R7000 router
 
 Current router that I use at home
 

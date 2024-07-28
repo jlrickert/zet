@@ -58,11 +58,16 @@ _hardware_index() {
 	[ -f "${HARDWARES_INDEX}" ] && rm "${HARDWARES_INDEX}"
 	[ -f "${TAGS_INDEX}" ] || _tags_index
 
-	echo "# Physical things that I own " > "${HARDWARES_INDEX}"
-	echo "" > "${HARDWARES_INDEX}"
-	awk '/^hardware / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
-		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
-		echo "- [${title}](../${id})" >>"${HARDWARES_INDEX}"
+	personal_nodes=$(awk '/^personal / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}")
+	hardware_nodes=$(awk '/^hardware / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}")
+
+	echo "# Physical haredware that I own " >"${HARDWARES_INDEX}"
+	echo "" >>"${HARDWARES_INDEX}"
+	for id in ${hardware_nodes}; do
+		if grep -qw "${id}" <(echo "${personal_nodes}"); then
+			title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+			echo "- [${title}](../${id})" >>"${HARDWARES_INDEX}"
+		fi
 	done
 }
 
@@ -72,7 +77,9 @@ _baking_index() {
 	awk '/^baking / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
 		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
 		date=$(yq '.date' "${id}/meta.yaml")
-		echo "- ${date} [${title}](../${id})" >>"${BAKING_INDEX}"
+		if [ ! "${date}" = "null" ]; then
+			echo "- ${date} [${title}](../${id})" >>"${BAKING_INDEX}"
+		fi
 	done
 
 	sort --reverse --output="${BAKING_INDEX}" "${BAKING_INDEX}"

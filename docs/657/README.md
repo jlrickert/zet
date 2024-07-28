@@ -14,4 +14,4 @@ Official spec created by the [w3c](../697)
 
 ## Debugging tricks
 
-- [Viewing css on interactive elements](../689)
+- [Viewing CSS on interactive elements](../689)

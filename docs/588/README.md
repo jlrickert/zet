@@ -14,4 +14,4 @@
 - 2024-06-10 12:54 Mixed
 - 2024-06-11 09:00 Baked
 
-  Baked at 450f for 30m in the pyrex container. I [stuck](../592) at the edges.
+  Baked at 450f for 30m in the pyrex container. It [stuck](../592) at the edges.

@@ -1,4 +1,4 @@
-# Overview: Raspberry pi
+# Overview: Raspberry pi (pi)
 
 Low powered mini computer.
 

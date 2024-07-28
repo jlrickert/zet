@@ -21,6 +21,10 @@ Server that I got as a present long ago. A common nickname that I use for it is 
 
 - https://psref.lenovo.com/syspool/Sys/PDF/ThinkServer/ThinkServer_TS140/ThinkServer_TS140_Spec.PDF
 
+## Upgrade ability
+
+- Room for 3 more SSD cards. 1 in a 3.5 SSD slot. Need to figure out how to mount the other 2. There is a 5.25 slot.
+
 ## See also
 
 - [Hardware dump](../580)

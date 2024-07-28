@@ -1,7 +1,3 @@
-# World of warcraft evoker game play
+# World of Warcraft Evoker game play
 
-The evoker is a mobile caster who specialiazes whos utilies to do well with
-disruption. The available specs to play are [devastation](../2) and
-[preservation](../3).
-
-    tags: #wow #gaming
+The Evoker is a mobile caster who specializes whose utilities to do well with disruption. The available specs to play are [devastation](../2) and [preservation](../3).
