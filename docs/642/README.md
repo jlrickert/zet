@@ -1,1 +1,1 @@
-# Ingredient: King authors all purpose flour
+# Ingredient: King Arthur's bread flour

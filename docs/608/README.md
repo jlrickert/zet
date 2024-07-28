@@ -4,12 +4,12 @@
 
 ## Ingredients
 
-| Ingredient       | Amount | Bakers Percentage | Comment |
-| ---------------- | ------ | ----------------- | ------- |
-| Whole turkey red | 250g   |                   |         |
-| Water            | 200g   |                   |         |
-| starter          | 50g    |                   |         |
-| salt             | 7g     |                   |         |
+| Ingredient                 | Amount | Bakers Percentage | Comment |
+| -------------------------- | ------ | ----------------- | ------- |
+| [Whole turkey red](../739) | 250g   |                   |         |
+| Water                      | 200g   |                   |         |
+| starter                    | 50g    |                   |         |
+| salt                       | 7g     |                   |         |
 
 ## Time log
 

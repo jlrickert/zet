@@ -165,7 +165,7 @@
 173	2023-09-07 02:26:52Z	Example scan line effect with tailwind
 174	2023-12-05 20:38:11Z	My personal website design
 175	2024-02-04 01:25:15Z	jq cheat sheet
-177	2024-07-28 06:02:09Z	WordPress development overview
+177	2024-07-28 16:05:56Z	WordPress development overview
 178	2023-09-07 02:26:52Z	What is an electrical component distributor
 179	2023-09-07 02:26:52Z	What is a custom wire cutting service
 180	2023-09-07 02:26:52Z	WordPress block theme development prompt for chatGPT
@@ -273,7 +273,7 @@
 287	2023-09-07 02:26:52Z	Arch linux setup on blaze
 288	2023-09-07 02:26:52Z	Solution to being locked out of arch linux
 289	2023-11-13 17:30:24Z	Research for tendonitis issue
-290	2023-09-07 02:26:52Z	Kineses Advantage360
+290	2024-07-28 22:21:08Z	Hardware: Kineses Advantage360
 291	2023-09-07 02:26:52Z	Linux desktop comparison
 292	2024-07-24 18:45:21Z	Overview: Baking (baking)
 293	2024-01-27 20:37:45Z	Labor day weekend bread bowl
@@ -294,7 +294,7 @@
 309	2024-01-11 17:54:31Z	Sourdough Pizza experiment
 310	2024-01-11 17:53:18Z	Experimental rye and barley pullman loaf
 311	2024-01-11 17:53:05Z	Einkorn sourdough bread bowl
-312	2024-01-11 17:50:33Z	Sourdough pizza
+312	2024-07-28 16:20:27Z	Sourdough pizza
 315	2023-09-07 02:26:52Z	How to manually install a package from the AUR
 316	2024-07-04 17:05:52Z	Research: a Rofi like experience on MacOSX
 317	2024-07-08 04:52:13Z	Sourdough pizza dough batch request
@@ -579,7 +579,7 @@
 605	2024-06-30 17:25:50Z	Research: docker setup for multiple php websites
 606	2024-07-01 20:24:27Z	Overview: backing up Unix systems
 607	2024-06-29 05:02:38Z	Common network ranges used in private networks
-608	2024-06-30 19:12:36Z	Baking: Experimental whole wheat focaccia
+608	2024-07-28 16:13:11Z	Baking: Experimental whole wheat focaccia
 609	2024-07-11 14:30:32Z	Project: Knutjs
 610	2024-07-14 20:34:25Z	[x] Homelab Task | setup a vpn
 611	2024-07-28 00:40:59Z	pfSense for networking
@@ -602,7 +602,7 @@
 628	2024-06-30 22:16:35Z	Person: Streamer rwxrob
 629	2024-07-14 20:53:29Z	[x] Homelab Task | setup pfSense on ts140
 630	2024-07-01 15:20:41Z	Ingredient: King Author all purpose flour
-631	2024-07-01 15:20:33Z	Company: King Author
+631	2024-07-28 16:12:17Z	Company: King Arthur
 632	2024-07-01 15:23:03Z	Ingredient: Hard red wheat
 633	2024-07-01 15:32:05Z	Issue: Host only adapter not working in UTM
 634	2024-07-01 19:18:47Z	Beelink mini computers
@@ -613,7 +613,7 @@
 639	2024-07-18 04:59:51Z	Research: 2024 WiFi upgrade
 640	2024-07-08 04:51:53Z	Bake: Fourth of July focaccia
 641	2024-07-04 15:24:26Z	Ingredient: Turkey red wheat berries
-642	2024-07-04 15:26:53Z	Ingredient: King authors all purpose flour
+642	2024-07-28 16:11:54Z	Ingredient: King Arthur's bread flour
 643	2024-07-04 17:53:31Z	Overview: Unix style search and replace utilities
 644	2024-07-28 02:40:28Z	Keg searching techniques
 645	2024-07-28 02:41:56Z	My current zettelkasten note taking setup
@@ -634,7 +634,7 @@
 660	2024-07-18 00:09:55Z	Overview: Bash scripting
 661	2024-07-14 20:40:10Z	[x] Homelab Task | setup proxmox
 662	2024-07-14 21:08:56Z	Overview: Pi-Hole
-663	2024-07-24 19:14:28Z	Overview: Raspberry pi (pi)
+663	2024-07-28 20:55:29Z	Overview: Raspberry pi (pi)
 664	2024-07-14 21:09:20Z	[ ] Dotfiles Task | create a zetq script
 665	2024-07-28 02:42:13Z	SPEC: `zetq`
 666	2024-07-19 19:31:03Z	Project: Personal Zettelkasten (notetaking)
@@ -708,3 +708,22 @@
 735	2024-07-28 04:48:05Z	Creating backlinks using using schema objects
 736	2024-07-28 05:11:02Z	Gear for dual training in swimming and running
 737	2024-07-28 05:05:49Z	Place: Cedar lake near Theo
+738	2024-07-28 21:47:07Z	Bake: Simple whole wheat focaccia
+739	2024-07-28 16:09:42Z	Ingredient: Turkey Red wheat
+740	2024-07-28 16:14:30Z	Ingredient: Rye Berries
+741	2024-07-28 16:18:26Z	100% Rye sourdough starter
+742	2024-07-28 16:18:42Z	100% whole wheat sourdough starter
+743	2024-07-28 16:20:08Z	Ingredient: Einkorn wheat berries
+744	2024-07-28 16:24:57Z	Ingredient: Himalayan pink salt
+745	2024-07-28 17:35:39Z	Testing raw performance of hard drives with dd
+746	2024-07-28 20:38:57Z	Bryn Mawr neighborhood
+747	2024-07-28 20:40:02Z	Harrison neighborhood
+748	2024-07-28 19:07:13Z	Company: The Stepping Stone Group
+749	2024-07-28 20:39:18Z	App: appfolio
+750	2024-07-28 20:40:19Z	Research on recommended rental companies
+751	2024-07-28 19:05:24Z	Community bread oven in the Harrison Neighborhood
+752	2024-07-28 20:38:38Z	Rich text editors for website development
+753	2024-07-29 01:53:12Z	Hardware: 42" Flexispot corner raiser
+754	2024-07-28 21:49:50Z	Place: Polish Palace
+755	2024-07-28 21:51:51Z	Place: Sue falls
+756	2024-07-28 22:02:01Z	Hardware: My hands
