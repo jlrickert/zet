@@ -1,4 +1,4 @@
-# Hardware: Kineses Advantage360
+# Hardware: Kineses Advantage 360
 
 This is my favorite keyboard so far. Most comfortable keyboard that I have every used. Could be slightly smaller so I don't have to shift my [hand](../756) to reach the windows key. This is an ortho linear keyboard. Bought on [Amazon] for 429$.
 
@@ -14,7 +14,7 @@ To change to my custom layout layout hold the gear symbol (top left of the right
 - Wrist pain due to twisting because hand didn't know what to do. It fixed itself after a while
 - context switching between keyboards destroys typing speed
 - Gaming requires space bar on left. Just move the keys around
-- Unable to wake up windows with the keyboard. Have to replug it in. Works flawless on [mac](../583).
+- Unable to wake up windows with the keyboard. Have to re-plug it in. Works flawless on [mac](../583).
 
 ## Common issues
 

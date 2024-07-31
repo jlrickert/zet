@@ -273,7 +273,7 @@
 287	2023-09-07 02:26:52Z	Arch linux setup on blaze
 288	2023-09-07 02:26:52Z	Solution to being locked out of arch linux
 289	2023-11-13 17:30:24Z	Research for tendonitis issue
-290	2024-07-28 22:21:08Z	Hardware: Kineses Advantage360
+290	2024-07-29 14:25:10Z	Hardware: Kineses Advantage 360
 291	2023-09-07 02:26:52Z	Linux desktop comparison
 292	2024-07-24 18:45:21Z	Overview: Baking (baking)
 293	2024-01-27 20:37:45Z	Labor day weekend bread bowl
@@ -470,7 +470,7 @@
 496	2024-06-21 03:43:40Z	CommonJs module system in Node
 497	2024-02-12 20:12:55Z	TypeScript auto imports in neovim
 498	2024-02-13 17:18:33Z	How to programmatically upload to S3
-499	2024-02-13 17:18:25Z	How to sort an array with -1, 0, and 1 sort function
+499	2024-07-30 22:45:05Z	How to sort an array with -1, 0, and 1 sort function
 500	2024-02-13 17:26:50Z	Mirage OS virtual library OS
 501	2024-02-13 17:29:10Z	OCaml awesome
 502	2024-02-16 23:51:02Z	Where to do research on the job market for tech jobs
@@ -578,7 +578,7 @@
 604	2024-06-28 14:18:21Z	Overview of navicat
 605	2024-06-30 17:25:50Z	Research: docker setup for multiple php websites
 606	2024-07-01 20:24:27Z	Overview: backing up Unix systems
-607	2024-06-29 05:02:38Z	Common network ranges used in private networks
+607	2024-07-31 14:11:07Z	Common network ranges used in private networks
 608	2024-07-28 16:13:11Z	Baking: Experimental whole wheat focaccia
 609	2024-07-11 14:30:32Z	Project: Knutjs
 610	2024-07-14 20:34:25Z	[x] Homelab Task | setup a vpn
@@ -708,7 +708,7 @@
 735	2024-07-28 04:48:05Z	Creating backlinks using using schema objects
 736	2024-07-28 05:11:02Z	Gear for dual training in swimming and running
 737	2024-07-28 05:05:49Z	Place: Cedar lake near Theo
-738	2024-07-28 21:47:07Z	Bake: Simple whole wheat focaccia
+738	2024-07-30 20:29:05Z	Bake: Simple whole wheat focaccia
 739	2024-07-28 16:09:42Z	Ingredient: Turkey Red wheat
 740	2024-07-28 16:14:30Z	Ingredient: Rye Berries
 741	2024-07-28 16:18:26Z	100% Rye sourdough starter
@@ -716,14 +716,24 @@
 743	2024-07-28 16:20:08Z	Ingredient: Einkorn wheat berries
 744	2024-07-28 16:24:57Z	Ingredient: Himalayan pink salt
 745	2024-07-28 17:35:39Z	Testing raw performance of hard drives with dd
-746	2024-07-28 20:38:57Z	Bryn Mawr neighborhood
+746	2024-07-30 13:38:19Z	Bryn Mawr neighborhood
 747	2024-07-28 20:40:02Z	Harrison neighborhood
 748	2024-07-28 19:07:13Z	Company: The Stepping Stone Group
 749	2024-07-28 20:39:18Z	App: appfolio
-750	2024-07-28 20:40:19Z	Research on recommended rental companies
+750	2024-07-29 23:49:07Z	Research on recommended rental companies
 751	2024-07-28 19:05:24Z	Community bread oven in the Harrison Neighborhood
 752	2024-07-28 20:38:38Z	Rich text editors for website development
 753	2024-07-29 01:53:12Z	Hardware: 42" Flexispot corner raiser
 754	2024-07-28 21:49:50Z	Place: Polish Palace
 755	2024-07-28 21:51:51Z	Place: Sue falls
-756	2024-07-28 22:02:01Z	Hardware: My hands
+756	2024-07-29 13:39:40Z	Hardware: My hands
+757	2024-07-30 03:00:17Z	React performance trick by using batching
+758	2024-07-30 20:37:00Z	Blog with good tips about react performance
+759	2024-07-30 13:51:54Z	Versioned database migration strategies
+760	2024-07-31 13:44:25Z	Bootcamp Career Foundry
+761	2024-07-30 23:37:53Z	AI Group in Minneapolis called C.R.E.A.T.E.
+762	2024-07-30 22:54:38Z	MSP Tech (msptech) meetup group
+763	2024-07-30 23:34:35Z	Fieldkit hardware
+764	2024-07-31 14:21:57Z	Jevons paradox reason why junior devs will not be replaced
+765	2024-07-30 23:36:54Z	Dave Farley has good content on CI/CD
+766	2024-07-30 23:39:51Z	Youtube channel Fireship

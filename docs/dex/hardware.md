@@ -1,6 +1,6 @@
 # Physical haredware that I own 
 
-- [Hardware: Kineses Advantage360](../290)
+- [Hardware: Kineses Advantage 360](../290)
 - [Hardware: My Ooni Karu 12G](../332)
 - [Hardware: Think Server 140 (ts140)](../563)
 - [Hardware: Dell XPS 9710](../564)
