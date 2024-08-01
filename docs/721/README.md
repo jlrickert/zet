@@ -1,3 +1,4 @@
-# Hardware: Beelink EQ12 N100
+# DNS on OPNsense
 
-[Beelink](../700) [device](../699) that I bought on 2024-07-25 for the purpose of using as a router in my [homelab](../578). Most likely OS is [OPNsense]
+OPNsense has a few choices for DNS:
+

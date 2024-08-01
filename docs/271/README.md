@@ -1,4 +1,4 @@
-# Digital ocean resource support
+# Digital ocean regions
 
 ## Database
 

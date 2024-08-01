@@ -254,7 +254,7 @@
 268	2024-07-14 21:43:35Z	Keg introduction
 269	2023-09-07 02:26:52Z	When to use CGO_ENABLED
 270	2023-09-11 22:48:40Z	Streaming setup research
-271	2023-09-07 02:26:52Z	Digital ocean resource support
+271	2024-08-01 04:50:41Z	Digital ocean regions
 272	2023-09-07 02:26:52Z	Arch linux setup on Terra
 273	2023-09-07 02:26:52Z	Pacman cheatsheet and usage patterns
 274	2023-09-07 02:26:52Z	Setting up refind as a boot loader
@@ -578,7 +578,7 @@
 604	2024-06-28 14:18:21Z	Overview of navicat
 605	2024-06-30 17:25:50Z	Research: docker setup for multiple php websites
 606	2024-07-01 20:24:27Z	Overview: backing up Unix systems
-607	2024-07-31 14:11:07Z	Common network ranges used in private networks
+607	2024-07-31 14:29:04Z	Common network ranges used in private networks
 608	2024-07-28 16:13:11Z	Baking: Experimental whole wheat focaccia
 609	2024-07-11 14:30:32Z	Project: Knutjs
 610	2024-07-14 20:34:25Z	[x] Homelab Task | setup a vpn
@@ -638,7 +638,7 @@
 664	2024-07-14 21:09:20Z	[ ] Dotfiles Task | create a zetq script
 665	2024-07-28 02:42:13Z	SPEC: `zetq`
 666	2024-07-19 19:31:03Z	Project: Personal Zettelkasten (notetaking)
-667	2024-07-16 22:13:50Z	[x] Homelab Task | setup DNS
+667	2024-07-31 23:59:30Z	[x] Homelab Task | setup DNS
 668	2024-07-14 23:13:30Z	Overview: Quad9 DNS
 669	2024-07-14 23:24:32Z	Preferred click handling mouse down vs mouse up
 670	2024-07-15 14:35:24Z	Overview: Ubuntu
@@ -670,7 +670,7 @@
 696	2024-07-19 19:14:09Z	Layout strategies for webdev
 697	2024-07-19 19:37:03Z	World wide web consortium (w3c)
 698	2024-07-19 19:30:13Z	WHATWG community (whatwg)
-699	2024-07-24 19:13:55Z	Beelink EQ12 N100
+699	2024-08-01 03:56:53Z	Hardware: Beelink EQ12 N100
 700	2024-07-22 13:36:20Z	Overview: Beelink (beelink)
 701	2024-07-22 23:24:48Z	[ ] Homelab Task | Explore next cloud
 702	2024-07-24 18:45:26Z	Bash trick to run things in parallel
@@ -683,7 +683,7 @@
 709	2024-07-28 05:21:47Z	Places that have good public WiFi in Minneapolis
 710	2024-07-26 20:54:02Z	Place: Wandering Leaf Brewing
 711	2024-07-26 16:25:39Z	Adding keyboard only navigation elements to websites
-712	2024-07-26 20:30:04Z	Time log: Minneapolis 20s and 30s something social meetup group
+712	2024-08-01 02:10:03Z	Time log: Minneapolis 20s and 30s something social meetup group
 713	2024-07-26 20:36:13Z	Place: 12 Cider
 714	2024-07-26 20:37:09Z	Place: Minneapolis airport
 715	2024-07-26 20:39:52Z	Place: Theodore Wirth Parkway
@@ -692,7 +692,7 @@
 718	2024-07-28 01:52:56Z	Networking on MacOSX
 719	2024-07-28 01:52:40Z	Target uses OpenTelemtry Logging for centralized logging
 720	2024-07-28 00:21:58Z	Time log: Theo trail running with Thirsty Thursdays
-721	2024-07-28 00:43:05Z	Hardware: Beelink EQ12 N100
+721	2024-08-01 03:54:30Z	DNS on OPNsense
 722	2024-07-28 00:41:01Z	OPNSense for networking
 724	2024-07-28 00:52:37Z	Company: Target
 725	2024-07-28 05:55:42Z	Event: Biking with 20s 30s somethings
@@ -730,10 +730,22 @@
 757	2024-07-30 03:00:17Z	React performance trick by using batching
 758	2024-07-30 20:37:00Z	Blog with good tips about react performance
 759	2024-07-30 13:51:54Z	Versioned database migration strategies
-760	2024-07-31 13:44:25Z	Bootcamp Career Foundry
+760	2024-07-31 14:23:35Z	Bootcamp Career Foundry
 761	2024-07-30 23:37:53Z	AI Group in Minneapolis called C.R.E.A.T.E.
-762	2024-07-30 22:54:38Z	MSP Tech (msptech) meetup group
+762	2024-08-01 19:21:29Z	MSP Tech (msptech) meetup group
 763	2024-07-30 23:34:35Z	Fieldkit hardware
 764	2024-07-31 14:21:57Z	Jevons paradox reason why junior devs will not be replaced
 765	2024-07-30 23:36:54Z	Dave Farley has good content on CI/CD
 766	2024-07-30 23:39:51Z	Youtube channel Fireship
+767	2024-07-31 23:58:24Z	Smooth user input handling for webdev
+768	2024-07-31 17:28:21Z	Person: Yoytuber Sebastiondaschner
+769	2024-07-31 17:29:06Z	Kubernetes and notetaking blog
+770	2024-07-31 22:54:11Z	JavaScriptMN meetup group (jsmn)
+771	2024-08-01 02:10:39Z	Time log for JavaScriptMN
+772	2024-08-01 05:03:47Z	OPNSense installation on Beelink EQ12 N1000
+773	2024-07-31 23:07:48Z	Company: Frontend Masters
+774	2024-07-31 23:56:54Z	JavaScript multi head library neomjs
+775	2024-08-01 02:09:30Z	Technique for aborting `fetch` in progress
+776	2024-08-01 03:32:38Z	Companies that hire Software Engineers in the Twin Cities
+777	2024-08-01 05:31:29Z	Setting up Digital Ocean DDNS on OPNSense
+778	2024-08-01 19:24:23Z	Place: Up Down

@@ -16,3 +16,7 @@ These are the defaults
 - VirtualBox nat: 10.0.2.0/24
 - VirtualBox Host only: 192.168.56.0/24
 - Docker: 172.17.0.0/16
+- Flannel: 10.244.0.0/16
+- Calico: 192.168.0.0/16
+- Weave: 10.32.0.0/12
+- Canal: Either Calico or Weave subnets depending on configuration
