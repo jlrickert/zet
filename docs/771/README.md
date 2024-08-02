@@ -1,4 +1,4 @@
-# Time log for JavaScriptMN
+# Time log: JavaScriptMN
 
 Time log for [jsmn](../770)
 

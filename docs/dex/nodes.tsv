@@ -518,7 +518,7 @@
 544	2024-05-09 20:11:52Z	Git gutter issues in Phpstorm based editor when using SMB protocol
 545	2024-05-10 15:18:01Z	How to swap caps lock on windows
 546	2024-05-15 16:43:35Z	My preferred intellij settings
-547	2024-05-15 21:50:13Z	CSS image sizing strategies
+547	2024-08-02 19:42:34Z	CSS image sizing strategies
 548	2024-07-26 22:29:30Z	`nmap` installation on macOSX
 549	2024-05-18 15:31:14Z	MariaDB SQL cheat sheet
 550	2024-05-21 14:29:19Z	First exploration into Nix
@@ -681,16 +681,16 @@
 707	2024-07-28 02:17:40Z	Favorite parking spot in the North Loop
 708	2024-07-26 14:07:48Z	Refurbished enterprise data center HDD for NAS
 709	2024-07-28 05:21:47Z	Places that have good public WiFi in Minneapolis
-710	2024-07-26 20:54:02Z	Place: Wandering Leaf Brewing
+710	2024-08-02 14:43:10Z	Place: Wandering Leaf Brewing
 711	2024-07-26 16:25:39Z	Adding keyboard only navigation elements to websites
-712	2024-08-01 02:10:03Z	Time log: Minneapolis 20s and 30s something social meetup group
+712	2024-08-02 14:49:35Z	Time log: Minneapolis 20s and 30s something social meetup group
 713	2024-07-26 20:36:13Z	Place: 12 Cider
 714	2024-07-26 20:37:09Z	Place: Minneapolis airport
 715	2024-07-26 20:39:52Z	Place: Theodore Wirth Parkway
 716	2024-07-26 20:47:20Z	Hardware: Luna Leadville pacer
 717	2024-07-26 20:45:04Z	Company: Luna (luna)
 718	2024-07-28 01:52:56Z	Networking on MacOSX
-719	2024-07-28 01:52:40Z	Target uses OpenTelemtry Logging for centralized logging
+719	2024-08-02 15:59:41Z	Target uses OpenTelemetry Logging for centralized logging
 720	2024-07-28 00:21:58Z	Time log: Theo trail running with Thirsty Thursdays
 721	2024-08-01 03:54:30Z	DNS on OPNsense
 722	2024-07-28 00:41:01Z	OPNSense for networking
@@ -741,11 +741,14 @@
 768	2024-07-31 17:28:21Z	Person: Yoytuber Sebastiondaschner
 769	2024-07-31 17:29:06Z	Kubernetes and notetaking blog
 770	2024-07-31 22:54:11Z	JavaScriptMN meetup group (jsmn)
-771	2024-08-01 02:10:39Z	Time log for JavaScriptMN
+771	2024-08-02 14:31:14Z	Time log: JavaScriptMN
 772	2024-08-01 05:03:47Z	OPNSense installation on Beelink EQ12 N1000
 773	2024-07-31 23:07:48Z	Company: Frontend Masters
 774	2024-07-31 23:56:54Z	JavaScript multi head library neomjs
 775	2024-08-01 02:09:30Z	Technique for aborting `fetch` in progress
 776	2024-08-01 03:32:38Z	Companies that hire Software Engineers in the Twin Cities
-777	2024-08-01 05:31:29Z	Setting up Digital Ocean DDNS on OPNSense
+777	2024-08-02 14:44:53Z	Setting up Digital Ocean DDNS on OPNSense
 778	2024-08-01 19:24:23Z	Place: Up Down
+779	2024-08-02 14:31:05Z	OPNSense `opnsense-patch` utility
+780	2024-08-02 14:49:37Z	Place: Hewing Hotel Rooftop
+781	2024-08-02 16:11:46Z	Zet schemas idea based on structured data
