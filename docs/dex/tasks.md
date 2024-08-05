@@ -1,5 +1,4 @@
 - [[ ] mintea Task | help with minttea](../492)
-- [[ ] Homelab 2024 task | build up my homelab](../584)
 - [[ ] Neovim Task | setup configuration](../586)
 - [[x] Homelab 2024 Task | experiment with setup site to site configuration](../590)
 - [[x] Homelab Task | setup a vpn](../610)
@@ -10,3 +9,7 @@
 - [[ ] Neovim Task | hunk text object visual navigation issue](../678)
 - [[ ] Dotfiles Task | create `sync-project` script](../681)
 - [[ ] Homelab Task | Explore next cloud](../701)
+- [[x] Homelab Task: OPNSense installation on Beelink EQ12 N1000](../772)
+- [Task: TrueNas Installation on ts140](../783)
+- [[x] TS140 Task: Installing upgrades to TS140](../784)
+- [[ ] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense](../787)

@@ -1,6 +1,6 @@
-# ts140 as a TrueNas server
+# ts140 as a TrueNas server requirements
 
-A possible use of my [ts140](../563) is to run it as a NAS running [TrueNas](../676). I would need to upgrade my hardware.
+A possible use of my [ts140](../563) is to run it as a NAS running [TrueNas](../676). I also plan on running next cloud. I would need to upgrade my hardware.
 
 Ram requirements:
 

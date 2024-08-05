@@ -3,3 +3,5 @@ tags:
   - nas
   - truenas
   - linux
+schema:
+  type: software app

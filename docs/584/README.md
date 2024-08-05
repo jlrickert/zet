@@ -1,4 +1,4 @@
-# [ ] Homelab 2024 task | build up my homelab
+# Time log: Homelab
 
 ## Time log
 
@@ -31,6 +31,10 @@
   Installed pfSense on the [ts140]. I have the LAN connected to the new network card and the old one connected to the WAN. For some reason I am only getting 800 Mbits out if rather than the 950 MBits that I was getting previously
 
 - 2024-07-01 01:18 (5.15h) Spent time setting up Wireguard on [ts140]
+- 2024-07-01 14:22 (2.00h) Spent time setting up [OPNsense](../772)
+- 2024-08-03 12:00 (2.00h) [Hardware upgrade](../784) on [ts140]
+- 2024-08-04 13:21 (4.00h) [WireGuard](../787) on [eq12](../699)
+- 2024-08-04 22:00 (4.00h) [CloudFlare email forwarding](../794)
 
 [ts140]: ../563
 

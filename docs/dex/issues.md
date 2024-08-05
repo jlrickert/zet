@@ -5,4 +5,5 @@
 - [Issue: Rounded borders for a table header](../694)
 - [Layout strategies for webdev](../696)
 - [World wide web consortium (w3c)](../697)
+- [Issue: Proxmox inaccessible](../786)
 - [keg create git issue](../96)

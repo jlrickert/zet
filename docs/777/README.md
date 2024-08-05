@@ -1,10 +1,10 @@
 # Setting up Digital Ocean DDNS on OPNSense
 
-OPNsense is able to periodical able to call this endpoint using the `ddclient` plugin. This needs to be manually installed. The plugin needs to be selected as the backend under general settings. Interval should be at least 600 as well. From there the user name should be the same as the value found on the avatar icon (top right) drop-down. Password is an API token.
+OPNsense is able to periodical able to call this endpoint using the `ddclient` plugin. This needs to be manually installed. The plugin needs to be selected as the backend under general settings. Interval should be at least 600 as well. From there the user name should be the same as the value found on the avatar icon (top right) drop-down. Password is an API token created in the DigitalOcean interface. Mine will expire in like 1 month.
 
 General settings:
 
-- interval: 600 or more
+- interval: 600 or more (some services will ban you if you do too often)
 - backend: `ddclient` (requires installing plugin)
 
 Accounts settings

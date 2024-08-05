@@ -555,7 +555,7 @@
 581	2024-07-20 14:16:24Z	Hardware: Custom built PC Trooper (trooper)
 582	2024-06-09 17:54:23Z	Private IPv4 ranges
 583	2024-07-14 18:16:23Z	Hardware: My M2 Macbook Pro
-584	2024-07-01 06:19:03Z	[ ] Homelab 2024 task | build up my homelab
+584	2024-08-05 15:22:34Z	Time log: Homelab
 585	2024-06-27 14:57:42Z	FreeBSD networking overview
 586	2024-06-19 23:43:17Z	[ ] Neovim Task | setup configuration
 587	2024-06-10 15:57:40Z	AWS service CloudFront
@@ -597,7 +597,7 @@
 623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
 625	2024-07-14 21:42:05Z	Project: dotfiles
-626	2024-07-18 02:40:17Z	Current Homelab topology
+626	2024-08-05 15:15:54Z	Current Homelab topology
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
 628	2024-06-30 22:16:35Z	Person: Streamer rwxrob
 629	2024-07-14 20:53:29Z	[x] Homelab Task | setup pfSense on ts140
@@ -647,7 +647,7 @@
 673	2024-07-15 02:03:30Z	Overview: UNIX
 674	2024-07-15 02:54:10Z	Overview: Debian
 675	2024-07-15 02:56:29Z	Networking in Linux
-676	2024-07-25 00:03:41Z	Overview: TrueNas
+676	2024-08-03 20:09:07Z	Overview: TrueNas
 677	2024-07-16 02:50:58Z	Techniques for handling scrolling
 678	2024-07-15 16:42:43Z	[ ] Neovim Task | hunk text object visual navigation issue
 679	2024-07-15 20:59:26Z	Overview: `entr`
@@ -675,7 +675,7 @@
 701	2024-07-22 23:24:48Z	[ ] Homelab Task | Explore next cloud
 702	2024-07-24 18:45:26Z	Bash trick to run things in parallel
 703	2024-07-25 22:35:08Z	Example fly out navigation menu in website development
-704	2024-07-26 14:07:44Z	ts140 as a TrueNas server
+704	2024-08-03 20:29:56Z	ts140 as a TrueNas server requirements
 705	2024-07-25 01:03:13Z	Service announcement protocols
 706	2024-07-25 18:00:24Z	Styling tab focused items
 707	2024-07-28 02:17:40Z	Favorite parking spot in the North Loop
@@ -693,7 +693,7 @@
 719	2024-08-02 15:59:41Z	Target uses OpenTelemetry Logging for centralized logging
 720	2024-07-28 00:21:58Z	Time log: Theo trail running with Thirsty Thursdays
 721	2024-08-01 03:54:30Z	DNS on OPNsense
-722	2024-07-28 00:41:01Z	OPNSense for networking
+722	2024-08-05 15:13:46Z	OPNSense for networking
 724	2024-07-28 00:52:37Z	Company: Target
 725	2024-07-28 05:55:42Z	Event: Biking with 20s 30s somethings
 726	2024-07-28 01:34:54Z	Place: Stillwater
@@ -708,7 +708,7 @@
 735	2024-07-28 04:48:05Z	Creating backlinks using using schema objects
 736	2024-07-28 05:11:02Z	Gear for dual training in swimming and running
 737	2024-07-28 05:05:49Z	Place: Cedar lake near Theo
-738	2024-07-30 20:29:05Z	Bake: Simple whole wheat focaccia
+738	2024-08-05 19:41:06Z	Bake: Simple whole wheat focaccia
 739	2024-07-28 16:09:42Z	Ingredient: Turkey Red wheat
 740	2024-07-28 16:14:30Z	Ingredient: Rye Berries
 741	2024-07-28 16:18:26Z	100% Rye sourdough starter
@@ -742,13 +742,25 @@
 769	2024-07-31 17:29:06Z	Kubernetes and notetaking blog
 770	2024-07-31 22:54:11Z	JavaScriptMN meetup group (jsmn)
 771	2024-08-02 14:31:14Z	Time log: JavaScriptMN
-772	2024-08-01 05:03:47Z	OPNSense installation on Beelink EQ12 N1000
+772	2024-08-05 15:23:47Z	[x] Homelab Task: OPNSense installation on Beelink EQ12 N1000
 773	2024-07-31 23:07:48Z	Company: Frontend Masters
 774	2024-07-31 23:56:54Z	JavaScript multi head library neomjs
 775	2024-08-01 02:09:30Z	Technique for aborting `fetch` in progress
 776	2024-08-01 03:32:38Z	Companies that hire Software Engineers in the Twin Cities
-777	2024-08-02 14:44:53Z	Setting up Digital Ocean DDNS on OPNSense
+777	2024-08-04 17:37:58Z	Setting up Digital Ocean DDNS on OPNSense
 778	2024-08-01 19:24:23Z	Place: Up Down
 779	2024-08-02 14:31:05Z	OPNSense `opnsense-patch` utility
 780	2024-08-02 14:49:37Z	Place: Hewing Hotel Rooftop
 781	2024-08-02 16:11:46Z	Zet schemas idea based on structured data
+782	2024-08-02 22:46:43Z	Place: The Nordic WeWork building
+783	2024-08-03 21:23:08Z	Task: TrueNas Installation on ts140
+784	2024-08-05 15:21:11Z	[x] TS140 Task: Installing upgrades to TS140
+785	2024-08-03 20:10:40Z	Overview: Nextcloud (nextcloud)
+786	2024-08-03 20:51:06Z	Issue: Proxmox inaccessible
+787	2024-08-05 15:24:31Z	[ ] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense
+788	2024-08-04 22:44:45Z	
+791	2024-08-04 22:46:52Z	Recommendations for good sleep
+792	2024-08-05 19:41:14Z	Bake: Simple half and half focaccia
+793	2024-08-05 01:38:11Z	Task: Setup OPNsense backups on google drive
+794	2024-08-05 15:01:18Z	[ ] Homelab Task: Updating CloudFlare based email forwarding
+795	2024-08-05 15:20:41Z	[x] Homelab Task: Assign IP address to PHP VM's
