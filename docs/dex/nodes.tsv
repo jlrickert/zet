@@ -131,7 +131,7 @@
 135	2024-06-30 17:29:32Z	Task to figure out how to make scrolling faster on MacOS
 136	2024-07-21 15:03:08Z	How to setup VSCode for PHP and WordPress development
 137	2024-07-28 05:52:44Z	Place: Como Park Zoo and Conservatory in St Paul Minnesota
-138	2023-09-07 02:26:52Z	Cuzzy's Grill and bar in downtown Minneapolis
+138	2024-08-06 23:55:06Z	Place: Cuzzy's Grill and bar in downtown Minneapolis
 139	2024-07-28 05:53:13Z	How to setup bbPress forums in WordPress
 140	2024-07-28 05:36:06Z	How to create your own theme in WordPress
 141	2024-07-28 05:38:30Z	Issue: Task to fix keybinding issues between MacOS and ranger
@@ -343,7 +343,7 @@
 364	2023-11-02 01:53:39Z	Setup OpenSearch AWS for learning
 365	2023-11-11 02:45:05Z	How to setup email using AWS SES
 366	2023-10-04 14:58:15Z	Multiplayer game with FireBase video
-367	2023-10-22 15:29:34Z	Neovim repositories
+367	2024-08-06 23:53:50Z	Neovim repositories
 368	2023-10-06 22:28:16Z	Resources to get started with Ocaml
 369	2023-10-04 16:30:32Z	Dynamic colors with SvelteKit and tailwind
 370	2024-05-22 04:13:52Z	Middleware pattern with typescript
@@ -493,7 +493,7 @@
 519	2024-04-02 17:18:26Z	Phone research for 2024
 520	2024-04-02 19:03:30Z	WOW Dragonflight Season 3
 521	2024-04-08 04:01:13Z	WOW Dragonflight season 4
-522	2024-04-05 17:59:34Z	Knut mobile app workflow
+522	2024-08-06 22:55:30Z	Knut mobile app workflow
 523	2024-07-17 20:40:10Z	Place: Huckleberry ridge conservatory
 524	2024-04-08 04:47:16Z	Caddo national grasslands
 525	2024-04-08 15:57:04Z	Primitive Camping in Texas
@@ -758,7 +758,6 @@
 785	2024-08-03 20:10:40Z	Overview: Nextcloud (nextcloud)
 786	2024-08-03 20:51:06Z	Issue: Proxmox inaccessible
 787	2024-08-05 15:24:31Z	[ ] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense
-788	2024-08-04 22:44:45Z	
 791	2024-08-04 22:46:52Z	Recommendations for good sleep
 792	2024-08-05 19:41:14Z	Bake: Simple half and half focaccia
 793	2024-08-05 01:38:11Z	Task: Setup OPNsense backups on google drive
