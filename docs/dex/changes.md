@@ -1,3 +1,7 @@
+* 2024-08-13 20:11:10Z [`foreach` mutation weirdness in PHP](../799)
+* 2024-08-13 14:17:37Z [Place: Finland group campsite](../798)
+* 2024-08-12 20:17:29Z [PHP Trick: simple reusable components](../797)
+* 2024-08-12 19:13:25Z [CSS properties related to lists](../796)
 * 2024-08-06 23:55:06Z [Place: Cuzzy's Grill and bar in downtown Minneapolis](../138)
 * 2024-08-06 23:53:50Z [Neovim repositories](../367)
 * 2024-08-06 22:55:30Z [Knut mobile app workflow](../522)
