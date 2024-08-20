@@ -96,7 +96,7 @@
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
 101	2024-04-22 18:01:49Z	Installing software with curl
 102	2024-07-28 05:27:58Z	Using a temporary directory that require installing transient scripts
-103	2024-07-28 05:29:09Z	Tiling window management on macOS with Yabai
+103	2024-08-15 15:34:21Z	Tiling window management on macOSX with Yabai
 104	2024-07-28 01:52:52Z	Overview: MacOSX tools and software
 105	2024-07-28 05:28:49Z	Concrete 5
 106	2024-07-28 05:29:44Z	How to install lando on MacOS
@@ -301,7 +301,7 @@
 319	2023-09-11 04:32:54Z	Recommend wheat flour to use for different bakes
 321	2023-11-02 01:45:21Z	Chrome book comparison
 322	2023-09-10 19:05:06Z	Digital fonts
-323	2023-09-10 19:22:55Z	Modern software configuration management specification Unix systems
+323	2024-08-18 06:07:06Z	Modern software configuration management specification Unix systems
 324	2023-09-12 19:23:17Z	Cool idea for my own website
 325	2023-09-26 23:46:00Z	Managing ruby version on MacOSX with chruby
 326	2023-09-26 23:46:09Z	Setting up a new KEG app with tina and jekyll
@@ -580,7 +580,7 @@
 606	2024-07-01 20:24:27Z	Overview: backing up Unix systems
 607	2024-07-31 14:29:04Z	Common network ranges used in private networks
 608	2024-07-28 16:13:11Z	Baking: Experimental whole wheat focaccia
-609	2024-07-11 14:30:32Z	Project: Knutjs
+609	2024-08-18 06:37:53Z	Project: Knutjs
 610	2024-07-14 20:34:25Z	[x] Homelab Task | setup a vpn
 611	2024-07-28 00:40:59Z	pfSense for networking
 612	2024-06-30 18:02:07Z	Hardware: Samsung S22+ android phone (s22)
@@ -717,8 +717,8 @@
 744	2024-07-28 16:24:57Z	Ingredient: Himalayan pink salt
 745	2024-07-28 17:35:39Z	Testing raw performance of hard drives with dd
 746	2024-07-30 13:38:19Z	Bryn Mawr neighborhood
-747	2024-07-28 20:40:02Z	Harrison neighborhood
-748	2024-07-28 19:07:13Z	Company: The Stepping Stone Group
+747	2024-08-18 02:57:22Z	Harrison neighborhood
+748	2024-08-20 17:26:44Z	Company: The Stepping Stone Group
 749	2024-07-28 20:39:18Z	App: appfolio
 750	2024-07-29 23:49:07Z	Research on recommended rental companies
 751	2024-07-28 19:05:24Z	Community bread oven in the Harrison Neighborhood
@@ -766,4 +766,8 @@
 796	2024-08-12 19:13:25Z	CSS properties related to lists
 797	2024-08-12 20:17:29Z	PHP Trick: simple reusable components
 798	2024-08-13 14:17:37Z	Place: Finland group campsite
-799	2024-08-13 20:11:10Z	`foreach` mutation weirdness in PHP
+799	2024-08-15 14:10:25Z	`foreach` mutation weirdness in PHP
+800	2024-08-18 02:26:17Z	SCORE venture capital group
+801	2024-08-18 06:43:01Z	Opinionated way to to organize application data
+802	2024-08-18 15:20:39Z	SPEC: Data organization in Knutjs
+803	2024-08-18 17:33:16Z	[ ] Homelab task: quick password protected https server

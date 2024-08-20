@@ -1,4 +1,4 @@
-# Tiling window management on macOS with Yabai
+# Tiling window management on macOSX with Yabai
 
 See [docs] for how to install
 
@@ -48,7 +48,3 @@ References:
 - [josean's dotfiles](https://github.com/josean-dev/dev-environment-files)
 - [anuj-chandra](https://anuj-chandra.medium.com/using-i3-like-tiling-window-managers-in-macos-with-yabai-ebf0e002b992)
 - [sgoodluck](https://github.com/sgoodluck/mac-dotfiles)
-
-Meta:
-
-    tags: #macOS #workstation
