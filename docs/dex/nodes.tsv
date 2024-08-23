@@ -528,7 +528,7 @@
 554	2024-05-18 19:20:13Z	Known standards
 555	2024-05-18 23:13:30Z	GitHub action using nix
 556	2024-05-18 23:46:58Z	Git clients
-557	2024-07-11 13:59:11Z	Person: cmgrifing the streamer
+557	2024-08-23 16:56:46Z	Person: cmgriffing the streamer
 558	2024-05-28 14:15:40Z	Basic sourdough batard
 559	2024-06-21 16:23:31Z	Case of using webp over png
 560	2024-05-23 15:10:51Z	Local network machine IP address discovery protocols
@@ -628,7 +628,7 @@
 654	2024-07-11 17:01:36Z	Overview: MacOSX
 655	2024-07-11 17:04:44Z	Handy pathing scripts
 656	2024-07-12 04:09:14Z	Issue: stupid MacOSX permissions crap
-657	2024-07-24 19:17:48Z	Overview: Website development (webdev)
+657	2024-08-21 14:04:48Z	Overview: Website development (webdev)
 658	2024-07-18 20:10:43Z	How to add custom fonts to a website
 659	2024-07-12 16:32:36Z	Arial font
 660	2024-07-18 00:09:55Z	Overview: Bash scripting
@@ -771,3 +771,8 @@
 801	2024-08-18 06:43:01Z	Opinionated way to to organize application data
 802	2024-08-18 15:20:39Z	SPEC: Data organization in Knutjs
 803	2024-08-18 17:33:16Z	[ ] Homelab task: quick password protected https server
+804	2024-08-21 13:57:58Z	Article: Interesting article about obfuscation
+805	2024-08-21 14:05:06Z	Webdev cookies
+806	2024-08-22 03:14:38Z	Deploying WordPress on single docker host 
+807	2024-08-23 14:56:19Z	SPEC: Unix utility convention specification
+808	2024-08-23 20:55:10Z	Security: possible PHP vulnerability vector
