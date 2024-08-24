@@ -1,3 +1,7 @@
+* 2024-08-24 14:20:46Z [Person: Thor](../811)
+* 2024-08-24 14:20:42Z [Reason why WOW implemented wow tokens](../810)
+* 2024-08-24 14:15:42Z [3 day head start on WOW may prevent early server overload](../809)
+* 2024-08-24 14:15:14Z [Company: Blizzard (blizzard)](../812)
 * 2024-08-23 20:55:10Z [Security: possible PHP vulnerability vector](../808)
 * 2024-08-23 16:56:46Z [Person: cmgriffing the streamer](../557)
 * 2024-08-23 14:56:19Z [SPEC: Unix utility convention specification](../807)
