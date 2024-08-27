@@ -16,5 +16,3 @@ for x in $(gh repo list | awk '{print $1}'); do
   cd -
 done
 ```
-
-    tags: #bash #github #cli

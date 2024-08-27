@@ -3,3 +3,4 @@
 - [Person: VTuber Mischa van den Burg](../627)
 - [Person: Rob Muhlestein](../80)
 - [Person: Thor](../811)
+- [Person: Twitch streamer BlaiseBits](../815)

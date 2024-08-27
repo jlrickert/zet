@@ -1,3 +1,4 @@
+- 2024-08-25 [Bake: Simple 50/50 sourdough Batard](../817)
 - 2024-08-04 [Bake: Simple half and half focaccia](../792)
 - 2024-07-28 [Bake: Simple whole wheat focaccia](../738)
 - 2024-07-04 [Bake: Fourth of July focaccia](../640)

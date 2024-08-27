@@ -8,7 +8,7 @@ A loaf that I made on the weekend at home. The temperature inside is roughly 67f
 | Whole wheat flour | 168g   | 50%               | Hard red wheat berries    |
 | Water             | 275g   | 68%               |                           |
 | starter           | 40g    | 8%                | 100% rye 1:1              |
-| sea salt          | 8g     |                   |                           |
+| sea salt          | 8g     | 2%                |                           |
 
 Total weight is roughly 750g.
 

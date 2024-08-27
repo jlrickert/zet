@@ -10,3 +10,4 @@
 - [Hardware: Luna Leadville pacer](../716)
 - [Hardware: 42" Flexispot corner raiser](../753)
 - [Hardware: My hands](../756)
+- [Hardware: Portable Weber grill](../821)
