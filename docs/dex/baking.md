@@ -1,3 +1,4 @@
+- 2024-08-30 [Bake: Labor day 2024 bread bowl](../827)
 - 2024-08-25 [Bake: Simple 50/50 sourdough Batard](../817)
 - 2024-08-04 [Bake: Simple half and half focaccia](../792)
 - 2024-07-28 [Bake: Simple whole wheat focaccia](../738)

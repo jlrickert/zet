@@ -4,12 +4,12 @@ This is a bread bowl based off of the recipe that I baked on memorial day.
 
 Here are the list of ingredients
 
-| Ingredient | Amount | Bakers Percentage | Comment |
-| --- | --- | --- | --- |
-| All purpose flour | 550g | 100% | organic ap flour from walmart |
-| Water | 375g | 68% |  |
-| starter | 150g | 27% | 100% rye 1:1 |
-| salt | 11g |  |  |
+| Ingredient        | Amount | Bakers Percentage | Comment                       |
+| ----------------- | ------ | ----------------- | ----------------------------- |
+| All purpose flour | 550g   | 100%              | organic ap flour from walmart |
+| Water             | 375g   | 68%               |                               |
+| starter           | 150g   | 27%               | 100% rye 1:1                  |
+| salt              | 11g    |                   |                               |
 
 Total weight is 1085g
 
