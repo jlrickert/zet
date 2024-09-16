@@ -1,4 +1,4 @@
-# World of Warcraft expansions and seasons
+# WOW expansions and seasons
 
 ## Vanilla
 
@@ -42,7 +42,7 @@ Released November 28, 2022
 
 Starts April 23, 2024 and ends July 2024
 
-## The war Within
+## [The war Within](../829)
 
 Released August 26, 2024
 

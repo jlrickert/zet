@@ -2,7 +2,7 @@
 
 Never get results of progress as we will always be pushing farthing.
 
-Idea that I Learned this from [Sage](keg:priv/1163). 
+Idea that I Learned this from [Sage](keg:priv/1163).
 
 - test automation as well
 
