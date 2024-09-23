@@ -11,3 +11,4 @@
 - [Hardware: 42" Flexispot corner raiser](../753)
 - [Hardware: My hands](../756)
 - [Hardware: Portable Weber grill](../821)
+- [Hardware: HFS shoes](../849)
