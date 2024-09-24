@@ -1,6 +1,6 @@
 # Hardware: Luna Leadville pacer
 
-Running sandal made by [Luna](../717) that I bought on 2024-06-18
+Running sandal made by [Luna](../717) that I bought on 2024-06-18.
 
 - 9mm stack
 - sole is slippery when wet
@@ -12,3 +12,5 @@ Running sandal made by [Luna](../717) that I bought on 2024-06-18
 
   Haven't done enough fast runs in them yet.
 
+- Shoe laces become loose when wet
+- Tech straps are more than likely needed when running
