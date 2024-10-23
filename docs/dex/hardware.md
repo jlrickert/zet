@@ -12,3 +12,6 @@
 - [Hardware: My hands](../756)
 - [Hardware: Portable Weber grill](../821)
 - [Hardware: HFS shoes](../849)
+- [Hardware: Ibanez RG421 Electric Guitar](../853)
+- [Hardware: Focusrite Scarlett 2i2](../855)
+- [Hardware: Altra lone peak 8](../859)

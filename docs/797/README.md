@@ -1,4 +1,4 @@
-# PHP Trick: simple reusable components
+# PHP Trick: react inspired reusable components
 
 Vue and Svelte inspired reusable components for PHP. Would be cool to figure out how to add context to this. 
 

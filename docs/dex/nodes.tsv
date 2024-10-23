@@ -96,13 +96,13 @@
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
 101	2024-04-22 18:01:49Z	Installing software with curl
 102	2024-07-28 05:27:58Z	Using a temporary directory that require installing transient scripts
-103	2024-08-15 15:34:21Z	Tiling window management on macOSX with Yabai
+103	2024-10-04 19:20:19Z	Tiling window management on macOSX with Yabai
 104	2024-07-28 01:52:52Z	Overview: MacOSX tools and software
 105	2024-07-28 05:28:49Z	Concrete 5
 106	2024-07-28 05:29:44Z	How to install lando on MacOS
 107	2024-07-28 05:30:12Z	Date standards
 108	2024-06-30 20:42:07Z	Research: Wowhead diablo 4 class ranking comparison
-109	2024-04-16 21:44:10Z	MacOS vs Linux difference
+109	2024-10-04 19:19:01Z	MacOS vs Linux difference
 110	2024-07-28 05:31:27Z	My personal PHP style guide
 111	2024-09-24 14:26:50Z	My personal Bash style guide
 112	2024-05-30 22:27:52Z	My personal typescript style guide
@@ -151,7 +151,7 @@
 157	2024-07-28 05:58:31Z	Overview of themes in WordPress
 158	2024-07-28 05:40:27Z	Thinking about a Zettelkasten organization as a form a taxonomy
 159	2024-06-07 03:53:05Z	Full list of operating systems that ansible is able to detect
-160	2024-07-28 05:39:35Z	How to install homebrew on a MacOS
+160	2024-10-04 19:19:32Z	How to install homebrew on a MacOS
 161	2024-05-19 04:17:02Z	How to benchmark zsh
 162	2023-09-07 02:26:52Z	Look into the fidget rewrite issue
 163	2024-06-11 19:38:23Z	How to manage ssh keys
@@ -419,7 +419,7 @@
 444	2023-12-21 18:09:42Z	The science of motivation
 445	2023-12-17 14:34:26Z	How to belay top rope at climbing gym
 446	2024-05-21 00:04:29Z	Mongo style filter example with typescript
-447	2024-09-23 20:53:07Z	Zeros shoe comparison chart
+447	2024-09-24 14:53:49Z	Zeros shoe comparison chart
 448	2024-02-29 19:28:48Z	Stateful command tree using commander js
 449	2023-12-22 17:04:10Z	Professional Full Stack developer prompt for ChatGPT
 450	2023-12-30 16:23:23Z	Christmas bread bowl 2023
@@ -479,7 +479,7 @@
 505	2024-02-28 06:03:46Z	Java 16.02 bug with AMD processors
 506	2024-07-26 22:29:51Z	Node setup on MacOSX
 507	2024-03-02 18:56:35Z	Knut installation process on MacOSX
-508	2024-03-12 21:09:36Z	Air purifiers for home research
+508	2024-10-21 13:51:54Z	Air purifiers for home research
 509	2024-03-12 21:09:33Z	Air quality in my living area research
 510	2024-03-25 05:49:08Z	Dependency injection using the Reader pattern
 511	2024-03-25 05:19:51Z	Notes about the neurological impact of music from a podcast
@@ -556,7 +556,7 @@
 582	2024-06-09 17:54:23Z	Private IPv4 ranges
 583	2024-07-14 18:16:23Z	Hardware: My M2 Macbook Pro
 584	2024-08-05 15:22:34Z	Time log: Homelab
-585	2024-06-27 14:57:42Z	FreeBSD networking overview
+585	2024-10-09 13:55:27Z	FreeBSD networking overview
 586	2024-06-19 23:43:17Z	[ ] Neovim Task | setup configuration
 587	2024-06-10 15:57:40Z	AWS service CloudFront
 588	2024-07-28 01:48:57Z	Baking: Mid week Focaccia sourdough
@@ -613,7 +613,7 @@
 639	2024-07-18 04:59:51Z	Research: 2024 WiFi upgrade
 640	2024-07-08 04:51:53Z	Bake: Fourth of July focaccia
 641	2024-07-04 15:24:26Z	Ingredient: Turkey red wheat berries
-642	2024-08-25 13:44:56Z	Ingredient: King Arthur's bread flour
+642	2024-10-23 13:22:49Z	Ingredient: King Arthur's bread flour 12.7%
 643	2024-07-04 17:53:31Z	Overview: Unix style search and replace utilities
 644	2024-07-28 02:40:28Z	Keg searching techniques
 645	2024-07-28 02:41:56Z	My current zettelkasten note taking setup
@@ -659,7 +659,7 @@
 685	2024-07-20 14:16:54Z	Hardware: TP-Link BE550 (be550)
 686	2024-07-18 19:21:02Z	Place: Utepils
 687	2024-07-28 00:53:16Z	Thirsty Thursdays Theo Trail Runners
-688	2024-07-19 05:29:38Z	Overview: Running
+688	2024-10-04 14:13:53Z	Overview: Running
 689	2024-07-24 19:19:10Z	View CSS on interactive elements
 690	2024-07-19 05:21:14Z	Event: Two rivers 10 mile 2024
 691	2024-07-19 05:24:21Z	Event: Fargo half marathon 2024
@@ -691,7 +691,7 @@
 717	2024-07-26 20:45:04Z	Company: Luna (luna)
 718	2024-07-28 01:52:56Z	Networking on MacOSX
 719	2024-08-02 15:59:41Z	Target uses OpenTelemetry Logging for centralized logging
-720	2024-07-28 00:21:58Z	Time log: Theo trail running with Thirsty Thursdays
+720	2024-10-21 13:22:39Z	Time log: Theo trail running with Thirsty Thursdays
 721	2024-08-01 03:54:30Z	DNS on OPNsense
 722	2024-08-05 15:13:46Z	OPNSense for networking
 724	2024-07-28 00:52:37Z	Company: Target
@@ -702,8 +702,8 @@
 729	2024-07-28 01:41:55Z	Place: Little Falls
 730	2024-07-28 01:43:16Z	Place: Tavern on First
 731	2024-09-12 11:58:56Z	WOW expansions and seasons
-732	2024-07-28 02:23:59Z	Event: Twin Cities Marathon 2024
-733	2024-07-28 02:23:55Z	Event: Wild Duluth 50K 2024
+732	2024-10-07 01:00:42Z	Event: Twin Cities Marathon 2024
+733	2024-10-21 20:08:03Z	Event: Wild Duluth 50K 2024
 734	2024-07-28 04:37:53Z	Structured data on the web
 735	2024-07-28 04:48:05Z	Creating backlinks using using schema objects
 736	2024-07-28 05:11:02Z	Gear for dual training in swimming and running
@@ -764,7 +764,7 @@
 794	2024-08-05 15:01:18Z	[ ] Homelab Task: Updating CloudFlare based email forwarding
 795	2024-08-05 15:20:41Z	[x] Homelab Task: Assign IP address to PHP VM's
 796	2024-08-12 19:13:25Z	CSS properties related to lists
-797	2024-08-27 18:13:03Z	PHP Trick: simple reusable components
+797	2024-10-08 14:36:35Z	PHP Trick: react inspired reusable components
 798	2024-08-13 14:17:37Z	Place: Finland group campsite
 799	2024-08-15 14:10:25Z	`foreach` mutation weirdness in PHP
 800	2024-08-18 02:26:17Z	SCORE venture capital group
@@ -784,10 +784,10 @@
 814	2024-08-24 19:36:05Z	Software: changeset
 815	2024-08-25 04:00:30Z	Person: Twitch streamer BlaiseBits
 816	2024-08-25 04:00:20Z	Trick to display iPad on a windows machine
-817	2024-08-27 18:22:14Z	Bake: Simple 50/50 sourdough Batard
+817	2024-10-23 13:22:59Z	Bake: Simple 50/50 sourdough Batard
 818	2024-08-25 19:13:48Z	Company: Hamilton Beach
 819	2024-08-25 19:14:48Z	Company: Walmart
-820	2024-09-15 16:09:57Z	Article: The perfect loafs best sourdough pancakes
+820	2024-10-20 16:58:47Z	Article: The perfect loafs best sourdough pancakes
 821	2024-08-26 18:15:17Z	Hardware: Portable Weber grill
 822	2024-08-26 18:17:10Z	Perfect T-Bone on portable Weber grill
 823	2024-08-26 20:40:41Z	Connecting to MariaDB from MacOSX CLI
@@ -815,6 +815,18 @@
 845	2024-09-23 14:06:55Z	Place: Minnesota city Forest Lake
 846	2024-09-23 18:56:19Z	Issue: handling nested links in html
 847	2024-09-24 13:59:36Z	Luna sandal comparison
-848	2024-09-23 20:54:02Z	Minimal sandal preferences
+848	2024-09-24 14:53:37Z	Minimal sandal preferences
 849	2024-09-23 20:53:50Z	Hardware: HFS shoes
-850	2024-09-24 14:50:57Z	Quick start guides to Unix and bash
+850	2024-10-03 18:10:13Z	Quick start guides to Unix, bash, terminal, etc
+851	2024-10-03 18:13:59Z	Issue: Bitbucket markdown rendering is different than GitHub
+852	2024-10-21 13:53:16Z	My running event race times
+853	2024-10-05 18:17:26Z	Hardware: Ibanez RG421 Electric Guitar
+854	2024-10-05 17:09:57Z	Project: Personal music studio
+855	2024-10-05 19:25:54Z	Hardware: Focusrite Scarlett 2i2
+856	2024-10-06 21:27:03Z	Music equipment concepts
+857	2024-10-05 18:31:20Z	Human hearing frequency ranges and preferences
+858	2024-10-08 02:02:29Z	Types of lighting for a home
+859	2024-10-21 13:21:39Z	Hardware: Altra lone peak 8
+860	2024-10-21 13:41:52Z	Hash house harriers (m3h)
+861	2024-10-21 17:46:30Z	Embedding data within go binaries
+862	2024-10-23 13:25:06Z	Bake: Whole wheat 50/50 sourdough batard

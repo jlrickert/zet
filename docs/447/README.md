@@ -6,4 +6,4 @@
 | HFS                  | 120  | trainers | 5.5mm. 3.5mm with insole removable | light  |                         |
 | Prio                 |      |          | 5.5mm                              |        | HFS with more protetion |
 
-I own a pari of [HFS](../849)
+I own a pair of [HFS](../849)

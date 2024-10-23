@@ -12,7 +12,7 @@ sudo service netif restart
 ## DHCP
 
 ```bash
-sudo dhcpclient em0
+sudo dhclient em0
 ```
 
 ## DNS

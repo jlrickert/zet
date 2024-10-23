@@ -1,4 +1,6 @@
-# Bake: Simple 50/50 sourdough Batard
+# Bake: Whole wheat 50/50 sourdough batard
+
+Recipe base on [817](../817)
 
 | Ingredient        | Amount | Bakers Percentage | Comment                             |
 | ----------------- | ------ | ----------------- | ----------------------------------- |
@@ -12,8 +14,4 @@ Total weight is roughly 750g.
 
 ## Time log
 
-- 2024-08-25 08:31 Fed starter
-- 2024-08-25 11:53 Mixed flour and water for hydrolyse
-- 2024-08-25 12:59 Mixed everything else
-- 2024-08-25 22:00 Shaped an placed into fridge
-- 2024-08-26 13:03 Baked at 450f for 35 minutes
+- 2024-10-23 08:21 Mix flour and whole wheat
