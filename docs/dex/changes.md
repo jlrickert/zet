@@ -1,3 +1,4 @@
+* 2024-10-24 13:26:50Z [Hardware: Kineses Advantage 360](../290)
 * 2024-10-24 13:22:34Z [Bake: Whole wheat 50/50 sourdough batard](../862)
 * 2024-10-24 01:38:30Z [Bake: Simple 50/50 sourdough Batard](../817)
 * 2024-10-23 20:39:55Z [Person: het_tanis](../863)
@@ -152,7 +153,6 @@
 * 2024-07-30 13:38:19Z [Bryn Mawr neighborhood](../746)
 * 2024-07-30 03:00:17Z [React performance trick by using batching](../757)
 * 2024-07-29 23:49:07Z [Research on recommended rental companies](../750)
-* 2024-07-29 14:25:10Z [Hardware: Kineses Advantage 360](../290)
 * 2024-07-29 13:39:40Z [Hardware: My hands](../756)
 * 2024-07-29 01:53:12Z [Hardware: 42" Flexispot corner raiser](../753)
 * 2024-07-28 21:51:51Z [Place: Sue falls](../755)

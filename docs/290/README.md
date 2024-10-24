@@ -2,6 +2,8 @@
 
 This is my favorite keyboard so far. Most comfortable keyboard that I have every used. Could be slightly smaller so I don't have to shift my [hand](../756) to reach the windows key. This is an ortho linear keyboard. Bought on [Amazon] for 429$.
 
+I later sold it because I no longer use it. Too impractical as it is bulky to take with me every where and context switching between keyboards is problematic.
+
 [Amazon]: https://www.amazon.com/gp/product/B0BCHFHX6V/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
 ## Notes
