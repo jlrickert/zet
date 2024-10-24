@@ -1,0 +1,10 @@
+tags:
+  - wireguard
+  - vpn
+  - opnsense
+  - firewall
+  - networking
+  - homelab
+  - task
+schema:
+  type: task
