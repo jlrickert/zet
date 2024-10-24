@@ -613,7 +613,7 @@
 639	2024-07-18 04:59:51Z	Research: 2024 WiFi upgrade
 640	2024-07-08 04:51:53Z	Bake: Fourth of July focaccia
 641	2024-07-04 15:24:26Z	Ingredient: Turkey red wheat berries
-642	2024-10-23 13:22:49Z	Ingredient: King Arthur's bread flour 12.7%
+642	2024-10-23 13:50:59Z	Ingredient: King Arthur's bread flour 12.7%
 643	2024-07-04 17:53:31Z	Overview: Unix style search and replace utilities
 644	2024-07-28 02:40:28Z	Keg searching techniques
 645	2024-07-28 02:41:56Z	My current zettelkasten note taking setup
@@ -784,7 +784,7 @@
 814	2024-08-24 19:36:05Z	Software: changeset
 815	2024-08-25 04:00:30Z	Person: Twitch streamer BlaiseBits
 816	2024-08-25 04:00:20Z	Trick to display iPad on a windows machine
-817	2024-10-23 13:22:59Z	Bake: Simple 50/50 sourdough Batard
+817	2024-10-24 01:38:30Z	Bake: Simple 50/50 sourdough Batard
 818	2024-08-25 19:13:48Z	Company: Hamilton Beach
 819	2024-08-25 19:14:48Z	Company: Walmart
 820	2024-10-20 16:58:47Z	Article: The perfect loafs best sourdough pancakes
@@ -829,4 +829,7 @@
 859	2024-10-21 13:21:39Z	Hardware: Altra lone peak 8
 860	2024-10-21 13:41:52Z	Hash house harriers (m3h)
 861	2024-10-21 17:46:30Z	Embedding data within go binaries
-862	2024-10-23 13:25:06Z	Bake: Whole wheat 50/50 sourdough batard
+862	2024-10-24 13:22:34Z	Bake: Whole wheat 50/50 sourdough batard
+863	2024-10-23 20:39:55Z	Person: het_tanis
+864	2024-10-23 20:39:36Z	Person: Adrian Cantril
+865	2024-10-23 20:39:40Z	Bonzai/hashicorp based completions in zsh

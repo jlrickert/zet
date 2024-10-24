@@ -5,3 +5,5 @@
 - [Person: Thor](../811)
 - [Person: Twitch streamer BlaiseBits](../815)
 - [Person: Streamer MarekCounts](../842)
+- [Person: het_tanis](../863)
+- [Person: Adrian Cantril](../864)

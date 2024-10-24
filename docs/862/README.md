@@ -1,5 +1,7 @@
 # Bake: Whole wheat 50/50 sourdough batard
 
+![oval shaped loaf of bread](./loaf.jpg)
+
 Recipe base on [817](../817)
 
 | Ingredient        | Amount | Bakers Percentage | Comment                             |
@@ -14,4 +16,10 @@ Total weight is roughly 750g.
 
 ## Time log
 
+- 2024-10-22 10:00 Mix starter
 - 2024-10-23 08:21 Mix flour and whole wheat
+- 2024-10-23 09:56 Mix all the things
+- 2024-10-23 15:00 Shaped
+- 2024-10-23 20:38 Baked
+
+  500f for 30 minutes. Baked in dutch oven on top of a cast iron skillet
