@@ -1,4 +1,4 @@
-# Minnebar 18 details
+# Event: Minnebar 18 details
 
 Minnebar 18 is an (un)conference on April 20 (2024-04-10) located at Best Buy HQ in Minneapolis between 08:00 and 18:30 CDT.
 

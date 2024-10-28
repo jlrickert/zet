@@ -9,6 +9,8 @@ Bread bowl for labor day. Based on the [recipe](../299) that I used for July fou
 | starter           | 150g   | 27%               | 100% rye 1:1                   |
 | salt              | 6g     |                   |                                |
 
+Total weight is roughly 1123 grams
+
 > [!NOTE]
 >
 > Bakers percentages are off

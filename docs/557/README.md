@@ -1,6 +1,7 @@
 # Person: cmgriffing the streamer
 
-Developer for vexilla, a feature flagging service.
+- Developer for vexilla, a feature flagging service.
+- sister on twitch is drcagster
 
 ## Links
 

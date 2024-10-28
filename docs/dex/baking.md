@@ -1,3 +1,4 @@
+- 2024-10-29 [Bake: large 80/20 sourdough bowl](../868)
 - 2024-10-23 [Bake: Whole wheat 50/50 sourdough batard](../862)
 - 2024-08-30 [Bake: Labor day 2024 bread bowl](../827)
 - 2024-08-25 [Bake: Simple 50/50 sourdough Batard](../817)
