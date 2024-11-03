@@ -764,7 +764,7 @@
 794	2024-08-05 15:01:18Z	[ ] Homelab Task: Updating CloudFlare based email forwarding
 795	2024-08-05 15:20:41Z	[x] Homelab Task: Assign IP address to PHP VM's
 796	2024-08-12 19:13:25Z	CSS properties related to lists
-797	2024-10-08 14:36:35Z	PHP Trick: react inspired reusable components
+797	2024-11-01 14:15:19Z	PHP Trick: react inspired reusable components
 798	2024-08-13 14:17:37Z	Place: Finland group campsite
 799	2024-08-15 14:10:25Z	`foreach` mutation weirdness in PHP
 800	2024-08-18 02:26:17Z	SCORE venture capital group
@@ -829,10 +829,12 @@
 859	2024-10-21 13:21:39Z	Hardware: Altra lone peak 8
 860	2024-10-28 17:23:22Z	Hash house harriers (m3h)
 861	2024-10-21 17:46:30Z	Embedding data within go binaries
-862	2024-10-24 13:22:34Z	Bake: Whole wheat 50/50 sourdough batard
+862	2024-11-03 17:26:31Z	Bake: Whole wheat 50/50 sourdough batard
 863	2024-10-26 21:42:15Z	Person: het_tanis
 864	2024-10-23 20:39:36Z	Person: Adrian Cantril
 865	2024-10-23 20:39:40Z	Bonzai/hashicorp based completions in zsh
 866	2024-10-26 22:16:20Z	Hazy Rhythms dance
 867	2024-10-28 16:01:02Z	Recipe: Thai inspired chili
-868	2024-10-29 12:55:30Z	Bake: large 80/20 sourdough bowl
+868	2024-11-03 17:26:25Z	Bake: large 80/20 sourdough bowl
+869	2024-11-01 03:56:45Z	Possibly solution to dynamic autocompletes in oclif
+870	2024-11-03 18:37:25Z	Bake: Generic weekend sourdough

@@ -1,6 +1,6 @@
 # Bake: large 80/20 sourdough bowl
 
-A tweak on the [labor day 2024 bread bowl](../827).
+A tweak on the [labor day 2024 bread bowl](../827) that I made to bring to work .
 
 ![bread bowl](./bread-bowl.jpg)
 
