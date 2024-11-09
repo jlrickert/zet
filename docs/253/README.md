@@ -180,5 +180,3 @@ volumes:
 networks:
   wp-net: {}
 ```
-
-    tags: #wordpress

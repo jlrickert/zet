@@ -12,5 +12,5 @@
 - [[x] Homelab Task: OPNSense installation on Beelink EQ12 N1000](../772)
 - [Task: TrueNas Installation on ts140](../783)
 - [[x] TS140 Task: Installing upgrades to TS140](../784)
-- [[ ] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense](../787)
+- [[x] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense](../787)
 - [[ ] Homelab task: quick password protected https server](../803)

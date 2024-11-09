@@ -236,7 +236,7 @@
 250	2023-12-01 17:38:30Z	Types of sourdough preferments
 251	2024-05-20 21:41:36Z	How to setup automated change logs with github actions
 252	2023-09-07 02:26:52Z	List of core blocks for the block editor
-253	2023-09-29 02:37:22Z	Docker compose service cli interactions
+253	2024-11-07 03:45:33Z	Docker compose service cli interactions
 254	2023-09-07 02:26:52Z	CSS grid attributes and cheatsheet
 255	2023-09-07 02:26:52Z	Introductory material for statistics
 256	2024-05-15 19:47:32Z	Recommended image types to use on the web
@@ -632,7 +632,7 @@
 658	2024-07-18 20:10:43Z	How to add custom fonts to a website
 659	2024-07-12 16:32:36Z	Arial font
 660	2024-07-18 00:09:55Z	Overview: Bash scripting
-661	2024-07-14 20:40:10Z	[x] Homelab Task | setup proxmox
+661	2024-11-09 19:56:26Z	[x] Homelab Task | setup proxmox
 662	2024-07-14 21:08:56Z	Overview: Pi-Hole
 663	2024-07-28 20:55:29Z	Overview: Raspberry pi (pi)
 664	2024-07-14 21:09:20Z	[ ] Dotfiles Task | create a zetq script
@@ -753,16 +753,16 @@
 780	2024-08-02 14:49:37Z	Place: Hewing Hotel Rooftop
 781	2024-08-02 16:11:46Z	Zet schemas idea based on structured data
 782	2024-08-02 22:46:43Z	Place: The Nordic WeWork building
-783	2024-08-03 21:23:08Z	Task: TrueNas Installation on ts140
+783	2024-11-09 17:55:02Z	Task: TrueNas Installation on ts140
 784	2024-08-05 15:21:11Z	[x] TS140 Task: Installing upgrades to TS140
 785	2024-08-03 20:10:40Z	Overview: Nextcloud (nextcloud)
 786	2024-08-03 20:51:06Z	Issue: Proxmox inaccessible
-787	2024-08-05 15:24:31Z	[ ] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense
+787	2024-11-09 16:56:21Z	[x] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense
 791	2024-08-04 22:46:52Z	Recommendations for good sleep
 792	2024-08-05 19:41:14Z	Bake: Simple half and half focaccia
 793	2024-08-05 01:38:11Z	Task: Setup OPNsense backups on google drive
 794	2024-08-05 15:01:18Z	[ ] Homelab Task: Updating CloudFlare based email forwarding
-795	2024-08-05 15:20:41Z	[x] Homelab Task: Assign IP address to PHP VM's
+795	2024-11-04 14:08:27Z	[x] Homelab Task: Assign IP address to PHP VM's
 796	2024-08-12 19:13:25Z	CSS properties related to lists
 797	2024-11-01 14:15:19Z	PHP Trick: react inspired reusable components
 798	2024-08-13 14:17:37Z	Place: Finland group campsite
@@ -790,7 +790,7 @@
 820	2024-10-20 16:58:47Z	Article: The perfect loafs best sourdough pancakes
 821	2024-08-26 18:15:17Z	Hardware: Portable Weber grill
 822	2024-08-26 18:17:10Z	Perfect T-Bone on portable Weber grill
-823	2024-08-26 20:40:41Z	Connecting to MariaDB from MacOSX CLI
+823	2024-11-08 18:24:05Z	Connecting to MariaDB from MacOSX CLI
 824	2024-09-16 13:44:12Z	The War Within season 1 timeline
 825	2024-08-29 02:48:55Z	The War Within dungeons
 826	2024-08-29 15:34:45Z	Trick: pulling in a commit from upstream with git
@@ -837,4 +837,16 @@
 867	2024-10-28 16:01:02Z	Recipe: Thai inspired chili
 868	2024-11-03 17:26:25Z	Bake: large 80/20 sourdough bowl
 869	2024-11-01 03:56:45Z	Possibly solution to dynamic autocompletes in oclif
-870	2024-11-03 18:37:25Z	Bake: Generic weekend sourdough
+870	2024-11-03 18:41:18Z	Bake: Generic weekend sourdough
+871	2024-11-07 15:16:32Z	Connecting to Truenas storage volumes with NFS on my MacOS
+872	2024-11-04 14:44:45Z	Networking in Ubuntu 24.04
+873	2024-11-05 14:37:10Z	
+874	2024-11-07 15:16:33Z	Article: macOS X Mount NFS Share / Set an NFS Client
+875	2024-11-09 18:48:53Z	Migrating Virtualbox VM to Proxmox
+876	2024-11-09 16:50:58Z	IPv6 Certification
+877	2024-11-09 19:10:00Z	Using TrueNAS NFS for Proxmox images
+878	2024-11-09 19:43:48Z	Setting up DNS with Unbound with DHCP DNS registration on OPNsense
+879	2024-11-09 19:35:14Z	Tech GODS list
+880	2024-11-09 19:38:34Z	Setting up DHCP on OPNSense (2024-11-09)
+881	2024-11-09 20:39:41Z	Most efficient transpiler see go tool chain
+882	2024-11-09 23:00:57Z	Vim filter cheatsheet

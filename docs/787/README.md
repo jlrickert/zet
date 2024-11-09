@@ -1,4 +1,4 @@
-# [ ] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense
+# [x] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense
 
 This is what I found works for a VPN setup after initially [installing](../772) OPNsense on my [EQ12](../699). OPSense is a [Road Warrior] guide on how to setup it up. I was able to follow it to a T as this is a rather new setup and have not done anything complex yet. I used the same Interface name of `HomeWireGuard`.
 
