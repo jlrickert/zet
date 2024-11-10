@@ -1,3 +1,5 @@
+* 2024-11-10 18:22:43Z [Trump 2024 presidential election ramifications](../884)
+* 2024-11-10 04:47:38Z [SPEC: dotz package manager](../883)
 * 2024-11-09 23:00:57Z [Vim filter cheatsheet](../882)
 * 2024-11-09 20:39:41Z [Most efficient transpiler see go tool chain](../881)
 * 2024-11-09 19:56:26Z [[x] Homelab Task | setup proxmox](../661)

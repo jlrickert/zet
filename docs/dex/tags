@@ -46,7 +46,7 @@ xero 848
 nextcloud 785
 mysql 823
 workstation 103 119 141 545 546 552 816 88 91
-spec 801 802
+spec 801 802 883
 html 657 677 698 703 711 828 846
 swimming 736 737
 neighborhood 746 747 751
@@ -149,6 +149,7 @@ youtuber 768
 react 112 516 757 758
 frontendmasters 773
 wireguard 376 772 786 787
+dotz 883
 spacemacs 15
 knut 802
 trick 797 828
@@ -209,7 +210,7 @@ social 712
 ddns 777
 venturecapitalism 800
 sql 652 653 843
-economics 764
+economics 764 884
 sandal 716
 gaming 1 120 121 14 2 3 581 731
 privacy 804
@@ -241,6 +242,7 @@ gamedesign 809 810
 wine 433
 stpaul 776
 schema 781
+politics 884
 knowledgemanagement 651 735
 event 143 515 690 691 692 693 725 732 733 837
 ux 166
