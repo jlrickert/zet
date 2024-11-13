@@ -22,6 +22,9 @@ Trump won the presidential election in 2024.
 - New record for political race spending (16B) - is this adjusted for inflation?
 - Musk may have a role as **Department of Government Efficiency** (DOGE). Will this make America an oligopoly? Bernie sanders suggested potential of this years before. See <https://www.youtube.com/watch?v=ZaekogALkFM>
 - Federal reserve ramifications. Trumps wants to fire him. Reelecting a new one in 2026
+- Trump is the first [felon] to win a presidential election. 
+
+[felony]: https://www.usatoday.com/story/news/politics/elections/2024/11/08/is-trump-a-convicted-felon-president-vote-when-trial-guilty-court-date-sentencing-us/76108799007/
 
 [triffin dilemma]: https://en.wikipedia.org/wiki/Triffin_dilemma
 

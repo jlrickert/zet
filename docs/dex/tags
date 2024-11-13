@@ -10,7 +10,7 @@ evoker 1 14 2 3
 theotrailrunners 737
 heroku 832
 grouprun 687 720
-bash 102 107 11 111 113 125 129 130 133 160 221 249 279 282 33 652 655 660 679 680 681 79 850 865 94
+bash 102 107 11 111 113 125 129 130 133 160 221 249 279 282 33 652 655 660 679 680 681 79 850 865 886 889 94
 music 472 844 853 854 855 856
 job 476 776
 cloud 412 587
@@ -70,6 +70,7 @@ tauri 493
 bitbucket 851
 mailchimp 189 190
 storage 708 745 785 793 871
+prompt 887
 operations 117 13 505 719 759 779 813 814
 ocaml 489 500
 uptown 778
@@ -171,6 +172,7 @@ datacenter 708
 shoes 847
 shell 850 865
 sambda 535
+nexi 889
 italian 738 792
 trailrunning 687 715 716 720 733
 specification 665 807
@@ -189,7 +191,7 @@ rogue 839 840
 wetware 756
 coworking 762
 zsh 161 655 865
-ai 569
+ai 569 886 887
 docker 16
 virtualization 574 633 635
 router 699
