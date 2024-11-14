@@ -16,6 +16,8 @@ Another trick is to enter visual mode. In **normal** mode hit v. This will open 
 
 ## Cheat sheet
 
+Most common keybindings to get you started. There are a lot more. Words are supported `w`, `e`, `b` work as expected.
+
 - Entering **normal** mode:
 
   Spam ESCAPE key

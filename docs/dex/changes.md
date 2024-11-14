@@ -1,4 +1,4 @@
-* 2024-11-14 15:53:24Z [Enabling vi mode editing in bash](../890)
+* 2024-11-14 15:54:58Z [Enabling vi mode editing in bash](../890)
 * 2024-11-14 15:10:19Z [How to use docker for NodeJS development](../355)
 * 2024-11-13 16:27:40Z [SPEC: nexi bash script](../889)
 * 2024-11-13 16:25:31Z [Details of how my **KEG** is setup](../887)
