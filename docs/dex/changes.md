@@ -1,3 +1,5 @@
+* 2024-11-14 15:53:24Z [Enabling vi mode editing in bash](../890)
+* 2024-11-14 15:10:19Z [How to use docker for NodeJS development](../355)
 * 2024-11-13 16:27:40Z [SPEC: nexi bash script](../889)
 * 2024-11-13 16:25:31Z [Details of how my **KEG** is setup](../887)
 * 2024-11-12 17:41:33Z [Connecting to MariaDB from MacOSX CLI](../823)
@@ -417,7 +419,6 @@
 * 2024-06-29 22:33:09Z [Research: search engines](../595)
 * 2024-06-29 02:22:06Z [Accessing `package.json` version for a TypeScript cli applicationg](../602)
 * 2024-06-28 14:18:21Z [Overview of navicat](../604)
-* 2024-06-28 02:51:15Z [How to use docker for NodeJS development](../355)
 * 2024-06-27 13:30:32Z [Place: Loadstone Coffee and Games](../603)
 * 2024-06-26 22:40:40Z [Cross compatibility with Windows Explorer zip files](../539)
 * 2024-06-26 22:28:22Z [Zip cheatsheet](../350)

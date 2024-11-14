@@ -331,7 +331,7 @@
 352	2024-04-16 21:01:22Z	SSH key rotation best practices
 353	2023-09-28 18:55:51Z	AWS EC2
 354	2024-02-12 19:08:39Z	Strange .pnpm-store appearing in my repo
-355	2024-06-28 02:51:15Z	How to use docker for NodeJS development
+355	2024-11-14 15:10:19Z	How to use docker for NodeJS development
 356	2023-09-29 17:34:11Z	Handling flags in bash
 357	2023-10-04 16:30:30Z	Battle tanks the game
 358	2023-09-30 17:20:55Z	Docker compose host name resolution
@@ -856,3 +856,4 @@
 886	2024-11-11 18:35:28Z	Process for create my encode script
 887	2024-11-13 16:25:31Z	Details of how my **KEG** is setup
 889	2024-11-13 16:27:40Z	SPEC: nexi bash script
+890	2024-11-14 15:53:24Z	Enabling vi mode editing in bash
