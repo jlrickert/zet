@@ -534,7 +534,7 @@
 560	2024-05-23 15:10:51Z	Local network machine IP address discovery protocols
 561	2024-07-04 15:27:18Z	Bake: Memorial Day Weekend focaccia 2024
 562	2024-07-28 01:48:00Z	FreeBSD for homelab exploration
-563	2024-07-25 03:28:46Z	Hardware: Think Server 140 (ts140)
+563	2024-12-10 17:51:47Z	Hardware: Think Server 140 (ts140)
 564	2024-07-24 18:57:20Z	Hardware: Dell XPS 9710
 565	2024-07-17 17:11:23Z	Improving CLS with blocking font loading
 566	2024-05-30 20:59:55Z	All things sudo
@@ -580,7 +580,7 @@
 606	2024-07-01 20:24:27Z	Overview: backing up Unix systems
 607	2024-07-31 14:29:04Z	Common network ranges used in private networks
 608	2024-07-28 16:13:11Z	Baking: Experimental whole wheat focaccia
-609	2024-08-18 06:37:53Z	Project: Knutjs
+609	2024-11-15 14:15:06Z	Project: Knutjs (knutjs)
 610	2024-07-14 20:34:25Z	[x] Homelab Task | setup a vpn
 611	2024-07-28 00:40:59Z	pfSense for networking
 612	2024-06-30 18:02:07Z	Hardware: Samsung S22+ android phone (s22)
@@ -636,7 +636,7 @@
 662	2024-07-14 21:08:56Z	Overview: Pi-Hole
 663	2024-07-28 20:55:29Z	Overview: Raspberry pi (pi)
 664	2024-07-14 21:09:20Z	[ ] Dotfiles Task | create a zetq script
-665	2024-07-28 02:42:13Z	SPEC: `zetq`
+665	2024-11-15 02:23:51Z	SPEC: `zetq`
 666	2024-07-19 19:31:03Z	Project: Personal Zettelkasten (notetaking)
 667	2024-07-31 23:59:30Z	[x] Homelab Task | setup DNS
 668	2024-07-14 23:13:30Z	Overview: Quad9 DNS
@@ -684,7 +684,7 @@
 710	2024-08-02 14:43:10Z	Place: Wandering Leaf Brewing
 711	2024-07-26 16:25:39Z	Adding keyboard only navigation elements to websites
 712	2024-08-02 14:49:35Z	Time log: Minneapolis 20s and 30s something social meetup group
-713	2024-07-26 20:36:13Z	Place: 12 Cider
+713	2024-11-24 19:52:36Z	Place: 12 Cider
 714	2024-07-26 20:37:09Z	Place: Minneapolis airport
 715	2024-07-26 20:39:52Z	Place: Theodore Wirth Parkway
 716	2024-09-24 14:00:32Z	Hardware: Luna Leadville pacer
@@ -774,7 +774,7 @@
 804	2024-08-21 13:57:58Z	Article: Interesting article about obfuscation
 805	2024-08-21 14:05:06Z	Webdev cookies
 806	2024-08-22 03:14:38Z	Deploying WordPress on single docker host 
-807	2024-08-23 14:56:19Z	SPEC: Unix utility convention specification
+807	2024-11-15 02:24:07Z	SPEC: Unix utility convention specification
 808	2024-08-25 19:38:27Z	Security: possible PHP vulnerability vector
 809	2024-08-24 14:15:42Z	3 day head start on WOW may prevent early server overload
 810	2024-08-24 14:20:42Z	Reason why WOW implemented wow tokens
@@ -840,7 +840,7 @@
 870	2024-11-03 18:41:18Z	Bake: Generic weekend sourdough
 871	2024-11-07 15:16:32Z	Connecting to Truenas storage volumes with NFS on my MacOS
 872	2024-11-04 14:44:45Z	Networking in Ubuntu 24.04
-873	2024-11-05 14:37:10Z	
+873	2024-11-15 02:25:34Z	Article: Security Incident Survey Cheatsheet for Server Administrators
 874	2024-11-07 15:16:33Z	Article: macOS X Mount NFS Share / Set an NFS Client
 875	2024-11-09 18:48:53Z	Migrating Virtualbox VM to Proxmox
 876	2024-11-09 16:50:58Z	IPv6 Certification
@@ -857,3 +857,22 @@
 887	2024-11-13 16:25:31Z	Details of how my **KEG** is setup
 889	2024-11-13 16:27:40Z	SPEC: nexi bash script
 890	2024-11-14 15:54:58Z	Enabling vi mode editing in bash
+891	2024-11-15 14:15:45Z	Migrating from pnpm to deno
+892	2024-11-16 04:35:55Z	Software: Local AI (localai)
+893	2024-11-16 19:13:29Z	First impressions with localai on my mac
+894	2024-11-20 21:18:34Z	Experimenting with AI context windows on LocalAI and OpenAI
+895	2024-11-16 20:31:35Z	Creating a time machine backup on TrueNAS
+896	2024-11-17 17:17:37Z	Article: code signing deno applications
+897	2024-11-17 17:06:59Z	Bake: Generic weekend sourdough ~batard~ focaccia
+898	2024-11-20 15:17:38Z	Skill stack log dumps
+899	2024-11-17 18:24:55Z	EDU: Skill stack beginner boost (skillstack)
+900	2024-11-19 21:58:09Z	Using environment variables to populate YAML configurations
+901	2024-11-19 22:59:44Z	SPEC: homelab multi call binary monolith
+902	2024-11-24 19:54:19Z	Place: Mac's Industrial Sports Bar
+903	2024-11-24 19:54:11Z	Place: Dinky Town
+904	2024-11-27 16:07:25Z	Trick to prevent page reloading for debugging
+905	2024-11-30 21:14:53Z	Trick: type safe error handling with error maps
+906	2024-12-02 05:35:19Z	Research: upgrading to an adjustable desk with a treadmill
+907	2024-12-05 15:27:39Z	Project: `claude` stateful command line tree program (claude-cli)
+908	2024-12-05 15:27:11Z	Issue: LSP may expose sensitive contents
+909	2024-12-06 16:10:00Z	Trick for converting tables in word documents to markdown tables

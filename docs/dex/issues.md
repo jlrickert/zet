@@ -6,4 +6,5 @@
 - [Layout strategies for webdev](../696)
 - [World wide web consortium (w3c)](../697)
 - [Issue: Proxmox inaccessible](../786)
+- [Issue: LSP may expose sensitive contents](../908)
 - [keg create git issue](../96)

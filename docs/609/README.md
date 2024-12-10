@@ -1,4 +1,4 @@
-# Project: Knutjs
+# Project: Knutjs (knutjs)
 
 ## Search engine
 

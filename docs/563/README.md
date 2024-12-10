@@ -5,7 +5,7 @@ Server that I got as a present long ago. A common nickname that I use for it is 
 ## Hardware
 
 - E3-1246 v3 CPU
-- 8Gb ECC memory
+- 32Gb ECC memory
 - I217 network driver | This one is built into the mother board
 - I350-GE-2T-X4 network card (2 RJ-45) | external card
 - 1TB SDD (540MB/s)
