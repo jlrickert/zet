@@ -1,6 +1,6 @@
 # Bake: Fourth of July focaccia
 
-![focaccia](./focaccia.jpg
+![focaccia](./focaccia.jpg)
 
 ## Ingredients
 

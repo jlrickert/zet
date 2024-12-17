@@ -611,7 +611,7 @@
 637	2024-07-08 04:51:57Z	Place: Taste of India St Louis Park
 638	2024-07-02 20:51:57Z	Place: St Louis Park, MN
 639	2024-07-18 04:59:51Z	Research: 2024 WiFi upgrade
-640	2024-07-08 04:51:53Z	Bake: Fourth of July focaccia
+640	2024-12-15 22:08:08Z	Bake: Fourth of July focaccia
 641	2024-07-04 15:24:26Z	Ingredient: Turkey red wheat berries
 642	2024-10-23 13:50:59Z	Ingredient: King Arthur's bread flour 12.7%
 643	2024-07-04 17:53:31Z	Overview: Unix style search and replace utilities
@@ -621,7 +621,7 @@
 647	2024-07-15 16:43:52Z	Overview: Neovim Telescope Plugin
 648	2024-07-04 23:27:04Z	Ingredient: Einkorn wheat berries
 649	2024-07-11 14:40:48Z	Overview: My Note taking system
-650	2024-07-11 14:19:58Z	Overview: keg specification
+650	2024-12-17 00:21:55Z	Overview: keg specification
 651	2024-07-26 22:43:05Z	Overview: keg
 652	2024-08-26 14:25:27Z	Reusable Mariadb SQL scripts on the CLI
 653	2024-07-12 19:58:38Z	Overview: Mariadb
@@ -794,7 +794,7 @@
 824	2024-09-16 13:44:12Z	The War Within season 1 timeline
 825	2024-08-29 02:48:55Z	The War Within dungeons
 826	2024-08-29 15:34:45Z	Trick: pulling in a commit from upstream with git
-827	2024-10-28 14:59:53Z	Bake: Labor day 2024 bread bowl
+827	2024-12-17 00:10:08Z	Bake: Labor day 2024 bread bowl
 828	2024-09-05 14:54:58Z	Trick: custom select menus in the browser
 829	2024-09-12 12:03:02Z	WOW The War Within expansion
 830	2024-09-12 12:00:48Z	Game: World of Warcraft (WOW)
@@ -876,3 +876,5 @@
 907	2024-12-05 15:27:39Z	Project: `claude` stateful command line tree program (claude-cli)
 908	2024-12-05 15:27:11Z	Issue: LSP may expose sensitive contents
 909	2024-12-06 16:10:00Z	Trick for converting tables in word documents to markdown tables
+910	2024-12-17 00:09:56Z	Bake: More Rye-Based Sourdough Loaf
+911	2024-12-17 00:09:50Z	Autolyse Flour
