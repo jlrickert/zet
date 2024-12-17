@@ -43,8 +43,7 @@ Make sure that they are both executable.
 chmod +x ./install ./mkdocs
 ```
 
-A a **mkdocs.yaml** file needs to exist. Here is an example from what I am
-currently using.
+A a **mkdocs.yaml** file needs to exist. Here is an example from what I am currently using.
 
 ```yaml
 site_name: KEG Zettelkasten for Jared Rickert (jlrickert)
@@ -54,17 +53,13 @@ repo_url: https://github.com/jlrickert/zet
 edit_uri: edit/main/docs
 site_author: Jared Rickert (jaredrickert52@gmail.com)
 site_description: >-
-  Hi I'm Jared. This is my personal **zettelkasten** KEG site. It contains stuff
-  on pretty much any topic I feel like writing about, mostly about [baking](292)
-  and tech how too. You can think of it as my own personal stack overflow or
-  arch wiki. The latest additions and changes are always [indexed](dex).
+  Hi I'm Jared. This is my personal **zettelkasten** KEG site. It contains stuff on pretty much any topic I feel like writing about, mostly about [baking](292) and tech how too. You can think of it as my own personal stack overflow or arch wiki. The latest additions and changes are always [indexed](dex).
+  
+  A word of caution is that these are raw notes. They may be inaccurate, messy, and/or plain misleading. Please don't quote me here as I may not still hold the same opinion on the subject. That is what my [blog] is for.
+  
+  The reason that I make these notes available is that they may be helpful to some one out there.
 
-  A word of caution is that these are raw notes. They may be inaccurate, messy,
-  and/or plain misleading. Please don't quote me here as I may not still hold
-  the same opinion on the subject. That is what my [blog] is for.
 
-  The reason that I make these notes available is that they may be helpful to
-  some one out there.
 use_directory_urls: false
 theme:
   name: readthedocs
@@ -107,10 +102,9 @@ extra:
   consent:
     title: Cookie consent
     description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+      We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.
+
+
 plugins:
   - search
   - meta-manager:
@@ -161,10 +155,8 @@ jobs:
       - run: mkdocs gh-deploy --force
 ```
 
-Add and push this up to GitHub. GitHub pages then should be configured to point
-to the **gh-pages** branch.
+Add and push this up to GitHub. GitHub pages then should be configured to point to the **gh-pages** branch.
 
 ## See also
 
-- [mkdocs material]:
-    https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/
+- [mkdocs material]: https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/

@@ -29,4 +29,4 @@ Total weight is approximately 1100g.
 
 - 2024-12-16 00:00 Placed into the fridge
 - 2024-12-16 00:00 Pulled out of the fridge
-- 2024-12-16 15:33 Baked
+- 2024-12-16 15:33 Baked at 500 for 35 minutes in the [oven](../912) using the [cast iron skillet trick](../913). I didn't use parchment paper at all. The middle was still dough. Most likely from the high rye content.
