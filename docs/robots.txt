@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zet.jlrickert.me/sitemap.xml
+Sitemap: https://keg.jlrickert.me/sitemap.xml
