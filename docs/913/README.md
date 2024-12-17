@@ -37,5 +37,6 @@ The process of baking bread using a Dutch oven placed on top of a cast iron skil
 - **Steam Retention**: The Dutch oven captures steam released from the dough, crucial for crust development.
 - **Even Heat Distribution**: The cast iron skillet helps maintain consistent heat, aiding uniform rise and bake.
 - **Versatile Setup**: This method adapts to various bread recipes, offering reliable results for novice and experienced bakers alike.
+- **Prevent Burning**: This prevents burning the bottom of the loaf
 
 This method mimics professional bakery steam ovens, allowing home bakers to achieve professional-quality artisan bread with a crusty exterior and a chewy, well-structured interior.
