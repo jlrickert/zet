@@ -54,67 +54,67 @@ When referencing links that are not part of this KEG, it is preferred to use ref
 
 ## Examples
 
-1. **Docker Basics [../16]**
+1. **(Docker Basics)[../16]**
 
    - Links to the note that covers how to quickly spin up a dev environment for testing with Docker.
 
-2. **Neovim IDE Features [../35]**
+2. **(Neovim IDE Features)[../35]**
 
    - Connects to a note detailing the key things that make Neovim function as an integrated development environment (IDE).
 
-3. **Sourdough Techniques [../459]**
+3. **(Sourdough Techniques)[../459]**
 
    - Points to the note about making good sourdough bread.
 
-4. **AWS Services Overview [../391]**
+4. **(AWS Services Overview)[../391]**
 
    - Directs to a note that provides an overview of various AWS services.
 
-5. **Bash Scripting Tips [../33]**
+5. **(Bash Scripting Tips)[../33]**
 
    - References a note that discusses tricks and techniques in Bash scripting.
 
-6. **Warcraft Dungeon Guides [../832]**
+6. **(Warcraft Dungeon Guides)[../832]**
 
    - Links to a note about dungeons in the World of Warcraft: The War Within expansion.
 
-7. **Python Development Setup [../380]**
+7. **(Python Development Setup)[../380]**
 
    - Points to a project management note for Python, suitable for expanding on setting up environments.
 
-8. **React Design Concepts [../516]**
+8. **(React Design Concepts)[../516]**
 
    - Connects to a note covering design concepts specific to React Native.
 
-9. **Running Event Preparation [../852]**
+9. **(Running Event Preparation)[../852]**
 
    - Links to your note listing running event race times, useful for event preparation strategies.
 
-10. **WordPress Plugin Development [../226]**
+10. **(WordPress Plugin Development)[../226]**
 
     - Directs to an overview note of WordPress plugin development.
 
-11. **Functional Programming in JavaScript [keg:js-resources/250]**
+11. **(Functional Programming in JavaScript)[keg:js-resources/250]**
 
     - Links to a note in the external "js-resources" KEG that provides a comprehensive guide on functional programming principles within JavaScript.
 
-12. **Advanced CSS Techniques [keg:webdev/45]**
+12. **(Advanced CSS Techniques)[keg:webdev/45]**
 
     - Points to an external note in the "webdev" KEG that explores advanced CSS techniques and practices.
 
-13. **Cloud Infrastructure Management [keg:cloud/101]**
+13. **(Cloud Infrastructure Management)[keg:cloud/101]**
 
     - Connects to a detailed note in the "cloud" KEG, which outlines strategies for effective cloud infrastructure management.
 
-14. **Machine Learning Algorithms [keg:ai/89]**
+14. **(Machine Learning Algorithms)[keg:ai/89]**
 
     - Directs to an external note in the "ai" KEG detailing various machine learning algorithms and their applications.
 
-15. **Digital Marketing Strategies [keg:marketing/73]**
+15. **(Digital Marketing Strategies)[keg:marketing/73]**
 
     - References an external note in the "marketing" KEG that examines digital marketing strategies and tools.
 
-16. **JavaScript Documentation [js-docs]**
+16. ** JavaScript Documentation [js-docs]**
 
     - For comprehensive JavaScript documentation and resources, visit the [Mozilla Developer Network][js-docs].
 
