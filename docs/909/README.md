@@ -1,4 +1,4 @@
-# Trick for converting tables in word documents to markdown tables
+# Prompt: converting tables in word documents to markdown tables
 
 One trick that I found is to copy and paste the contents of a word document into vim. The contents will be garbage. I feed it into chat gpt to the format.
 

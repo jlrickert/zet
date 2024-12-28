@@ -2,7 +2,11 @@
 
 This rye-forward loaf is an adaptation of the [labor day 2024 bread bowl](../827). A bit of an experiment as I haven't made one in a while. The recipe emphasizes a higher proportion of rye flour to develop a distinct flavor and texture, perfect for rye enthusiasts.
 
-Initial ingredients
+Loaf turned out decent on the outsides. The middle was still dough though and there was a rather [large hole](../914) in the middle.
+
+![Loaf of rye bread](./rye-loaf.jpg)
+
+## Ingredients
 
 | Ingredient                  | Amount | Bakers Percentage | Comment                            |
 | --------------------------- | ------ | ----------------- | ---------------------------------- |
@@ -17,8 +21,6 @@ Total weight is approximately 1100g.
 > [!TIP]
 >
 > Due to the high rye content, the dough may be stickier. Trust the process and adjust hydration if needed.
-
-![Loaf of rye bread](./rye-loaf.jpg)
 
 ## Time log
 

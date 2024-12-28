@@ -7,4 +7,5 @@
 - [World wide web consortium (w3c)](../697)
 - [Issue: Proxmox inaccessible](../786)
 - [Issue: LSP may expose sensitive contents](../908)
+- [Issue: unable to change model of an ongoing `mods` conversation](../915)
 - [keg create git issue](../96)

@@ -1,4 +1,4 @@
-updated: 2024-12-17 02:02:38Z
+updated: 2024-12-28 16:55:42Z
 kegv: 2023-01
 
 title: KEG Zettelkasten for Jared Rickert (jlrickert)
@@ -9,7 +9,7 @@ state: living
 
 links:
   - alias: jlrickert
-    url: https://zet.jlrickert.me
+    url: https://keg.jlrickert.me
   - alias: private
     url: https://zettel.jlrickert.me
 
@@ -21,13 +21,9 @@ summary: |
 indexes:
   - file: dex/changes.md
     summary: latest changes
-    plugin: 'date'
   - file: dex/nodes.tsv
     summary: all nodes by id
-    plugin: 'date'
+  - file: dex/tags
+    summary: tags to nodes index
   - file: dex/baking.md
     summary: all nodes related to baking
-    plugin: 'date'
-    args:
-      tags: 
-        - baking
