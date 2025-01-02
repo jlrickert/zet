@@ -1,3 +1,5 @@
+* 2025-01-02 15:15:10Z [Hardware: Ibanez RG421 Electric Guitar](../853)
+* 2025-01-02 15:15:01Z [Guitar tone](../922)
 * 2024-12-28 17:03:43Z [Prompt: "Linkify" KEG notes](../921)
 * 2024-12-28 16:49:32Z [Place: Chanhassen Dinner Theater](../920)
 * 2024-12-28 16:21:08Z [Prompt: Details of how my **KEG** is setup](../887)
@@ -94,7 +96,6 @@
 * 2024-10-06 21:27:03Z [Music equipment concepts](../856)
 * 2024-10-05 19:25:54Z [Hardware: Focusrite Scarlett 2i2](../855)
 * 2024-10-05 18:31:20Z [Human hearing frequency ranges and preferences](../857)
-* 2024-10-05 18:17:26Z [Hardware: Ibanez RG421 Electric Guitar](../853)
 * 2024-10-05 17:09:57Z [Project: Personal music studio](../854)
 * 2024-10-04 19:20:19Z [Tiling window management on macOSX with Yabai](../103)
 * 2024-10-04 19:19:32Z [How to install homebrew on a MacOS](../160)
