@@ -1,6 +1,6 @@
 # Prompt: "Linkify" KEG notes
 
-"Linkify" refers to the process of adding hyperlinks to specific keywords or phrases in a text, connecting them to relevant documents, websites, or other resources within a system like your KEG. This enhances the text by providing instant access to more detailed information or related content, facilitating easy navigation and improved information retrieval from your KEG repository.
+"Linkify" refers to the process of adding hyperlinks to specific keywords, phrases, or phrases in a text, connecting them to relevant documents, websites, or other resources within a system like your KEG. This enhances the text by providing instant access to more detailed information or related content, facilitating easy navigation and improved information retrieval from your KEG repository.
 
 When referencing links that are not part of this KEG, it is preferred to use reference-style links for clarity and readability.
 
@@ -118,24 +118,28 @@ When referencing links that are not part of this KEG, it is preferred to use ref
 
     - For comprehensive JavaScript documentation and resources, visit the [Mozilla Developer Network][js-docs].
 
+      [js-docs]: https://developer.mozilla.org/docs/Web/JavaScript
+
 17. **Python Official Guide [python-guide]**
 
     - Refer to the [Python Official Guide][python-guide] for tutorials and documentation on Python programming.
+
+      [python-guide]: https://docs.python.org/3/tutorial/
 
 18. **CSS Tricks and Tips [css-tricks]**
 
     - Explore [CSS-Tricks][css-tricks] for a wide array of CSS tips, tricks, and techniques.
 
+      [css-tricks]: https://css-tricks.com/
+
 19. **GitHub Actions Workflow [github-actions]**
 
     - Learn how to automate your development workflow with [GitHub Actions][github-actions].
+
+      [github-actions]: https://docs.github.com/en/actions
 
 20. **DigitalOcean Tutorials [digitalocean-tuts]**
 
     - Visit [DigitalOcean's Community][digitalocean-tuts] for tutorials on cloud computing and deployment strategies.
 
-[js-docs]: https://developer.mozilla.org/docs/Web/JavaScript
-[python-guide]: https://docs.python.org/3/tutorial/
-[css-tricks]: https://css-tricks.com/
-[github-actions]: https://docs.github.com/en/actions
-[digitalocean-tuts]: https://www.digitalocean.com/community/tutorials
+      [digitalocean-tuts]: https://www.digitalocean.com/community/tutorials
