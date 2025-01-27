@@ -1,4 +1,4 @@
-# Bake: Dutch Oven and Cast Iron Skillet Method
+# Dutch Oven and Cast Iron Skillet Method for baking bread
 
 The process of baking bread using a Dutch oven placed on top of a cast iron skillet is a technique designed to enhance heat distribution and steam retention, crucial for achieving a good crust and proper rise in artisanal bread.
 
