@@ -41,6 +41,13 @@ ls .skhdrc  | entr -s 'skhd --stop-service && skhd --start-service'
 ls .yabirc  | entr -s 'yabai --stop-service && yabai --start-service'
 ```
 
+## Upgrading
+
+Frequently after updating yabai will break. Follow the steps below:
+
+- Edit `/private/etc/sudoers.d/yabai` to update the hash. `echo "jlrickert ALL=(root) NOPASSWD: sha256:$(shasum -a 256 $(which yabai) | cut -d " " -f 1) $(which yabai) --load-sa"` will create the line needed. Typically, I will comment out the previous line.
+- Restart with `yabai --stop-service && yabai --start-service`
+
 References:
 
 - [official docs](https://github.com/koekeishiya/yabai/wiki)
