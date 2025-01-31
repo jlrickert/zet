@@ -1,3 +1,4 @@
+* 2025-01-31 03:11:35Z [Bake: 50/50 Wheat Sourdough Loaf](../938)
 * 2025-01-30 15:34:10Z [Band: Nick David & Demitrious Rallis](../946)
 * 2025-01-30 15:31:29Z [Place: Bear Cave Brewing](../947)
 * 2025-01-30 15:18:45Z [Event: Moving out of the ECW office in St Louis Park](../945)
@@ -8,7 +9,6 @@
 * 2025-01-28 15:17:12Z [Bands local to Minneapolis](../939)
 * 2025-01-28 01:19:49Z [Purely instrumental music](../942)
 * 2025-01-28 01:18:40Z [The style of music called Funk](../941)
-* 2025-01-27 18:42:06Z [Bake: 50/50 Wheat Sourdough Loaf](../938)
 * 2025-01-27 17:26:01Z [Dutch Oven and Cast Iron Skillet Method for baking bread](../913)
 * 2025-01-26 18:33:32Z [Ingredient: King Arthur's bread flour 12.7%](../642)
 * 2025-01-26 16:37:05Z [SPEC: `zetq`](../665)
