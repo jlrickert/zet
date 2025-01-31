@@ -1,3 +1,4 @@
+- 2025-01-27 [Bake: 50/50 Wheat Sourdough Loaf](../938)
 - 2024-12-15 [Bake: More Rye-Based Sourdough Loaf](../910)
 - 2024-11-03 [Bake: Generic weekend sourdough](../870)
 - 2024-10-29 [Bake: large 80/20 sourdough bowl](../868)
