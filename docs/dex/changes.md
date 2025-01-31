@@ -1,3 +1,6 @@
+* 2025-01-30 15:34:10Z [Band: Nick David & Demitrious Rallis](../946)
+* 2025-01-30 15:31:29Z [Place: Bear Cave Brewing](../947)
+* 2025-01-30 15:18:45Z [Event: Moving out of the ECW office in St Louis Park](../945)
 * 2025-01-28 21:10:49Z [Tiling window management on macOSX with Yabai](../103)
 * 2025-01-28 15:19:16Z [Weekly outing plan](../943)
 * 2025-01-28 15:19:10Z [Place: Palmers](../944)
