@@ -1,3 +1,4 @@
+* 2025-01-31 03:14:29Z [The style of music called Folk](../934)
 * 2025-01-31 03:11:35Z [Bake: 50/50 Wheat Sourdough Loaf](../938)
 * 2025-01-30 15:34:10Z [Band: Nick David & Demitrious Rallis](../946)
 * 2025-01-30 15:31:29Z [Place: Bear Cave Brewing](../947)
@@ -23,7 +24,6 @@
 * 2025-01-21 01:20:32Z [Place: 321 Club](../933)
 * 2025-01-21 01:19:28Z [Local band The Gentlemen's Anti-Temperance League](../929)
 * 2025-01-21 01:16:16Z [Place: 612 Brewing](../596)
-* 2025-01-21 01:14:24Z [The style of music called Folk](../934)
 * 2025-01-21 01:09:07Z [Place: Minneapolis](../932)
 * 2025-01-21 01:09:04Z [Local band The Last Revel](../931)
 * 2025-01-21 00:39:24Z [Concerts of interest for 2025](../928)
