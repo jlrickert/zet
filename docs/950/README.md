@@ -1,15 +1,113 @@
 # Programming by composition in PHP
 
-## Type safety
+## Type Safety
 
-## Code quality metrics
+In PHP, type safety refers to the enforcement of data types in your programs to prevent type errors and ensure that functions receive the expected types of arguments and return the expected types of values. PHP's type system has evolved to include type hints and scalar type declarations, and using PHPDoc blocks can enhance type safety, especially in cases where strict typing is not enforced.
 
-- cyclomatic complexity
-- halstead metrics
+### How to Use PHP Doc Blocks for Type Safety
+
+1. **Basic Type Declarations**: Use type declarations in function signatures to specify what types of parameters the function accepts and what type it returns. This provides basic type safety at runtime.
+
+   ```php
+   function add(int $a, int $b): int {
+       return $a + $b;
+   }
+   ```
+
+2. **Advanced Type Checking with PHPDoc**: PHPDoc comments can be used to annotate types in cases where you cannot enforce types directly (e.g., in older PHP versions). This helps tools like IDEs and static analysis tools understand expected types and ensures consistency in your codebase.
+
+   ```php
+   /**
+    * Adds two numbers.
+    *
+    * @param int $a The first number.
+    * @param int $b The second number.
+    * @return int The sum of the two numbers.
+    */
+   function add($a, $b) {
+       return $a + $b;
+   }
+   ```
+
+3. **Specifying Complex Types**: You can specify complex types using PHPDoc, including arrays, objects, and nullable types.
+
+   ```php
+   /**
+    * Processes user data.
+    *
+    * @param array<string, mixed> $userData An associative array of user data.
+    * @return User|null Returns a User object or null if not found.
+    */
+   function processUserData(array $userData): ?User {
+       // Implementation
+   }
+   ```
+
+4. **Using Collection Types**: Utilize arrays and collections to indicate the expected structure of data.
+
+   ```php
+   /**
+    * Gets a list of users.
+    *
+    * @return array<int, array{name: string, email: string, isAdmin?: boolean}> An array of User objects.
+    */
+   function getUsers() {
+       // Implementation
+   }
+   ```
+
+5. **Static Analysis Tools**: Tools like PHPStan or Psalm can analyze your code and check for type inconsistencies based on the declarations provided in your PHPDoc comments. This enhances type safety by identifying potential issues before runtime.
+
+6. **Integration with IDEs**: Many modern Integrated Development Environments (IDEs) use the information in PHPDoc blocks to provide linting and autocomplete features, assisting developers in writing type-safe code.
+
+### Conclusion
+
+Using PHPDoc blocks is an effective way to enhance type safety in your PHP code. By documenting expected types for function parameters and return values, you improve code clarity, maintainability, and collaboration. Coupling these practices with PHP's built-in type declarations facilitates rigorous type checking and can catch potential errors during development instead of at runtime.
+
+## Code Quality Metrics
+
+Code quality metrics are quantitative measures that help assess various aspects of software quality, maintainability, and performance. These metrics provide insights into potential issues within the codebase, enabling developers to make informed decisions for improvement. Here are some key code quality metrics:
+
+### 1. Cyclomatic Complexity
+
+- **Definition**: Cyclomatic complexity is a software metric used to measure the complexity of a program by quantifying the number of linearly independent paths through its source code. It provides an indication of how complicated the control flow of a program is.
+- **Calculation**: The cyclomatic complexity (CC) can be calculated using the formula: \[ CC = E - N + 2P \] where:
+
+  - \(E\) = the number of edges in the control flow graph,
+  - \(N\) = the number of nodes in the control flow graph,
+  - \(P\) = the number of connected components (typically 1 for a single program).
+
+- **Interpretation**:
+  - A cyclomatic complexity score of 1-10 signifies low complexity and that the code is generally easy to understand and maintain.
+  - Scores above 10 often indicate that the code might be too complex, leading to potential issues such as difficulty in testing, increased risk of bugs, and challenges in maintenance.
+- **Use Cases**: Cyclomatic complexity is particularly useful for identifying areas of the code that may require refactoring or additional documentation. It can help prioritize code reviews and testing efforts, emphasizing sections with higher complexity.
+
+### 2. Halstead Metrics
+
+- **Definition**: Halstead metrics are a set of software metrics that measure various attributes of code based on the operators and operands used within it. These metrics focus on the size and complexity of the code, providing insights into the code's maintainability, understandability, and error proneness.
+
+- **Key Halstead Metrics**:
+
+  - **Program Length (N)**: The total number of operators and operands.
+  - **Vocabulary (n)**: The number of distinct operators and operands.
+  - **Volume (V)**: A measure of the size of the implementation. Calculated as: \[ V = N \times \log_2(n) \]
+  - **Difficulty (D)**: Indicates the complexity of the program and is calculated as: \[ D = \frac{n_1}{2} \times \frac{N_2}{n_2} \] where \(n_1\) is the number of unique operators and \(n_2\) is the number of unique operands.
+  - **Effort (E)**: A measure of the effort required to implement the program, calculated as: \[ E = D \times V \]
+
+- **Interpretation**:
+
+  - Higher values in Halstead metrics are generally indicative of more complex code that may be harder to understand and maintain.
+  - For example, increasing complexity and decreasing volume might suggest a need for refactoring to enhance code clarity.
+
+- **Use Cases**: Halstead metrics are valuable for assessing code maintainability and guiding refactoring efforts. They can also be used in automated analysis tools to give developers a quick overview of code complexity and potential areas for improvement.
+
+### Summary
+
+Cyclomatic complexity and Halstead metrics are essential tools for evaluating code quality. Cyclomatic complexity highlights potential areas of high complexity that may need more careful testing and maintenance, while Halstead metrics provide insights into code size, complexity, and effort required for implementation. Utilizing these metrics helps enhance the maintainability and reliability of software systems, ultimately leading to cleaner and more efficient codebases.
 
 ## Abstract algebra inspired pattern creation
 
-Abstract algebra offers a for design design patterns.
+Abstract algebra offers a rough guideline for creating design patterns. Not really in the strict sense though. They describe how discreet chunks of things get composed together. Each one builds on top of one another and offers more descriptive power.
 
 ### Monoids
 
@@ -21,102 +119,16 @@ Examples of [Monoids in PHP](../952).
 
 Allow functions to be applied to values wrapped in a context (such as arrays or optional types). Functors facilitate mapping operations across collections, enhancing code reusability and encouraging a declarative programming style. They promote uniform handling of data transformations.
 
-Examples of [Functors in PHP].
+Examples of [Functors in PHP](../953).
 
-### Mondads
+### Monads
+
+Allow for the chaining of operations while managing context and side effects. Monads encapsulate values within a computation framework, providing methods for transforming those values without losing context. This promotes clean and expressive code structures that avoid side effects, enabling functional programming paradigms within an object-oriented context.
+
+Examples of [Monads in PHP](../954).
 
 ### Kleisli
 
-Monoids are a concept from abstract algebra that can be applied to programming, and they are particularly useful in functional programming paradigms. In PHP, understanding and using monoids can enhance your code's structure, clarity, and modularity. Here’s how monoids are useful in PHP:
+Provide a means to work with functions that return monadic values, allowing for seamless composition of operations. A Kleisli arrow is a way to chain functions that produce monadic results, enhancing the structure of code by allowing the output of one function to be easily passed into another. This pattern promotes cleaner handling of computations that may involve side effects and supports a functional programming style.
 
-### 1. **Definition of a Monoids**
-
-A monoid is defined by:
-
-- A **set** of elements.
-- An **associative binary operation** (e.g., addition or concatenation) that combines two elements to produce another element from the same set.
-- An **identity element** which, when combined with any element in the set, yields that element unchanged.
-
-In PHP, a common example of a monoid can be strings and arrays.
-
-### 2. **Examples of Monoids in PHP**
-
-- **String Concatenation**:
-
-  - **Set**: All strings.
-  - **Operation**: The concatenation operator (`.`).
-  - **Identity Element**: The empty string (`""`).
-
-  Using string concatenation, you can combine different strings in a readable way. For example:
-
-  ```php
-  $str1 = "Hello, ";
-  $str2 = "world!";
-  $result = $str1 . $str2; // Result: "Hello, world!"
-  ```
-
-- **Array Merging**:
-
-  - **Set**: All arrays.
-  - **Operation**: The array merge operator (`array_merge()`).
-  - **Identity Element**: The empty array (`[]`).
-
-  This allows you to merge arrays together naturally, which is particularly useful when combining results from different data sources:
-
-  ```php
-  $array1 = [1, 2, 3];
-  $array2 = [4, 5];
-  $result = array_merge($array1, $array2); // Result: [1, 2, 3, 4, 5]
-  ```
-
-### 3. **Function Composition**
-
-Monoids support function composition, allowing you to create more complex operations by combining simpler functions. In PHP, you can create a function that accumulates results based on previously defined monoid operations:
-
-```php
-function combine(callable $f, $identity, array $data) {
-    return array_reduce($data, $f, $identity);
-}
-
-$array = [1, 2, 3, 4];
-$result = combine('array_merge', [], $array); // Merging all arrays
-```
-
-### 4. **Code Readability and Maintainability**
-
-Using monoids can improve code readability and maintainability. When you structure your data manipulation around monoidal concepts, it becomes easier for other developers (or future you) to understand and extend the code.
-
-### 5. **Encouraging Immutability**
-
-The use of monoids encourages a functional programming style, where data is treated as immutable. This can lead to fewer side effects in your code and more predictable functions, improving the overall robustness of your PHP applications.
-
-### 6. **OOP Design Patterns Related to Monoids**
-
-- **Composite Pattern**
-
-  - **Description**: This pattern allows you to compose objects into tree structures to represent part-whole hierarchies. It enables clients to treat individual objects and compositions uniformly, resembling how monoids can aggregate values.
-  - **Use Case**: Ideal for scenarios where you need to manipulate a group of objects as if they were a single instance, such as managing files in a directory structure.
-
-- **Strategy Pattern**
-
-  - **Description**: The strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable for clients. This aligns with the idea of combining functions or operations, where each strategy can be treated like an element that can be combined.
-  - **Use Case**: Useful for situations where multiple strategies can be applied to the same problem, like different sorting algorithms or price calculation methods.
-
-- **Builder Pattern**
-
-  - **Description**: The builder pattern constructs complex objects step by step, allowing for controlled construction and providing a way to create objects that can vary in type and content. It embodies monoidal principles by combining various parts to produce a unified whole.
-  - **Use Case**: This pattern is beneficial when dealing with objects that require multiple initialization parameters or configurations, such as creating a complex document or a UI component.
-
-- **Decorator Pattern**
-
-  - **Description**: The decorator pattern allows behavior to be added to individual objects, dynamically, without affecting the behavior of other objects from the same class. This concept can be thought of as adding additional "elements" or "attributes" to an object.
-  - **Use Case**: Commonly used in UI frameworks to add functionality to GUI components dynamically.
-
-- **Aggregate Pattern**
-
-  - **Description**: Similar to the composite pattern, the Aggregate pattern is about managing a collection of objects and typically involves defining a common interface for operations on the entire collection.
-  - **Use Case**: Useful in contexts where you want to perform operations on collections of objects, such as summing values or rendering lists.
-
-- **Command Pattern**
-  - **Description**: The command pattern encapsulates requests as objects, allowing you to parameterize clients with queues, requests, and operations. This encapsulation allows for operations to be composed, enabling flexible operation handling.
-  - **Use Case**: Especially useful in UI applications for implementing features like undo/redo functionality or handling user actions.
+Examples of [Kleisli Arrows in PHP](../955).
