@@ -1,10 +1,140 @@
 # Programming by composition in PHP
 
+## Code consistency and git diff
+
+Prefer hanging indent. 1 less line change in the git diffs
+
+```php
+$map = [
+    'a' => '123',
+    'b' => '234' // Optional hanging indent
+];
+
+// without hanging indent
+$map = [
+    'a' => '123',
+    'b' => '234', // change here
+    'c' => '234'  // change here
+];
+
+// with hanging indent
+$map = [
+    'a' => '123',
+    'b' => '234',
+    'c' => '234',  // change here
+];
+```
+
+## Coupling vs Cohesion
+
+### Coupling
+
+- **Definition**: Coupling refers to the degree of interdependence between software modules. It describes how closely connected different components or classes are in a system.
+- **Types of Coupling:**
+
+  - **Tight Coupling:** Occurs when a module heavily relies on the internal details of another module, making changes difficult and increasing the risk of introducing bugs.
+  - **Loose Coupling:** Represents a design where modules interact with minimal knowledge of each other’s implementation details. This enhances flexibility and maintainability.
+
+- **Benefits of Loose Coupling:**
+  - Easier to maintain and modify systems since changes in one module will have minimal impact on others.
+  - Promotes reusability because loosely coupled components can often be used in different contexts without significant alteration.
+
+### Cohesion
+
+- **Definition**: Cohesion refers to how closely related and focused the responsibilities of a single module are. It measures the degree to which the elements within a module work together to fulfill a single purpose.
+
+- **Types of Cohesion**:
+
+  - **High Cohesion**: Occurs when a module performs a single task or a set of related tasks, resulting in better organization and easier understanding of the code.
+  - **Low Cohesion**: Indicates that a module has unrelated responsibilities, leading to chaos, confusion, and difficulties in maintaining the code.
+
+- **Benefits of High Cohesion**:
+  - Improved readability and maintainability, as modules have clearly defined purposes.
+  - Easier testing and debugging because functionalities are grouped logically within a module.
+
+### Relationship Between Coupling and Cohesion
+
+- **Balance**: High cohesion within a module and low coupling between modules are ideal in software design. High cohesion increases the module's clarity and purpose while low coupling minimizes dependencies between modules.
+- **Impact on Design**: Striving for high cohesion and low coupling in design leads to systems that are more modular, easier to understand, maintain, and extend.
+
+### Conclusion
+
+Understanding the concepts of coupling and cohesion helps developers create robust, maintainable, and scalable software architectures. Prioritizing high cohesion and low coupling in design decisions leads to better-structured code that is easier to work with over time.
+
 ## Type Safety
 
 In PHP, type safety refers to the enforcement of data types in your programs to prevent type errors and ensure that functions receive the expected types of arguments and return the expected types of values. PHP's type system has evolved to include type hints and scalar type declarations, and using PHPDoc blocks can enhance type safety, especially in cases where strict typing is not enforced.
 
+### Branded Types
+
+Typically, it is considered best practice to not allow invalid states to be representable. Branded types help achieve this by creating unique types based on existing types, thus preventing accidental misuse. In PHP, you can implement branded types using classes or interfaces to ensure that only valid values can be instantiated.
+
+#### Code Example: Email Validation
+
+Here’s an example in PHP that demonstrates the concept of branded types using an Email class:
+
+```php
+class Email {
+    private string $email;
+
+    private function __construct(string $email) {
+        $this->email = $email;
+    }
+
+    /**
+     * Factory method to create a new Email instance.
+     * Throws an exception if the email address is invalid.
+     */
+    public static function create(string $email): self {
+        if (!self::isValidEmail($email)) {
+            throw new InvalidArgumentException("Invalid email address");
+        }
+        return new self($email);
+    }
+
+    /**
+     * Validates the given email address using a regex pattern.
+     */
+    private static function isValidEmail(string $email): bool {
+        return filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
+    }
+
+    /**
+     * Returns the email address as a string.
+     */
+    public function __toString(): string {
+        return $this->email;
+    }
+}
+
+// Usage Example
+try {
+    $myEmail = Email::create("valid.email@example.com");
+    echo "Valid email created: " . $myEmail; // Output: Valid email created: valid.email@example.com
+
+    $invalidEmail = Email::create("invalid-email"); // This will throw an error
+} catch (InvalidArgumentException $error) {
+    echo $error->getMessage(); // Output: Invalid email address
+}
+```
+
+### Explanation of the Code
+
+1. **Email Class**: The `Email` class serves as a branded type that holds a valid email address. The private constructor prevents instantiation outside the class.
+
+2. **Factory Method**: The `create` method validates the provided email address. If the email is invalid, it throws an `InvalidArgumentException`, ensuring that only valid instances of `Email` can be created.
+
+3. **Validation**: The `isValidEmail` method uses PHP’s built-in `filter_var` function with the `FILTER_VALIDATE_EMAIL` filter, leveraging PHP's capabilities for robust validation.
+
+4. **String Representation**: The `__toString` method allows the `Email` object to be converted to a string, providing an easy way to retrieve the email address value.
+
+5. **Usage**: In the usage example, a valid email is created successfully, while attempting to create an invalid email results in an exception, preventing invalid states throughout the application.
+
 ### How to Use PHP Doc Blocks for Type Safety
+
+Nominal vs structural types:
+
+A nominal type would be its own type that encapsulates some thing. An example would be a class. A structural type is a type inferred from its contents. An example would be a record. A record in php may be typed out as something like `array{name: string, email: string}`
 
 1. **Basic Type Declarations**: Use type declarations in function signatures to specify what types of parameters the function accepts and what type it returns. This provides basic type safety at runtime.
 
