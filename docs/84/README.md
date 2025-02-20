@@ -1,8 +1,6 @@
 # My preferred way of handling text width in documents
 
-Currently, I like having each line of text to be around rough 72
-characters long. I have something like the following on my nvim
-configuration.
+Currently, I like having each line of text to be around rough 72 characters long. I have something like the following on my nvim configuration.
 
 ```lua
 vim.api.nvim_create_autocmd('FileType', {
@@ -14,5 +12,3 @@ vim.api.nvim_create_autocmd('FileType', {
     end,
 })
 ```
-
-    #vim #neovim #linux #cli

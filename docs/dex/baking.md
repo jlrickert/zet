@@ -1,3 +1,5 @@
+- 2025-02-20 [Bake: 80/20 sourdough loaf](../962)
+- 2025-02-11 [Bake: 50/50 Sourdough Loaf](../958)
 - 2025-01-27 [Bake: 50/50 Wheat Sourdough Loaf](../938)
 - 2024-12-15 [Bake: More Rye-Based Sourdough Loaf](../910)
 - 2024-11-03 [Bake: Generic weekend sourdough](../870)
