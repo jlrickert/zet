@@ -1,3 +1,4 @@
+* 2025-02-22 19:10:16Z [Ingredient: King Arthur's bread flour 12.7%](../642)
 * 2025-02-22 17:14:13Z [Bake: 80/20 sourdough loaf](../962)
 * 2025-02-22 17:13:25Z [Article: The Wildernet](../965)
 * 2025-02-22 16:42:27Z [Bake: Simple 50/50 sourdough Batard](../817)
@@ -35,7 +36,6 @@
 * 2025-01-28 01:19:49Z [Purely instrumental music](../942)
 * 2025-01-28 01:18:40Z [The style of music called Funk](../941)
 * 2025-01-27 17:26:01Z [Dutch Oven and Cast Iron Skillet Method for baking bread](../913)
-* 2025-01-26 18:33:32Z [Ingredient: King Arthur's bread flour 12.7%](../642)
 * 2025-01-26 16:37:05Z [SPEC: `zetq`](../665)
 * 2025-01-26 16:36:55Z [My current zettelkasten note taking setup](../645)
 * 2025-01-26 16:36:49Z [Keg searching techniques](../644)
