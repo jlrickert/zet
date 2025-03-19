@@ -1,4 +1,6 @@
-# Tiling window management on macOSX with Yabai
+# App: Tiling window management on macOSX with Yabai
+
+[Yabai](../103) is the tiling window manager that I use on my [mac](../583). Works with [skhd].
 
 See [docs] for how to install
 

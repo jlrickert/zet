@@ -96,7 +96,7 @@
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
 101	2024-04-22 18:01:49Z	Installing software with curl
 102	2024-07-28 05:27:58Z	Using a temporary directory that require installing transient scripts
-103	2025-01-28 21:10:49Z	Tiling window management on macOSX with Yabai
+103	2025-03-17 14:22:35Z	App: Tiling window management on macOSX with Yabai
 104	2024-07-28 01:52:52Z	Overview: MacOSX tools and software
 105	2024-07-28 05:28:49Z	Concrete 5
 106	2024-07-28 05:29:44Z	How to install lando on MacOS
@@ -540,7 +540,7 @@
 566	2024-05-30 20:59:55Z	All things sudo
 567	2024-06-07 20:03:47Z	VLAN overview
 568	2024-07-14 19:46:02Z	Research: buying Ethernet adapters for a PC or server
-569	2024-06-06 15:35:41Z	Article about the disaster that is Copilot+ Recall
+569	2025-03-12 20:48:10Z	Article: The disaster that is Copilot+ Recall
 570	2024-06-06 21:44:45Z	KeePass is the only password manager resistant to Copilot+ Recall
 571	2024-06-08 18:15:39Z	Package management in Ubuntu
 572	2024-06-07 22:37:58Z	Package management in FreeBSD
@@ -625,7 +625,7 @@
 651	2024-07-26 22:43:05Z	Overview: keg
 652	2024-08-26 14:25:27Z	Reusable Mariadb SQL scripts on the CLI
 653	2024-07-12 19:58:38Z	Overview: Mariadb
-654	2024-07-11 17:01:36Z	Overview: MacOSX
+654	2025-03-17 14:20:12Z	Overview: MacOSX (macosx)
 655	2024-07-11 17:04:44Z	Handy pathing scripts
 656	2024-07-12 04:09:14Z	Issue: stupid MacOSX permissions crap
 657	2024-08-21 14:04:48Z	Overview: Website development (webdev)
@@ -692,7 +692,7 @@
 718	2024-07-28 01:52:56Z	Networking on MacOSX
 719	2024-08-02 15:59:41Z	Target uses OpenTelemetry Logging for centralized logging
 720	2024-10-21 13:22:39Z	Time log: Theo trail running with Thirsty Thursdays
-721	2024-08-01 03:54:30Z	DNS on OPNsense
+721	2025-03-15 22:18:30Z	DNS on OPNsense
 722	2024-08-05 15:13:46Z	OPNSense for networking
 724	2024-07-28 00:52:37Z	Company: Target
 725	2024-07-28 05:55:42Z	Event: Biking with 20s 30s somethings
@@ -928,8 +928,12 @@
 959	2025-02-16 21:51:44Z	Article: Website that compares different new providers
 960	2025-02-19 15:09:56Z	Game: Incremental epic hero 2 (ieh2)
 961	2025-02-19 05:20:05Z	Warrior stat spread for IEH2
-962	2025-02-22 17:14:13Z	Bake: 80/20 sourdough loaf
+962	2025-03-13 14:21:24Z	Bake: 80/20 sourdough loaf
 963	2025-02-20 21:29:39Z	Hardware: Enameled cast iron pot
 964	2025-02-20 21:30:12Z	Hardware: 12 inch Cast iron pan
 965	2025-02-22 17:13:25Z	Article: The Wildernet
 966	2025-02-22 19:24:48Z	Article: Language learning website
+967	2025-03-04 19:09:09Z	Article: Foony architecture post on twitter
+968	2025-03-04 19:09:02Z	Website: Foony
+969	2025-03-13 20:00:12Z	Bake: 54/46 sourdough loaf
+970	2025-03-17 14:22:24Z	App: skhd - a simple hotkey daemon for macOS

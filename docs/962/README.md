@@ -8,13 +8,13 @@ The kitchen was roughly 64f.
 
 ## Ingredients
 
-| Ingredient        | Amount | Bakers Percentage | Comment                  |
-| ----------------- | ------ | ----------------- | ------------------------ |
-| Bread flour       | 400g   | 80%               | [King Arthur](../642)    |
-| Whole wheat flour | 100g   | 20%               | Hard red wheat           |
-| Water             | 350g   | 70%               | Adjust based on humidity |
-| [Starter](../742) | 50g    | 10%               | 100% hydration, fed      |
-| Salt              | 5g     | 1.0%              |                          |
+| Ingredient              | Amount | Bakers Percentage | Comment                  |
+| ----------------------- | ------ | ----------------- | ------------------------ |
+| Bread flour             | 400g   | 80%               | [King Arthur](../642)    |
+| Whole wheat flour       | 100g   | 20%               | Hard red wheat           |
+| Water                   | 350g   | 70%               | Adjust based on humidity |
+| [wheat starter](../742) | 50g    | 10%               | 100% hydration, fed      |
+| Salt                    | 5g     | 1.0%              |                          |
 
 Total weight is approximately 905g.
 
