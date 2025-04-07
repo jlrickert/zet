@@ -658,10 +658,10 @@
 684	2024-07-18 00:10:00Z	Colors in bash scripting
 685	2024-07-20 14:16:54Z	Hardware: TP-Link BE550 (be550)
 686	2024-07-18 19:21:02Z	Place: Utepils
-687	2024-07-28 00:53:16Z	Thirsty Thursdays Theo Trail Runners
+687	2025-04-07 14:42:52Z	Thirsty Thursdays Theo Trail Runners
 688	2024-10-04 14:13:53Z	Overview: Running
 689	2024-07-24 19:19:10Z	View CSS on interactive elements
-690	2024-07-19 05:21:14Z	Event: Two rivers 10 mile 2024
+690	2025-03-31 14:48:28Z	Event: Two rivers 10 mile 2024
 691	2024-07-19 05:24:21Z	Event: Fargo half marathon 2024
 692	2024-07-19 05:25:30Z	Event: Ely marathon 2023
 693	2024-07-19 05:27:11Z	Event: Fargo half marathon 2019
@@ -686,12 +686,12 @@
 712	2024-08-02 14:49:35Z	Time log: Minneapolis 20s and 30s something social meetup group
 713	2024-11-24 19:52:36Z	Place: 12 Cider
 714	2024-07-26 20:37:09Z	Place: Minneapolis airport
-715	2024-07-26 20:39:52Z	Place: Theodore Wirth Parkway
-716	2024-09-24 14:00:32Z	Hardware: Luna Leadville pacer
+715	2025-04-07 14:43:06Z	Place: Theodore Wirth Parkway
+716	2025-04-07 14:43:21Z	Hardware: Luna Leadville pacer
 717	2024-07-26 20:45:04Z	Company: Luna (luna)
 718	2024-07-28 01:52:56Z	Networking on MacOSX
 719	2024-08-02 15:59:41Z	Target uses OpenTelemetry Logging for centralized logging
-720	2024-10-21 13:22:39Z	Time log: Theo trail running with Thirsty Thursdays
+720	2025-04-07 14:43:32Z	Time log: Theo trail running with Thirsty Thursdays
 721	2025-03-15 22:18:30Z	DNS on OPNsense
 722	2024-08-05 15:13:46Z	OPNSense for networking
 724	2024-07-28 00:52:37Z	Company: Target
@@ -703,7 +703,7 @@
 730	2024-07-28 01:43:16Z	Place: Tavern on First
 731	2024-09-12 11:58:56Z	WOW expansions and seasons
 732	2024-10-07 01:00:42Z	Event: Twin Cities Marathon 2024
-733	2024-10-21 20:08:03Z	Event: Wild Duluth 50K 2024
+733	2025-04-07 14:43:42Z	Event: Wild Duluth 50K 2024
 734	2024-07-28 04:37:53Z	Structured data on the web
 735	2024-07-28 04:48:05Z	Creating backlinks using using schema objects
 736	2024-07-28 05:11:02Z	Gear for dual training in swimming and running
@@ -819,7 +819,7 @@
 849	2024-09-23 20:53:50Z	Hardware: HFS shoes
 850	2024-10-03 18:10:13Z	Quick start guides to Unix, bash, terminal, etc
 851	2024-10-03 18:13:59Z	Issue: Bitbucket markdown rendering is different than GitHub
-852	2024-10-21 13:53:16Z	My running event race times
+852	2025-04-05 15:51:43Z	My running event race times
 853	2025-01-02 15:15:10Z	Hardware: Ibanez RG421 Electric Guitar
 854	2024-10-05 17:09:57Z	Project: Personal music studio
 855	2024-10-05 19:25:54Z	Hardware: Focusrite Scarlett 2i2
@@ -917,7 +917,7 @@
 948	2025-01-31 15:10:38Z	Band: Larkin Poe
 949	2025-02-02 00:40:57Z	Article: programming language foundations in agda
 950	2025-02-06 16:12:29Z	Programming by composition in PHP
-951	2025-03-22 17:18:09Z	Typical places to go dancing in Minneapolis
+951	2025-03-23 00:19:28Z	Typical places to go dancing in Twin Cities
 952	2025-02-05 15:52:41Z	Monoids in PHP
 953	2025-02-05 17:25:41Z	Functors in PHP
 954	2025-02-05 17:27:46Z	Monads in PHP
@@ -937,13 +937,24 @@
 968	2025-03-04 19:09:02Z	Website: Foony
 969	2025-03-13 20:00:12Z	Bake: 54/46 sourdough loaf
 970	2025-03-17 14:22:24Z	App: skhd - a simple hotkey daemon for macOS
-971	2025-03-22 17:20:45Z	Dance classes in the twin cities
+971	2025-03-28 14:33:30Z	Dance classes in the twin cities
 972	2025-03-22 16:16:13Z	Studio: Duende dance studio
 973	2025-03-22 16:16:26Z	Studio: TC Swing dance studio
 974	2025-03-22 15:56:15Z	East coast swing (ecs)
 975	2025-03-22 15:57:01Z	Lindy hop (lindy)
 976	2025-03-22 16:16:44Z	Studio: Onereason dance studio
 977	2025-03-22 16:14:15Z	Salsa (salsa)
-978	2025-03-22 17:19:41Z	Bachata (bachata)
+978	2025-03-22 17:37:49Z	Bachata (bachata)
 979	2025-03-22 16:42:43Z	Modern Jive (jive)
 980	2025-03-22 17:17:35Z	Studio: Minneapolis salsa and bachata (msbd)
+981	2025-03-22 17:41:50Z	Place: St Paul
+982	2025-03-22 17:43:29Z	Place: Twin Cities (twincities)
+983	2025-03-23 15:50:54Z	Place: Boil seafood Restaurant
+984	2025-03-23 15:50:19Z	Place: St Cloud (stcloud)
+985	2025-03-25 19:46:42Z	Bake: White sourdough batard with purple Barley pearls
+986	2025-03-24 18:44:06Z	Company: Timeless Seeds
+987	2025-03-24 17:43:00Z	Ingredient: Semi-Pearled Purple Prairie Barley
+988	2025-03-31 14:52:12Z	Event: Two Rivers 10 Mile 2025
+989	2025-04-07 14:38:02Z	Activity: Hiking (hiking)
+990	2025-04-07 14:45:50Z	Places to go hiking in the twin cities
+991	2025-04-07 14:43:46Z	Activity: Trail running (trail-running)

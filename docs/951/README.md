@@ -1,4 +1,4 @@
-# Typical places to go dancing in Minneapolis
+# Typical places to go dancing in Twin Cities
 
 Typical places to go dancing in Minneapolis
 

@@ -1,12 +1,12 @@
 # Dance classes in the twin cities
 
-Dancing in **[Minneapolis](../932)**
+Dancing in **[Minneapolis](../932)**. Currently incomplete.
 
 ### Monday
 
-- **18:30 - 20:00:** [TC Swing](../973) East coast swing beginner (begins april 7)
-- **20:00 - 20:00:** [TC Swing](../973) Lindy Hop beginner (begins april 7)
-- **19:30 - 20:30:** [Onereason](../972) Salsa 1
+- **18:30 - 20:00:** [TC Swing](../973) [East coast swing](../689) beginner (begins April 7)
+- **20:00 - 20:00:** [TC Swing](../973) [Lindy Hop](../976) beginner (begins April 7)
+- **19:30 - 20:30:** [Onereason](../972) [Salsa](../978) 1
 
 ### Tuesday
 
@@ -16,7 +16,7 @@ Dancing in **[Minneapolis](../932)**
 ### Wednesday
 
 - **18:30:** [Duende](../972) [Salsa](../977) 1
-- **18:30:** [Onereason](../972) [Bachata](../978) pratctice
+- **18:30:** [Onereason](../972) [Bachata](../978) practice
 - **18:30:** [Onereason](../972) [Bachata](../978) 1
 
 ### Thursday
