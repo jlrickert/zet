@@ -1,3 +1,4 @@
+- 2025-04-10 [Bake: Potluck pretzel bites](../993)
 - 2025-03-25 [Bake: White sourdough batard with purple Barley pearls](../985)
 - 2025-02-20 [Bake: 80/20 sourdough loaf](../962)
 - 2025-02-11 [Bake: 50/50 Sourdough Loaf](../958)

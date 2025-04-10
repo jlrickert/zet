@@ -709,7 +709,7 @@
 736	2024-07-28 05:11:02Z	Gear for dual training in swimming and running
 737	2024-07-28 05:05:49Z	Place: Cedar lake near Theo
 738	2024-08-05 19:41:06Z	Bake: Simple whole wheat focaccia
-739	2024-07-28 16:09:42Z	Ingredient: Turkey Red wheat
+739	2025-04-09 17:32:48Z	Ingredient: Turkey Red wheat flour
 740	2024-07-28 16:14:30Z	Ingredient: Rye Berries
 741	2024-07-28 16:18:26Z	100% Rye sourdough starter
 742	2024-07-28 16:18:42Z	100% whole wheat sourdough starter
@@ -890,7 +890,7 @@
 921	2025-01-21 18:25:58Z	Prompt: "Linkify" KEG notes
 922	2025-01-20 16:03:56Z	Guitar tone
 923	2025-01-04 16:49:33Z	Places to play pickle ball in the twin cities
-924	2025-01-05 04:05:01Z	Place: Williston Fitness Center
+924	2025-04-09 19:08:21Z	Place: Williston Fitness Center
 925	2025-01-04 16:48:40Z	Place: Misfit coffee
 926	2025-01-12 22:06:41Z	Skiing in the Twin Cities
 927	2025-01-21 00:39:22Z	Trick with go to embed version info
@@ -958,3 +958,7 @@
 989	2025-04-07 14:38:02Z	Activity: Hiking (hiking)
 990	2025-04-07 14:45:50Z	Places to go hiking in the twin cities
 991	2025-04-07 14:43:46Z	Activity: Trail running (trail-running)
+993	2025-04-10 19:01:06Z	Bake: Potluck pretzel bites
+994	2025-04-09 19:08:05Z	Activity: Pickleball (pickleball)
+995	2025-04-10 16:32:11Z	Rust based static site generator Zola
+996	2025-04-10 16:31:49Z	Template engine Tera

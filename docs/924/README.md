@@ -2,9 +2,9 @@
 
 Fitness center
 
-## Pickleball Schedule
+## Pickle ball Schedule
 
-Williston Fitness Center offers drop-in pickleball October through May. Please bring your own paddle. Pickleball balls are provided.
+Williston Fitness Center offers drop-in [pickleball](../994) October through May. Please bring your own paddle. [Pickleball](../994) balls are provided.
 
 **Cost:**
 
