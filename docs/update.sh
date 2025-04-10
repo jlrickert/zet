@@ -156,3 +156,8 @@ echo "${GREEN}Index \"${HARDWARES_INDEX#"$(pwd)/"}\" updated${RESET}"
 
 _issues_index
 echo "${GREEN}Index \"${ISSUES_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+if [ -d "${SCRIPT_DIR}/00_dex" ]; then
+    rm -r "${SCRIPT_DIR}/00_dex"
+fi
+cp -r "${SCRIPT_DIR}/dex" "${SCRIPT_DIR}/00_dex"
