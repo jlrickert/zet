@@ -2,6 +2,8 @@
 
 An experiment to figure out something that works better for a large group. This would be the first attempt at making pretzel bites. I am using <https://www.pantrymama.com/sourdough-discard-pretzel-bites/> as a rough guideline but am modifying it a bit. I have done something similar in the past making pretzels.
 
+Turned out well. Maybe a bit salty but I suppose they are pretzels.
+
 Roughly 65f inside
 
 ![pretzels](./pretzels.jpg)
