@@ -1,3 +1,4 @@
+* 2025-04-17 14:46:28Z [LLM modal comparison for use with mods (2025-04-17)](../997)
 * 2025-04-10 19:01:52Z [Bake: Potluck pretzel bites](../993)
 * 2025-04-10 16:32:11Z [Rust based static site generator Zola](../995)
 * 2025-04-10 16:31:49Z [Template engine Tera](../996)
