@@ -11,5 +11,6 @@
 7. **Ensure Valid Output**: Make sure the comment format is valid for the specific programming language.
 8. **Preserve Function Contents**: Ensure the function’s contents remain unchanged. It should be placed directly below the comment. It should not trigger a git diff.
 9. **Output Should Be Valid for the Language**: Ensure that the comment and any related syntax conform to the requirements of the programming language being used. There should be no backticks.
+10. **Side effects:** All side effects should be documented
 
 Output should be valid for the language.
