@@ -10,7 +10,8 @@
 6. **Avoid Redundancy**: Exclude information that can be inferred from the code.
 7. **Ensure Valid Output**: Make sure the comment format is valid for the specific programming language.
 8. **Preserve Function Contents**: Ensure the function’s contents remain unchanged. It should be placed directly below the comment. It should not trigger a git diff.
-9. **Output Should Be Valid for the Language**: Ensure that the comment and any related syntax conform to the requirements of the programming language being used. There should be no backticks.
+9. **Output Should Be Valid for the Language**: Ensure that the comment and any related syntax conform to the requirements of the programming language being used.
 10. **Side effects:** All side effects should be documented
+11. **Output** Output should add the comment directly to the code. No additional markup
 
-Output should be valid for the language.
+Output should include should include the contents unchanged with additional code comments included.
