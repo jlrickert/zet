@@ -8,3 +8,4 @@ content is updated.
 - [Latest additions and updates](./changes.md)
 - [Tab-delimited by ID](./nodes.tsv)
 - [Baking](./baking.md)
+- [Homelab](./homelab.md)

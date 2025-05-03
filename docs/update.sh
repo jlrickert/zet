@@ -19,6 +19,7 @@ SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 BAKING_INDEX="${BAKING_INDEX:-"${SCRIPT_DIR}/dex/baking.md"}"
 HARDWARES_INDEX="${HARDWARES_INDEX:-"${SCRIPT_DIR}/dex/hardware.md"}"
 ISSUES_INDEX="${ISSUES_INDEX:-"${SCRIPT_DIR}/dex/issues.md"}"
+HOMELAB_INDEX="${ISSUES_INDEX:-"${SCRIPT_DIR}/dex/homelab.md"}"
 OVERVIEW_INDEX="${OVERVIEW_INDEX:-"${SCRIPT_DIR}/dex/overviews.md"}"
 PERSONS_INDEX="${PERSONS_INDEX:-"${SCRIPT_DIR}/dex/persons.md"}"
 PROJECTS_INDEX="${PROJECTS_INDEX:-"${SCRIPT_DIR}/dex/projects.md"}"
@@ -136,6 +137,16 @@ _issues_index() {
 	done
 }
 
+_homelab_index() {
+	[ -f "${HOMELAB_INDEX}" ] && rm "${HOMELAB_INDEX}"
+	[ -f "${TAGS_INDEX}" ] || tags_index
+
+	awk '/^issue / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
+		echo "- [${title}](../${id})" >>"${HOMELAB_INDEX}"
+	done
+}
+
 _tags_index
 echo "${GREEN}Index \"${TAGS_INDEX#"$(pwd)/"}\" updated${RESET}"
 
@@ -156,6 +167,9 @@ echo "${GREEN}Index \"${HARDWARES_INDEX#"$(pwd)/"}\" updated${RESET}"
 
 _issues_index
 echo "${GREEN}Index \"${ISSUES_INDEX#"$(pwd)/"}\" updated${RESET}"
+
+_homelab_index
+echo "${GREEN}Index \"${HOMELAB_INDEX#"$(pwd)/"}\" updated${RESET}"
 
 if [ -d "${SCRIPT_DIR}/00_dex" ]; then
     rm -r "${SCRIPT_DIR}/00_dex"
