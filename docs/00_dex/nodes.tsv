@@ -92,7 +92,7 @@
 95	2023-09-07 02:26:52Z	How to set path variables on MacOS
 96	2024-05-04 20:28:50Z	keg create git issue
 97	2023-09-07 02:26:52Z	Ergonomic mouse research
-99	2024-07-28 05:54:19Z	Fedora workstation setup
+99	2024-07-28 00:54:19Z	Fedora workstation setup
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
 101	2024-04-22 18:01:49Z	Installing software with curl
 102	2024-07-28 05:27:58Z	Using a temporary directory that require installing transient scripts
@@ -824,7 +824,7 @@
 854	2024-10-05 17:09:57Z	Project: Personal music studio
 855	2024-10-05 19:25:54Z	Hardware: Focusrite Scarlett 2i2
 856	2024-10-06 21:27:03Z	Music equipment concepts
-857	2024-10-05 18:31:20Z	Human hearing frequency ranges and preferences
+857	2025-05-03 11:52:46Z	Human hearing frequency ranges and preferences
 858	2024-10-08 02:02:29Z	Types of lighting for a home
 859	2024-10-21 13:21:39Z	Hardware: Altra lone peak 8
 860	2024-10-28 17:23:22Z	Hash house harriers (m3h)
@@ -902,7 +902,7 @@
 933	2025-01-21 01:20:32Z	Place: 321 Club
 934	2025-01-31 03:14:29Z	The style of music called Folk
 935	2025-01-21 18:25:03Z	Prompt: Creating git comments
-936	2025-04-21 16:15:55Z	Prompt: Instructions for commenting code
+936	2025-04-21 21:15:55Z	Prompt: Instructions for commenting code
 937	2025-02-28 02:30:47Z	Article: UnderCurrent MPLS show list
 938	2025-01-31 03:18:32Z	Bake: 50/50 Wheat Sourdough Loaf
 939	2025-01-28 15:17:12Z	Bands local to Minneapolis
@@ -964,3 +964,6 @@
 996	2025-04-10 16:31:49Z	Template engine Tera
 997	2025-04-17 14:46:28Z	LLM modal comparison for use with mods (2025-04-17)
 998	2025-04-19 15:50:53Z	Place: Up Coffee
+999	2025-05-03 11:56:17Z	Guitar frequency spectrum
+1000	2025-05-01 09:04:44Z	Hardware: Gretsch G1617 Synchromatic guitar
+1002	2025-05-03 11:56:25Z	Combat Candies
