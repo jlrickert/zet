@@ -141,7 +141,7 @@ _homelab_index() {
 	[ -f "${HOMELAB_INDEX}" ] && rm "${HOMELAB_INDEX}"
 	[ -f "${TAGS_INDEX}" ] || tags_index
 
-	awk '/^issue / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
+	awk '/^homelab / {for (i=2; i<=NF; i++) print $i}' "${TAGS_INDEX}" | while IFS= read -r id; do
 		title=$(head -n 1 "${id}/README.md" | sed 's/^# //1')
 		echo "- [${title}](../${id})" >>"${HOMELAB_INDEX}"
 	done
