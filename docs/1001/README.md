@@ -9,3 +9,5 @@ Event list may be found on <https://sessions.minnestar.org/>
 - 09:35 - 10:30 Legacy code thing
 - 10:30 - 11:25 [Creatine candy](../1002) thing. <combatcandies.com>
 - 13:05 - 14:00 Building Efficient & Resilient Engineering Teams in Minnetonka
+- 14:00 - 16:00 Hacking away at nvim setup
+- 16:00 Happy hour

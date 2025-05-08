@@ -16,8 +16,8 @@
 15	2024-07-28 05:56:31Z	How to quickly test out space vim
 16	2024-07-28 05:40:49Z	How to quickly spin up a dev environment for testing with docker
 17	2024-07-28 05:58:53Z	How to manage files in vanilla vim with netrw
-18	2023-09-07 02:26:52Z	Quick start on settup lsp for neovim lua hacking
-19	2024-07-11 13:06:52Z	Package management in neovim with mason
+18	2025-05-05 09:36:55Z	Quick start on settup lsp for neovim lua hacking
+19	2025-05-04 14:25:54Z	Package management in neovim with mason
 20	2023-09-07 02:26:52Z	Pattern for managing keybindings in neovim
 21	2023-09-07 02:26:52Z	Quick fix list in neovim
 22	2023-09-07 02:26:52Z	Rust installation process annoyances
@@ -41,7 +41,7 @@
 41	2023-09-07 02:26:52Z	References to other peoples dotfiles that I find interesting
 42	2023-09-07 02:26:52Z	How to update fields using mongosh
 43	2023-09-07 02:26:52Z	How to do complex filtering with mongosh
-44	2023-09-07 02:26:52Z	Example neovim setups that other people use
+44	2025-05-04 14:51:35Z	Example neovim setups that other people use
 45	2023-09-07 02:26:52Z	Cool streaming setup that I should look into
 46	2023-09-07 02:26:52Z	Mon 26 Dec 2022 world of warcraft weekly checklist
 47	2023-09-07 02:26:52Z	Transmogs for windborne velocidrake
@@ -115,7 +115,7 @@
 119	2024-07-28 05:46:31Z	Tmux integration with iTerm 2
 120	2024-07-28 05:35:41Z	Diablo 4 completions
 121	2024-07-28 05:41:55Z	Necromancer leveling build on Diablo 4
-122	2024-07-28 05:47:10Z	My vim setup
+122	2025-05-05 09:32:33Z	My vim setup
 123	2024-07-28 05:49:37Z	Problems with Linux as a workstation
 124	2024-05-15 21:58:49Z	Sync a directory with rsync
 125	2024-07-16 02:53:30Z	Programmatic bash completions
@@ -590,7 +590,7 @@
 616	2024-06-30 19:22:45Z	Neapolitan pizza
 617	2024-07-11 14:39:27Z	How I organize my notes
 618	2024-07-11 14:35:06Z	Other note taking structures
-619	2024-07-28 05:59:49Z	Project: Neovim editor
+619	2025-05-05 09:37:46Z	Project: Neovim editor
 620	2024-06-30 20:22:51Z	Google structured data
 621	2024-07-28 05:59:57Z	Issue: saving files in vim updates the modified time stamp
 622	2024-07-14 20:39:31Z	Issue: Generating documentation for nvim plugins
@@ -742,7 +742,7 @@
 769	2024-07-31 17:29:06Z	Kubernetes and notetaking blog
 770	2024-07-31 22:54:11Z	JavaScriptMN meetup group (jsmn)
 771	2024-08-02 14:31:14Z	Time log: JavaScriptMN
-772	2024-08-05 15:23:47Z	[x] Homelab Task: OPNSense installation on Beelink EQ12 N1000
+772	2025-05-03 20:16:25Z	[x] Homelab Task: OPNSense installation on Beelink EQ12 N1000
 773	2024-07-31 23:07:48Z	Company: Frontend Masters
 774	2024-07-31 23:56:54Z	JavaScript multi head library neomjs
 775	2024-08-01 02:09:30Z	Technique for aborting `fetch` in progress
@@ -966,5 +966,8 @@
 998	2025-04-19 15:50:53Z	Place: Up Coffee
 999	2025-05-03 16:56:17Z	Guitar frequency spectrum
 1000	2025-05-01 14:04:44Z	Hardware: Gretsch G1617 Synchromatic guitar
-1001	2025-05-03 17:04:07Z	Event: Minnebar19 2025
+1001	2025-05-04 14:44:32Z	Event: Minnebar19 2025
 1002	2025-05-03 16:56:25Z	Combat Candies
+1003	2025-05-05 09:35:52Z	Running neovim in an isolated docker context
+1004	2025-05-05 09:36:50Z	Mason manager thingy in neovim
+1006	2025-05-05 09:42:27Z	Person: ThePrimeagon

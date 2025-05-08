@@ -1,7 +1,4 @@
 # Example neovim setups that other people use
 
-- https://github.com/ThePrimeagen/init.lua
-
-Tags:
-
-    #neovim
+- **Primeagon:** https://github.com/ThePrimeagen/init.lua
+- **Kickstart:** https://github.com/nvim-lua/kickstart.nvim
