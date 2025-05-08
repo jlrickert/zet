@@ -16,7 +16,7 @@
 15	2024-07-28 05:56:31Z	How to quickly test out space vim
 16	2024-07-28 05:40:49Z	How to quickly spin up a dev environment for testing with docker
 17	2024-07-28 05:58:53Z	How to manage files in vanilla vim with netrw
-18	2025-05-05 09:36:55Z	Quick start on settup lsp for neovim lua hacking
+18	2025-05-05 14:36:55Z	Quick start on settup lsp for neovim lua hacking
 19	2025-05-04 14:25:54Z	Package management in neovim with mason
 20	2023-09-07 02:26:52Z	Pattern for managing keybindings in neovim
 21	2023-09-07 02:26:52Z	Quick fix list in neovim
@@ -115,7 +115,7 @@
 119	2024-07-28 05:46:31Z	Tmux integration with iTerm 2
 120	2024-07-28 05:35:41Z	Diablo 4 completions
 121	2024-07-28 05:41:55Z	Necromancer leveling build on Diablo 4
-122	2025-05-05 09:32:33Z	My vim setup
+122	2025-05-05 14:32:33Z	My vim setup
 123	2024-07-28 05:49:37Z	Problems with Linux as a workstation
 124	2024-05-15 21:58:49Z	Sync a directory with rsync
 125	2024-07-16 02:53:30Z	Programmatic bash completions
@@ -590,7 +590,7 @@
 616	2024-06-30 19:22:45Z	Neapolitan pizza
 617	2024-07-11 14:39:27Z	How I organize my notes
 618	2024-07-11 14:35:06Z	Other note taking structures
-619	2025-05-05 09:37:46Z	Project: Neovim editor
+619	2025-05-05 14:37:46Z	Project: Neovim editor
 620	2024-06-30 20:22:51Z	Google structured data
 621	2024-07-28 05:59:57Z	Issue: saving files in vim updates the modified time stamp
 622	2024-07-14 20:39:31Z	Issue: Generating documentation for nvim plugins
@@ -968,6 +968,7 @@
 1000	2025-05-01 14:04:44Z	Hardware: Gretsch G1617 Synchromatic guitar
 1001	2025-05-04 14:44:32Z	Event: Minnebar19 2025
 1002	2025-05-03 16:56:25Z	Combat Candies
-1003	2025-05-05 09:35:52Z	Running neovim in an isolated docker context
-1004	2025-05-05 09:36:50Z	Mason manager thingy in neovim
-1006	2025-05-05 09:42:27Z	Person: ThePrimeagon
+1003	2025-05-05 14:35:52Z	Running neovim in an isolated docker context
+1004	2025-05-05 14:36:50Z	Mason manager thingy in neovim
+1005	2025-05-05 14:53:02Z	Resources for rebuilding my neovim setup
+1006	2025-05-05 14:42:27Z	Person: ThePrimeagon
