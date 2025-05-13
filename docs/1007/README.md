@@ -1,25 +1,13 @@
 # Modern Jive (ceroc)
 
-Okay, here's a list of fundamental beginner moves commonly taught in modern jive classes. These form the core building blocks and are typically introduced in the first few lessons:
-
-1.  **The Basic / Beginner Jive Move:** This is often the very first sequence taught. It's a combination that establishes the rhythm and the "slot" you dance in, typically involving the leader sending the follower across the slot (a pass) and then perhaps the follower returning or the leader executing a pass or spin. It's more of a mini-sequence than a single "move" but is the absolute foundation.
-2.  **The Guy's Pass (or Man's Pass):** The leader sends the follower across the designated dance slot from one side to the other. Simple and clean.
-3.  **The Lady's Pass (or Woman's Pass):** The follower sends the leader across the slot. Often follows a Guy's Pass.
-4.  **The First Spin (or Lady's Spin):** The leader facilitates the follower spinning, usually under a raised arm, often after a pass or as part of the basic.
-5.  **The Man Spin (or Guy's Spin):** The leader spins, often under a joined arm.
-6.  **The Comb:** A variant of the Guy's Pass where the leader maintains hold and brings the follower back in, setting up the next move. It looks a bit like pulling a comb through hair.
-7.  **The Pretzel:** A classic beginner-to-intermediate move that often follows a Comb. It involves a specific handhold exchange and a bit of a woven turn, hence the name.
-
-These moves are designed to be relatively simple, focusing on basic lead/follow technique, rhythm, and spatial awareness within the dance slot. They are the foundation upon which almost all other modern jive moves are built.
-
 ## Beginner moves
 
-Here is a list of moves often introduced in modern jive, ranging from absolute beginner to early intermediate, suitable for your notes:
+Here is a list of moves often introduced in modern jive, ranging from absolute beginner to early intermediate, suitable for your notes. These are taken from [NZ Ceroc championship rules](../1008):
 
 - **Back Pass**
 
   - _Description:_ Similar to a Guy's Pass, but the follower is sent across the slot traveling _behind_ the leader.
-  - ![Back Pass](https://www.youtube.com/watch?v=1gul9TOEFzM)
+  - <iframe width="420" height="315" src="https://www.youtube.com/embed/1gul9TOEFzM"></iframe>
 
 - **Basket**
 
