@@ -1,8 +1,25 @@
-proseWrap: always
-printWidth: 80
+proseWrap: never
+printWidth: 120
 useTabs: true
 tabWidth: 4
 overrides:
+  - files: "**/*.php"
+    options:
+      plugins:
+        - "@prettier/plugin-php"
+      bracketSameLine: false
+      bracketSpacing: true
+      cursorOffset: -1
+      experimentalTernaries: false
+      insertPragma: false
+      jsxSingleQuote: false
+      printWidth: 120
+      requirePragma: false
+      semi: true
+      singleAttributePerLine: false
+      singleQuote: true
+      tabWidth: 4
+      useTabs: true
   - files: ["**/*.yml", "**/*.yaml"]
     options:
       tabWidth: 2
