@@ -1,8 +1,6 @@
-# Modern Jive (ceroc)
+# Modern Jive (modern-jive)
 
 ## Moves
-
-Here is a list of moves often introduced in modern jive, ranging from absolute beginner to early intermediate, suitable for your notes. These are taken from [NZ Ceroc championship rules](../1008):
 
 ### Back Pass
 
@@ -62,13 +60,23 @@ An early intermediate move. Involves the follower traveling in a path that trace
 
 This usually refers to the very first, basic sequence taught. It establishes the slot, rhythm, and fundamental lead/follow connection (e.g., often involving a pass or return).
 
-[YouTube Video Placeholder]
+<iframe width="420" height="315" src="https://www.youtube.com/embed/xqDGjjTwkB8"></iframe>
+
+### First Move push spin
+
+A variation of the fundamental "First Move" sequence where the follower's spin is initiated using a 'push' lead (an impulse on the back or arm) from the leader, rather than just a simple arm lift. It's a common way to introduce the push spin concept within the basic beginner pattern.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1zxFVHEiqic"></iframe>
 
 ### Hatchback
 
 (Specific name, often school-dependent). Likely a variation of a Return or Pass, perhaps bringing the follower back in a specific orientation or direction. Can be a specific way of returning 'backwards'.
 
-[YouTube Video Placeholder]
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KWLoH_8BcCM"></iframe>
+
+### Hand hold
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-zJyTL-Ym2I"></iframe>
 
 ### Slow Comb
 
@@ -86,11 +94,19 @@ The follower loops around the leader, often involves passing behind the leader o
 
 [YouTube Video Placeholder]
 
+### Octopus
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/9RLqw8DErPY"></iframe>
+
 ### Manhattan
 
 An early intermediate sequence. Often involves multiple turns and changes of direction for the follower, sometimes incorporating a pretzel-like element or ending in a specific hold like a cuddle.
 
 [YouTube Video Placeholder]
+
+### Man Spin
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/RNxXmkgj2_M"></iframe>
 
 ### Push Spin
 
@@ -104,15 +120,23 @@ The core action of bringing the follower back into the main dance slot after the
 
 [YouTube Video Placeholder]
 
+### Should Slide
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/j7DOgoVWN5s"></iframe>
+
 ### Shoulder Block
 
 A leading technique where the leader uses their shoulder or torso position to guide the follower's direction or create a stop/pause.
 
 [YouTube Video Placeholder]
 
+### Should Drop
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/eYElezOEqC8"></iframe>
+
 ### Side to Side
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/3qCf9vuau4A" title="Side to Side.wmv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/3qCf9vuau4A"></iframe>
 
 ### Slide Break
 
@@ -161,6 +185,54 @@ An early intermediate move. Characterized by the follower being sent out away fr
 ### Yoyo pushspin
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/62CNV3KGEs4"></iframe>
+
+### DUMP
+
+#### Basic Moves
+
+1. **Basic Step**: The foundational step involves a simple step pattern where partners move in sync, typically comprising a quick step and rock step.
+
+2. **Side Step**: Dancers step to the side, maintaining the rhythm. This allows for smooth transitions between moves.
+
+#### Turns and Spins
+
+3. **Inside Turn**: One partner is guided into a turn towards the center of the dance floor, typically performed with a lead and follow framework.
+
+4. **Outside Turn**: Similar to the inside turn, but the partner turns away from the center, adding variation to the dance.
+
+#### Partner Holds
+
+5. **Open Hold**: Partners maintain a loose grip, allowing for fluid movements and turns.
+
+6. **Closed Hold**: A closer grip that provides more connection, often used in slower dances or to lead specific moves.
+
+##### Variations and Styling
+
+7. **Kick Ball Change**: A stylish footwork combination where the dancer kicks one foot forward, ball of the foot down on that foot, then shifts weight back to the other direction.
+
+8. **Body Movement**: Incorporating body rolls or sways to add personality and style to basic steps.
+
+#### Advanced Moves
+
+9. **Sway / Rock Step**: Partners gently shift their weight back and forth or in circles to create a laid-back feel.
+
+10. **Chassé**: A side-step move that involves stepping to the side, joining feet, and then stepping again to the side, creating a smooth lateral movement.
+
+#### Complex Combinations
+
+11. **Underarm Turn**: The lead raises their arm to allow the follow to turn under it, creating a smooth and stylish transition.
+
+12. **Casey**: This is a playful spin where partners switch places while facing each other, often involving a turn.
+
+#### Additional Moves
+
+13. **Lindy Hop**: While traditionally associated with swing dance, modern jive often incorporates elements of Lindy hop footwork, which adds flair and rhythm.
+
+14. **Twist**: A stylish addition where partners twist in unison, emphasizing the rhythm of the music.
+
+#### Conclusion
+
+These moves form the vocabulary of Modern Jive dancing. Each can be styled and mixed based on personal preference, making Modern Jive a dynamic and engaging partner dance. Practicing these movements allows dancers to develop their technique, musicality, and confidence on the dance floor.
 
 ## See also
 

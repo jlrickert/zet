@@ -939,13 +939,13 @@
 970	2025-03-17 14:22:24Z	App: skhd - a simple hotkey daemon for macOS
 971	2025-03-28 14:33:30Z	Dance classes in the twin cities
 972	2025-03-22 16:16:13Z	Studio: Duende dance studio
-973	2025-03-22 16:16:26Z	Studio: TC Swing dance studio
+973	2025-05-13 21:44:26Z	Studio: TC Swing dance studio
 974	2025-03-22 15:56:15Z	East coast swing (ecs)
 975	2025-03-22 15:57:01Z	Lindy hop (lindy)
 976	2025-03-22 16:16:44Z	Studio: Onereason dance studio
 977	2025-03-22 16:14:15Z	Salsa (salsa)
 978	2025-03-22 17:37:49Z	Bachata (bachata)
-979	2025-03-22 16:42:43Z	Modern Jive (jive)
+979	2025-05-13 21:45:33Z	Jive (jive)
 980	2025-03-22 17:17:35Z	Studio: Minneapolis salsa and bachata (msbd)
 981	2025-03-22 17:41:50Z	Place: St Paul
 982	2025-03-22 17:43:29Z	Place: Twin Cities (twincities)
@@ -972,5 +972,8 @@
 1004	2025-05-05 14:36:50Z	Mason manager thingy in neovim
 1005	2025-05-13 19:56:16Z	Resources for rebuilding my neovim setup
 1006	2025-05-05 14:42:27Z	Person: ThePrimeagon
-1007	2025-05-13 21:20:14Z	Modern Jive (ceroc)
+1007	2025-05-13 22:04:05Z	Modern Jive (modern-jive)
 1008	2025-05-13 20:10:30Z	
+1009	2025-05-13 22:17:14Z	Ceroc dancing
+1010	2025-05-13 21:45:30Z	Swing dancing (swing)
+1011	2025-05-13 22:17:47Z	Dance move: First Move
