@@ -112,7 +112,7 @@ A leading technique where the leader uses their shoulder or torso position to gu
 
 ### Side to Side
 
-<iframe width="1663" height="944" src="https://www.youtube.com/embed/3qCf9vuau4A" title="Side to Side.wmv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/3qCf9vuau4A" title="Side to Side.wmv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Slide Break
 
