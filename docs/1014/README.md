@@ -1,0 +1,1 @@
+# Project: WezTerm as my terminal of choice (wezterm)

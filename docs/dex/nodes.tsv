@@ -590,13 +590,13 @@
 616	2024-06-30 19:22:45Z	Neapolitan pizza
 617	2024-07-11 14:39:27Z	How I organize my notes
 618	2024-07-11 14:35:06Z	Other note taking structures
-619	2025-05-05 14:37:46Z	Project: Neovim editor
+619	2025-05-15 14:27:03Z	Project: Neovim editor
 620	2024-06-30 20:22:51Z	Google structured data
 621	2024-07-28 05:59:57Z	Issue: saving files in vim updates the modified time stamp
 622	2024-07-14 20:39:31Z	Issue: Generating documentation for nvim plugins
 623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
-625	2024-07-14 21:42:05Z	Project: dotfiles
+625	2025-05-15 14:29:06Z	Project: dotfiles (dotfiles)
 626	2024-08-05 15:15:54Z	Current Homelab topology
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
 628	2024-06-30 22:16:35Z	Person: Streamer rwxrob
@@ -972,8 +972,13 @@
 1004	2025-05-05 14:36:50Z	Mason manager thingy in neovim
 1005	2025-05-13 19:56:16Z	Resources for rebuilding my neovim setup
 1006	2025-05-05 14:42:27Z	Person: ThePrimeagon
-1007	2025-05-13 22:04:05Z	Modern Jive (modern-jive)
+1007	2025-05-15 14:22:36Z	Modern Jive (modern-jive)
 1008	2025-05-13 20:10:30Z	
-1009	2025-05-13 22:17:14Z	Ceroc dancing
+1009	2025-05-15 14:22:19Z	Ceroc dancing
 1010	2025-05-13 21:45:30Z	Swing dancing (swing)
 1011	2025-05-13 22:17:47Z	Dance move: First Move
+1012	2025-05-14 20:06:42Z	Terminal color
+1013	2025-05-15 14:25:59Z	Project: Zellij (zellij)
+1014	2025-05-15 14:26:45Z	Project: WezTerm as my terminal of choice (wezterm)
+1015	2025-05-15 15:30:54Z	Adding dark/light mode toggle to my dotfiles
+1016	2025-05-15 15:34:54Z	Article
