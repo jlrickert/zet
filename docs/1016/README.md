@@ -1,4 +1,4 @@
-# Article
+# Article: Twin Cities dancing event calendar
 
 A public [calendar] of all the dancing events going on in the twin cities that I actively maintain. [iCal Download](https://calendar.google.com/calendar/ical/05175cc272de478afc9b860647a3806c942ab824d262ce50927c198c0b05e206%40group.calendar.google.com/public/basic.ics)
 

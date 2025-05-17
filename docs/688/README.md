@@ -1,4 +1,4 @@
-# Overview: Running
+# Activity: Running
 
 - For race times see [852](../852)
 

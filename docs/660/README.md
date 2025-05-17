@@ -1,4 +1,4 @@
-# Overview: Bash scripting
+# Overview: Bash scripting (bash)
 
 ## Script template
 

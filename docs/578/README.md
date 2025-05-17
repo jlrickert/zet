@@ -4,6 +4,8 @@ This is my own personal cloud that I have running on my own hardware.
 
 For an overview of how I have the networks setup see [Network topology](../626).
 
+![Current homelab setup](./homelab.webp)
+
 ## Hardware
 
 - [Think Server 140](../563) | ts140.int.jlrickert.me

@@ -63,7 +63,7 @@
 64	2023-09-07 02:26:52Z	Top gear for warlock
 65	2023-09-07 02:26:52Z	Recommended warlock spec for Aberrus bosses
 67	2023-11-30 18:39:27Z	My first user experience with keg
-69	2023-09-07 02:26:52Z	Config files for zsh environment
+69	2025-05-17 14:55:11Z	Config files for zsh environment
 70	2023-09-07 02:26:52Z	Useful oh my zsh plugins list
 71	2024-05-28 14:17:37Z	How to handle conditionals in bash scripting
 72	2023-09-07 02:26:52Z	Pop_OS! setup
@@ -118,7 +118,7 @@
 122	2025-05-05 14:32:33Z	My vim setup
 123	2024-07-28 05:49:37Z	Problems with Linux as a workstation
 124	2024-05-15 21:58:49Z	Sync a directory with rsync
-125	2024-07-16 02:53:30Z	Programmatic bash completions
+125	2025-05-15 20:14:31Z	Programmatic bash completions
 126	2024-07-28 05:50:41Z	Golang development loop with multi repos
 127	2024-07-28 05:47:41Z	A quick to making a module in golang
 128	2024-07-28 05:48:33Z	WordPress plugin Gravity forms
@@ -126,7 +126,7 @@
 130	2024-07-28 05:48:58Z	How to configure bash scripting behavior
 131	2024-07-28 05:51:42Z	WordPress development key concepts
 132	2024-07-28 05:57:34Z	How to get started developing themes and plugins with WordPress
-133	2024-07-15 13:51:23Z	OS Fingerprinting strategies in bash
+133	2025-05-15 16:39:35Z	OS Fingerprinting strategies in bash
 134	2024-07-28 05:59:58Z	Recommended PHP language server to use
 135	2024-06-30 17:29:32Z	Task to figure out how to make scrolling faster on MacOS
 136	2024-07-21 15:03:08Z	How to setup VSCode for PHP and WordPress development
@@ -549,7 +549,7 @@
 575	2024-06-08 16:08:06Z	File system recommendation for FreeBSD
 576	2024-06-08 16:19:05Z	VirtualBox on apple silicon
 577	2024-06-08 16:19:09Z	Converting a VirtualBox VDI to a QEMU on MacOSX
-578	2024-07-22 13:37:30Z	Project: Current Homelab (homelab)
+578	2025-05-17 20:54:24Z	Project: Current Homelab (homelab)
 579	2024-07-24 19:16:41Z	Hardware: Netgear R7000 router
 580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
 581	2024-07-20 14:16:24Z	Hardware: Custom built PC Trooper (trooper)
@@ -596,7 +596,7 @@
 622	2024-07-14 20:39:31Z	Issue: Generating documentation for nvim plugins
 623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
-625	2025-05-15 14:29:06Z	Project: dotfiles (dotfiles)
+625	2025-05-16 17:12:00Z	Project: dotfiles (dotfiles)
 626	2024-08-05 15:15:54Z	Current Homelab topology
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
 628	2024-06-30 22:16:35Z	Person: Streamer rwxrob
@@ -631,7 +631,7 @@
 657	2024-08-21 14:04:48Z	Overview: Website development (webdev)
 658	2024-07-18 20:10:43Z	How to add custom fonts to a website
 659	2024-07-12 16:32:36Z	Arial font
-660	2024-07-18 00:09:55Z	Overview: Bash scripting
+660	2025-05-17 15:00:59Z	Overview: Bash scripting (bash)
 661	2024-11-09 19:56:26Z	[x] Homelab Task | setup proxmox
 662	2024-07-14 21:08:56Z	Overview: Pi-Hole
 663	2024-07-28 20:55:29Z	Overview: Raspberry pi (pi)
@@ -659,7 +659,7 @@
 685	2024-07-20 14:16:54Z	Hardware: TP-Link BE550 (be550)
 686	2024-07-18 19:21:02Z	Place: Utepils
 687	2025-04-07 14:42:52Z	Thirsty Thursdays Theo Trail Runners
-688	2024-10-04 14:13:53Z	Overview: Running
+688	2025-05-16 17:07:35Z	Activity: Running
 689	2024-07-24 19:19:10Z	View CSS on interactive elements
 690	2025-03-31 14:48:28Z	Event: Two rivers 10 mile 2024
 691	2024-07-19 05:24:21Z	Event: Fargo half marathon 2024
@@ -819,7 +819,7 @@
 849	2024-09-23 20:53:50Z	Hardware: HFS shoes
 850	2024-10-03 18:10:13Z	Quick start guides to Unix, bash, terminal, etc
 851	2024-10-03 18:13:59Z	Issue: Bitbucket markdown rendering is different than GitHub
-852	2025-04-05 15:51:43Z	My running event race times
+852	2025-05-16 17:08:46Z	My running event race times
 853	2025-01-02 15:15:10Z	Hardware: Ibanez RG421 Electric Guitar
 854	2024-10-05 17:09:57Z	Project: Personal music studio
 855	2024-10-05 19:25:54Z	Hardware: Focusrite Scarlett 2i2
@@ -852,7 +852,7 @@
 882	2024-11-09 23:00:57Z	Vim filter cheatsheet
 883	2024-11-10 04:47:38Z	SPEC: dotz package manager
 884	2024-11-12 02:17:29Z	Trump 2024 presidential election ramifications
-885	2024-11-11 19:00:00Z	SPEC: encode bash script
+885	2025-05-17 15:01:22Z	SPEC: encode bash script
 886	2024-11-11 18:35:28Z	Process for create my encode script
 887	2025-04-18 20:56:49Z	Prompt: Details of how my **KEG** is setup
 889	2024-11-13 16:27:40Z	SPEC: nexi bash script
@@ -981,4 +981,8 @@
 1013	2025-05-15 14:25:59Z	Project: Zellij (zellij)
 1014	2025-05-15 14:26:45Z	Project: WezTerm as my terminal of choice (wezterm)
 1015	2025-05-15 15:30:54Z	Adding dark/light mode toggle to my dotfiles
-1016	2025-05-15 15:34:54Z	Article
+1016	2025-05-15 15:35:08Z	Article: Twin Cities dancing event calendar
+1017	2025-05-17 15:00:46Z	Event: Twin Cities Marathon 2025
+1018	2025-05-17 03:32:19Z	Deno shell script example
+1019	2025-05-17 15:34:57Z	Ansible like text blocks with bash for my dotfiles
+1020	2025-05-17 15:01:51Z	Overview: Ansible (ansible)
