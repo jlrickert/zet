@@ -10,13 +10,21 @@ For an overview of how I have the networks setup see [Network topology](../626).
 
 - [Think Server 140](../563) | ts140.int.jlrickert.me
 
-  This is my router, DHCP, and firewall using [pfsense](../611).
+  This is my [TrueNas](../676) server. This supplies the storage to the [proxmox](../635) server.
 
 - [TP-Link BE550](../685) | be550.int.jlrickert.me
+
+  This is my router
+
 - Modem
+
 - [Trooper](../581) | trooper.int.jlrickert.me
 
-  I plan on using this to run proxmox to run all of the services
+  This runs [proxmox](../635) servers
+
+- [Beelink](../699)
+
+  This is my router, [DHCP](../880), and firewall using [opnsense](../722).
 
 - 16 port unmanaged switch
 
