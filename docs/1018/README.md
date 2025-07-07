@@ -3,7 +3,7 @@
 ```ts
 #!/usr/bin/env -S deno run --allow-all
 
-func main() {
+function main() {
 }
 
 main();

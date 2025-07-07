@@ -1,3 +1,4 @@
+- [Patch: Installing proxmox on Beelink SEi 9](../1030)
 - [FreeBSD for homelab exploration](../562)
 - [Hardware: Think Server 140 (ts140)](../563)
 - [Project: Current Homelab (homelab)](../578)

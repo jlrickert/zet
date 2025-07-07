@@ -1,4 +1,4 @@
-# Config files for zsh environment
+# Zsh things (zsh)
 
 Config files:
 
@@ -37,3 +37,14 @@ When using interactive, login shell sessions:
 8. ~/.zlogin
 9. ~/.zlgout
 10. /etc/zlogout
+
+## Useful ticks
+
+A way to detect what kind of environment the shell is in.
+
+```base
+case "$-" in
+*i*) echo "Interactive and login shell" ;;
+*) echo "Non Interactive shell" ;;
+esac
+```

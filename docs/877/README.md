@@ -13,6 +13,11 @@ Steps:
   Users shell is `/usr/sbin/nologin`
 
 - Create a datastore under Datasets
+
+  - main/pxe/pxe-backup
+  - main/pxe/pxe-data
+  - main/pxe/pxe-images
+
 - Update permissions
 
   Currently I have lax permissions where the user and group is pxe. rwx is 777.
