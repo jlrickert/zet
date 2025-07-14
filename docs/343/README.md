@@ -65,7 +65,3 @@ network with others where every one benefits.
 
 - [Cool facts about octopus](../344)
 - [Utopia requires perfect trust](../346)
-
-## Meta:
-
-    tags: #blog #keg

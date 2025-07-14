@@ -1,4 +1,5 @@
 - [Patch: Installing proxmox on Beelink SEi 9](../1030)
+- [Creating an [Ubuntu Server](../670) 24.04 for my [Homelab](../578)](../1041)
 - [FreeBSD for homelab exploration](../562)
 - [Hardware: Think Server 140 (ts140)](../563)
 - [Project: Current Homelab (homelab)](../578)

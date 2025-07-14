@@ -276,7 +276,7 @@
 290	2024-10-24 13:26:50Z	Hardware: Kineses Advantage 360
 291	2023-09-07 02:26:52Z	Linux desktop comparison
 292	2024-07-24 18:45:21Z	Overview: Baking (baking)
-293	2024-01-27 20:37:45Z	Labor day weekend bread bowl
+293	2025-07-07 17:13:37Z	Labor day weekend bread bowl
 294	2024-01-27 20:36:04Z	Sourdough somewhat whole wheat pizza for the ooni
 295	2024-01-27 20:36:59Z	Pizza night at the cabin pizza dough
 296	2024-01-27 20:35:24Z	Whole wheat tortilla recipe
@@ -319,7 +319,7 @@
 338	2023-11-17 16:35:51Z	Deploying a sveltkit app on AWS
 339	2024-06-19 15:48:26Z	AWS service elastic beanstalk
 340	2023-09-26 23:50:09Z	AWS free tier
-343	2023-12-05 19:53:09Z	Learning in public
+343	2025-07-12 15:44:11Z	Learning in public
 344	2023-09-26 23:46:54Z	Cool facts about octopus
 345	2023-11-25 22:22:23Z	Different types of learning
 346	2023-09-26 23:46:26Z	Society requires perfect trust
@@ -951,7 +951,7 @@
 982	2025-03-22 17:43:29Z	Place: Twin Cities (twincities)
 983	2025-03-23 15:50:54Z	Place: Boil seafood Restaurant
 984	2025-03-23 15:50:19Z	Place: St Cloud (stcloud)
-985	2025-04-17 14:49:32Z	Bake: White sourdough batard with purple Barley pearls
+985	2025-07-07 17:13:44Z	Bake: White sourdough batard with purple Barley pearls
 986	2025-03-24 18:44:06Z	Company: Timeless Seeds
 987	2025-03-24 17:43:00Z	Ingredient: Semi-Pearled Purple Prairie Barley
 988	2025-03-31 14:52:12Z	Event: Two Rivers 10 Mile 2025
@@ -1000,7 +1000,18 @@
 1032	2025-06-09 04:05:36Z	Copy and paste support on remote systems
 1033	2025-06-25 22:33:09Z	Place: Blues saloon
 1034	2025-06-27 18:19:02Z	Hilarious way to copy and paste into a VM
-1035	2025-06-28 22:16:59Z	kub
+1035	2025-07-08 20:34:18Z	rwxrob's current hardware sizes for his homelab
 1036	2025-06-28 22:14:47Z	Managing disk space on unix
 1037	2025-06-28 21:38:46Z	Formating for neovim
-1038	2025-07-07 17:11:10Z	Bake: 4th of July 2025 sourdough bread bowl
+1038	2025-07-07 17:13:41Z	Bake: 4th of July 2025 sourdough bread bowl
+1039	2025-07-10 18:55:48Z	Installing JavaScript minifier uglify with deno
+1040	2025-07-10 18:55:37Z	Installing CSS compressor csso with deno
+1041	2025-07-12 15:50:10Z	Creating an [Ubuntu Server](../670) 24.04 for my [Homelab](../578)
+1042	2025-07-08 21:31:06Z	Open-Source Search Engine: Meilisearch
+1043	2025-07-12 15:45:54Z	Entity: Chingu (chingu)
+1044	2025-07-12 15:55:28Z	Neovim file explorers
+1045	2025-07-12 15:59:21Z	Diagnostics in neovim
+1046	2025-07-12 16:22:22Z	State machine libararies
+1047	2025-07-12 16:22:39Z	Website: temporal.io
+1048	2025-07-12 16:30:20Z	Package manager UV for python
+1449	2025-07-14 04:30:02Z	Software: frizbee

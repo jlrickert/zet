@@ -1,17 +1,17 @@
-updated: 2025-07-07 17:11:10Z
+updated: 2025-07-14 04:30:02Z
 kegv: 2023-01
 
 title: KEG Zettelkasten for Jared Rickert (jlrickert)
 url: git@github.com:jlrickert/zet.git
-linkfmt: https://keg.jlrickert.me/{{id}}
+linkfmt: https://keg.jlrickert.me/@jlrickert/private/{{id}}
 creator: git@github.com:jlrickert/jlrickert.git
 state: living
 
 links:
   - alias: jlrickert
-    url: https://keg.jlrickert.me
+    url: https://keg.jlrickert.me/@jlrickert/public
   - alias: private
-    url: https://zettel.jlrickert.me
+    url: https://keg.jlrickert.me/@jlrickert/private
 
 summary: |
   Hi I'm Jared. This is my personal **zettelkasten** KEG site.  It contains
