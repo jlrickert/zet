@@ -9,8 +9,3 @@ I use [conform].
 ## Current features
 
 - format specific text. This is buggy in php at the moment
--
-
-## Current issues
-
-Formatting selected text is buggy with PHP. Might be that pretty-php just isn't that good.

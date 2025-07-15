@@ -4,10 +4,8 @@ I haven't yet figured out how to get intellisense to work in neovim for some spe
 
 Here are some of the more useful ones
 
-| Package | Schema url |
-| --- | --- |
-| package.json | https://json.schemastore.org/package.json |
-| .prettierrc | https://json.schemastore.org/prettierrc.json |
-| changeset | https://raw.githubusercontent.com/changesets/changesets/main/packages/config/schema.json |
-
-    tags: #noevim
+| Package      | Schema url                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------------ |
+| package.json | <https://json.schemastore.org/package.json>                                                |
+| .prettierrc  | <https://json.schemastore.org/prettierrc.json>                                             |
+| changeset    | <https://raw.githubusercontent.com/changesets/changesets/main/packages/config/schema.json> |

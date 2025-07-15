@@ -1,4 +1,4 @@
-# Open-Source Search Engine: Meilisearch
+# Open-Source search engine: Meilisearch
 
 A quick note on [Meilisearch][meilisearch], an open-source search engine, identified as a potential component for the [Knutjs project](../609). This tool can enable fast and relevant search capabilities for various data types within the project's scope, including KEG notes. It aligns with previous [research on search engines](../595).
 
