@@ -1,4 +1,4 @@
-# Place: Spyhouse Coffee Roasters
+# Place: Spyhouse Coffee Roasters (NE Minneapolis)
 
 Place that I often go to for co-working for a couple of hours.
 

@@ -41,7 +41,7 @@
 41	2023-09-07 02:26:52Z	References to other peoples dotfiles that I find interesting
 42	2023-09-07 02:26:52Z	How to update fields using mongosh
 43	2023-09-07 02:26:52Z	How to do complex filtering with mongosh
-44	2025-05-04 14:51:35Z	Example neovim setups that other people use
+44	2025-07-17 14:33:24Z	Example neovim setups that other people use
 45	2023-09-07 02:26:52Z	Cool streaming setup that I should look into
 46	2023-09-07 02:26:52Z	Mon 26 Dec 2022 world of warcraft weekly checklist
 47	2023-09-07 02:26:52Z	Transmogs for windborne velocidrake
@@ -569,7 +569,7 @@
 595	2024-06-29 22:33:09Z	Research: search engines
 596	2025-01-21 01:16:16Z	Place: 612 Brewing
 597	2024-07-26 14:16:30Z	Place: Padraigs Brewing
-598	2024-07-26 14:19:22Z	Place: Spyhouse Coffee Roasters
+598	2025-07-16 18:48:19Z	Place: Spyhouse Coffee Roasters (NE Minneapolis)
 599	2024-06-22 15:25:52Z	Issue: running a typescript library in deno
 600	2024-06-22 18:48:48Z	Building guis with Dioxis in rust
 601	2024-06-23 17:17:21Z	Covariance and contravariance in TypeScript
@@ -971,8 +971,8 @@
 1003	2025-05-05 14:35:52Z	Running neovim in an isolated docker context
 1004	2025-05-05 14:36:50Z	Mason manager thingy in neovim
 1005	2025-05-13 19:56:16Z	Resources for rebuilding my neovim setup
-1006	2025-05-05 14:42:27Z	Person: ThePrimeagon
-1007	2025-05-15 14:22:36Z	Modern Jive (modern-jive)
+1006	2025-07-17 14:33:19Z	Person: ThePrimeagon
+1007	2025-07-16 14:48:16Z	Modern Jive (modern-jive)
 1008	2025-05-13 20:10:30Z	
 1009	2025-05-15 14:22:19Z	Ceroc dancing
 1010	2025-05-13 21:45:30Z	Swing dancing (swing)
@@ -1010,11 +1010,17 @@
 1042	2025-07-15 15:17:10Z	Open-Source search engine: Meilisearch
 1043	2025-07-12 15:45:54Z	Entity: Chingu (chingu)
 1044	2025-07-12 15:55:28Z	Neovim file explorers
-1045	2025-07-12 15:59:21Z	Diagnostics in neovim
+1045	2025-07-16 02:57:11Z	Diagnostics in neovim
 1046	2025-07-12 16:22:22Z	State machine libararies
 1047	2025-07-12 16:22:39Z	Website: temporal.io
 1048	2025-07-12 16:30:20Z	Package manager UV for python
 1049	2025-07-14 05:27:08Z	Software: frizbee
 1050	2025-07-15 14:45:29Z	Prose linting on neovim with vale
-1051	2025-07-15 21:17:37Z	PHP setup for Neovim
+1051	2025-07-16 14:48:10Z	PHP setup for Neovim
 1052	2025-07-15 21:16:00Z	LSP setup on Neovim
+1053	2025-07-16 14:48:21Z	Modern jive dance moves
+1054	2025-07-16 18:48:38Z	Place: FRGMNT Coffee Eden Prairie
+1055	2025-07-16 18:30:01Z	Coffee shops in Minneapolis/St Paul for large coworking groups
+1056	2025-07-17 14:33:12Z	Person: streamer s9tpepper
+1057	2025-07-17 14:43:36Z	Factorio resources
+1058	2025-07-17 14:39:50Z	LLM frontend research

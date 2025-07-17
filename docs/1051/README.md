@@ -8,7 +8,7 @@ My PHP related things to [Neovim](../625).
 
 ## [Formatter](../1037) setup
 
-- pretty-php
+Currently, I am using `pretty-php`. `pretty-php` config snippet. [Defaults][pretty-php defaults] found on GitHub.
 
 ```lua
 local confg = {
@@ -36,6 +36,8 @@ local confg = {
   },
 }
 ```
+
+[pretty-php defaults]: https://github.com/stevearc/conform.nvim/blob/master/lua/conform/formatters/pretty-php.lua
 
 ## [Language Server Protocol (LSP)](../1052)
 
