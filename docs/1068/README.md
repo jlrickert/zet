@@ -8,7 +8,7 @@
 
 | Ingredient                       | Amount | Bakers Percentage | Comment                            |
 | -------------------------------- | ------ | ----------------- | ---------------------------------- |
-| [Bread flour](../630)            | 450g   | 100%              | Organic target bread               |
+| [Bread flour](../630)            | 450g   | 100%              | [Organic target bread](../1072)    |
 | Water                            | 300g   | 66%               | Reduced hydration from last bake   |
 | [Pearled barley berries](../987) | 100g   | 22%               | Semi-pearled purple prairie barley |
 | [Rye starter](../741)            | 50g    | 7%                | 100% hydration, fed                |
@@ -24,7 +24,7 @@ Total weight is approximately 908g.
 - 2025-07-24 11:00 Shaped and placed in the fridge
 - 2025-07-25 12:27 Placed in the [oven](../912)
 
-  Oven was preheated to 500f using the usual [trick](../913) with the [Dutch Oven](../1070) and [Cast iron frying pan](../1071)
+  Baked with usual [trick](../913) with the [Dutch Oven](../1070) and [Cast iron frying pan](../1071). 500f for 21 minutes with lid on, 16 minutes with lid off at 450f.
 
 ## Retrospect
 
