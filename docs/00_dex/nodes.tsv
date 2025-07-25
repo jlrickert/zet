@@ -242,7 +242,7 @@
 256	2024-05-15 19:47:32Z	Recommended image types to use on the web
 257	2023-09-07 02:26:52Z	Article about how PostCSS is an alternatie to SCSS
 258	2023-09-07 02:26:52Z	Managing encrypted data with ssh keys
-259	2024-07-12 02:07:47Z	Automatically rerunning commands with `entr`
+259	2025-07-24 20:01:00Z	Automatically rerunning commands with `entr`
 260	2023-09-07 02:26:52Z	Types of pizza
 261	2023-09-21 19:05:25Z	Hugo theme development loop
 262	2023-09-07 02:26:52Z	Seamless navigation between tmux and vim
@@ -410,7 +410,7 @@
 435	2023-12-10 18:52:12Z	Purple radish micro green batch 1
 436	2023-12-11 06:43:37Z	Triton Purple radish sprouts
 437	2023-12-05 18:20:52Z	Coco coir for micro green growing
-438	2023-12-05 20:37:33Z	Project ideas
+438	2025-07-25 00:07:09Z	Project ideas
 439	2024-02-05 19:02:51Z	Knutjs project idea
 440	2023-12-26 23:43:04Z	Lazy sourdough Uzbek Lepyoshki experiment
 441	2024-05-04 20:47:48Z	Uzbek Lepyoshki take 2
@@ -499,7 +499,7 @@
 525	2024-04-08 15:57:04Z	Primitive Camping in Texas
 526	2024-04-08 16:18:17Z	Davy Crockett National Forest camping
 527	2024-07-24 18:41:34Z	Mill city running group
-528	2024-04-15 22:19:03Z	Sourdough batard with purple prairie barley
+528	2025-07-24 18:09:53Z	Sourdough batard with purple prairie barley
 529	2024-04-15 19:36:37Z	Monday April 15 2024 daily entry
 530	2024-04-16 21:54:09Z	My tmux setup
 531	2024-05-01 16:23:17Z	How do document php code
@@ -549,7 +549,7 @@
 575	2024-06-08 16:08:06Z	File system recommendation for FreeBSD
 576	2024-06-08 16:19:05Z	VirtualBox on apple silicon
 577	2024-06-08 16:19:09Z	Converting a VirtualBox VDI to a QEMU on MacOSX
-578	2025-05-17 21:21:23Z	Project: Current Homelab (homelab)
+578	2025-07-20 17:08:30Z	Project: Current Homelab (homelab)
 579	2024-07-24 19:16:41Z	Hardware: Netgear R7000 router
 580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
 581	2024-07-20 14:16:24Z	Hardware: Custom built PC Trooper (trooper)
@@ -601,7 +601,7 @@
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
 628	2025-06-27 18:17:44Z	Person: Streamer rwxrob
 629	2024-07-14 20:53:29Z	[x] Homelab Task | setup pfSense on ts140
-630	2024-07-01 15:20:41Z	Ingredient: King Author all purpose flour
+630	2025-07-24 18:09:26Z	Ingredient: King Author all purpose flour
 631	2024-07-28 16:12:17Z	Company: King Arthur
 632	2024-07-01 15:23:03Z	Ingredient: Hard red wheat
 633	2024-07-01 15:32:05Z	Issue: Host only adapter not working in UTM
@@ -879,7 +879,7 @@
 910	2024-12-17 19:12:59Z	Bake: More Rye-Based Sourdough Loaf
 911	2024-12-17 00:09:50Z	Autolyse Flour
 912	2024-12-17 01:55:22Z	Hardware: Harrison gas stove
-913	2025-01-27 17:26:01Z	Dutch Oven and Cast Iron Skillet Method for baking bread
+913	2025-07-25 17:32:51Z	Dutch Oven and Cast Iron Skillet Method for baking bread
 914	2024-12-17 19:12:37Z	Issue: troubleshoot large holes in sourdough bread
 915	2024-12-19 15:23:04Z	Issue: unable to change model of an ongoing `mods` conversation
 916	2024-12-19 04:33:20Z	Project: `mods` by Charmbracelets
@@ -951,7 +951,7 @@
 982	2025-03-22 17:43:29Z	Place: Twin Cities (twincities)
 983	2025-03-23 15:50:54Z	Place: Boil seafood Restaurant
 984	2025-03-23 15:50:19Z	Place: St Cloud (stcloud)
-985	2025-07-07 17:13:44Z	Bake: White sourdough batard with purple Barley pearls
+985	2025-07-25 17:32:52Z	Bake: White sourdough batard with purple Barley pearls
 986	2025-03-24 18:44:06Z	Company: Timeless Seeds
 987	2025-03-24 17:43:00Z	Ingredient: Semi-Pearled Purple Prairie Barley
 988	2025-03-31 14:52:12Z	Event: Two Rivers 10 Mile 2025
@@ -1006,7 +1006,7 @@
 1038	2025-07-07 17:13:41Z	Bake: 4th of July 2025 sourdough bread bowl
 1039	2025-07-10 18:55:48Z	Installing JavaScript minifier uglify with deno
 1040	2025-07-10 18:55:37Z	Installing CSS compressor csso with deno
-1041	2025-07-12 15:50:10Z	Creating an [Ubuntu Server](../670) 24.04 for my [Homelab](../578)
+1041	2025-07-20 16:39:55Z	Creating an [Ubuntu Server](../670) template my [Homelab](../578)
 1042	2025-07-15 15:17:10Z	Open-Source search engine: Meilisearch
 1043	2025-07-12 15:45:54Z	Entity: Chingu (chingu)
 1044	2025-07-12 15:55:28Z	Neovim file explorers
@@ -1024,3 +1024,15 @@
 1056	2025-07-17 14:33:12Z	Person: streamer s9tpepper
 1057	2025-07-17 14:43:36Z	Factorio resources
 1058	2025-07-17 14:39:50Z	LLM frontend research
+1059	2025-07-20 15:32:40Z	Person: Leonard Leo
+1060	2025-07-19 04:11:23Z	Person: Trump
+1061	2025-07-20 15:32:37Z	The federalist society group
+1062	2025-07-20 16:39:02Z	Ubuntu template version 1 for my homelab
+1063	2025-07-20 17:08:07Z	Ubuntu template version 2 for my homelab
+1064	2025-07-22 22:26:42Z	Cloud init first experience on my homelab
+1065	2025-07-20 17:09:11Z	Cloud init (cloud-init)
+1066	2025-07-22 20:51:59Z	Example search output for my KEG
+1068	2025-07-25 18:07:47Z	Bake: Pearled Barley Sourdough Loaf with Lower Hydration
+1069	2025-07-24 20:18:03Z	Sourdough baking (sourdough)
+1070	2025-07-25 17:31:28Z	Hardware: Lodge dutch oven
+1071	2025-07-25 17:31:30Z	Hardware: Lodge 12 cast iron skillet

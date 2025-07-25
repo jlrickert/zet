@@ -2,15 +2,15 @@
 
 An experiment where I use barley in place of some of the whole wheat flour. In this case the variety of barley used is purple prairie barley.
 
-| Ingredient | Amount | Bakers Percentage | Comment |
-| --- | --- | --- | --- |
-| AP flour | 240g | 60% | King Author 11.7% protein |
-| Whole wheat flour | 80g | 20% | Hard red wheat |
-| Barley flour | 80g | 20% | Purple Prairie barley flour |
-| Barley berries | 100g | 20% | Purple Prairie barley berries |
-| Water | 275g | 68% |  |
-| starter | 40g | 10% | 100% rye 1:1 |
-| sea salt | 8g |  |  |
+| Ingredient        | Amount | Bakers Percentage | Comment                       |
+| ----------------- | ------ | ----------------- | ----------------------------- |
+| AP flour          | 240g   | 60%               | King Author 11.7% protein     |
+| Whole wheat flour | 80g    | 20%               | Hard red wheat                |
+| Barley flour      | 80g    | 20%               | Purple Prairie barley flour   |
+| Barley berries    | 100g   | 20%               | Purple Prairie barley berries |
+| Water             | 275g   | 68%               |                               |
+| starter           | 40g    | 10%               | 100% rye 1:1                  |
+| sea salt          | 8g     |                   |                               |
 
 Total weight is 850g
 

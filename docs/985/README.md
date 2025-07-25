@@ -23,6 +23,6 @@ Total weight is approximately 965g.
 - 2025-03-24 08:30 Fed starter
 - 2025-03-24 12:26 Autolyse
 - 2025-03-24 13:21 Mixed ingredient together
-- 2025-03-25 20:00 Shapped
+- 2025-03-25 20:00 Shaped
 - 2025-03-24 22:00 Placed in fridge
 - 2025-03-25 10:13 Baked at 500f for 21m and 15m at 450f with lid off. Used the [trick](../913) with the [cast iron frying pan](../964). Used [gas oven](../912).

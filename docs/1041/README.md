@@ -1,6 +1,19 @@
-# Creating an [Ubuntu Server](../670) 24.04 for my [Homelab](../578)
+# Creating an [Ubuntu Server](../670) template my [Homelab](../578)
 
-- Created a base template for my [homelab](../578).
+Created a base template for my [homelab](../578). Ideally, it should be cloud init based.
+
+## Template version
+
+- [Version 1](../1062)
+- [Version 2](../1063)
+
+## Steps to recreate
+
+- Generate ssh keys to allow VM's to pull code
+
+  ```bash
+  ssh-keygen -t ed25519 -C "Github deploy key the homelab" -f ./id_ed25519_homelab
+  ```
 
 ## Configuration
 
@@ -24,7 +37,7 @@
   - 2048 MiB
 
 > [!NOTE]
-> 
+>
 > AI Garbage below
 
 This note outlines the steps for setting up a new [Ubuntu Server 24.04](../670) instance within my [homelab](../578) environment, from initial installation to essential post-setup configurations. It aims to provide a quick start guide for deploying a reliable server ready for various [homelab projects](../578), from hosting services to managing infrastructure.
@@ -40,46 +53,46 @@ Before beginning, ensure you have the following:
 
 ## Installation Steps
 
-1.  **Boot from Installation Media:**
+1. **Boot from Installation Media:**
 
-    - Insert the bootable USB or mount the ISO in your virtual machine.
-    - Power on the machine and boot from the selected media.
+   - Insert the bootable USB or mount the ISO in your virtual machine.
+   - Power on the machine and boot from the selected media.
 
-2.  **Language and Keyboard Layout:**
+2. **Language and Keyboard Layout:**
 
-    - Select your preferred language.
-    - Choose the correct keyboard layout.
+   - Select your preferred language.
+   - Choose the correct keyboard layout.
 
-3.  **Network Configuration:**
+3. **Network Configuration:**
 
-    - The installer will attempt to acquire an IP address via DHCP. For a [homelab](../578) server, it's highly recommended to configure a static IP address. Refer to [Networking in Ubuntu 24.04](../872) for detailed guidance on static IP setup. This ensures your server's address remains consistent for easy access and service configuration.
-    - Consider setting a descriptive hostname during this step.
+   - The installer will attempt to acquire an IP address via DHCP. For a [homelab](../578) server, it's highly recommended to configure a static IP address. Refer to [Networking in Ubuntu 24.04](../872) for detailed guidance on static IP setup. This ensures your server's address remains consistent for easy access and service configuration.
+   - Consider setting a descriptive hostname during this step.
 
-4.  **Installer Updates:**
+4. **Installer Updates:**
 
-    - The installer may prompt to update itself. Proceed with the update for the latest installer features and bug fixes.
+   - The installer may prompt to update itself. Proceed with the update for the latest installer features and bug fixes.
 
-5.  **Storage Configuration:**
+5. **Storage Configuration:**
 
-    - Choose "Use an entire disk" for simplicity, or "Custom storage layout" for advanced partitioning. For most [homelab](../578) setups, using the entire disk is sufficient.
-    - Ensure to confirm the proposed storage layout before proceeding, as this will erase all data on the selected disk.
+   - Choose "Use an entire disk" for simplicity, or "Custom storage layout" for advanced partitioning. For most [homelab](../578) setups, using the entire disk is sufficient.
+   - Ensure to confirm the proposed storage layout before proceeding, as this will erase all data on the selected disk.
 
-6.  **Profile Setup:**
+6. **Profile Setup:**
 
-    - Enter your name, the server's name, and create a strong username and password. This will be your primary administrative user.
+   - Enter your name, the server's name, and create a strong username and password. This will be your primary administrative user.
 
-7.  **SSH Setup:**
+7. **SSH Setup:**
 
-    - Crucially, select "Install OpenSSH server" to enable remote access.
-    - You can optionally import public SSH keys from GitHub or Launchpad for immediate key-based authentication. If not, you'll set this up manually post-installation.
+   - Crucially, select "Install OpenSSH server" to enable remote access.
+   - You can optionally import public SSH keys from GitHub or Launchpad for immediate key-based authentication. If not, you'll set this up manually post-installation.
 
-8.  **Featured Snaps (Optional):**
+8. **Featured Snaps (Optional):**
 
-    - Review the list of recommended snaps. You can skip this for a minimal installation, as additional software can be installed later via [Package management in Ubuntu](../571) or [Docker](../16).
+   - Review the list of recommended snaps. You can skip this for a minimal installation, as additional software can be installed later via [Package management in Ubuntu](../571) or [Docker](../16).
 
-9.  **Installation Process:**
+9. **Installation Process:**
 
-    - The installer will now proceed with installing Ubuntu Server. This may take some time depending on your hardware.
+   - The installer will now proceed with installing Ubuntu Server. This may take some time depending on your hardware.
 
 10. **Reboot:**
     - Once the installation is complete, remove the installation media and reboot the server.
