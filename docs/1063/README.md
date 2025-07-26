@@ -1,6 +1,6 @@
 # Ubuntu template cloud version 1 for my homelab
 
-My second template for my [homelab](../578) is my fist attempt at making a cloud based VM. It is a simple template of Ubuntu 24.04. Template name is `ubunut-2404-cloud-v1`. This is an experment initiating a VM using cloud init.
+My second template for my [homelab](../578) is my fist attempt at making a cloud based VM. It is a simple template of Ubuntu 24.04. Template name is `ubunut-2404-cloud-v1`. This is an experment initiating a VM using cloud init. Patch applied on 2025-07-26.
 
 ## Configuration dump
 

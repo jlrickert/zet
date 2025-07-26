@@ -847,7 +847,7 @@
 877	2025-06-02 19:25:05Z	Using TrueNAS NFS for Proxmox images
 878	2024-11-09 19:43:48Z	Setting up DNS with Unbound with DHCP DNS registration on OPNsense
 879	2024-11-09 19:35:14Z	Tech GODS list
-880	2024-11-09 19:38:34Z	Setting up DHCP on OPNSense (2024-11-09)
+880	2025-07-26 15:01:39Z	Setting up DHCP on OPNSense (2024-11-09)
 881	2024-11-09 20:39:41Z	Most efficient transpiler see go tool chain
 882	2024-11-09 23:00:57Z	Vim filter cheatsheet
 883	2024-11-10 04:47:38Z	SPEC: dotz package manager
@@ -1028,7 +1028,7 @@
 1060	2025-07-19 04:11:23Z	Person: Trump
 1061	2025-07-20 15:32:37Z	The federalist society group
 1062	2025-07-26 19:42:06Z	Ubuntu template version 1 for my homelab
-1063	2025-07-26 19:44:34Z	Ubuntu template cloud version 1 for my homelab
+1063	2025-07-26 20:01:21Z	Ubuntu template cloud version 1 for my homelab
 1064	2025-07-22 22:26:42Z	Cloud init first experience on my homelab
 1065	2025-07-20 17:09:11Z	Cloud init (cloud-init)
 1066	2025-07-22 20:51:59Z	Example search output for my KEG
@@ -1044,3 +1044,4 @@
 1077	2025-07-26 16:59:35Z	Patch: Add fzf to ku script
 1078	2025-07-26 17:17:32Z	Event: Flash project showoff - tentative summer 2025
 1079	2025-07-26 19:32:05Z	Proxmox cheatsheet
+1080	2025-07-26 20:01:31Z	Trick: Alt pipelines in bash
