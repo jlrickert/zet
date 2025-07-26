@@ -410,7 +410,7 @@
 435	2023-12-10 18:52:12Z	Purple radish micro green batch 1
 436	2023-12-11 06:43:37Z	Triton Purple radish sprouts
 437	2023-12-05 18:20:52Z	Coco coir for micro green growing
-438	2025-07-25 00:07:09Z	Project ideas
+438	2025-07-26 16:55:38Z	Project ideas
 439	2024-02-05 19:02:51Z	Knutjs project idea
 440	2023-12-26 23:43:04Z	Lazy sourdough Uzbek Lepyoshki experiment
 441	2024-05-04 20:47:48Z	Uzbek Lepyoshki take 2
@@ -689,7 +689,7 @@
 715	2025-04-07 14:43:06Z	Place: Theodore Wirth Parkway
 716	2025-04-07 14:43:21Z	Hardware: Luna Leadville pacer
 717	2024-07-26 20:45:04Z	Company: Luna (luna)
-718	2024-07-28 01:52:56Z	Networking on MacOSX
+718	2025-07-26 19:30:02Z	Networking on MacOSX
 719	2024-08-02 15:59:41Z	Target uses OpenTelemetry Logging for centralized logging
 720	2025-04-07 14:43:32Z	Time log: Theo trail running with Thirsty Thursdays
 721	2025-03-15 22:18:30Z	DNS on OPNsense
@@ -732,7 +732,7 @@
 759	2024-07-30 13:51:54Z	Versioned database migration strategies
 760	2024-07-31 14:23:35Z	Bootcamp Career Foundry
 761	2024-07-30 23:37:53Z	AI Group in Minneapolis called C.R.E.A.T.E.
-762	2025-02-02 00:39:54Z	MSP Tech meetup group (msptech)
+762	2025-07-26 17:17:01Z	MSP Tech meetup group (msptech)
 763	2024-07-30 23:34:35Z	Fieldkit hardware
 764	2024-09-14 17:16:10Z	Jevons paradox reason why junior devs will not be replaced
 765	2024-07-30 23:36:54Z	Dave Farley has good content on CI/CD
@@ -898,7 +898,7 @@
 929	2025-01-21 01:19:28Z	Local band The Gentlemen's Anti-Temperance League
 930	2025-01-21 00:37:38Z	Trick with go to embed version info
 931	2025-01-21 01:09:04Z	Local band The Last Revel
-932	2025-01-21 01:09:07Z	Place: Minneapolis
+932	2025-07-26 17:16:51Z	Place: Minneapolis (minneapolis)
 933	2025-01-21 01:20:32Z	Place: 321 Club
 934	2025-01-31 03:14:29Z	The style of music called Folk
 935	2025-01-21 18:25:03Z	Prompt: Creating git comments
@@ -1014,7 +1014,7 @@
 1046	2025-07-12 16:22:22Z	State machine libararies
 1047	2025-07-12 16:22:39Z	Website: temporal.io
 1048	2025-07-12 16:30:20Z	Package manager UV for python
-1049	2025-07-14 05:27:08Z	Software: frizbee
+1049	2025-07-25 20:35:40Z	Software: frizbee fuzzy matcher
 1050	2025-07-15 14:45:29Z	Prose linting on neovim with vale
 1051	2025-07-16 14:48:10Z	PHP setup for Neovim
 1052	2025-07-15 21:16:00Z	LSP setup on Neovim
@@ -1027,13 +1027,20 @@
 1059	2025-07-20 15:32:40Z	Person: Leonard Leo
 1060	2025-07-19 04:11:23Z	Person: Trump
 1061	2025-07-20 15:32:37Z	The federalist society group
-1062	2025-07-20 16:39:02Z	Ubuntu template version 1 for my homelab
-1063	2025-07-20 17:08:07Z	Ubuntu template version 2 for my homelab
+1062	2025-07-26 19:42:06Z	Ubuntu template version 1 for my homelab
+1063	2025-07-26 19:44:34Z	Ubuntu template cloud version 1 for my homelab
 1064	2025-07-22 22:26:42Z	Cloud init first experience on my homelab
 1065	2025-07-20 17:09:11Z	Cloud init (cloud-init)
 1066	2025-07-22 20:51:59Z	Example search output for my KEG
-1068	2025-07-25 18:13:46Z	Bake: Pearled Barley Sourdough Loaf with Lower Hydration
+1068	2025-07-25 18:15:44Z	Bake: Pearled Barley Sourdough Loaf with Lower Hydration
 1069	2025-07-24 20:18:03Z	Sourdough baking (sourdough)
 1070	2025-07-25 17:31:28Z	Hardware: Lodge dutch oven
 1071	2025-07-25 17:31:30Z	Hardware: Lodge 12 cast iron skillet
 1072	2025-07-25 18:13:48Z	Ingredient: Organic Goods and Gather all purpose flour
+1073	2025-07-26 15:46:07Z	Project: Database to local FS mount
+1074	2025-07-26 15:55:26Z	Trick: Enforce interface implementation in GO
+1075	2025-07-26 16:56:29Z	Chamber of commerce office for finding what jobs are available
+1076	2025-07-26 16:38:01Z	Largest gaming convention 2d con in Minnesota
+1077	2025-07-26 16:59:35Z	Patch: Add fzf to ku script
+1078	2025-07-26 17:17:32Z	Event: Flash project showoff - tentative summer 2025
+1079	2025-07-26 19:32:05Z	Proxmox cheatsheet

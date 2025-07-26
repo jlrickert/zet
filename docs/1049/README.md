@@ -1,4 +1,4 @@
-# Software: frizbee
+# Software: frizbee fuzzy matcher
 
 [Frizbee] is a SIMD fuzzy string matcher.
 

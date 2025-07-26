@@ -1,7 +1,7 @@
 - [Patch: Installing proxmox on Beelink SEi 9](../1030)
 - [Creating an [Ubuntu Server](../670) template my [Homelab](../578)](../1041)
 - [Ubuntu template version 1 for my homelab](../1062)
-- [Ubuntu template version 2 for my homelab](../1063)
+- [Ubuntu template cloud version 1 for my homelab](../1063)
 - [Cloud init first experience on my homelab](../1064)
 - [FreeBSD for homelab exploration](../562)
 - [Hardware: Think Server 140 (ts140)](../563)

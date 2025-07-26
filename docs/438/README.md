@@ -36,7 +36,7 @@ Here are a few key ideas:
 
   Need some way to integrate with google calendar.
 
-## Database fuse deal
+## Database mounting program
 
 Mounting a database to the file system to allow dev tools to be used instead of the dumb CMS tools.
 
