@@ -6,6 +6,7 @@ RUN apk upgrade --update-cache -a && \
 RUN pip install mkdocs
 RUN pip install mkdocs-meta-manager
 RUN pip install markdown-checklist
+RUN pip install mkdocs-material
 
 RUN git config --global --add safe.directory /docs &&\
     git config --global --add safe.directory /site
