@@ -18,7 +18,7 @@ site_description: >-
   some one out there.
 use_directory_urls: false
 theme:
-  name: readthedocs
+  name: material
   analytics:
     gtag: G-WXQ3PHET4N
   titles_only: true

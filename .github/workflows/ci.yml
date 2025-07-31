@@ -23,4 +23,5 @@ jobs:
       - run: pip install mkdocs
       - run: pip install mkdocs-meta-manager
       - run: pip install markdown-checklist
+      - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
