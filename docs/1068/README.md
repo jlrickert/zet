@@ -20,7 +20,7 @@ Total weight is approximately 908g.
 
 - 2024-11-01 09:00 Fed starter
 - 2025-07-24 13:10 [Autolyse Flour](../911)
-- 2025-07-24 15:18 Mixed ingredients
+- 2026-07-24 15:18 Mixed ingredients
 - 2025-07-24 11:00 Shaped and placed in the fridge
 - 2025-07-25 12:27 Placed in the [oven](../912)
 

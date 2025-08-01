@@ -32,7 +32,7 @@
 31	2023-09-07 02:26:52Z	Halls of Valor dungeon
 32	2024-05-21 00:22:45Z	World of Warcraft court of stars dungeon
 33	2024-07-15 04:23:44Z	Bash scripting tricks
-34	2024-07-04 17:53:38Z	Recommend language sever to use for golang development
+34	2025-07-28 03:18:58Z	Recommend language sever to use for golang development
 35	2023-09-07 02:26:52Z	Key things that make neovim as an ide
 37	2023-09-07 02:26:52Z	File type specific settings in neovim
 38	2023-09-07 02:26:52Z	Shadow moon burial grounds dungeon
@@ -410,7 +410,7 @@
 435	2023-12-10 18:52:12Z	Purple radish micro green batch 1
 436	2023-12-11 06:43:37Z	Triton Purple radish sprouts
 437	2023-12-05 18:20:52Z	Coco coir for micro green growing
-438	2025-07-26 16:55:38Z	Project ideas
+438	2025-07-29 15:55:50Z	Project ideas
 439	2024-02-05 19:02:51Z	Knutjs project idea
 440	2023-12-26 23:43:04Z	Lazy sourdough Uzbek Lepyoshki experiment
 441	2024-05-04 20:47:48Z	Uzbek Lepyoshki take 2
@@ -523,7 +523,7 @@
 549	2024-05-18 15:31:14Z	MariaDB SQL cheat sheet
 550	2024-05-21 14:29:19Z	First exploration into Nix
 551	2024-07-26 22:29:10Z	Managing neovim versions with brew
-552	2024-07-26 22:29:55Z	Managing disks on MacOS
+552	2025-08-01 14:15:24Z	Managing disks on MacOS
 553	2024-05-18 23:13:42Z	In search of a configuration and data exchange language
 554	2024-05-18 19:20:13Z	Known standards
 555	2024-05-18 23:13:30Z	GitHub action using nix
@@ -650,7 +650,7 @@
 676	2024-08-03 20:09:07Z	Overview: TrueNas
 677	2024-07-16 02:50:58Z	Techniques for handling scrolling
 678	2024-07-15 16:42:43Z	[ ] Neovim Task | hunk text object visual navigation issue
-679	2024-07-15 20:59:26Z	Overview: `entr`
+679	2025-07-26 20:41:14Z	Overview: `entr`
 680	2024-07-15 20:59:55Z	Overview: `rsync`
 681	2024-07-15 21:01:20Z	[ ] Dotfiles Task | create `sync-project` script
 682	2024-07-16 21:58:03Z	Place: Mill city running
@@ -847,7 +847,7 @@
 877	2025-06-02 19:25:05Z	Using TrueNAS NFS for Proxmox images
 878	2024-11-09 19:43:48Z	Setting up DNS with Unbound with DHCP DNS registration on OPNsense
 879	2024-11-09 19:35:14Z	Tech GODS list
-880	2025-07-26 15:01:39Z	Setting up DHCP on OPNSense (2024-11-09)
+880	2025-07-26 20:01:39Z	Setting up DHCP on OPNSense (2024-11-09)
 881	2024-11-09 20:39:41Z	Most efficient transpiler see go tool chain
 882	2024-11-09 23:00:57Z	Vim filter cheatsheet
 883	2024-11-10 04:47:38Z	SPEC: dotz package manager
@@ -893,10 +893,10 @@
 924	2025-04-09 19:08:21Z	Place: Williston Fitness Center
 925	2025-01-04 16:48:40Z	Place: Misfit coffee
 926	2025-01-12 22:06:41Z	Skiing in the Twin Cities
-927	2025-01-21 00:39:22Z	Trick with go to embed version info
+927	2025-07-26 20:41:22Z	Trick with go to embed version info
 928	2025-01-31 15:10:47Z	Concerts of interest for 2025
 929	2025-01-21 01:19:28Z	Local band The Gentlemen's Anti-Temperance League
-930	2025-01-21 00:37:38Z	Trick with go to embed version info
+930	2025-07-26 20:41:28Z	Trick with go to embed version info
 931	2025-01-21 01:09:04Z	Local band The Last Revel
 932	2025-07-26 17:16:51Z	Place: Minneapolis (minneapolis)
 933	2025-01-21 01:20:32Z	Place: 321 Club
@@ -951,7 +951,7 @@
 982	2025-03-22 17:43:29Z	Place: Twin Cities (twincities)
 983	2025-03-23 15:50:54Z	Place: Boil seafood Restaurant
 984	2025-03-23 15:50:19Z	Place: St Cloud (stcloud)
-985	2025-07-25 18:12:26Z	Bake: White sourdough batard with purple Barley pearls
+985	2025-07-28 17:24:29Z	Bake: White sourdough batard with purple Barley pearls
 986	2025-03-24 18:44:06Z	Company: Timeless Seeds
 987	2025-03-24 17:43:00Z	Ingredient: Semi-Pearled Purple Prairie Barley
 988	2025-03-31 14:52:12Z	Event: Two Rivers 10 Mile 2025
@@ -1032,7 +1032,7 @@
 1064	2025-07-22 22:26:42Z	Cloud init first experience on my homelab
 1065	2025-07-20 17:09:11Z	Cloud init (cloud-init)
 1066	2025-07-22 20:51:59Z	Example search output for my KEG
-1068	2025-07-25 18:15:44Z	Bake: Pearled Barley Sourdough Loaf with Lower Hydration
+1068	2025-07-28 21:37:32Z	Bake: Pearled Barley Sourdough Loaf with Lower Hydration
 1069	2025-07-24 20:18:03Z	Sourdough baking (sourdough)
 1070	2025-07-25 17:31:28Z	Hardware: Lodge dutch oven
 1071	2025-07-25 17:31:30Z	Hardware: Lodge 12 cast iron skillet
@@ -1041,7 +1041,11 @@
 1074	2025-07-26 15:55:26Z	Trick: Enforce interface implementation in GO
 1075	2025-07-26 16:56:29Z	Chamber of commerce office for finding what jobs are available
 1076	2025-07-26 16:38:01Z	Largest gaming convention 2d con in Minnesota
-1077	2025-07-26 16:59:35Z	Patch: Add fzf to ku script
-1078	2025-07-26 17:17:32Z	Event: Flash project showoff - tentative summer 2025
+1077	2025-07-28 21:38:18Z	Patch: Add fzf to ku script
+1078	2025-07-30 15:08:33Z	Event: Flash project showoff - tentative summer 2025
 1079	2025-07-26 19:32:05Z	Proxmox cheatsheet
 1080	2025-07-26 20:01:31Z	Trick: Alt pipelines in bash
+1081	2025-07-28 14:33:54Z	Patch: serving password protected static websites on my homelab
+1082	2025-07-26 20:42:26Z	Choice of cli framework in go 2025
+1083	2025-07-28 03:22:47Z	Golang setup
+1084	2025-07-28 04:59:40Z	Node installation

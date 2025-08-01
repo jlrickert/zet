@@ -3,6 +3,7 @@
 - [Ubuntu template version 1 for my homelab](../1062)
 - [Ubuntu template cloud version 1 for my homelab](../1063)
 - [Cloud init first experience on my homelab](../1064)
+- [Patch: serving password protected static websites on my homelab](../1081)
 - [FreeBSD for homelab exploration](../562)
 - [Hardware: Think Server 140 (ts140)](../563)
 - [Project: Current Homelab (homelab)](../578)
