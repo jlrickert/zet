@@ -1,5 +1,7 @@
 # Golang setup
 
+[Golang](../1085) setup
+
 Binaries may be installed on the [golang release page][release]
 
 [release]: https://go.dev/dl/
@@ -17,3 +19,7 @@ Add the following to your [dotfiles](../281)
 ```bash
 export PATH="$PATH:/opt/go/bin"
 ```
+
+## MacOS
+
+I just use brew as go seems to be stable enough that the latest go version is the way to go.

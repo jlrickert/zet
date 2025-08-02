@@ -1,6 +1,6 @@
 # Golang development loop with multi repos
 
-Version 1.18 of go has workspace feature. This allows using a `go.work` file to use override the location of the source of dependencies.
+Version 1.18 of [go](../1085) has workspace feature. This allows using a `go.work` file to use override the location of the source of dependencies.
 
 - Create a repo
 - Create a module

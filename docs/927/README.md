@@ -1,6 +1,6 @@
-# Trick with go to embed version info
+# Trick: Embedding version information in go binaries
 
-Handy trick that I found while looking through the source code of [mods] to emded version information. It uses [cobra].
+Handy trick in [go](../1085) that I found while looking through the source code of [mods] to embed version information. It uses [cobra].
 
 [mods]: https://github.com/charmbracelet/mods
 
