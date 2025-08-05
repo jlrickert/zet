@@ -1,0 +1,16 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"name": "docs",
+	"version": "1.0.0",
+	"description": "Hi I'm Jared. This is my personal **zettelkasten** KEG site. It contains stuff on pretty much any topic I feel like writing about, mostly about [baking](dex/baking.md) and tech how too. You can think of it as my own personal stack overflow or arch wiki. The latest additions and changes are always [indexed](dex).",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
