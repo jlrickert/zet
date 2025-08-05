@@ -1,3 +1,4 @@
+* 2025-08-05 02:18:29Z [Article: Twin Cities event calendar](../1098)
 * 2025-08-05 02:11:54Z [Article: Twin Cities dancing event calendar](../1016)
 * 2025-08-04 23:20:28Z [Trick: YAML based config management in Golang](../1097)
 * 2025-08-04 14:14:48Z [Programming language Go (golang)](../1085)
