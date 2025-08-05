@@ -956,7 +956,7 @@
 987	2025-03-24 17:43:00Z	Ingredient: Semi-Pearled Purple Prairie Barley
 988	2025-03-31 14:52:12Z	Event: Two Rivers 10 Mile 2025
 989	2025-04-07 14:38:02Z	Activity: Hiking (hiking)
-990	2025-04-07 14:45:50Z	Places to go hiking in the twin cities
+990	2025-08-03 00:55:21Z	Places to go hiking in the twin cities
 991	2025-04-07 14:43:46Z	Activity: Trail running (trail-running)
 993	2025-04-10 19:01:52Z	Bake: Potluck pretzel bites
 994	2025-04-09 19:08:05Z	Activity: Pickleball (pickleball)
@@ -981,7 +981,7 @@
 1013	2025-05-15 14:25:59Z	Project: Zellij (zellij)
 1014	2025-05-15 14:26:45Z	Project: WezTerm as my terminal of choice (wezterm)
 1015	2025-05-15 15:30:54Z	Adding dark/light mode toggle to my dotfiles
-1016	2025-05-15 15:35:08Z	Article: Twin Cities dancing event calendar
+1016	2025-08-05 02:11:54Z	Article: Twin Cities dancing event calendar
 1017	2025-05-17 15:00:46Z	Event: Twin Cities Marathon 2025
 1018	2025-06-03 21:43:34Z	Deno shell script example
 1019	2025-05-17 15:34:57Z	Ansible like text blocks with bash for my dotfiles
@@ -1049,7 +1049,7 @@
 1082	2025-07-26 20:42:26Z	Choice of cli framework in go 2025
 1083	2025-08-02 14:08:18Z	Golang setup
 1084	2025-07-28 04:59:40Z	Node installation
-1085	2025-08-02 20:13:14Z	Programming language Go (golang)
+1085	2025-08-04 14:14:48Z	Programming language Go (golang)
 1086	2025-08-02 14:10:55Z	Programming language deno (deno)
 1087	2025-08-02 14:14:09Z	Programming language node (node)
 1088	2025-08-02 14:14:14Z	Programming languae rust (rust)
@@ -1058,3 +1058,7 @@
 1091	2025-08-02 20:10:52Z	Github MCP setup
 1092	2025-08-02 14:59:36Z	GitHub (github)
 1093	2025-08-02 15:54:07Z	E2e and Integration testing for go
+1094	2025-08-02 22:31:33Z	Section 174 tax code from The Big Beautiful Bill
+1095	2025-08-02 22:40:52Z	Software: monitoring with Prometheus (prometheus)
+1096	2025-08-02 22:40:37Z	Kubernetes (k8s)
+1097	2025-08-04 23:20:28Z	Trick: YAML based config management in Golang
