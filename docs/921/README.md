@@ -1,145 +1,72 @@
 # Prompt: "Linkify" KEG notes
 
-"Linkify" refers to the process of adding hyperlinks to specific keywords, phrases, or phrases in a text, connecting them to relevant documents, websites, or other resources within a system like your KEG. This enhances the text by providing instant access to more detailed information or related content, facilitating easy navigation and improved information retrieval from your KEG repository.
+"Linkify" refers to the process of adding hyperlinks to specific keywords, phrases, or phrases in a text, connecting them to relevant documents, websites, or other resources within a system like your [KEG](../646). This enhances the text by providing instant access to more detailed information or related content, facilitating easy navigation and improved information retrieval from your KEG repository.
 
-When referencing links that are not part of this KEG, it is preferred to use reference-style links for clarity and readability.
+What "linkify" means
 
-## Description of **Linkifying**
+- To add hyperlinks to keywords or phrases in a note so readers can jump to related notes, documents, or external resources.
+- This makes navigation and information retrieval faster inside your KEG.
 
-1. **Internal Linking in a Document:**
+Quick rules
 
-   Before linkifying:
+- Use internal links for notes in the same KEG (e.g., ../123).
+- Use the keg: protocol for links to notes in other KEGs (e.g., keg:js-resources/250).
+- For external websites, prefer reference-style links to keep the body text clean and make URLs easy to update.
 
-   - "We discussed the project details in the Project Specification document."
+How to linkify — examples
 
-   After linkifying:
+1. Internal link (same KEG)
 
-   - "We discussed the project details in the [Project Specification](../123) document."
+- Before: We discussed the project details in the Project Specification document.
+- After: We discussed the project details in the [Project Specification](../123) document.
+  - (Here ../123 is the local note ID.)
 
-   Here, "Project Specification" is linked to an internal document or note with ID `123` within the same system or directory.
+2. External KEG link (different KEG)
 
-2. **External KEG Links:**
+- Before: For functional programming concepts, see the JavaScript resources in another KEG.
+- After: For a deep dive into functional programming, see [Functional JavaScript in Practice](keg:js-resources/250).
+  - (Uses the keg: protocol, KEG alias, and note ID.)
 
-   Before linkifying:
+3. External website (reference-style)
 
-   - "For functional programming concepts, see the JavaScript resources in another KEG."
+- Before: For more information, visit the company's homepage.
+- After: For more information, visit the [company's homepage][homepage].
+- Reference-style URLs (placed at the bottom):
+  - [homepage]: https://www.example.com
 
-   After linkifying:
+Why use reference-style links for external URLs
 
-   - "For a deep dive into functional programming principles within JavaScript, please refer to the external note: [Functional JavaScript in Practice](keg:js-resources/250)."
+- Keeps the main text uncluttered.
+- Makes it easier to update URLs in one place.
 
-   Here, "Functional JavaScript in Practice" is linked to an external KEG using the protocol `keg`, the KEG alias `js-resources`, and the note ID `250`.
+Example links (short descriptions)
 
-3. **Linking to External Resources:**
+- [Docker Basics](../16) — spinning up a dev environment with Docker.
+- [Neovim IDE Features](../35) — Neovim as an IDE.
+- [Sourdough Techniques](../459) — tips for sourdough baking.
+- [AWS Services Overview](../391) — summary of AWS services.
+- [Bash Scripting Tips](../33) — Bash tricks and techniques.
+- [Warcraft Dungeon Guides](../832) — dungeons in The War Within expansion.
+- [Python Development Setup](../380) — environment setup for Python projects.
+- [React Design Concepts](../516) — design ideas for React Native.
+- [Running Event Preparation](../852) — race times and event prep.
+- [WordPress Plugin Development](../226) — plugin dev overview.
+- [Functional Programming in JavaScript](keg:js-resources/250) — external KEG guide.
+- [Advanced CSS Techniques](keg:webdev/45) — external KEG on advanced CSS.
+- [Cloud Infrastructure Management](keg:cloud/101) — cloud management strategies (external KEG).
+- [Machine Learning Algorithms](keg:ai/89) — ML algorithms and use cases (external KEG).
+- [Digital Marketing Strategies](keg:marketing/73) — marketing strategies (external KEG).
 
-   Before linkifying:
+Reference-style external resources (examples)
 
-   - "For more information, visit the company's homepage."
+- [js-docs]: https://developer.mozilla.org/docs/Web/JavaScript
+- [python-guide]: https://docs.python.org/3/tutorial/
+- [css-tricks]: https://css-tricks.com/
+- [github-actions]: https://docs.github.com/en/actions
+- [digitalocean-tuts]: https://www.digitalocean.com/community/tutorials
 
-   After linkifying:
+Short checklist before saving a note
 
-   - "For more information, visit the [company's homepage][homepage]."
-   - "Visit the KEG for detailed guidance [here][keg]."
-
-   In this example, "company's homepage" is linked to an external URL.
-
-   Reference-style links:
-
-   ```markdown
-   [homepage]: https://www.example.com
-   [keg]: https://external.keg.example.com/guide
-   ```
-
-   Using reference-style links helps manage external URLs separately, making updates easier and keeping the main text uncluttered.
-
-## Examples
-
-1. **[Docker Basics](../16)**
-
-   - Links to the note that covers how to quickly spin up a dev environment for testing with Docker.
-
-2. **[Neovim IDE Features](../35)**
-
-   - Connects to a note detailing the key things that make Neovim function as an integrated development environment (IDE).
-
-3. **[Sourdough Techniques](../459)**
-
-   - Points to the note about making good sourdough bread.
-
-4. **[AWS Services Overview](../391)**
-
-   - Directs to a note that provides an overview of various AWS services.
-
-5. **[Bash Scripting Tips](../33)**
-
-   - References a note that discusses tricks and techniques in Bash scripting.
-
-6. **[Warcraft Dungeon Guides](../832)**
-
-   - Links to a note about dungeons in the World of Warcraft: The War Within expansion.
-
-7. **[Python Development Setup](../380)**
-
-   - Points to a project management note for Python, suitable for expanding on setting up environments.
-
-8. **[React Design Concepts](../516)**
-
-   - Connects to a note covering design concepts specific to React Native.
-
-9. **[Running Event Preparation](../852)**
-
-   - Links to your note listing running event race times, useful for event preparation strategies.
-
-10. **[WordPress Plugin Development](../226)**
-
-    - Directs to an overview note of WordPress plugin development.
-
-11. **[Functional Programming in JavaScript](keg:js-resources/250)**
-
-    - Links to a note in the external "js-resources" KEG that provides a comprehensive guide on functional programming principles within JavaScript.
-
-12. **[Advanced CSS Techniques](keg:webdev/45)**
-
-    - Points to an external note in the "webdev" KEG that explores advanced CSS techniques and practices.
-
-13. **[Cloud Infrastructure Management](keg:cloud/101)**
-
-    - Connects to a detailed note in the "cloud" KEG, which outlines strategies for effective cloud infrastructure management.
-
-14. **[Machine Learning Algorithms](keg:ai/89)**
-
-    - Directs to an external note in the "ai" KEG detailing various machine learning algorithms and their applications.
-
-15. **[Digital Marketing Strategies](keg:marketing/73)**
-
-    - References an external note in the "marketing" KEG that examines digital marketing strategies and tools.
-
-16. ** JavaScript Documentation [js-docs]**
-
-    - For comprehensive JavaScript documentation and resources, visit the [Mozilla Developer Network][js-docs].
-
-      [js-docs]: https://developer.mozilla.org/docs/Web/JavaScript
-
-17. **Python Official Guide [python-guide]**
-
-    - Refer to the [Python Official Guide][python-guide] for tutorials and documentation on Python programming.
-
-      [python-guide]: https://docs.python.org/3/tutorial/
-
-18. **CSS Tricks and Tips [css-tricks]**
-
-    - Explore [CSS-Tricks][css-tricks] for a wide array of CSS tips, tricks, and techniques.
-
-      [css-tricks]: https://css-tricks.com/
-
-19. **GitHub Actions Workflow [github-actions]**
-
-    - Learn how to automate your development workflow with [GitHub Actions][github-actions].
-
-      [github-actions]: https://docs.github.com/en/actions
-
-20. **DigitalOcean Tutorials [digitalocean-tuts]**
-
-    - Visit [DigitalOcean's Community][digitalocean-tuts] for tutorials on cloud computing and deployment strategies.
-
-      [digitalocean-tuts]: https://www.digitalocean.com/community/tutorials
+- Is the target note internal or in another KEG? Use ../ID for internal, keg:alias/ID for external KEGs.
+- For websites, add reference-style links at the bottom.
+- Keep link text descriptive (not just raw URLs or generic words like “click here”).
