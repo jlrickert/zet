@@ -17,3 +17,5 @@ Numbers can be categorized in various ways, depending on the specific context an
 - Complex Numbers: Complex numbers are numbers in the form a + bi, where "a" and "b" are real numbers, and "i" represents the imaginary unit (√-1). Complex numbers have both a real part and an imaginary part.
 
 These categorizations provide a general overview, but there are more specific classifications within each category based on properties such as prime numbers, even/odd numbers, prime factorization, etc. The categorization of numbers can vary depending on the context and field of study.
+
+- example: ../230

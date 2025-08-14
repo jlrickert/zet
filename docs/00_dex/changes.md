@@ -1,3 +1,4 @@
+* 2025-08-14 04:52:08Z [Categorization of numbers](../235)
 * 2025-08-13 21:40:40Z [Place: Shoreview](../1107)
 * 2025-08-13 21:39:41Z [Place: Lions Tap](../1105)
 * 2025-08-13 21:36:36Z [Activate Global League](../1106)
@@ -627,7 +628,6 @@
 * 2024-07-04 15:27:18Z [Bake: Memorial Day Weekend focaccia 2024](../561)
 * 2024-07-04 15:24:26Z [Ingredient: Turkey red wheat berries](../641)
 * 2024-07-03 18:31:43Z [Feature: search domain in DNS](../636)
-* 2024-07-02 20:52:12Z [Categorization of numbers](../235)
 * 2024-07-02 20:51:57Z [Place: St Louis Park, MN](../638)
 * 2024-07-01 20:24:27Z [Overview: backing up Unix systems](../606)
 * 2024-07-01 19:18:47Z [Beelink mini computers](../634)
