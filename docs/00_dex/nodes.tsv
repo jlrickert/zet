@@ -74,7 +74,7 @@
 77	2024-07-16 15:35:32Z	Article: Really good article about software engineering principles
 78	2023-09-07 02:26:52Z	Quick fix menus in vim
 79	2024-07-04 18:22:35Z	An example of a bash script that has tab completion
-80	2024-07-04 18:24:20Z	Person: Rob Muhlestein
+80	2025-08-14 21:21:10Z	Person: Rob Muhlestein
 81	2023-09-07 02:26:52Z	rwxrob's list of go packages
 82	2023-09-07 02:26:52Z	How to give credit to the original script owner
 83	2023-09-07 02:26:52Z	Managing personal secrets with an external USB drive
@@ -218,7 +218,7 @@
 231	2023-09-07 02:26:52Z	Problem solution sets
 232	2024-07-12 20:21:57Z	PCI-DSS compliance
 233	2023-09-07 02:26:52Z	What is Multi-Factor authentication
-235	2025-08-14 04:52:08Z	Categorization of numbers
+235	2025-08-14 04:57:07Z	Categorization of numbers
 236	2024-06-11 21:09:04Z	Accordion plugins for WordPress
 237	2023-09-07 02:26:52Z	COC Categorization
 238	2023-09-07 02:26:52Z	Wooden ship brewing
@@ -379,7 +379,7 @@
 404	2023-11-18 19:40:26Z	Amazon CodePipeline
 405	2023-11-02 03:07:34Z	Message de-duplication on AWS FIFO topics
 406	2024-05-06 14:58:07Z	How to upload a SSH key pair from the CLI to AWS
-407	2025-07-14 15:09:39Z	Neovim intellisense for JSON files
+407	2025-08-16 21:43:42Z	Neovim intellisense for JSON files
 408	2023-11-12 23:20:35Z	ECS cluster tutorial
 409	2023-11-13 00:27:38Z	Interesting bug in AWS ECS
 410	2023-11-15 16:19:19Z	AWS Service CloudFormation
@@ -599,7 +599,7 @@
 625	2025-05-16 17:12:00Z	Project: dotfiles (dotfiles)
 626	2024-08-05 15:15:54Z	Current Homelab topology
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
-628	2025-06-27 18:17:44Z	Person: Streamer rwxrob
+628	2025-08-14 21:21:06Z	Streamer: rwxrob
 629	2024-07-14 20:53:29Z	[x] Homelab Task | setup pfSense on ts140
 630	2025-07-24 18:09:26Z	Ingredient: King Author all purpose flour
 631	2024-07-28 16:12:17Z	Company: King Arthur
@@ -1054,7 +1054,7 @@
 1087	2025-08-02 14:14:09Z	Programming language node (node)
 1088	2025-08-02 14:14:14Z	Programming languae rust (rust)
 1089	2025-08-11 14:42:46Z	Go release strategy
-1090	2025-08-02 14:58:28Z	MCP servers (mcp)
+1090	2025-08-16 00:42:12Z	MCP servers (mcp)
 1091	2025-08-02 20:10:52Z	Github MCP setup
 1092	2025-08-02 14:59:36Z	GitHub (github)
 1093	2025-08-02 15:54:07Z	E2e and Integration testing for go
@@ -1072,3 +1072,6 @@
 1105	2025-08-13 21:39:41Z	Place: Lions Tap
 1106	2025-08-13 21:36:36Z	Activate Global League
 1107	2025-08-13 21:40:40Z	Place: Shoreview
+1108	2025-08-14 21:26:07Z	Spin up PostgreSQL cluster on k8s
+1109	2025-08-14 18:49:29Z	PostgreSQL server (postgresql)
+1110	2025-08-14 21:21:14Z	Bitnami chart
