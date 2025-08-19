@@ -1,4 +1,4 @@
-# AWS services
+# AWS (aws)
 
 AWS provides a bunch of services for managing infrastructure.
 
@@ -13,6 +13,7 @@ AWS provides a bunch of services for managing infrastructure.
 - [Cognito](../416)
 - [EBS](../418)
 - [AppSync](../420)
+- [SES](../391)
 
 CI/CD
 
