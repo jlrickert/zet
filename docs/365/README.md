@@ -6,17 +6,15 @@ Key steps
 
   This required adding a bunch records to my domain.
 
-  | Type  | Host                                                       | Value                                               |
-  | ----- | ---------------------------------------------------------- | --------------------------------------------------- |
-  | CNAME | `sezfk4ez22cadvefqym5pmg5ujegny6l._domainkey.jlrickert.me` | sezfk4ez22cadvefqym5pmg5ujegny6l.dkim.amazonses.com |
-  | CNAME | `wjtfakigt77fmbrwsxa3secddck6ftpt._domainkey.jlrickert.me` | wjtfakigt77fmbrwsxa3secddck6ftpt.dkim.amazonses.com |
-  | CNAME | `kor7wuwb44fz3koljtxzkxx6y4nwmw2p._domainkey.jlrickert.me` | kor7wuwb44fz3koljtxzkxx6y4nwmw2p.dkim.amazonses.com |
+  | Type  | Host                                            | Value                               |
+  | ----- | ----------------------------------------------- | ----------------------------------- |
+  | CNAME | `[REDACTED_TOKEN]._domainkey.[REDACTED_DOMAIN]` | [REDACTED_TOKEN].dkim.amazonses.com |
+  | CNAME | `[REDACTED_TOKEN]._domainkey.[REDACTED_DOMAIN]` | [REDACTED_TOKEN].dkim.amazonses.com |
+  | CNAME | `[REDACTED_TOKEN]._domainkey.[REDACTED_DOMAIN]` | [REDACTED_TOKEN].dkim.amazonses.com |
 
-  One thing to note here is that on Namecheap .jlrickert.me is appended to the
-  Host value.
+  One thing to note here is that on Namecheap .jlrickert.me is appended to the Host value.
 
-- Use the code _from aws-lambda-ses-forwarder_. I think I ended up using node
-  version 12.
+- Use the code _from aws-lambda-ses-forwarder_. I think I ended up using node version 12.
 
 ## See also
 

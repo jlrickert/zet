@@ -341,7 +341,7 @@
 362	2024-02-24 19:51:16Z	Simple versioning using changesets
 363	2023-10-02 01:29:00Z	Power lifting workout routines
 364	2023-11-02 01:53:39Z	Setup OpenSearch AWS for learning
-365	2023-11-11 02:45:05Z	How to setup email using AWS SES
+365	2025-08-21 18:31:46Z	How to setup email using AWS SES
 366	2023-10-04 14:58:15Z	Multiplayer game with FireBase video
 367	2024-08-06 23:53:50Z	Neovim repositories
 368	2023-10-06 22:28:16Z	Resources to get started with Ocaml
@@ -1075,5 +1075,5 @@
 1108	2025-08-14 21:26:07Z	Spin up PostgreSQL cluster on k8s
 1109	2025-08-14 18:49:29Z	PostgreSQL server (postgresql)
 1110	2025-08-14 21:21:14Z	Bitnami chart
-1111	2025-08-19 20:10:27Z	Validating AWS SES credentials
+1111	2025-08-22 20:20:11Z	Validating AWS SES credentials
 1112	2025-08-19 20:10:36Z	AWS simple email service - SES

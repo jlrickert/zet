@@ -128,4 +128,5 @@ fi
 
 ## Notes / considerations
 
-- The hostname is arbitrary. Clients my use this for filtering
+- The hostname is arbitrary. Clients my use this for filtering and such
+- Can't send emails from outside domains unless the email is validated in the SES admin
