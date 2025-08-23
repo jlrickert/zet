@@ -94,19 +94,8 @@ $b64_user
 $b64_pass
 QUIT"
 
-# echo "RAWR $smtp_payload"
-# exit
-
-# Use timeout if available to avoid hangs
 OPENSSL_CMD=(openssl s_client -starttls smtp -quiet -crlf -connect "${ENDPOINT}:${PORT}")
-if command -v timeout >/dev/null 2>&1; then
-	RESP=$(printf "%s" "$smtp_payload" | timeout 15 "${OPENSSL_CMD[@]}" 2>/dev/null || true)
-else
-	# No timeout available; run but limit reading to avoid indefinite hang
-	# We'll still try, but warn the user.
-	info "warning: 'timeout' not found; the connection may hang if network is unresponsive."
-	RESP=$(printf "%s" "$smtp_payload" | "${OPENSSL_CMD[@]}" 2>/dev/null || true)
-fi
+RESP=$(printf "%s" "$smtp_payload" | "${OPENSSL_CMD[@]}" 2>/dev/null || true)
 
 # Check for successful authentication. SES responds with 235 on success.
 if printf "%s" "$RESP" | grep -qE "^235| 235 "; then

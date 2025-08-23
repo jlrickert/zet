@@ -341,7 +341,7 @@
 362	2024-02-24 19:51:16Z	Simple versioning using changesets
 363	2023-10-02 01:29:00Z	Power lifting workout routines
 364	2023-11-02 01:53:39Z	Setup OpenSearch AWS for learning
-365	2025-08-21 18:31:46Z	How to setup email using AWS SES
+365	2025-08-23 15:46:32Z	How to setup email using AWS SES
 366	2023-10-04 14:58:15Z	Multiplayer game with FireBase video
 367	2024-08-06 23:53:50Z	Neovim repositories
 368	2023-10-06 22:28:16Z	Resources to get started with Ocaml
@@ -363,36 +363,36 @@
 387	2023-10-24 21:37:33Z	mono repo setup with pnpm
 389	2023-10-30 15:23:06Z	Tyler Industries entry level .Net role
 390	2023-11-02 01:14:41Z	Solid Principles
-391	2025-08-19 20:07:21Z	AWS (aws)
-392	2023-11-15 16:21:40Z	Simple Queue Service (SQS)
-393	2023-11-02 03:07:30Z	Simple Notification Service (SNS)
+391	2025-08-23 15:14:16Z	AWS (aws)
+392	2025-08-23 14:53:51Z	AWS Simple Queue Service (SQS)
+393	2025-08-23 14:53:45Z	Simple Notification Service (SNS)
 394	2023-11-02 02:12:26Z	AWS Lambda
-395	2023-11-02 02:57:59Z	CI/CD on AWS
-396	2023-11-02 02:50:48Z	API Gateway
-397	2023-11-02 02:32:34Z	Event monitoring with Amazon CloudWatch
-398	2023-11-02 02:43:05Z	Amazon EventBridge
-399	2023-11-02 02:44:05Z	X-Ray debugging tool
-400	2023-11-02 02:44:30Z	Amazon CodeStar
-401	2023-11-02 02:48:17Z	Amazon CodeCommit
-402	2023-11-02 02:48:30Z	Amazon CodeBuild
-403	2023-11-02 02:50:40Z	Amazon CodeDeploy
-404	2023-11-18 19:40:26Z	Amazon CodePipeline
+395	2025-08-23 14:53:38Z	CI/CD on AWS
+396	2025-08-23 14:53:28Z	API Gateway
+397	2025-08-23 14:53:07Z	Event monitoring with Amazon CloudWatch
+398	2025-08-23 14:53:01Z	Amazon EventBridge
+399	2025-08-23 14:52:55Z	X-Ray debugging tool
+400	2025-08-23 14:52:48Z	Amazon CodeStar
+401	2025-08-23 14:52:43Z	Amazon CodeCommit
+402	2025-08-23 14:52:37Z	Amazon CodeBuild
+403	2025-08-23 14:52:30Z	Amazon CodeDeploy
+404	2025-08-23 14:52:23Z	Amazon CodePipeline
 405	2023-11-02 03:07:34Z	Message de-duplication on AWS FIFO topics
 406	2024-05-06 14:58:07Z	How to upload a SSH key pair from the CLI to AWS
 407	2025-08-17 19:57:50Z	Neovim intellisense for JSON files
 408	2023-11-12 23:20:35Z	ECS cluster tutorial
 409	2023-11-13 00:27:38Z	Interesting bug in AWS ECS
-410	2023-11-15 16:19:19Z	AWS Service CloudFormation
-411	2023-11-17 16:18:14Z	AWS Cloud Development Kit (CDK)
+410	2025-08-23 14:52:08Z	AWS Service CloudFormation
+411	2025-08-23 14:51:57Z	AWS Cloud Development Kit (CDK)
 412	2024-06-10 15:56:58Z	AWS service CloudTrail
-413	2023-11-15 16:29:56Z	AWS CloudWatch
-414	2023-11-17 16:16:55Z	AWS Elastic Kubernetes Service EKS
-415	2023-11-15 16:33:54Z	AWS Elastic Container Registry (ECR)
-416	2023-11-17 16:38:46Z	AWS Cognito
-417	2023-11-17 18:48:27Z	AWS Developer Associate study guide
-418	2023-11-17 17:32:39Z	AWS Elastic Block Storage
+413	2025-08-23 14:51:48Z	AWS CloudWatch
+414	2025-08-23 14:51:41Z	AWS Elastic Kubernetes Service EKS
+415	2025-08-23 14:51:26Z	AWS Elastic Container Registry (ECR)
+416	2025-08-23 14:51:20Z	AWS Cognito
+417	2025-08-23 14:51:00Z	AWS Developer Associate study guide
+418	2025-08-23 14:50:53Z	AWS Elastic Block Storage
 419	2023-11-18 21:11:59Z	AWS Chat app tutorial
-420	2023-11-18 19:41:25Z	AWS AppSync
+420	2025-08-23 14:50:45Z	AWS AppSync
 421	2024-01-15 04:03:12Z	AWS Typescript CDK Quick start
 422	2024-05-20 22:50:53Z	Proof of concept for a monorepo with changesets
 423	2023-11-24 17:50:56Z	Netmagic cloud
@@ -1075,5 +1075,8 @@
 1108	2025-08-14 21:26:07Z	Spin up PostgreSQL cluster on k8s
 1109	2025-08-14 18:49:29Z	PostgreSQL server (postgresql)
 1110	2025-08-14 21:21:14Z	Bitnami chart
-1111	2025-08-22 20:20:11Z	Validating AWS SES credentials
+1111	2025-08-22 20:22:32Z	Validating AWS SES credentials
 1112	2025-08-19 20:10:36Z	AWS simple email service - SES
+1113	2025-08-23 15:46:27Z	Patch: homelab email admin@jlrickert.me
+1114	2025-08-23 14:28:19Z	Service: CloudFlare (cloudflare)
+1115	2025-08-23 15:16:13Z	Service: iCloud (icloud)

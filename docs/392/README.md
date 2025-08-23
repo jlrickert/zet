@@ -1,4 +1,4 @@
-# Simple Queue Service (SQS)
+# AWS Simple Queue Service (SQS)
 
 SQS is a managed service on AWS. It allows decoupling different systems. Think
 batching.
