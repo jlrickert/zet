@@ -379,7 +379,7 @@
 404	2025-08-23 14:52:23Z	Amazon CodePipeline
 405	2023-11-02 03:07:34Z	Message de-duplication on AWS FIFO topics
 406	2024-05-06 14:58:07Z	How to upload a SSH key pair from the CLI to AWS
-407	2025-08-17 19:57:50Z	Neovim intellisense for JSON files
+407	2025-09-03 21:20:34Z	Neovim intellisense for JSON files
 408	2023-11-12 23:20:35Z	ECS cluster tutorial
 409	2023-11-13 00:27:38Z	Interesting bug in AWS ECS
 410	2025-08-23 14:52:08Z	AWS Service CloudFormation
@@ -1015,9 +1015,9 @@
 1047	2025-07-12 16:22:39Z	Website: temporal.io
 1048	2025-07-12 16:30:20Z	Package manager UV for python
 1049	2025-07-25 20:35:40Z	Software: frizbee fuzzy matcher
-1050	2025-07-15 14:45:29Z	Prose linting on neovim with vale
+1050	2025-09-03 21:36:21Z	Prose linting on neovim with vale
 1051	2025-07-16 14:48:10Z	PHP setup for Neovim
-1052	2025-07-15 21:16:00Z	LSP setup on Neovim
+1052	2025-09-03 21:02:40Z	LSP setup on Neovim
 1053	2025-07-16 14:48:21Z	Modern jive dance moves
 1054	2025-07-16 18:48:38Z	Place: FRGMNT Coffee Eden Prairie
 1055	2025-07-16 18:30:01Z	Coffee shops in Minneapolis/St Paul for large coworking groups
@@ -1080,3 +1080,13 @@
 1113	2025-08-23 15:46:27Z	Patch: homelab email admin@jlrickert.me
 1114	2025-08-23 14:28:19Z	Service: CloudFlare (cloudflare)
 1115	2025-08-23 15:16:13Z	Service: iCloud (icloud)
+1116	2025-08-24 15:46:25Z	[x] Issue: EOL for 25.1 Opnsense
+1117	2025-08-23 16:14:31Z	Software: Opnsense (opnsense)
+1118	2025-08-24 15:45:50Z	Hardware: Garmin Forerunner 955
+1119	2025-08-24 15:45:45Z	[ ] Issue: Garmin smartwatch fails to update
+1120	2025-08-26 13:46:13Z	Dungeons and dragons (dnd)
+1121	2025-09-07 16:16:58Z	Opinionated way to build cli programs with GO
+1122	2025-09-07 15:53:06Z	MCP Fileystem (mcp-filesystem)
+1123	2025-09-06 15:56:08Z	Opinionated config management with golang examples
+1124	2025-09-07 15:51:53Z	Opinionated error handling strategy in Go
+1125	2025-09-08 01:18:33Z	How to work on a multirepo setup for golang projects

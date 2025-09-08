@@ -5,6 +5,7 @@
 - [Cloud init first experience on my homelab](../1064)
 - [Patch: serving password protected static websites on my homelab](../1081)
 - [Patch: homelab email admin@jlrickert.me](../1113)
+- [[x] Issue: EOL for 25.1 Opnsense](../1116)
 - [FreeBSD for homelab exploration](../562)
 - [Hardware: Think Server 140 (ts140)](../563)
 - [Project: Current Homelab (homelab)](../578)
