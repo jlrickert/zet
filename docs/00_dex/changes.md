@@ -1,3 +1,5 @@
+* 2025-09-11 16:58:06Z [Golang setup](../1083)
+* 2025-09-08 16:08:39Z [Opinionated way to handle logging with golang](../1126)
 * 2025-09-08 01:18:33Z [How to work on a multirepo setup for golang projects](../1125)
 * 2025-09-07 16:16:58Z [Opinionated way to build cli programs with GO](../1121)
 * 2025-09-07 15:53:06Z [MCP Fileystem (mcp-filesystem)](../1122)
@@ -83,7 +85,6 @@
 * 2025-08-02 14:14:14Z [Programming languae rust (rust)](../1088)
 * 2025-08-02 14:14:09Z [Programming language node (node)](../1087)
 * 2025-08-02 14:10:55Z [Programming language deno (deno)](../1086)
-* 2025-08-02 14:08:18Z [Golang setup](../1083)
 * 2025-08-02 14:04:23Z [Golang development loop with multi repos](../126)
 * 2025-07-30 15:08:33Z [Event: Flash project showoff - tentative summer 2025](../1078)
 * 2025-07-29 15:55:50Z [Project ideas](../438)

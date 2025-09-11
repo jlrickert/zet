@@ -1047,7 +1047,7 @@
 1080	2025-07-26 20:01:31Z	Trick: Alt pipelines in bash
 1081	2025-07-28 14:33:54Z	Patch: serving password protected static websites on my homelab
 1082	2025-07-26 20:42:26Z	Choice of cli framework in go 2025
-1083	2025-08-02 14:08:18Z	Golang setup
+1083	2025-09-11 16:58:06Z	Golang setup
 1084	2025-07-28 04:59:40Z	Node installation
 1085	2025-08-04 14:14:48Z	Programming language Go (golang)
 1086	2025-08-02 14:10:55Z	Programming language deno (deno)
@@ -1090,3 +1090,4 @@
 1123	2025-09-06 15:56:08Z	Opinionated config management with golang examples
 1124	2025-09-07 15:51:53Z	Opinionated error handling strategy in Go
 1125	2025-09-08 01:18:33Z	How to work on a multirepo setup for golang projects
+1126	2025-09-08 16:08:39Z	Opinionated way to handle logging with golang
