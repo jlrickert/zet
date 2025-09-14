@@ -1,6 +1,6 @@
 # MCP servers (mcp)
 
-Standardised way for AI to access things.
+Standardized way for AI to access things.
 
 For using remote mcp servers see [mcp-remote].
 

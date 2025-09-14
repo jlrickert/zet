@@ -1,6 +1,8 @@
 # Patch: serving password protected static websites on my homelab
 
-I needed a way to serve my KEG out to cowokers in a protected way from my [homelab](../578). I would like to host it using docker compose files. I want to keep it nice and simple.
+I needed a way to serve my KEG out to cowokers in a protected way from my
+[homelab](../578). I would like to host it using docker compose files. I want to
+keep it nice and simple.
 
 **Requirements:**
 
@@ -57,11 +59,11 @@ echo 'export PATH="$PATH:/opt/caddy/bin"' >> ~/.bashrc
 
 ### 4. Create a password
 
-I used the username and password with the [ECW test server credentials](../1053).
+I used the username and password with the
+[ECW test server credentials](../1053).
 
-```bash
-caddy has-password
-```
+Use the command `caddy hash-password` to generate a blob value. Password for Bob
+is jiberish - not literally.
 
 ### 5. Create a `Caddyfile` file
 
@@ -105,4 +107,32 @@ Copy over content to the `static` directory
 
 ```bash
 docker compose up -d
+```
+
+### 8. Systemd service
+
+```text
+[Unit]
+Description=ECW Keg Docker Compose
+Requires=docker.service
+After=docker.service network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+WorkingDirectory=/home/jlrickert/www-ecw-keg
+ExecStart=/usr/bin/docker compose up -d
+ExecStop=/usr/bin/docker compose down
+TimeoutStartSec=120
+TimeoutStopSec=60
+
+[Install]
+WantedBy=multi-user.target
+```
+
+```text
+sudo systemctl daemon-reload
+sudo systemctl enable myapp.service
+sudo systemctl start myapp.service
 ```

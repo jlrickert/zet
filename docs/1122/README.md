@@ -1,6 +1,6 @@
-# MCP Fileystem (mcp-filesystem)
+# Project: MCP Fileystem (filesystem-mcp-server)
 
-A golang project to give AI access to the filesystem.
+A [golang](../1085) project to give AI access to the file system.
 
 Coding strategies used:
 
@@ -12,4 +12,6 @@ Coding strategies used:
 
 References
 
-- [Example](https://github.com/mark3labs/mcp-filesystem-server)
+- [Example][example]
+
+[example]: https://github.com/mark3labs/mcp-filesystem-server
