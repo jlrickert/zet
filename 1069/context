@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+kcat-yaml "
+date: $(date)
+"
+
+zet pub cat "$(zet pub tags baking | awk '{printf "%s ", $1}')"
