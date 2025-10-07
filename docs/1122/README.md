@@ -12,6 +12,6 @@ Coding strategies used:
 
 References
 
-- [Example][example]
+- [Example][mcp-example]
 
-[example]: https://github.com/mark3labs/mcp-filesystem-server
+[mcp-example]: https://github.com/mark3labs/mcp-filesystem-server

@@ -27,18 +27,19 @@ EOF
 
 ## Claude desktop application
 
-Config is located at `~/Library/Application Support/Claude/claude_desktop_config.json`
+Config is located at
+`~/Library/Application Support/Claude/claude_desktop_config.json`
 
 ```json
 {
-  "mcpServers": {
-    "github": {
-      "command": "github-mcp-server",
-      "args": ["stdio", "--read-only"],
-      "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "github_pat_xxxxyyyyzzzz"
-      }
-    }
-  }
+	"mcpServers": {
+		"github": {
+			"command": "github-mcp-server",
+			"args": ["stdio", "--read-only"],
+			"env": {
+				"GITHUB_PERSONAL_ACCESS_TOKEN": "github_pat_xxxxyyyyzzzz"
+			}
+		}
+	}
 }
 ```

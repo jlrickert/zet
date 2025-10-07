@@ -4,7 +4,8 @@ Fitness center
 
 ## Pickle ball Schedule
 
-Williston Fitness Center offers drop-in [pickleball](../994) October through May. Please bring your own paddle. [Pickleball](../994) balls are provided.
+Williston Fitness Center offers drop-in [pickleball](../994) October through
+May. Please bring your own paddle. [Pickleball](../994) balls are provided.
 
 **Cost:**
 
@@ -34,18 +35,26 @@ Williston Fitness Center offers drop-in [pickleball](../994) October through May
 
 ### Features
 
-- **Pickleball:** Yes, the facility offers pickleball courts for members and guests.
-- **Fitness Facilities:** Includes a variety of workout equipment, such as cardio machines, weightlifting equipment, and more.
-- **Swimming Pool:** An indoor pool available for lap swimming, lessons, and recreational use.
-- **Group Classes:** Offers a range of fitness classes, including yoga, pilates, spinning, and more.
-- **Childcare:** On-site childcare services available for members while they use the facilities.
-- **Tennis Courts:** Indoor and outdoor tennis courts for lessons and recreational play.
+- **Pickleball:** Yes, the facility offers pickleball courts for members and
+  guests.
+- **Fitness Facilities:** Includes a variety of workout equipment, such as
+  cardio machines, weightlifting equipment, and more.
+- **Swimming Pool:** An indoor pool available for lap swimming, lessons, and
+  recreational use.
+- **Group Classes:** Offers a range of fitness classes, including yoga, pilates,
+  spinning, and more.
+- **Childcare:** On-site childcare services available for members while they use
+  the facilities.
+- **Tennis Courts:** Indoor and outdoor tennis courts for lessons and
+  recreational play.
 - **Basketball Courts:** Available for pick-up games and organized leagues.
 
 ### Membership
 
-- **Types:** Various membership options are available, including individual, family, and senior memberships.
-- **Benefits:** Membership typically includes access to all facilities, group classes, and discounts on special programs.
+- **Types:** Various membership options are available, including individual,
+  family, and senior memberships.
+- **Benefits:** Membership typically includes access to all facilities, group
+  classes, and discounts on special programs.
 
 ### Additional Amenities
 

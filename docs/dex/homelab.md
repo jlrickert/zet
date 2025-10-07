@@ -7,6 +7,7 @@
 - [Patch: homelab email admin@jlrickert.me](../1113)
 - [[x] Issue: EOL for 25.1 Opnsense](../1116)
 - [Patch: Add logging with Grafana Loki - 2025-09-14](../1128)
+- [Patch: Add Home Assistant - homelab](../1129)
 - [FreeBSD for homelab exploration](../562)
 - [Hardware: Think Server 140 (ts140)](../563)
 - [Project: Current Homelab (homelab)](../578)

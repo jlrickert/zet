@@ -7,3 +7,7 @@
 - [NE Spyhouse Coffee](../598)
 
   Have a large central table
+
+- [Up Coffee](../998)
+
+  Large table. WiFi is ok. Most of the time the large table is available
