@@ -1,6 +1,7 @@
 # App: Tiling window management on macOSX with Yabai
 
-[Yabai](../103) is the tiling window manager that I use on my [mac](../583). Works with [skhd].
+[Yabai](../103) is the tiling window manager that I use on my [mac](../583).
+Works with [skhd].
 
 See [docs] for how to install
 
@@ -24,7 +25,7 @@ skhd --start-service
 # stop service
 skhd --stop-service
 # restart
-skhd --stop-service && skhd --start-service
+skhd --restart-service
 ```
 
 ```bash
@@ -33,22 +34,25 @@ yabai --start-service
 # stop service
 yabai --stop-service
 # restart
-yabai --stop-service && yabai --start-service
+yabai --restart-service
 ```
 
-For hacking on configs. This is actually unnecessary for skhd as restarting is build right into the service. I am keeping it here for reference.
+For hacking on configs. This is actually unnecessary for skhd as restarting is
+build right into the service. I am keeping it here for reference.
 
 ```bash
-ls .skhdrc  | entr -s 'skhd --stop-service && skhd --start-service'
-ls .yabirc  | entr -s 'yabai --stop-service && yabai --start-service'
+ls .skhdrc  | entr -s 'skhd --restart-service'
+ls .yabirc  | entr -s 'yabai --restart-service'
 ```
 
 ## Upgrading
 
 Frequently after updating yabai will break. Follow the steps below:
 
-- Edit `/private/etc/sudoers.d/yabai` to update the hash. `echo "jlrickert ALL=(root) NOPASSWD: sha256:$(shasum -a 256 $(which yabai) | cut -d " " -f 1) $(which yabai) --load-sa"` will create the line needed. Typically, I will comment out the previous line.
-- Restart with `yabai --stop-service && yabai --start-service`
+- Edit `/private/etc/sudoers.d/yabai` to update the hash.
+  `echo "jlrickert ALL=(root) NOPASSWD: sha256:$(shasum -a 256 $(which yabai) | cut -d " " -f 1) $(which yabai) --load-sa"`
+  will create the line needed. Typically, I will comment out the previous line.
+- Restart with `yabai --restart-service`
 
 References:
 

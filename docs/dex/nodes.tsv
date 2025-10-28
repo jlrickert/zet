@@ -96,7 +96,7 @@
 100	2024-03-27 16:14:01Z	Install flutter on macOSX with apple silicon
 101	2024-04-22 18:01:49Z	Installing software with curl
 102	2024-07-28 05:27:58Z	Using a temporary directory that require installing transient scripts
-103	2025-03-17 14:22:35Z	App: Tiling window management on macOSX with Yabai
+103	2025-10-10 14:18:52Z	App: Tiling window management on macOSX with Yabai
 104	2024-07-28 01:52:52Z	Overview: MacOSX tools and software
 105	2024-07-28 05:28:49Z	Concrete 5
 106	2024-07-28 05:29:44Z	How to install lando on MacOS
@@ -428,7 +428,7 @@
 453	2023-12-22 23:01:48Z	How to implement "cook mode" on a website
 454	2023-12-23 20:07:29Z	Karble cheat sheet
 455	2023-12-25 16:28:29Z	Dill Pickle Tortilla Roll Up recipe
-456	2023-12-28 21:56:17Z	Bundling and compiling typescript files
+456	2025-10-11 17:01:09Z	Bundling and compiling typescript files
 457	2024-08-25 19:13:19Z	Sourdough batard
 458	2023-12-30 23:41:04Z	How to shape a batard
 459	2023-12-30 17:16:12Z	How to make good sourdough bread
@@ -553,7 +553,7 @@
 579	2024-07-24 19:16:41Z	Hardware: Netgear R7000 router
 580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
 581	2024-07-20 14:16:24Z	Hardware: Custom built PC Trooper (trooper)
-582	2024-06-09 17:54:23Z	Private IPv4 ranges
+582	2025-10-23 15:40:10Z	Private IPv4 ranges
 583	2024-07-14 18:16:23Z	Hardware: My M2 Macbook Pro
 584	2024-08-05 15:22:34Z	Time log: Homelab
 585	2024-10-09 13:55:27Z	FreeBSD networking overview
@@ -578,7 +578,7 @@
 604	2024-06-28 14:18:21Z	Overview of navicat
 605	2024-06-30 17:25:50Z	Research: docker setup for multiple php websites
 606	2024-07-01 20:24:27Z	Overview: backing up Unix systems
-607	2024-07-31 14:29:04Z	Common network ranges used in private networks
+607	2025-10-25 16:45:28Z	Common network ranges used in private networks
 608	2024-07-28 16:13:11Z	Baking: Experimental whole wheat focaccia
 609	2025-01-26 16:36:41Z	Project: Knutjs (knutjs)
 610	2024-07-14 20:34:25Z	[x] Homelab Task | setup a vpn
@@ -597,7 +597,7 @@
 623	2024-07-11 14:21:26Z	Overview: Zettelkasten definition
 624	2024-06-30 21:26:52Z	Information normalization in note taking
 625	2025-05-16 17:12:00Z	Project: dotfiles (dotfiles)
-626	2024-08-05 15:15:54Z	Current Homelab topology
+626	2025-10-24 23:04:28Z	Current Homelab topology
 627	2024-06-30 22:16:00Z	Person: VTuber Mischa van den Burg
 628	2025-08-14 21:21:06Z	Streamer: rwxrob
 629	2024-07-14 20:53:29Z	[x] Homelab Task | setup pfSense on ts140
@@ -726,7 +726,7 @@
 753	2024-07-29 01:53:12Z	Hardware: 42" Flexispot corner raiser
 754	2024-07-28 21:49:50Z	Place: Polish Palace
 755	2024-07-28 21:51:51Z	Place: Sue falls
-756	2024-07-29 13:39:40Z	Hardware: My hands
+756	2025-10-11 01:29:12Z	Hardware: My hands
 757	2024-07-30 03:00:17Z	React performance trick by using batching
 758	2024-07-30 20:37:00Z	Blog with good tips about react performance
 759	2024-07-30 13:51:54Z	Versioned database migration strategies
@@ -845,7 +845,7 @@
 875	2025-10-06 15:14:07Z	Migrating Virtualbox VM to Proxmox
 876	2024-11-09 16:50:58Z	IPv6 Certification
 877	2025-06-02 19:25:05Z	Using TrueNAS NFS for Proxmox images
-878	2024-11-09 19:43:48Z	Setting up DNS with Unbound with DHCP DNS registration on OPNsense
+878	2025-10-24 23:04:35Z	
 879	2024-11-09 19:35:14Z	Tech GODS list
 880	2025-07-26 20:01:39Z	Setting up DHCP on OPNSense (2024-11-09)
 881	2024-11-09 20:39:41Z	Most efficient transpiler see go tool chain
@@ -943,7 +943,7 @@
 974	2025-03-22 15:56:15Z	East coast swing (ecs)
 975	2025-03-22 15:57:01Z	Lindy hop (lindy)
 976	2025-03-22 16:16:44Z	Studio: Onereason dance studio
-977	2025-03-22 16:14:15Z	Salsa (salsa)
+977	2025-10-16 01:18:42Z	Salsa (salsa)
 978	2025-03-22 17:37:49Z	Bachata (bachata)
 979	2025-05-13 21:45:33Z	Jive (jive)
 980	2025-03-22 17:17:35Z	Studio: Minneapolis salsa and bachata (msbd)
@@ -994,7 +994,7 @@
 1026	2025-05-29 14:01:54Z	Article: Really cool terminal web site
 1027	2025-06-04 23:21:09Z	Resources to figure out what protest are happening in Minnesota
 1028	2025-06-03 21:58:04Z	Facebook (facebook)
-1029	2025-06-05 04:07:21Z	Hardware: Beelink SEi 9
+1029	2025-10-24 23:04:31Z	Hardware: Beelink SEi 9
 1030	2025-06-04 23:22:11Z	Patch: Installing proxmox on Beelink SEi 9
 1031	2025-06-09 01:41:29Z	Patch: Reconfiguring zsh for my dotfiles
 1032	2025-06-09 04:05:36Z	Copy and paste support on remote systems
@@ -1102,3 +1102,7 @@
 1135	2025-10-03 19:58:47Z	Place: Evergreen park
 1136	2025-10-06 15:07:35Z	My history of public IP addresses
 1137	2025-10-07 21:40:57Z	Modern jive circle
+1138	2025-10-17 21:08:27Z	Article: Number 1 use case for GPT according to Harvard
+1139	2025-10-21 21:22:28Z	iMessage public key
+1140	2025-10-25 16:44:45Z	Home assistant research
+1141	2025-10-25 16:44:48Z	Home Assistant smart home (home-assistant)
