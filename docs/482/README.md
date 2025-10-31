@@ -1,4 +1,4 @@
-# Baking: Sourdough bread batard February 02 2024
+# Bake: Sourdough bread batard February 02 2024
 
 Single day bread bake
 

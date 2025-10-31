@@ -1,4 +1,4 @@
-# Baking: Experimental whole wheat focaccia
+# Bake: Experimental whole wheat focaccia
 
 ![focaccia](./whole-wheat-focaccia.jpg)
 

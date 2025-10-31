@@ -1,6 +1,7 @@
-# Baking: Fourth of July Pizza dough
+# Bake: Fourth of July Pizza dough
 
-Large batch of pizza dough for the fourth of July to the [lake lot](keg:private/1084).
+Large batch of pizza dough for the fourth of July to the
+[lake lot](keg:private/1084).
 
 ## Ingredients
 
@@ -28,7 +29,9 @@ Old batch was better
 
 180 grams makes like a 10 inch pizza.
 
-What seemed to work was getting the stone between 750f and 800f and baking for like 1 minute before rotating 90 degrees. Rotate 90 every minute depending on how thick the crust is.
+What seemed to work was getting the stone between 750f and 800f and baking for
+like 1 minute before rotating 90 degrees. Rotate 90 every minute depending on
+how thick the crust is.
 
 ## See also
 
