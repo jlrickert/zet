@@ -1,3 +1,4 @@
+- 2025-10-31 [Bake: Halloween Sourdough Loaf](../1142)
 - 2025-07-25 [Bake: Pearled Barley Sourdough Loaf with Lower Hydration](../1068)
 - 2025-07-05 [Bake: 4th of July 2025 sourdough bread bowl](../1038)
 - 2025-04-10 [Bake: Potluck pretzel bites](../993)
