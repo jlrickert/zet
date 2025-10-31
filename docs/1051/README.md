@@ -8,7 +8,8 @@ My PHP related things to [Neovim](../625).
 
 ## [Formatter](../1037) setup
 
-Currently, I am using `pretty-php`. `pretty-php` config snippet. [Defaults][pretty-php defaults] found on GitHub.
+Currently, I am using `pretty-php`. `pretty-php` config snippet.
+[Defaults][pretty-php defaults] found on GitHub.
 
 ```lua
 local confg = {
@@ -42,3 +43,10 @@ local confg = {
 ## [Language Server Protocol (LSP)](../1052)
 
 - `intelephense`
+
+## PHPActor setup
+
+Install `phpactor` bin to `~/.local/bin/phpactor`. Follow the
+[manual][manual-phpactor] installation on there website.
+
+[manual-phpactor]: <https://phpactor.readthedocs.io/en/master/usage/standalone.html#manual-installation>

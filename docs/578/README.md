@@ -10,7 +10,8 @@ For an overview of how I have the networks setup see [Network topology](../626).
 
 - [Think Server 140](../563) | ts140.int.jlrickert.me
 
-  This is my [TrueNas](../676) server. This supplies the storage to the [proxmox](../635) server.
+  This is my [TrueNas](../676) server. This supplies the storage to the
+  [proxmox](../635) server.
 
 - [TP-Link BE550](../685) | be550.int.jlrickert.me
 
@@ -54,8 +55,10 @@ For an overview of how I have the networks setup see [Network topology](../626).
 
 ## Example home labs
 
-- [rwxrobs](../628) [homelab](https://app.excalidraw.com/l/6rjSvoGlOkc/1njNB1sKmj8)
-- [Mischa van den Burg](../627) [homelab](https://github.com/mischavandenburg/homelab)
+- [rwxrobs](../628)
+  [homelab](https://app.excalidraw.com/l/6rjSvoGlOkc/1njNB1sKmj8)
+- [Mischa van den Burg](../627)
+  [homelab](https://github.com/mischavandenburg/homelab)
 
 ## See also
 

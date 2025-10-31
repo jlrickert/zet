@@ -1,6 +1,8 @@
 # Bake: Pearled Barley Sourdough Loaf with Lower Hydration
 
-[Baked](../292) today with a modification to the [White sourdough batard with purple Barley pearls](../985) by lowering the hydration to improve dough handling and crumb structure.
+[Baked](../292) today with a modification to the
+[White sourdough batard with purple Barley pearls](../985) by lowering the
+hydration to improve dough handling and crumb structure.
 
 ![loaf of sourdough](./loaf.jpg)
 
@@ -18,13 +20,15 @@ Total weight is approximately 908g.
 
 ## Key events
 
-- 2024-11-01 09:00 Fed starter
+- 2025-07-24 09:00 Fed starter
 - 2025-07-24 13:10 [Autolyse Flour](../911)
-- 2026-07-24 15:18 Mixed ingredients
+- 2025-07-24 15:18 Mixed ingredients
 - 2025-07-24 11:00 Shaped and placed in the fridge
 - 2025-07-25 12:27 Placed in the [oven](../912)
 
-  Baked with usual [trick](../913) with the [Dutch Oven](../1070) and [Cast iron frying pan](../1071). 500f for 21 minutes with lid on, 16 minutes with lid off at 450f.
+  Baked with usual [trick](../913) with the [Dutch Oven](../1070) and
+  [Cast iron frying pan](../1071). 500f for 21 minutes with lid on, 16 minutes
+  with lid off at 450f.
 
 ## Retrospect
 

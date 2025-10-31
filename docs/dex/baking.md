@@ -1,3 +1,5 @@
+- 2025-07-25 [Bake: Pearled Barley Sourdough Loaf with Lower Hydration](../1068)
+- 2025-07-05 [Bake: 4th of July 2025 sourdough bread bowl](../1038)
 - 2025-04-10 [Bake: Potluck pretzel bites](../993)
 - 2025-03-25 [Bake: White sourdough batard with purple Barley pearls](../985)
 - 2025-02-20 [Bake: 80/20 sourdough loaf](../962)

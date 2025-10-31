@@ -218,7 +218,7 @@
 231	2023-09-07 02:26:52Z	Problem solution sets
 232	2024-07-12 20:21:57Z	PCI-DSS compliance
 233	2023-09-07 02:26:52Z	What is Multi-Factor authentication
-235	2025-08-14 04:57:07Z	Categorization of numbers
+235	2025-10-31 19:17:41Z	Categorization of numbers
 236	2024-06-11 21:09:04Z	Accordion plugins for WordPress
 237	2023-09-07 02:26:52Z	COC Categorization
 238	2023-09-07 02:26:52Z	Wooden ship brewing
@@ -275,7 +275,7 @@
 289	2023-11-13 17:30:24Z	Research for tendonitis issue
 290	2024-10-24 13:26:50Z	Hardware: Kineses Advantage 360
 291	2023-09-07 02:26:52Z	Linux desktop comparison
-292	2024-07-24 18:45:21Z	Overview: Baking (baking)
+292	2025-10-31 19:18:43Z	Overview: Baking (baking)
 293	2025-07-07 17:13:37Z	Labor day weekend bread bowl
 294	2024-01-27 20:36:04Z	Sourdough somewhat whole wheat pizza for the ooni
 295	2024-01-27 20:36:59Z	Pizza night at the cabin pizza dough
@@ -549,7 +549,7 @@
 575	2024-06-08 16:08:06Z	File system recommendation for FreeBSD
 576	2024-06-08 16:19:05Z	VirtualBox on apple silicon
 577	2024-06-08 16:19:09Z	Converting a VirtualBox VDI to a QEMU on MacOSX
-578	2025-07-20 17:08:30Z	Project: Current Homelab (homelab)
+578	2025-10-30 14:57:23Z	Project: Current Homelab (homelab)
 579	2024-07-24 19:16:41Z	Hardware: Netgear R7000 router
 580	2024-06-09 16:10:11Z	Think Server T140 hardware dump
 581	2024-07-20 14:16:24Z	Hardware: Custom built PC Trooper (trooper)
@@ -611,7 +611,7 @@
 637	2024-07-08 04:51:57Z	Place: Taste of India St Louis Park
 638	2024-07-02 20:51:57Z	Place: St Louis Park, MN
 639	2024-07-18 04:59:51Z	Research: 2024 WiFi upgrade
-640	2024-12-15 22:08:08Z	Bake: Fourth of July focaccia
+640	2025-10-31 19:23:07Z	Bake: Fourth of July focaccia
 641	2024-07-04 15:24:26Z	Ingredient: Turkey red wheat berries
 642	2025-02-22 19:10:16Z	Ingredient: King Arthur's bread flour 12.7%
 643	2024-07-04 17:53:31Z	Overview: Unix style search and replace utilities
@@ -759,7 +759,7 @@
 786	2024-08-03 20:51:06Z	Issue: Proxmox inaccessible
 787	2024-11-09 16:56:21Z	[x] Homelab Task: Road Warrior WireGuard VPN setup on OPNSense
 791	2024-08-04 22:46:52Z	Recommendations for good sleep
-792	2024-08-05 19:41:14Z	Bake: Simple half and half focaccia
+792	2025-10-31 19:22:32Z	Bake: Simple half and half focaccia
 793	2024-08-05 01:38:11Z	Task: Setup OPNsense backups on google drive
 794	2024-08-05 15:01:18Z	[ ] Homelab Task: Updating CloudFlare based email forwarding
 795	2024-11-04 14:08:27Z	[x] Homelab Task: Assign IP address to PHP VM's
@@ -784,7 +784,7 @@
 814	2024-08-24 19:36:05Z	Software: changeset
 815	2024-08-25 04:00:30Z	Person: Twitch streamer BlaiseBits
 816	2024-08-25 04:00:20Z	Trick to display iPad on a windows machine
-817	2025-02-22 16:42:27Z	Bake: Simple 50/50 sourdough Batard
+817	2025-10-31 19:21:56Z	Bake: Simple 50/50 sourdough Batard
 818	2024-08-25 19:13:48Z	Company: Hamilton Beach
 819	2024-08-25 19:14:48Z	Company: Walmart
 820	2024-10-20 16:58:47Z	Article: The perfect loafs best sourdough pancakes
@@ -794,7 +794,7 @@
 824	2024-09-16 13:44:12Z	The War Within season 1 timeline
 825	2024-08-29 02:48:55Z	The War Within dungeons
 826	2024-08-29 15:34:45Z	Trick: pulling in a commit from upstream with git
-827	2024-12-17 01:57:43Z	Bake: Labor day 2024 bread bowl
+827	2025-10-31 19:23:02Z	Bake: Labor day 2024 bread bowl
 828	2024-09-05 14:54:58Z	Trick: custom select menus in the browser
 829	2024-09-12 12:03:02Z	WOW The War Within expansion
 830	2024-09-12 12:00:48Z	Game: World of Warcraft (WOW)
@@ -829,13 +829,13 @@
 859	2024-10-21 13:21:39Z	Hardware: Altra lone peak 8
 860	2024-10-28 17:23:22Z	Hash house harriers (m3h)
 861	2024-10-21 17:46:30Z	Embedding data within go binaries
-862	2024-11-03 17:26:31Z	Bake: Whole wheat 50/50 sourdough batard
+862	2025-10-31 19:21:39Z	Bake: Whole wheat 50/50 sourdough batard
 863	2024-11-12 02:51:54Z	Person: het_tanis
 864	2024-10-23 20:39:36Z	Person: Adrian Cantril
 865	2024-10-23 20:39:40Z	Bonzai/hashicorp based completions in zsh
 866	2025-03-22 16:13:51Z	Group: Hazy Rhythms dance
 867	2024-10-28 16:01:02Z	Recipe: Thai inspired chili
-868	2024-11-03 17:26:25Z	Bake: large 80/20 sourdough bowl
+868	2025-10-31 19:22:54Z	Bake: large 80/20 sourdough bowl
 869	2024-11-01 03:56:45Z	Possibly solution to dynamic autocompletes in oclif
 870	2024-11-03 18:41:18Z	Bake: Generic weekend sourdough
 871	2024-11-07 15:16:32Z	Connecting to Truenas storage volumes with NFS on my MacOS
@@ -863,7 +863,7 @@
 894	2024-11-20 21:18:34Z	Experimenting with AI context windows on LocalAI and OpenAI
 895	2024-11-16 20:31:35Z	Creating a time machine backup on TrueNAS
 896	2024-11-17 17:17:37Z	Article: code signing deno applications
-897	2024-11-17 17:06:59Z	Bake: Generic weekend sourdough ~batard~ focaccia
+897	2025-10-31 19:20:54Z	Bake: Generic weekend sourdough ~batard~ focaccia
 898	2024-11-20 15:17:38Z	Skill stack log dumps
 899	2024-11-17 18:24:55Z	EDU: Skill stack beginner boost (skillstack)
 900	2024-11-19 21:58:09Z	Using environment variables to populate YAML configurations
@@ -876,7 +876,7 @@
 907	2024-12-05 15:27:39Z	Project: `claude` stateful command line tree program (claude-cli)
 908	2024-12-05 15:27:11Z	Issue: LSP may expose sensitive contents
 909	2024-12-19 15:46:33Z	Prompt: converting tables in word documents to markdown tables
-910	2024-12-17 19:12:59Z	Bake: More Rye-Based Sourdough Loaf
+910	2025-10-31 19:21:50Z	Bake: More Rye-Based Sourdough Loaf
 911	2024-12-17 00:09:50Z	Autolyse Flour
 912	2024-12-17 01:55:22Z	Hardware: Harrison gas stove
 913	2025-07-25 18:12:34Z	Dutch Oven and Cast Iron Skillet Method for baking bread
@@ -904,7 +904,7 @@
 935	2025-01-21 18:25:03Z	Prompt: Creating git comments
 936	2025-04-21 21:15:55Z	Prompt: Instructions for commenting code
 937	2025-02-28 02:30:47Z	Article: UnderCurrent MPLS show list
-938	2025-01-31 03:18:32Z	Bake: 50/50 Wheat Sourdough Loaf
+938	2025-10-31 19:22:47Z	Bake: 50/50 Wheat Sourdough Loaf
 939	2025-01-28 15:17:12Z	Bands local to Minneapolis
 940	2025-01-28 15:17:19Z	Local band The TH3
 941	2025-01-28 01:18:40Z	The style of music called Funk
@@ -924,7 +924,7 @@
 955	2025-02-05 17:34:27Z	Kleisli's in PHP
 956	2025-02-16 21:51:36Z	Musk rats and DOGE take over
 957	2025-02-08 17:42:47Z	Place: Bar Zia
-958	2025-02-19 17:05:50Z	Bake: 50/50 Sourdough Loaf
+958	2025-10-31 19:23:21Z	Bake: 50/50 Sourdough Loaf
 959	2025-02-16 21:51:44Z	Article: Website that compares different new providers
 960	2025-02-19 15:09:56Z	Game: Incremental epic hero 2 (ieh2)
 961	2025-02-19 05:20:05Z	Warrior stat spread for IEH2
@@ -962,7 +962,7 @@
 994	2025-04-09 19:08:05Z	Activity: Pickleball (pickleball)
 995	2025-04-10 16:32:11Z	Rust based static site generator Zola
 996	2025-04-10 16:31:49Z	Template engine Tera
-997	2025-08-06 22:31:24Z	LLM modal comparison for use with mods (2025-04-17)
+997	2025-10-30 17:14:40Z	LLM model comparison for use with mods (2025-04-17)
 998	2025-09-24 15:34:07Z	Place: Up Coffee
 999	2025-05-03 16:56:17Z	Guitar frequency spectrum
 1000	2025-05-01 14:04:44Z	Hardware: Gretsch G1617 Synchromatic guitar
@@ -1003,7 +1003,7 @@
 1035	2025-07-08 20:34:18Z	rwxrob's current hardware sizes for his homelab
 1036	2025-06-28 22:14:47Z	Managing disk space on unix
 1037	2025-07-15 21:16:24Z	Formating for neovim
-1038	2025-07-07 17:13:41Z	Bake: 4th of July 2025 sourdough bread bowl
+1038	2025-10-31 19:21:29Z	Bake: 4th of July 2025 sourdough bread bowl
 1039	2025-07-10 18:55:48Z	Installing JavaScript minifier uglify with deno
 1040	2025-07-10 18:55:37Z	Installing CSS compressor csso with deno
 1041	2025-07-20 16:39:55Z	Creating an [Ubuntu Server](../670) template my [Homelab](../578)
@@ -1016,7 +1016,7 @@
 1048	2025-07-12 16:30:20Z	Package manager UV for python
 1049	2025-07-25 20:35:40Z	Software: frizbee fuzzy matcher
 1050	2025-09-03 21:36:21Z	Prose linting on neovim with vale
-1051	2025-07-16 14:48:10Z	PHP setup for Neovim
+1051	2025-10-29 15:58:55Z	PHP setup for Neovim
 1052	2025-09-03 21:02:40Z	LSP setup on Neovim
 1053	2025-10-07 21:32:40Z	Modern jive dance moves
 1054	2025-07-16 18:48:38Z	Place: FRGMNT Coffee Eden Prairie
@@ -1032,7 +1032,7 @@
 1064	2025-07-22 22:26:42Z	Cloud init first experience on my homelab
 1065	2025-07-20 17:09:11Z	Cloud init (cloud-init)
 1066	2025-07-22 20:51:59Z	Example search output for my KEG
-1068	2025-07-28 21:37:32Z	Bake: Pearled Barley Sourdough Loaf with Lower Hydration
+1068	2025-10-31 19:20:41Z	Bake: Pearled Barley Sourdough Loaf with Lower Hydration
 1069	2025-07-24 20:18:03Z	Sourdough baking (sourdough)
 1070	2025-07-25 17:31:28Z	Hardware: Lodge dutch oven
 1071	2025-07-25 17:31:30Z	Hardware: Lodge 12 cast iron skillet
